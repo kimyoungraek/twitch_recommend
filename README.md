@@ -1,20 +1,22 @@
-# 🎮 지금 인기 트위치 스트리머 Top 5
+# :큰_보라색_원: 실시간 트위치 시청자수 Top 5
 
-**1.** ![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_yeo_ul-160x90.jpg)
-[⚫ [𝗵𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁] ❤️Subathon for Bikini Stream👙💦 𝗧𝘆𝗽𝗲👉🏻!𝗕𝗶𝗸𝗶𝗻𝗶 !𝗬𝘁 !𝗧𝘁 !𝗫 !𝗶𝗴 !𝗱𝗰❤️ @yeo_ul](https://twitch.tv/yeo_ul) by yeo_ul (806명 시청) - Just Chatting
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
+**[🟨LOSING MY MIND🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>54,340명 시청  - Poly Bridge 3
 
-**2.** ![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_niconing-160x90.jpg)
-[[Replay/VOD/重播] Pretty Nico 🤍 !toonation !discord 🤍 💗](https://twitch.tv/niconing) by niconing (109명 시청) - Just Chatting
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
+**[[217/365] 🚨 99-0 vs XQC IN CLASH 🚨](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>52,205명 시청  - Clash Royale
 
-**3.** ![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ojh020127-160x90.jpg)
-[rmfla(윗치폼 통판 '갸루 가정교사')](https://twitch.tv/우주미아_) by 우주미아_ (45명 시청) - Art
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
+**[👥LIVE👥CLICK👥DRAMA👥NEWS👥STUFF👥GAMES👥1V1 WITH JYNXI (REAL👥)IDK👥IEJWFRHWIHEFHE👥FIKJEWRHIFH](https://twitch.tv/xQc)** by **xQc**<br>44,363명 시청  - Clash Royale
 
-**4.** ![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_dookongc-160x90.jpg)
-[[ENG/KR] Almost dying 😂](https://twitch.tv/정두콩) by 정두콩 (23명 시청) - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_agent00-320x180.jpg)](https://twitch.tv/Agent00)
+**[ELDEN RING MARATHON W/ EMILY + CANNOT END UNTIL WE WIN + DAY 1](https://twitch.tv/Agent00)** by **Agent00**<br>38,964명 시청  - ELDEN RING
 
-**5.** ![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_pigtv_2-160x90.jpg)
-[★24시간 족보 ★ #발리폭스 #돼지네#족보 #발리 #폭스 #단비 #까비 #얏비 #단까얏 #놈놈놈 #한라백두 #도도족보 #꽃자매 #족보철이#리치#벽치기#바카라#홀덤#](https://twitch.tv/폭스발리돼지네) by 폭스발리돼지네 (22명 시청) - Lineage: The Blood Pledge
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_extraemily-320x180.jpg)](https://twitch.tv/ExtraEmily)
+**[ELDEN RING MARATHON W/ @AGENT00 ⭐ DAY 1 ⭐ NOT ENDING STREAM UNTIL WE BEAT THE GAME ⭐ GAMING, IRL'ING AND YAPPING:) ⭐ - !po !socials](https://twitch.tv/ExtraEmily)** by **ExtraEmily**<br>37,438명 시청  - ELDEN RING
 
-⏰ 마지막 업데이트: 2025-08-06 03:10 UTC
+
+---
+:모래가_내려오고_있는_모래시계: 마지막 업데이트: 2025-08-06 03:18 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
