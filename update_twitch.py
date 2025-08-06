@@ -41,11 +41,11 @@ def update_readme(streams):
     from datetime import datetime
     now = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
     with open("README.md", "w", encoding="utf-8") as f:
-        f.write("# :큰_보라색_원: 실시간 트위치 시청자수 Top 5\n\n")
+        f.write("# : 실시간 트위치 시청자수 Top 5\n\n")
         for i, stream in enumerate(streams, 1):
             f.write(f"**{i}.** {stream}\n\n")
         f.write(f"\n---\n")
-        f.write(f":모래가_내려오고_있는_모래시계: 마지막 업데이트: {now}\n")
+        f.write(f": 마지막 업데이트: {now}\n")
         f.write("\nPowered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇")
 if __name__ == "__main__":
     streams = get_top_streams(num=5)
