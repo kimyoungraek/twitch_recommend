@@ -1,52 +1,52 @@
 import requests
 import os
-from datetime import datetime
-
 CLIENT_ID = os.getenv("TWITCH_CLIENT_ID")
 CLIENT_SECRET = os.getenv("TWITCH_CLIENT_SECRET")
-
 def get_access_token():
-    """Twitch Access Token 발급"""
     url = "https://id.twitch.tv/oauth2/token"
     params = {
         "client_id": CLIENT_ID,
         "client_secret": CLIENT_SECRET,
         "grant_type": "client_credentials"
     }
-    response = requests.post(url, params=params)
-    response.raise_for_status()
-    return response.json()["access_token"]
-
-def get_top_game_streams(token, num=5, lang="ko"):
-    """게임 카테고리 스트림만 가져오기"""
+    resp = requests.post(url, params=params)
+    return resp.json().get("access_token")
+def get_top_streams(num=5, lang=None):
+    token = get_access_token()
     url = "https://api.twitch.tv/helix/streams"
     headers = {
         "Client-ID": CLIENT_ID,
         "Authorization": f"Bearer {token}"
     }
-    params = {"first": 20, "language": lang}  # 여유 있게 20개 가져와서 게임만 추려냄
-    response = requests.get(url, headers=headers, params=params)
-    response.raise_for_status()
-    data = response.json().get("data", [])
-
+    params = {
+        "first": num
+    }
+    if lang:
+        params["language"] = lang   # 예시: "ko"면 한국어 방송
+    resp = requests.get(url, headers=headers, params=params)
+    streams = resp.json().get("data", [])
     result = []
-    for stream in data:
-        game = stream.get("game_name", "Unknown")
-        if game.lower() == "just chatting":
-            continue  # 게임이 아닌 'Just Chatting' 카테고리 제외
-
+    for stream in streams:
         user = stream["user_name"]
         title = stream["title"]
         viewers = stream["viewer_count"]
-        thumb = stream["thumbnail_url"].replace("{width}", "160").replace("{height}", "90")
+        game = stream.get("game_name", "Unknown")
+        thumb = stream["thumbnail_url"].replace("{width}", "320").replace("{height}", "180")
         link = f"https://twitch.tv/{user}"
-        result.append(f"![thumb]({thumb})\n[{title}]({link}) by {user} ({viewers:,}명 시청) - {game}")
-
-        if len(result) == num:
-            break  # 원하는 개수만큼 추출 후 종료
-
+        # 썸네일과 정보 한 번에 마크다운으로
+        entry = f"[![thumb]({thumb})]({link})\n**[{title}]({link})** by **{user}**<br>{viewers:,}명 시청  - {game}"
+        result.append(entry)
     return result
-
 def update_readme(streams):
+    from datetime import datetime
     now = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
-    content = f
+    with open("README.md", "w", encoding="utf-8") as f:
+        f.write("# :큰_보라색_원: 실시간 트위치 시청자수 Top 5\n\n")
+        for i, stream in enumerate(streams, 1):
+            f.write(f"**{i}.** {stream}\n\n")
+        f.write(f"\n---\n")
+        f.write(f":모래가_내려오고_있는_모래시계: 마지막 업데이트: {now}\n")
+        f.write("\nPowered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇")
+if __name__ == "__main__":
+    streams = get_top_streams(num=5)
+    update_readme(streams)
