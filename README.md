@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_shroud-320x180.jpg)](https://twitch.tv/shroud)
-**[I THInK THEY FIXED THE KEY DROPS YAHOO!!](https://twitch.tv/shroud)** by **shroud**<br>50,815명 시청  - BATTLEFIELD 6
+**[I THInK THEY FIXED THE KEY DROPS YAHOO!!](https://twitch.tv/shroud)** by **shroud**<br>78,941명 시청  - BATTLEFIELD 6
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[220/365] 🏆 HITTING ULTIMATE CHAMPION 🏆](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>48,646명 시청  - Clash Royale
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lacy-320x180.jpg)](https://twitch.tv/Lacy)
+**[💥 LACY & MARLON 24 HOUR STREAM 💥 IMPRACTICAL JOKERS 💥 IQ TEST 💥 LOYALTY TEST 💥 HOT ONES 💥 GETTING HIGH💥 WII SPORTS 💥](https://twitch.tv/Lacy)** by **Lacy**<br>33,013명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
-**[[DROPS ON] BIG DAY HUGE DRAMA BATTLEFIELD BETA BIG NEWS AND GAMES MULTISTREAMING+REACTS | Follow My 24/7 channel @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>47,401명 시청  - BATTLEFIELD 6
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_bocade09zx-320x180.jpg)](https://twitch.tv/bocade09zx)
+**[UBER MALUCO ON BROTA, PELAS RUAS DE SP  - !INSTAGRAM !DISCORD !PIXGG](https://twitch.tv/bocade09zx)** by **bocade09zx**<br>30,590명 시청  - IRL
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lacy-320x180.jpg)](https://twitch.tv/Lacy)
-**[💥 LACY & MARLON 24 HOUR STREAM 💥 IMPRACTICAL JOKERS 💥 IQ TEST 💥 LOYALTY TEST 💥 HOT ONES 💥 GETTING HIGH💥 WII SPORTS 💥](https://twitch.tv/Lacy)** by **Lacy**<br>35,442명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jasontheween-320x180.jpg)](https://twitch.tv/jasontheween)
+**[🔴WE ARE LIVE🔴CHILLIN🔴GAMES + REACTS AFTER?🔴](https://twitch.tv/jasontheween)** by **jasontheween**<br>27,682명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stonemountain64-320x180.jpg)](https://twitch.tv/StoneMountain64)
-**[[DROPS = BETA EARLY ACCESS] Battlefield 6 100% CHALLENGES (Giveaways)](https://twitch.tv/StoneMountain64)** by **StoneMountain64**<br>32,054명 시청  - Battlefield 6
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_extraemily-320x180.jpg)](https://twitch.tv/ExtraEmily)
+**[ELDEN RING MARATHON W/ @AGENT00 ⭐ DAY 4 ⭐ NOT ENDING STREAM UNTIL WE BEAT THE GAME ⭐ GAMING, IRL'ING AND YAPPING:) ⭐ - !po !socials](https://twitch.tv/ExtraEmily)** by **ExtraEmily**<br>25,282명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2025-08-08 23:13 UTC
+: 마지막 업데이트: 2025-08-09 01:06 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
