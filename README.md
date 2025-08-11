@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_rtainjapan-320x180.jpg)](https://twitch.tv/RTAinJapan)
-**[Salt and Sanctuary : RTA in Japan Summer 2025](https://twitch.tv/RTAinJapan)** by **RTAinJapan**<br>56,497명 시청  - Salt and Sanctuary
+**[デジモンワールド : RTA in Japan Summer 2025](https://twitch.tv/RTAinJapan)** by **RTAinJapan**<br>58,841명 시청  - Digimon World
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
-**[RFN本番！](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>22,886명 시청  - Street Fighter 6
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[徐々に調子を上げていく男](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>44,105명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_yaritaiji-320x180.jpg)](https://twitch.tv/たいじ_たいちゃんねる)
-**[最終日RUSTトリオ](https://twitch.tv/たいじ_たいちゃんねる)** by **たいじ_たいちゃんねる**<br>16,963명 시청  - Rust
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
+**[RFN本番！](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>23,302명 시청  - Street Fighter 6
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_yuyuta0702-320x180.jpg)](https://twitch.tv/ゆゆうた押忍)
-**[押忍 盆](https://twitch.tv/ゆゆうた押忍)** by **ゆゆうた押忍**<br>16,783명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_topson-320x180.jpg)](https://twitch.tv/Topson)
+**[Learning dota 2 [week 4]](https://twitch.tv/Topson)** by **Topson**<br>15,400명 시청  - Dota 2
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_agent00-320x180.jpg)](https://twitch.tv/Agent00)
-**[ELDEN RING MARATHON W/ @EXTRAEMILY + DAY 6 | MALENIA DAY!!!| !progress](https://twitch.tv/Agent00)** by **Agent00**<br>14,532명 시청  - I'm Only Sleeping
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_cohhcarnage-320x180.jpg)](https://twitch.tv/CohhCarnage)
+**[Abiotic Factor! (70+ hour run. 50% through the game, !AFThoughts) - Cohh.tv/Coffee (NEW ROAST Aug 14th)! - !Emberville UPDATE! cohzChounce](https://twitch.tv/CohhCarnage)** by **CohhCarnage**<br>15,238명 시청  - Abiotic Factor
 
 
 ---
-: 마지막 업데이트: 2025-08-11 10:16 UTC
+: 마지막 업데이트: 2025-08-11 11:13 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
