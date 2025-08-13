@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_rtainjapan-320x180.jpg)](https://twitch.tv/RTAinJapan)
-**[聖剣伝説3 : RTA in Japan Summer 2025](https://twitch.tv/RTAinJapan)** by **RTAinJapan**<br>37,538명 시청  - Trials of Mana
+**[アーマード・コア ナインブレイカー : RTA in Japan Summer 2025](https://twitch.tv/RTAinJapan)** by **RTAinJapan**<br>30,846명 시청  - Armored Core: Nine Breaker
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_trymacs-320x180.jpg)](https://twitch.tv/Trymacs)
-**[Bettel Royale! 0€ 4 Tage 24/7 Live! Nur von Betteln und Schnorren leben für den guten Zweck! | !Displate !ESN !LevlUp !Pizza !Chips](https://twitch.tv/Trymacs)** by **Trymacs**<br>23,914명 시청  - Special Events
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_illojuan-320x180.jpg)](https://twitch.tv/IlloJuan)
+**[CALVO 👨‍🦲 FISICAZO 💪 ENFADAO 😡 YETS 🗣️ - God of War: Ghost of Sparta [Completo]](https://twitch.tv/IlloJuan)** by **IlloJuan**<br>25,951명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_echo_esports-320x180.jpg)](https://twitch.tv/Echo_Esports)
-**[Echo x Manaforge Omega Race to World First: Powered by AMD!  DAY 1 | WoW: The War Within !amd](https://twitch.tv/Echo_Esports)** by **Echo_Esports**<br>22,324명 시청  - World of Warcraft
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_trymacs-320x180.jpg)](https://twitch.tv/Trymacs)
+**[Bettel Royale! 0€ 4 Tage 24/7 Live! Nur von Betteln und Schnorren leben für den guten Zweck! | !Displate !ESN !LevlUp !Pizza !Chips](https://twitch.tv/Trymacs)** by **Trymacs**<br>25,195명 시청  - Special Events
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_deepins02-320x180.jpg)](https://twitch.tv/deepins02)
-**[смотрю женские шоу и мне нравится | !winline !ЯО !купер !tg](https://twitch.tv/deepins02)** by **deepins02**<br>19,284명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zubarefff-320x180.jpg)](https://twitch.tv/zubarefff)
+**[Плохи не законы, а люди, которые их применяют 👮‍♂️ Смотрим «13-й район» 🪧 Начало в 20:05](https://twitch.tv/zubarefff)** by **zubarefff**<br>23,989명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sasavot-320x180.jpg)](https://twitch.tv/sasavot)
-**[ЛИМОННЫЙ/ЧАЙ](https://twitch.tv/sasavot)** by **sasavot**<br>18,158명 시청  - PUBG: BATTLEGROUNDS
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eliasn97-320x180.jpg)](https://twitch.tv/eliasn97)
+**[Reactions & Talks 🔥| 20:30 Uhr Brett-Spieleabend | !iconleague !lyora !doku !eligella !gaming](https://twitch.tv/eliasn97)** by **eliasn97**<br>23,856명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2025-08-13 17:10 UTC
+: 마지막 업데이트: 2025-08-13 18:19 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
