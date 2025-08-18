@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_supernovaboxing-320x180.jpg)](https://twitch.tv/supernovaboxing)
-**[SUPERNOVA STRIKERS AMIGO](https://twitch.tv/supernovaboxing)** by **supernovaboxing**<br>99,659명 시청  - Special Events
+**[SUPERNOVA STRIKERS AMIGO](https://twitch.tv/supernovaboxing)** by **supernovaboxing**<br>428,357명 시청  - Special Events
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[229/365] 🏆 2V2S WITH BOBBY🏆 NOW OR NEVER 🏆](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>61,317명 시청  - Clash Royale
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_alanalarana-320x180.jpg)](https://twitch.tv/Alanalarana)
+**[SUPERNOVA ORIGENES - ALANA VS GALAMONTES 🥊](https://twitch.tv/Alanalarana)** by **Alanalarana**<br>56,331명 시청  - Special Events
 
 **3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jasontheween-320x180.jpg)](https://twitch.tv/jasontheween)
-**[🔴STREAMER GAMES DAY 2🔴WINNERS POV🔴](https://twitch.tv/jasontheween)** by **jasontheween**<br>50,775명 시청  - Streamer Games
+**[🔴STREAMER GAMES DAY 2🔴WINNERS POV🔴](https://twitch.tv/jasontheween)** by **jasontheween**<br>50,271명 시청  - Streamer Games
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
-**[[DROPS ON] BIG DAY HUGE DRAMA TRYING ROBLOX TODAY BIG NEWS AND GAMES MULTISTREAMING+REACTS | Follow My 24/7 channel @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>47,406명 시청  - ROBLOX
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ludwig-320x180.jpg)](https://twitch.tv/Ludwig)
+**[STREAMER GAMES 2025 DAY 2 !AT&T](https://twitch.tv/Ludwig)** by **Ludwig**<br>46,822명 시청  - Streamer Games
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_maximum-320x180.jpg)](https://twitch.tv/Maximum)
-**[RWF DAY 6 dont forget about the cumber](https://twitch.tv/Maximum)** by **Maximum**<br>31,823명 시청  - World of Warcraft
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_juansguarnizo-320x180.jpg)](https://twitch.tv/juansguarnizo)
+**[REACCIÓN A SUPERNOVA CON IMAGEN Y SONIDO (cervezitas incluidas) 🥊](https://twitch.tv/juansguarnizo)** by **juansguarnizo**<br>45,205명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2025-08-17 23:12 UTC
+: 마지막 업데이트: 2025-08-18 01:11 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
