@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_anyme023-320x180.jpg)](https://twitch.tv/Anyme023)
-**[HEHEHEHE !discord !don](https://twitch.tv/Anyme023)** by **Anyme023**<br>90,517명 시청  - Just Chatting
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
+**[[232/365] 🔴 Grinding Ladder W/ Bobby & Ryley 🔴](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>60,905명 시청  - Clash Royale
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[232/365] 🔴 BOBBY vs RYLEY 99-0 @ 5PM EST 🔴](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>58,067명 시청  - Clash Royale
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_anyme023-320x180.jpg)](https://twitch.tv/Anyme023)
+**[HEHEHEHE !discord !don](https://twitch.tv/Anyme023)** by **Anyme023**<br>54,190명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
-**[[DROPS ON] BIG DAY GAMESCOM HUGE DRAMA BIG NEWS AND GAMES MULTISTREAMING+REACTS | Follow My 24/7 channel @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>40,403명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
+**[🤬TX REDISTRICTING IS HAPPENING😡CUOMOS RW MEME GUY🤬HURICANE ERIN🤬PRAGER U ANTIWOKE TEACHERS🤬REACTLORD🤬HASANxHASAN CROSSOVER EP🤬](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>30,469명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_pathofexile-320x180.jpg)](https://twitch.tv/pathofexile)
-**[Path of Exile 2: The Third Edict Reveal - GGG Live](https://twitch.tv/pathofexile)** by **pathofexile**<br>38,366명 시청  - Path of Exile 2
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_illojuan-320x180.jpg)](https://twitch.tv/IlloJuan)
+**[☕ EL FUNCIONARIO DE TWITCH ESPAÑA SOLTANDO MAMARRACHADAS ☕](https://twitch.tv/IlloJuan)** by **IlloJuan**<br>29,496명 시청  - Supernatural
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_illojuan-320x180.jpg)](https://twitch.tv/IlloJuan)
-**[☕ EL FUNCIONARIO DE TWITCH ESPAÑA SOLTANDO MAMARRACHADAS ☕](https://twitch.tv/IlloJuan)** by **IlloJuan**<br>34,510명 시청  - Just Chatting
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_maximum-320x180.jpg)](https://twitch.tv/Maximum)
+**[RWF DAY 9 bang bang bang bang](https://twitch.tv/Maximum)** by **Maximum**<br>28,242명 시청  - World of Warcraft
 
 
 ---
-: 마지막 업데이트: 2025-08-20 22:11 UTC
+: 마지막 업데이트: 2025-08-20 23:12 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
