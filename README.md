@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
-**[🟨LOSING MY MIND🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>46,696명 시청  - Just Chatting
+**[🟨SPOOKY TIME🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>56,883명 시청  - Games + Demos
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stableronaldo-320x180.jpg)](https://twitch.tv/stableronaldo)
-**[🕹️MAJOR CONTENT🕹️TRYING TO FIND A GAME🕹️BIG THINGS PLANNED 🕹️ WE GOT BITRATE 🕹️  WE LIVE 🕹️ [twitter/insta stableronaldo] !snap !com !sub](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>28,821명 시청  - Just Chatting
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_maximum-320x180.jpg)](https://twitch.tv/Maximum)
+**[RWF DAY 10 boss die?](https://twitch.tv/Maximum)** by **Maximum**<br>22,184명 시청  - World of Warcraft
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_maximum-320x180.jpg)](https://twitch.tv/Maximum)
-**[RWF DAY 10 boss die?](https://twitch.tv/Maximum)** by **Maximum**<br>22,713명 시청  - World of Warcraft
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_plaqueboymax-320x180.jpg)](https://twitch.tv/plaqueboymax)
+**[ITS A BEAUITFUL DAY](https://twitch.tv/plaqueboymax)** by **plaqueboymax**<br>19,327명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sakurashymko-320x180.jpg)](https://twitch.tv/sakurashymko)
-**[LA RECAP - BACK IN CANADA](https://twitch.tv/sakurashymko)** by **sakurashymko**<br>18,532명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_teamliquid-320x180.jpg)](https://twitch.tv/TeamLiquid)
+**[Race to World First 11.2 - Manaforge Omega - Day 10](https://twitch.tv/TeamLiquid)** by **TeamLiquid**<br>17,981명 시청  - World of Warcraft
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_plaqueboymax-320x180.jpg)](https://twitch.tv/plaqueboymax)
-**[ITS A BEAUITFUL DAY](https://twitch.tv/plaqueboymax)** by **plaqueboymax**<br>18,283명 시청  - Just Chatting
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_elmariana-320x180.jpg)](https://twitch.tv/ElMariana)
+**[TARDE PERO SEGURO COMO TU EX RELACION 😘](https://twitch.tv/ElMariana)** by **ElMariana**<br>14,725명 시청  - Not Sure About That
 
 
 ---
-: 마지막 업데이트: 2025-08-22 03:03 UTC
+: 마지막 업데이트: 2025-08-22 04:15 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
