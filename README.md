@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_k4sen-320x180.jpg)](https://twitch.tv/k4sen)
-**[LTK Season: Spirit Blossom Beyond | Playoffs Day 2 | Watch Party (オフライン組)](https://twitch.tv/k4sen)** by **k4sen**<br>38,975명 시청  - League of Legends
+**[LTK Season: Spirit Blossom Beyond | Playoffs Day 2 | Watch Party (オフライン組)](https://twitch.tv/k4sen)** by **k4sen**<br>49,594명 시청  - League of Legends
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lacy-320x180.jpg)](https://twitch.tv/Lacy)
-**[⛏️ NOT ENDING STREAM UNTIL I BEAT HARDCORE MINECRAFT WITH MARLON ⛏️ EXOTIC SNACKS MUKBANG ⛏️ 24/7 MARATHON ⛏️ SUBSCRIBE FOR NO ADS ⛏️](https://twitch.tv/Lacy)** by **Lacy**<br>35,956명 시청  - Minecraft
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
+**[🔴LCK WEDNESDAY T1 VS HLE🔴-  !dpmlol !discord !displate](https://twitch.tv/Caedrel)** by **Caedrel**<br>38,233명 시청  - League of Legends
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ddg-320x180.jpg)](https://twitch.tv/DDG)
-**[🏀💕ARE YOU MY BALL: The Love Show ft. PlaqueboyMax 🏀💕DAY 4/7 🏀💕|LIVE 24/7🏀💕](https://twitch.tv/DDG)** by **DDG**<br>33,298명 시청  - IRL
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lacy-320x180.jpg)](https://twitch.tv/Lacy)
+**[⛏️ NOT ENDING STREAM UNTIL I BEAT HARDCORE MINECRAFT WITH MARLON ⛏️ EXOTIC SNACKS MUKBANG ⛏️ 24/7 MARATHON ⛏️ SUBSCRIBE FOR NO ADS ⛏️](https://twitch.tv/Lacy)** by **Lacy**<br>33,920명 시청  - Minecraft
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
-**[🐁LIVE🐁CLICK🐁HERE🐁DRAMA🐁ALL DAY🐁LIVE🐁GAMES🐁VIDEOS🐁CLIPS🐁NOTHING🐁BIG DAY WOW🐁COOL🐁WICKED🐁](https://twitch.tv/xQc)** by **xQc**<br>26,420명 시청  - Rust
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ddg-320x180.jpg)](https://twitch.tv/DDG)
+**[🏀💕ARE YOU MY BALL: STUDIO w/ Plaqueboymax 🏀💕DAY 4/7 🏀💕|LIVE 24/7🏀💕](https://twitch.tv/DDG)** by **DDG**<br>27,776명 시청  - IRL
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lolthek4sen-320x180.jpg)](https://twitch.tv/lolthek4sen)
-**[LTK Season: Spirit Blossom Beyond | Playoffs Day 2](https://twitch.tv/lolthek4sen)** by **lolthek4sen**<br>9,626명 시청  - League of Legends
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lck-320x180.jpg)](https://twitch.tv/LCK)
+**[T1 vs HLE - DNF vs BFX | 2025 LCK](https://twitch.tv/LCK)** by **LCK**<br>17,455명 시청  - League of Legends
 
 
 ---
-: 마지막 업데이트: 2025-08-27 07:12 UTC
+: 마지막 업데이트: 2025-08-27 08:17 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
