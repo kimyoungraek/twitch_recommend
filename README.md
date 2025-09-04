@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kaicenat-320x180.jpg)](https://twitch.tv/KaiCenat)
-**[🟦 MAFIATHON 3 🟦 DAY 3 🟦 15% OF REVENUE GOING TO SCHOOL IN NIGERIA 🟦 LEBRON JAMES CUT MY HAIR AT 1 MILLION SUBS 🟦 !subathon](https://twitch.tv/KaiCenat)** by **KaiCenat**<br>79,987명 시청  - Just Chatting
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_nix-320x180.jpg)](https://twitch.tv/Nix)
+**[BetBoom vs. Nigma bo3 0:0 The Road to The International w/ Alagon](https://twitch.tv/Nix)** by **Nix**<br>69,781명 시청  - Dota 2
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_nix-320x180.jpg)](https://twitch.tv/Nix)
-**[PVISION vs. Heroic bo3 0:0 The Road to The International w/ Alagon](https://twitch.tv/Nix)** by **Nix**<br>54,692명 시청  - Dota 2
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kaicenat-320x180.jpg)](https://twitch.tv/KaiCenat)
+**[🟦 MAFIATHON 3 🟦 DAY 3 🟦 15% OF REVENUE GOING TO SCHOOL IN NIGERIA 🟦 LEBRON JAMES CUT MY HAIR AT 1 MILLION SUBS 🟦 !subathon](https://twitch.tv/KaiCenat)** by **KaiCenat**<br>66,624명 시청  - Just Chatting
 
 **3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
-**[🔴DK VS FEARX LCK PLAY OFFS - THEN SILKSONGGGGGGGGGGGGG🔴-  !dpmlol !discord !displate](https://twitch.tv/Caedrel)** by **Caedrel**<br>44,280명 시청  - League of Legends
+**[🔴SILKSONG WAITING ROOM🔴-  !dpmlol !discord !displate](https://twitch.tv/Caedrel)** by **Caedrel**<br>31,418명 시청  - League of Legends
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_just_ns-320x180.jpg)](https://twitch.tv/just_ns)
-**[[БЕЗ ЗАДЕРЖКИ] Pvision vs Heroic | Road to the International 2025 | !winline !tg !мерч @abfnggshka @sunlight](https://twitch.tv/just_ns)** by **just_ns**<br>22,370명 시청  - Dota 2
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kamet0-320x180.jpg)](https://twitch.tv/Kamet0)
+**[100H ENFERMÉ | 5 JEUX, TOP 1 OU RIEN, POUR QUE JE PUISSE SORTIR ! ⬜️ | JOUR 3 | 4/5 (!subtember) (!match)](https://twitch.tv/Kamet0)** by **Kamet0**<br>23,502명 시청  - Special Events
 
 **5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_dota2ti_ru-320x180.jpg)](https://twitch.tv/dota2ti_ru)
-**[[A] HEROIC vs. PVISION - Игра 1 - ДОРОГА НА TI 2025: ПЛЕЙ-ОФФ](https://twitch.tv/dota2ti_ru)** by **dota2ti_ru**<br>21,995명 시청  - Dota 2
+**[[A] PVISION vs. HEROIC - Игра 2 - ДОРОГА НА TI 2025: ПЛЕЙ-ОФФ](https://twitch.tv/dota2ti_ru)** by **dota2ti_ru**<br>20,161명 시청  - Dota 2
 
 
 ---
-: 마지막 업데이트: 2025-09-04 11:10 UTC
+: 마지막 업데이트: 2025-09-04 12:26 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
