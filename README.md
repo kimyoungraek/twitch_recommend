@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_nix-320x180.jpg)](https://twitch.tv/Nix)
-**[BetBoom vs. Nigma bo3 0:0 The Road to The International w/ Alagon](https://twitch.tv/Nix)** by **Nix**<br>91,976명 시청  - Dota 2
+**[Falcons vs. Tundra bo3 0:0 The Road to The International w/ Alagon](https://twitch.tv/Nix)** by **Nix**<br>72,122명 시청  - Dota 2
 
 **2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kaicenat-320x180.jpg)](https://twitch.tv/KaiCenat)
-**[🟦 MAFIATHON 3 🟦 DAY 3 🟦 15% OF REVENUE GOING TO SCHOOL IN NIGERIA 🟦 LEBRON JAMES CUT MY HAIR AT 1 MILLION SUBS 🟦 !subathon](https://twitch.tv/KaiCenat)** by **KaiCenat**<br>62,979명 시청  - Just Chatting
+**[🟦 MAFIATHON 3 🟦 DAY 3 🟦 15% OF REVENUE GOING TO SCHOOL IN NIGERIA 🟦 LEBRON JAMES CUT MY HAIR AT 1 MILLION SUBS 🟦 !subathon](https://twitch.tv/KaiCenat)** by **KaiCenat**<br>63,988명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kamet0-320x180.jpg)](https://twitch.tv/Kamet0)
-**[100H ENFERMÉ | 5 JEUX, TOP 1 OU RIEN, POUR QUE JE PUISSE SORTIR ! ⬜️ | JOUR 3 | 4/5 (!subtember) (!match)](https://twitch.tv/Kamet0)** by **Kamet0**<br>29,404명 시청  - Special Events
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_alexelcapo-320x180.jpg)](https://twitch.tv/alexelcapo)
+**[SILKSONG Extensible !shaw para info](https://twitch.tv/alexelcapo)** by **alexelcapo**<br>35,154명 시청  - Hollow Knight: Silksong
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_dota2ti_3-320x180.jpg)](https://twitch.tv/dota2ti_3)
-**[[C] BB Team vs. Nigma Galaxy - Game 1 - The Road to The International: Playoffs 2025](https://twitch.tv/dota2ti_3)** by **dota2ti_3**<br>26,049명 시청  - Dota 2
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kamet0-320x180.jpg)](https://twitch.tv/Kamet0)
+**[100H ENFERMÉ | 5 JEUX, TOP 1 OU RIEN, POUR QUE JE PUISSE SORTIR ! ⬜️ | JOUR 4 | 4/5 (!subtember) (!match)](https://twitch.tv/Kamet0)** by **Kamet0**<br>31,770명 시청  - Special Events
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ramzes-320x180.jpg)](https://twitch.tv/ramzes)
-**[BetBoom Team [0:0] Nigma Galaxy | The International 2025: Group Stage | BO3 | \w @afoninje @vtunedota | !tg !win !steam !сейв](https://twitch.tv/ramzes)** by **ramzes**<br>21,886명 시청  - Dota 2
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_cellbit-320x180.jpg)](https://twitch.tv/Cellbit)
+**[SILKSONG. O DIA INTEIRO.](https://twitch.tv/Cellbit)** by **Cellbit**<br>25,731명 시청  - Hollow Knight: Silksong
 
 
 ---
-: 마지막 업데이트: 2025-09-04 13:21 UTC
+: 마지막 업데이트: 2025-09-04 14:12 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
