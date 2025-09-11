@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
-**[CHARLIE KIRK ASSASSINATED DURING EVENT IN UTAH](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>138,387명 시청  - Just Chatting
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kaicenat-320x180.jpg)](https://twitch.tv/KaiCenat)
+**[🟦MAFIATHON 3🟦DAY 10🟦15% OF REVENUE GOING TO SCHOOL IN NIGERIA🟦LEBRON JAMES CUT MY HAIR AT 1 MILLION SUBS🟦!subathon](https://twitch.tv/KaiCenat)** by **KaiCenat**<br>173,168명 시청  - Just Chatting
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kaicenat-320x180.jpg)](https://twitch.tv/KaiCenat)
-**[🟦MAFIATHON 3🟦FORTNITE ICON REVEAL🟦DAY 10🟦15% OF REVENUE GOING TO SCHOOL IN NIGERIA🟦LEBRON JAMES CUT MY HAIR AT 1 MILLION SUBS🟦!subathon](https://twitch.tv/KaiCenat)** by **KaiCenat**<br>136,184명 시청  - Fortnite
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
+**[🟨SMARTEST MAN IN ARKANSAS🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>46,178명 시청  - Are You Smarter Than a 5th Grader?
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eamaddennfl-320x180.jpg)](https://twitch.tv/EAMaddenNFL)
-**[Madden 26 MCS Kickoff Challenge](https://twitch.tv/EAMaddenNFL)** by **EAMaddenNFL**<br>34,100명 시청  - Madden NFL 26
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
+**[🧗‍♂️LIVE🧗‍♂️CLICK🧗‍♂️QUICK🧗‍♂️DRAMA🧗‍♂️STUFF🧗‍♂️THINGS🧗‍♂️LIVE🧗‍♂️CLICK🧗‍♂️GAMES🧗‍♂️N STUFF🧗‍♂️](https://twitch.tv/xQc)** by **xQc**<br>28,725명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
-**[🧗‍♂️LIVE🧗‍♂️CLICK🧗‍♂️QUICK🧗‍♂️DRAMA🧗‍♂️STUFF🧗‍♂️THINGS🧗‍♂️LIVE🧗‍♂️CLICK🧗‍♂️GAMES🧗‍♂️N STUFF🧗‍♂️](https://twitch.tv/xQc)** by **xQc**<br>24,529명 시청  - Minecraft
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_yourragegaming-320x180.jpg)](https://twitch.tv/yourragegaming)
+**[GG..](https://twitch.tv/yourragegaming)** by **yourragegaming**<br>20,115명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[254/365] 🚨 2000 MEDALS PUSH W/ RYLEY 🚨](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>24,420명 시청  - Clash Royale
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_emiru-320x180.jpg)](https://twitch.tv/Emiru)
+**[HI :3 🤍⭐️ REACTS + GAMING + BUILDING A GIFT FOR @EXTRAEMILY !! :D 🤍⭐️ SILKSONG AND POE2 🤍⭐️ RED BULL FLUGTAG THIS WEEKEND!!! 🤍⭐️](https://twitch.tv/Emiru)** by **Emiru**<br>18,610명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2025-09-11 01:00 UTC
+: 마지막 업데이트: 2025-09-11 02:55 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
