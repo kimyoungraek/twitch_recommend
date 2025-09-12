@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_nix-320x180.jpg)](https://twitch.tv/Nix)
-**[BetBoom vs Falcons 1:1 bo3 The International 2025 w/ @mipooshka](https://twitch.tv/Nix)** by **Nix**<br>176,344명 시청  - Dota 2
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kaicenat-320x180.jpg)](https://twitch.tv/KaiCenat)
+**[🟫MAFIATHON 3🟫DAY 12🟫15% OF REVENUE GOING TO SCHOOL IN NIGERIA🟫LEBRON JAMES CUT MY HAIR AT 1 MILLION SUBS🟫!subathon](https://twitch.tv/KaiCenat)** by **KaiCenat**<br>92,052명 시청  - Just Chatting
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_dota2ti_ru-320x180.jpg)](https://twitch.tv/dota2ti_ru)
-**[[RU] The International 2025 - День 2 - BB Team vs. Team Falcons - Игра 3 [WB R2]](https://twitch.tv/dota2ti_ru)** by **dota2ti_ru**<br>134,010명 시청  - Dota 2
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_byilhann-320x180.jpg)](https://twitch.tv/byilhann)
+**[MONTPELLIER - PARIS À PIED AVEC NICO, JOUR 5 | ON MARCHE | Collaboration commerciale !Revolut](https://twitch.tv/byilhann)** by **byilhann**<br>53,622명 시청  - IRL
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_dota2ti-320x180.jpg)](https://twitch.tv/dota2ti)
-**[[EN] The International 2025 - Day 2 - Team Falcons vs. BB Team - Game 3 [WB R2]](https://twitch.tv/dota2ti)** by **dota2ti**<br>128,547명 시청  - Dota 2
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_anyme023-320x180.jpg)](https://twitch.tv/Anyme023)
+**[EN MODE HOT TUB CE SOIR...](https://twitch.tv/Anyme023)** by **Anyme023**<br>37,734명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kaicenat-320x180.jpg)](https://twitch.tv/KaiCenat)
-**[🟫MAFIATHON 3🟫DAY 12🟫15% OF REVENUE GOING TO SCHOOL IN NIGERIA🟫LEBRON JAMES CUT MY HAIR AT 1 MILLION SUBS🟫!subathon](https://twitch.tv/KaiCenat)** by **KaiCenat**<br>74,679명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_anarabdullaev-320x180.jpg)](https://twitch.tv/anarabdullaev)
+**[Пятничная импровизация](https://twitch.tv/anarabdullaev)** by **anarabdullaev**<br>28,819명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_byilhann-320x180.jpg)](https://twitch.tv/byilhann)
-**[MONTPELLIER - PARIS À PIED AVEC NICO, JOUR 5 | ON MARCHE | Collaboration commerciale !Revolut](https://twitch.tv/byilhann)** by **byilhann**<br>57,150명 시청  - IRL
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gronkh-320x180.jpg)](https://twitch.tv/GRONKH)
+**[Endlich wieder #FREiAB18 und wir gehen schwimmen! ⭐ !shop !archiv !pc](https://twitch.tv/GRONKH)** by **GRONKH**<br>27,200명 시청  - Waterpark Simulator
 
 
 ---
-: 마지막 업데이트: 2025-09-12 19:09 UTC
+: 마지막 업데이트: 2025-09-12 20:13 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
