@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_nix-320x180.jpg)](https://twitch.tv/Nix)
-**[BetBoom vs Xtreme 0:0 bo3 The International 2025 w/ Alagon](https://twitch.tv/Nix)** by **Nix**<br>122,268명 시청  - Dota 2
+**[BetBoom vs Xtreme 0:0 bo3 The International 2025 w/ Alagon](https://twitch.tv/Nix)** by **Nix**<br>172,099명 시청  - Dota 2
 
 **2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_dota2ti-320x180.jpg)](https://twitch.tv/dota2ti)
-**[[EN] The International 2025 - Day 3 - BB Team vs. Xtreme Gaming - Game 1 [LB R3]](https://twitch.tv/dota2ti)** by **dota2ti**<br>101,858명 시청  - Dota 2
+**[[EN] The International 2025 - Day 3 - BB Team vs. Xtreme Gaming - Game 1 [LB R3]](https://twitch.tv/dota2ti)** by **dota2ti**<br>126,775명 시청  - Dota 2
 
 **3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_dota2ti_ru-320x180.jpg)](https://twitch.tv/dota2ti_ru)
-**[[RU] The International 2025 - День 3 - BB Team vs. Xtreme Gaming - Игра 1 [LB R3]](https://twitch.tv/dota2ti_ru)** by **dota2ti_ru**<br>91,123명 시청  - Dota 2
+**[[RU] The International 2025 - День 3 - Xtreme Gaming vs. BB Team - Игра 1 [LB R3]](https://twitch.tv/dota2ti_ru)** by **dota2ti_ru**<br>120,166명 시청  - Dota 2
 
 **4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kaicenat-320x180.jpg)](https://twitch.tv/KaiCenat)
-**[🟥MAFIATHON 3🟥DAY 13🟥15% OF REVENUE GOING TO SCHOOL IN NIGERIA🟥LEBRON JAMES CUT MY HAIR AT 1 MILLION SUBS🟥!subathon](https://twitch.tv/KaiCenat)** by **KaiCenat**<br>66,262명 시청  - Just Chatting
+**[🟥MAFIATHON 3🟥DAY 13🟥15% OF REVENUE GOING TO SCHOOL IN NIGERIA🟥LEBRON JAMES CUT MY HAIR AT 1 MILLION SUBS🟥!subathon](https://twitch.tv/KaiCenat)** by **KaiCenat**<br>106,115명 시청  - Just Chatting
 
 **5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_byilhann-320x180.jpg)](https://twitch.tv/byilhann)
-**[MONTPELLIER - PARIS À PIED AVEC NICO, JOUR 6 | Collaboration commerciale !Revolut](https://twitch.tv/byilhann)** by **byilhann**<br>64,226명 시청  - IRL
+**[MONTPELLIER - PARIS À PIED AVEC NICO, JOUR 6 | Collaboration commerciale !Revolut](https://twitch.tv/byilhann)** by **byilhann**<br>55,753명 시청  - IRL
 
 
 ---
-: 마지막 업데이트: 2025-09-13 19:08 UTC
+: 마지막 업데이트: 2025-09-13 20:12 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
