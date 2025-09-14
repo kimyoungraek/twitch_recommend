@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kaicenat-320x180.jpg)](https://twitch.tv/KaiCenat)
-**[🟩MAFIATHON 3🟩DAY 13🟩15% OF REVENUE GOING TO SCHOOL IN NIGERIA🟩LEBRON JAMES CUT MY HAIR AT 1 MILLION SUBS🟩!subathon](https://twitch.tv/KaiCenat)** by **KaiCenat**<br>128,439명 시청  - Just Chatting
+**[🟩MAFIATHON 3🟩DAY 13🟩15% OF REVENUE GOING TO SCHOOL IN NIGERIA🟩LEBRON JAMES CUT MY HAIR AT 1 MILLION SUBS🟩!subathon](https://twitch.tv/KaiCenat)** by **KaiCenat**<br>121,676명 시청  - Just Chatting
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_brucedropemoff-320x180.jpg)](https://twitch.tv/BruceDropEmOff)
-**[DEO4L & THE 4L MEANS FOR LIFE](https://twitch.tv/BruceDropEmOff)** by **BruceDropEmOff**<br>25,868명 시청  - ROBLOX
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lacy-320x180.jpg)](https://twitch.tv/Lacy)
+**[🙂 BACK FROM HAWAII 🙂 CHILL LATE NIGHT VIBES FOR DA LOYALS 🙂 30 DAYS IN WINNER ANNOUNCEMENT TOMORROW 🙂 SUBATHON IN 2 WEEKS 🙂](https://twitch.tv/Lacy)** by **Lacy**<br>15,718명 시청  - NBA 2K26
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
-**[🌟LIVE🌟CLICK🌟DRAMA🌟NEWS🌟VIDEOS🌟GAMES🌟VIDEOGAMES🌟STUFF🌟WOW🌟FUN🌟LOCK IN🌟](https://twitch.tv/xQc)** by **xQc**<br>24,733명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ishowspeed-320x180.jpg)](https://twitch.tv/IShowSpeed)
+**[irl stream in America 🇺🇸 Day 17 of 35 (Baton Rouge, LA)](https://twitch.tv/IShowSpeed)** by **IShowSpeed**<br>10,789명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[257/365] 🏆 $50,000 CONSOLE TOURNEY w/ STOMPN 🏆](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>17,684명 시청  - Tom Clancy's Rainbow Six Siege X
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
+**[SILLY GOOSE SATURDAY | LAST DAY FOR !StarforgeContest | WERE BACK ON THE BUNGUS, LETS RIDE | #ShartDrippingDownMyThighs | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>10,676명 시청  - Escape from Tarkov
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lacy-320x180.jpg)](https://twitch.tv/Lacy)
-**[🙂 BACK FROM HAWAII 🙂 CHILL LATE NIGHT VIBES FOR DA LOYALS 🙂 30 DAYS IN WINNER ANNOUNCEMENT TOMORROW 🙂 SUBATHON IN 2 WEEKS 🙂](https://twitch.tv/Lacy)** by **Lacy**<br>16,110명 시청  - NBA 2K26
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_moonmoon-320x180.jpg)](https://twitch.tv/MOONMOON)
+**[quirk chungus, cringe hunter](https://twitch.tv/MOONMOON)** by **MOONMOON**<br>9,257명 시청  - Borderlands 4
 
 
 ---
-: 마지막 업데이트: 2025-09-14 04:14 UTC
+: 마지막 업데이트: 2025-09-14 05:11 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
