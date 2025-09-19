@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kaicenat-320x180.jpg)](https://twitch.tv/KaiCenat)
-**[⬜MAFIATHON 3⬜DAY 18⬜15% OF REVENUE GOING TO SCHOOL IN NIGERIA⬜LEBRON JAMES CUT MY HAIR AT 1 MILLION SUBS⬜!subathon](https://twitch.tv/KaiCenat)** by **KaiCenat**<br>78,670명 시청  - Just Chatting
+**[⬜MAFIATHON 3⬜DAY 18⬜15% OF REVENUE GOING TO SCHOOL IN NIGERIA⬜LEBRON JAMES CUT MY HAIR AT 1 MILLION SUBS⬜!subathon](https://twitch.tv/KaiCenat)** by **KaiCenat**<br>69,362명 시청  - Just Chatting
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_byilhann-320x180.jpg)](https://twitch.tv/byilhann)
-**[MONTPELLIER - PARIS À PIED AVEC NICO_LA / JOUR 12 / Collaboration commerciale !Revolut](https://twitch.tv/byilhann)** by **byilhann**<br>32,661명 시청  - IRL
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_betboom_cs_a-320x180.jpg)](https://twitch.tv/betboom_cs_a)
+**[G2 Esports [1:2] The Mongolz | Bo3 | FISSURE Playground 2 — CS: Play-off | by @sheyl311 & @97zoner](https://twitch.tv/betboom_cs_a)** by **betboom_cs_a**<br>39,070명 시청  - Counter-Strike
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_shadowkekw-320x180.jpg)](https://twitch.tv/shadowkekw)
-**[G2 [1:1] MONGOLZ | FISSURE Playground 2  👉 !yota !bb !тг !2026](https://twitch.tv/shadowkekw)** by **shadowkekw**<br>16,862명 시청  - Counter-Strike
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_byilhann-320x180.jpg)](https://twitch.tv/byilhann)
+**[MONTPELLIER - PARIS À PIED AVEC NICO_LA / JOUR 12 / Collaboration commerciale !Revolut](https://twitch.tv/byilhann)** by **byilhann**<br>38,715명 시청  - IRL
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_betboom_cs_a-320x180.jpg)](https://twitch.tv/betboom_cs_a)
-**[G2 Esports [1:1] The Mongolz | Bo3 | FISSURE Playground 2 — CS: Play-off | by @sheyl311 & @97zoner](https://twitch.tv/betboom_cs_a)** by **betboom_cs_a**<br>13,812명 시청  - Counter-Strike
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_shadowkekw-320x180.jpg)](https://twitch.tv/shadowkekw)
+**[G2 [1:2] MONGOLZ | FISSURE Playground 2  👉 !yota !bb !тг !2026](https://twitch.tv/shadowkekw)** by **shadowkekw**<br>23,141명 시청  - Counter-Strike
 
 **5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_capcomfighters_jp-320x180.jpg)](https://twitch.tv/capcomfighters_jp)
-**[「ストリートファイターリーグ: Pro-JP 2025」Division S 第3節 ☆☆18時40分より初心者必見！SFリーグ: ウォームアップ☆☆](https://twitch.tv/capcomfighters_jp)** by **capcomfighters_jp**<br>13,471명 시청  - Street Fighter 6
+**[「ストリートファイターリーグ: Pro-JP 2025」Division S 第3節 ☆☆18時40分より初心者必見！SFリーグ: ウォームアップ☆☆](https://twitch.tv/capcomfighters_jp)** by **capcomfighters_jp**<br>17,013명 시청  - Street Fighter 6
 
 
 ---
-: 마지막 업데이트: 2025-09-19 10:14 UTC
+: 마지막 업데이트: 2025-09-19 11:10 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
