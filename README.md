@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kaicenat-320x180.jpg)](https://twitch.tv/KaiCenat)
-**[⬜MAFIATHON 3⬜DAY 23⬜15% OF REVENUE GOING TO SCHOOL IN NIGERIA⬜LEBRON JAMES CUT MY HAIR AT 1 MILLION SUBS⬜!subathon](https://twitch.tv/KaiCenat)** by **KaiCenat**<br>160,646명 시청  - Just Chatting
+**[⬜MAFIATHON 3⬜DAY 23⬜15% OF REVENUE GOING TO SCHOOL IN NIGERIA⬜LEBRON JAMES CUT MY HAIR AT 1 MILLION SUBS⬜!subathon](https://twitch.tv/KaiCenat)** by **KaiCenat**<br>133,523명 시청  - Just Chatting
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eliasn97-320x180.jpg)](https://twitch.tv/eliasn97)
-**[EA FC GRIND GEHT WEITER⚽️ | !tickets !iconleague !lyora !doku !eligella !gaming](https://twitch.tv/eliasn97)** by **eliasn97**<br>16,784명 시청  - EA Sports FC 26
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
+**[🟨LOSING MY MIND🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>32,210명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_shroud-320x180.jpg)](https://twitch.tv/shroud)
-**[THIS GAME OWNS.. ALSO GO TO BNANS STREAM FOR RUST DROPS](https://twitch.tv/shroud)** by **shroud**<br>14,633명 시청  - Megabonk
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
+**[😺LIVE😺DRAMA😺NEWS😺VIDEOS😺GAMES😺TYLENOL GAMER😺BACK AT IT AGAIN😺WOW😺VERY COOL😺LOCK IN😺](https://twitch.tv/xQc)** by **xQc**<br>21,291명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_alanzoka-320x180.jpg)](https://twitch.tv/alanzoka)
-**[SILENT HILL F -> VOU CONTINUAR DA ONDE PAREI QUEM QUISER PODE ASSISTIR O COMEÇO NO YOUTUBE PQ EU TO GRITANDO NAO SEI](https://twitch.tv/alanzoka)** by **alanzoka**<br>14,265명 시청  - SILENT HILL ƒ
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_yourragegaming-320x180.jpg)](https://twitch.tv/yourragegaming)
+**[WE BACK IN FLORIDA!!! lets TALK!](https://twitch.tv/yourragegaming)** by **yourragegaming**<br>15,477명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_moonmoon-320x180.jpg)](https://twitch.tv/MOONMOON)
-**[popped 20 tylenol waiting for the rapture like mmmm muscles feelin hella relaxed](https://twitch.tv/MOONMOON)** by **MOONMOON**<br>12,466명 시청  - Megabonk
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_shroud-320x180.jpg)](https://twitch.tv/shroud)
+**[THIS GAME OWNS.. ALSO GO TO BNANS STREAM FOR RUST DROPS](https://twitch.tv/shroud)** by **shroud**<br>13,518명 시청  - Megabonk
 
 
 ---
-: 마지막 업데이트: 2025-09-24 00:59 UTC
+: 마지막 업데이트: 2025-09-24 02:23 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
