@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kaicenat-320x180.jpg)](https://twitch.tv/KaiCenat)
-**[🟨MAFIATHON 3🟨DAY 25🟨15% OF REVENUE GOING TO SCHOOL IN NIGERIA🟨LEBRON JAMES CUT MY HAIR AT 1 MILLION SUBS🟨!subathon](https://twitch.tv/KaiCenat)** by **KaiCenat**<br>75,960명 시청  - Just Chatting
+**[🟨MAFIATHON 3🟨DAY 25🟨15% OF REVENUE GOING TO SCHOOL IN NIGERIA🟨LEBRON JAMES CUT MY HAIR AT 1 MILLION SUBS🟨!subathon](https://twitch.tv/KaiCenat)** by **KaiCenat**<br>69,889명 시청  - Just Chatting
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
-**[🔴JDG VS WBG - WINNER FACES IG TOMORROW /// FNC VS KC TODAY WINNER GOES TO WORLDS // MEGA LONG DAY !!!!🔴-  !dpmlol !discord !displate](https://twitch.tv/Caedrel)** by **Caedrel**<br>38,092명 시청  - League of Legends
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_byilhann-320x180.jpg)](https://twitch.tv/byilhann)
+**[MONTPELLIER - PARIS À PIED AVEC @Nico_la | JOUR 19 | Collaboration commerciale !Revolut](https://twitch.tv/byilhann)** by **byilhann**<br>28,410명 시청  - IRL
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_byilhann-320x180.jpg)](https://twitch.tv/byilhann)
-**[MONTPELLIER - PARIS À PIED AVEC @Nico_la | JOUR 19 | Collaboration commerciale !Revolut](https://twitch.tv/byilhann)** by **byilhann**<br>24,825명 시청  - IRL
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[雑談してなんかして早めに寝る](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>26,325명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_trymacs-320x180.jpg)](https://twitch.tv/Trymacs)
-**[XXL Oktoberfest Sause! | !PC !Pizza !Chips !ESN !LevlUp](https://twitch.tv/Trymacs)** by **Trymacs**<br>12,536명 시청  - Special Events
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
+**[🔴LEC WAITING ROOM - LR SCRIMS INTO FNC VS KC LIVE IN MADRID🔴-  !dpmlol !discord !displate](https://twitch.tv/Caedrel)** by **Caedrel**<br>25,428명 시청  - League of Legends
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_restiafps-320x180.jpg)](https://twitch.tv/restiafps)
-**[🥟Apex英雄水餃杯🥟 Day2 決賽 實況主 X Vtuber 100分賽點制大賽 !水餃杯 !水餃](https://twitch.tv/restiafps)** by **restiafps**<br>11,825명 시청  - Apex Legends
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_valorant-320x180.jpg)](https://twitch.tv/VALORANT)
+**[TH vs. MIBR — VALORANT Champions Paris — Playoffs Stage](https://twitch.tv/VALORANT)** by **VALORANT**<br>24,639명 시청  - VALORANT
 
 
 ---
-: 마지막 업데이트: 2025-09-26 12:25 UTC
+: 마지막 업데이트: 2025-09-26 13:22 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
