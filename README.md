@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kaicenat-320x180.jpg)](https://twitch.tv/KaiCenat)
-**[🎉 MAFIATHON 3 🎉KAI X KEVIN X DRUSKI 🎉DAY 29 🎉 15% OF REVENUE GOING TO SCHOOL IN NIGERIA 🎉 LEBRON JAMES CUTS MY HAIR TOMORROW 🎉 !subathon](https://twitch.tv/KaiCenat)** by **KaiCenat**<br>103,058명 시청  - Just Chatting
+**[🎉MAFIATHON 3🎉KAI X ALICIA KEYS🎉DAY 29 🎉 15% OF REVENUE GOING TO SCHOOL IN NIGERIA 🎉 LEBRON JAMES CUTS MY HAIR TOMORROW 🎉 !subathon](https://twitch.tv/KaiCenat)** by **KaiCenat**<br>239,675명 시청  - Just Chatting
 
 **2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
-**[DEADLY MAGA WEEKEND🚨MI LDS CHURCH SHOOTING🚨 NC SHOOTER PROFILE🚨TANEHISIxEZRAKLEIN🚨EPSTEIN LEAKS!🚨TRUMP SATANYAHU MEETING🚨FRANCE SOON!](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>38,178명 시청  - Just Chatting
+**[DEADLY MAGA WEEKEND🚨MI LDS CHURCH SHOOTING🚨 NC SHOOTER PROFILE🚨TANEHISIxEZRAKLEIN🚨EPSTEIN LEAKS!🚨TRUMP SATANYAHU MEETING🚨FRANCE SOON!](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>32,021명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eliasn97-320x180.jpg)](https://twitch.tv/eliasn97)
-**[RIVALS GRIND MIT NEUEM TEAM⚽🔥 | !tickets !iconleague !lyora !doku !eligella !gaming](https://twitch.tv/eliasn97)** by **eliasn97**<br>28,104명 시청  - EA Sports FC 26
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_shroud-320x180.jpg)](https://twitch.tv/shroud)
+**[**SEIZURE WARNING** 💥💥LEADERBOARD RESET! 💥 💥TESTING OFF META ITEMS!💥💥](https://twitch.tv/shroud)** by **shroud**<br>15,750명 시청  - Megabonk
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[273/365] 🚨 ROAD TO 3000 MEDALS 🚨](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>25,927명 시청  - Clash Royale
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_moonmoon-320x180.jpg)](https://twitch.tv/MOONMOON)
+**[the toglodyte](https://twitch.tv/MOONMOON)** by **MOONMOON**<br>13,443명 시청  - Megabonk
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tumblurr-320x180.jpg)](https://twitch.tv/Tumblurr)
-**[KINGS LEAGUE PROVINI AAHAHAH](https://twitch.tv/Tumblurr)** by **Tumblurr**<br>16,058명 시청  - Just Chatting
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lord_kebun-320x180.jpg)](https://twitch.tv/Lord_Kebun)
+**[MR K MOST WANTED CRIMINAL🚨PRODIGYRP🚨](https://twitch.tv/Lord_Kebun)** by **Lord_Kebun**<br>10,254명 시청  - Grand Theft Auto V
 
 
 ---
-: 마지막 업데이트: 2025-09-29 23:12 UTC
+: 마지막 업데이트: 2025-09-30 01:00 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
