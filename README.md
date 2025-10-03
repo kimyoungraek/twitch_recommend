@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_topson-320x180.jpg)](https://twitch.tv/Topson)
-**[Hi](https://twitch.tv/Topson)** by **Topson**<br>15,152명 시청  - Dota 2
+**[Hi](https://twitch.tv/Topson)** by **Topson**<br>15,870명 시청  - Dota 2
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
-**[🔴MASTER RUSH BEFORE THE WEEK ENDS  DOING SOME GHOST OF YOTEI TODAY🔴-  !dpmlol !discord !displate](https://twitch.tv/Caedrel)** by **Caedrel**<br>13,003명 시청  - League of Legends
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_mokrivskyi-320x180.jpg)](https://twitch.tv/mokrivskyi)
+**[25 ИГР FACEIT ЧЕЛЛЕДЖ С НАКАЗАНИЯМИ) | 0/25 | -> @girei1111 <- СТРИМ 24/7 !tg !pari](https://twitch.tv/mokrivskyi)** by **mokrivskyi**<br>15,219명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stableronaldo-320x180.jpg)](https://twitch.tv/stableronaldo)
-**[🔥 FAZE SUBATHON 2🔥DAY 2 🔥24/7 🔥 GOING BALD AT 100k 🔥 WE ARE HERE 🔥 BEST POV WHOLE MONTH 🔥 LETS GO 🔥  [twitter/insta @stableronaldo] !com](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>12,883명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
+**[🔴GHOST OF YOTEI FIRST TIME PLAYTHROUGHHHHHHHH #ad🔴-](https://twitch.tv/Caedrel)** by **Caedrel**<br>14,195명 시청  - Ghost of Yōtei
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_summit1g-320x180.jpg)](https://twitch.tv/summit1g)
-**[i will beat this @summit1g !starforge @StarforgeSystems](https://twitch.tv/summit1g)** by **summit1g**<br>10,260명 시청  - Megabonk
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
+**[俺はナイトだ © SQUARE ENIX](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>13,081명 시청  - FINAL FANTASY XIV ONLINE
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jasontheween-320x180.jpg)](https://twitch.tv/jasontheween)
-**[🔴FAZE SUBATHON 2🔴DAY 2🔴20% SUB REVENUE TO CANCER CHARITY🔴](https://twitch.tv/jasontheween)** by **jasontheween**<br>9,996명 시청  - Just Chatting
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_capcomfighters_jp-320x180.jpg)](https://twitch.tv/capcomfighters_jp)
+**[「ストリートファイターリーグ: Pro-JP 2025」Division F 第4節 ☆☆18時40分より初心者必見！SFリーグ: ウォームアップ☆☆](https://twitch.tv/capcomfighters_jp)** by **capcomfighters_jp**<br>10,013명 시청  - Street Fighter 6
 
 
 ---
-: 마지막 업데이트: 2025-10-03 09:13 UTC
+: 마지막 업데이트: 2025-10-03 10:13 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
