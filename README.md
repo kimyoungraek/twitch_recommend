@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_squeezie-320x180.jpg)](https://twitch.tv/Squeezie)
-**[GP Explorer 3 - LA COURSE SPRINT](https://twitch.tv/Squeezie)** by **Squeezie**<br>655,078명 시청  - Special Events
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jasontheween-320x180.jpg)](https://twitch.tv/jasontheween)
+**[🔴FAZE SUBATHON 2🔴DAY 4🔴20% SUB REVENUE TO CANCER CHARITY🔴](https://twitch.tv/jasontheween)** by **jasontheween**<br>27,737명 시청  - Just Chatting
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
-**[i have a dream](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>30,373명 시청  - Grand Theft Auto V
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ohnepixel-320x180.jpg)](https://twitch.tv/ohnePixel)
+**[🔴2VS2 AGAINST EVERY RANK(IMMORTAL) WITH @SUBROZA 🔴](https://twitch.tv/ohnePixel)** by **ohnePixel**<br>26,193명 시청  - VALORANT
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eslcs-320x180.jpg)](https://twitch.tv/ESLCS)
-**[LIVE: FURIA vs. 3DMAX - ESL Pro League Season 22 - Stage 2 Round #1](https://twitch.tv/ESLCS)** by **ESLCS**<br>27,992명 시청  - Counter-Strike
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_papaplatte-320x180.jpg)](https://twitch.tv/Papaplatte)
+**[☀️ GEILER MANN MACHT GEILE SACHEN ☀️ CA 21 UHR LEGO PARTY POGGERS ☀️ REACTIONS ☀️TIKTOKS ☀️](https://twitch.tv/Papaplatte)** by **Papaplatte**<br>24,578명 시청  - Arena Breakout: Infinite
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[帰国まん](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>25,008명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
+**[🚨HAMAS ACCEPTS "PEACE" AS IOF KEEPS BOMBING DESPITE TRUMP DEMANDS🚨GOVT SHUTDOWN🚨MAGA BLAMED🚨FRANCE DAY4🚨GP3 TOMORROW!](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>22,271명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ohnepixel-320x180.jpg)](https://twitch.tv/ohnePixel)
-**[🔴2VS2 AGAINST EVERY RANK(DIAMOND) WITH @SUBROZA 🔴](https://twitch.tv/ohnePixel)** by **ohnePixel**<br>23,560명 시청  - VALORANT
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
+**[i have a dream](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>20,791명 시청  - Street Fighter 6
 
 
 ---
-: 마지막 업데이트: 2025-10-04 17:09 UTC
+: 마지막 업데이트: 2025-10-04 18:16 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
