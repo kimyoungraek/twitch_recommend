@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
-**[[DROPS ON] BIG DAY HUGE DRAMA MEGABONK BIG NEWS AND GAMES MULTISTREAMING+REACTS | Follow My 24/7 channel @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>36,369명 시청  - Just Chatting
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jasontheween-320x180.jpg)](https://twitch.tv/jasontheween)
+**[🔴FAZE SUBATHON 2🔴DAY 8🔴20% SUB REVENUE TO AMERICAN CANCER SOCIETY🔴](https://twitch.tv/jasontheween)** by **jasontheween**<br>29,453명 시청  - Just Chatting
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
-**[🚨DRAMA ALERT🚨SCOTUS IS BACK💀GOVT SHUTDOWN CHAOS CONT💥UPDATES ON GAZA PEACE PLAN💥](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>36,082명 시청  - Just Chatting
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_n3on-320x180.jpg)](https://twitch.tv/N3on)
+**[N3on x Deontay Wilder](https://twitch.tv/N3on)** by **N3on**<br>25,880명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jasontheween-320x180.jpg)](https://twitch.tv/jasontheween)
-**[🔴FAZE SUBATHON 2🔴DAY 8🔴W*RKING AT A BOBA SHOP🔴20% SUB REVENUE TO AMERICAN CANCER SOCIETY🔴](https://twitch.tv/jasontheween)** by **jasontheween**<br>30,326명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
+**[👊LIVE👊CLICK👊HERE👊MEGA DRAMA👊BIG NEWS👊SUPER DAY👊WOW👊HERE👊LOCK IT IN👊PULL UP HERE👊YAY👊](https://twitch.tv/xQc)** by **xQc**<br>22,631명 시청  - SCP: Secret Laboratory
 
 **4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stableronaldo-320x180.jpg)](https://twitch.tv/stableronaldo)
-**[🎃SHAVING MY HEAD TODAY🎃RAGE COMING 🎃 FAZE SUBATHON 2 🎃 DAY 8🎃 GOING BALD AT 100k 🎃 [twitter/insta @stableronaldo] !com](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>29,686명 시청  - Just Chatting
+**[🎃SHAVING MY HEAD LATER🎃RAGE IS HERE OMG🎃 FAZE SUBATHON 2 🎃 DAY 8🎃 GOING BALD AT 100k 🎃 [twitter/insta @stableronaldo] !com](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>20,919명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[282/365] 🟪 ULTIMATE CHAMPION GRIND DAY 3 🟪](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>23,794명 시청  - Clash Royale
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_yourragegaming-320x180.jpg)](https://twitch.tv/yourragegaming)
+**[WE AT THE FAZE SUBATHON, FAZE UP... IM OVERLY FAZE](https://twitch.tv/yourragegaming)** by **yourragegaming**<br>18,520명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2025-10-08 23:11 UTC
+: 마지막 업데이트: 2025-10-09 01:00 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
