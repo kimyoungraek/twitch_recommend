@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
-**[🟨LOSING MY MIND🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>52,229명 시청  - Just Chatting
+**[🟨SPOOKY TIME🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>59,040명 시청  - The Gretlow Tapes
 
 **2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stableronaldo-320x180.jpg)](https://twitch.tv/stableronaldo)
-**[🎃SHAVING MY HEAD LATER🎃RAGE IS HERE OMG🎃 FAZE SUBATHON 2 🎃 DAY 8🎃 GOING BALD AT 100k 🎃 [twitter/insta @stableronaldo] !com](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>28,468명 시청  - Just Chatting
+**[🎃FAZE BOWLING NIGHT 🎃RAGE IS BACK!🎃SHAVING MY HEAD LATER🎃 FAZE SUBATHON 2 🎃 DAY 8🎃 GOING BALD AT 100k 🎃 [twitter/insta @stableronaldo] !com](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>25,755명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
-**[👊LIVE👊CLICK👊HERE👊MEGA DRAMA👊BIG NEWS👊SUPER DAY👊WOW👊HERE👊LOCK IT IN👊PULL UP HERE👊YAY👊](https://twitch.tv/xQc)** by **xQc**<br>24,354명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jasontheween-320x180.jpg)](https://twitch.tv/jasontheween)
+**[🔴FAZE SUBATHON 2🔴DAY 8🔴FAZE BOWLING🔴20% SUB REVENUE TO AMERICAN CANCER SOCIETY🔴](https://twitch.tv/jasontheween)** by **jasontheween**<br>22,273명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_n3on-320x180.jpg)](https://twitch.tv/N3on)
-**[HUGE ANNOUNCMENT FT. Chloe Parker](https://twitch.tv/N3on)** by **N3on**<br>21,911명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ddg-320x180.jpg)](https://twitch.tv/DDG)
+**[🔥🖤NOT ENDING UNTIL MY BIRTHDAY & ALBUM DROP 🖤🔥|⏳10/10⏳| 24 HOUR+ STREAM| PRESAVE Album NOW| !presave !capa !com](https://twitch.tv/DDG)** by **DDG**<br>21,218명 시청  - IRL
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jasontheween-320x180.jpg)](https://twitch.tv/jasontheween)
-**[🔴FAZE SUBATHON 2🔴DAY 8🔴20% SUB REVENUE TO AMERICAN CANCER SOCIETY🔴](https://twitch.tv/jasontheween)** by **jasontheween**<br>21,248명 시청  - Just Chatting
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_yourragegaming-320x180.jpg)](https://twitch.tv/yourragegaming)
+**[WE AT THE FAZE SUBATHON, FAZE UP... IM OVERLY FAZE](https://twitch.tv/yourragegaming)** by **yourragegaming**<br>19,268명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2025-10-09 03:28 UTC
+: 마지막 업데이트: 2025-10-09 04:15 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
