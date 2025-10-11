@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[BABY STEPSをクリアする男](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>42,060명 시청  - Baby Steps
+**[BABY STEPSをクリアする男](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>41,109명 시청  - Baby Steps
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_2xrakai-320x180.jpg)](https://twitch.tv/2xRaKai)
-**[🟩 FIRST 25 HOUR STREAM 🟩 HUGE SLEEPOVER🟩](https://twitch.tv/2xRaKai)** by **2xRaKai**<br>16,351명 시청  - Just Chatting
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eslcs-320x180.jpg)](https://twitch.tv/ESLCS)
+**[LIVE: MOUZ vs. Team Falcons - ESL Pro League Season 22 - Semifinal](https://twitch.tv/ESLCS)** by **ESLCS**<br>40,409명 시청  - Counter-Strike
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
-**[ｌｔｋ](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>16,027명 시청  - League of Legends
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_dmitry_lixxx-320x180.jpg)](https://twitch.tv/Dmitry_Lixxx)
+**[[NO DELAY] MOUZ 0:0 Falcons w/ @aunkere @evelone2004 | ESL Pro League Season 22 | !tg !winline !lis !втб](https://twitch.tv/Dmitry_Lixxx)** by **Dmitry_Lixxx**<br>28,022명 시청  - Counter-Strike
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zarbex-320x180.jpg)](https://twitch.tv/zarbex)
-**[🤏 MR. GEIL STREAMT 🤏  POLARIS 2025 IRL mit JULIA 🤏  !socials !merch !discord](https://twitch.tv/zarbex)** by **zarbex**<br>11,727명 시청  - IRL
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ohnepixel-320x180.jpg)](https://twitch.tv/ohnePixel)
+**[🔴FALCONS vs MOUZ (SEMI FINAL) ESL PRO LEAGUE🔴](https://twitch.tv/ohnePixel)** by **ohnePixel**<br>26,942명 시청  - Counter-Strike
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_cr_vanilla-320x180.jpg)](https://twitch.tv/CR_VanilLa)
-**[MADTOWN 9日目【GTA5】](https://twitch.tv/CR_VanilLa)** by **CR_VanilLa**<br>11,296명 시청  - Grand Theft Auto V
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_bysl4m-320x180.jpg)](https://twitch.tv/bySL4M)
+**[[RU] MOUZ [0:0] Falcons | ESL Pro League Season 22 Playoffs | Day 2 /w @WorldEdit  [КРИВОЙ ЭФИР]](https://twitch.tv/bySL4M)** by **bySL4M**<br>22,513명 시청  - Counter-Strike
 
 
 ---
-: 마지막 업데이트: 2025-10-11 13:16 UTC
+: 마지막 업데이트: 2025-10-11 14:10 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
