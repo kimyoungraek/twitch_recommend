@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_inoxtag-320x180.jpg)](https://twitch.tv/Inoxtag)
-**[[JOUR 3] 7 jours pour passer PLATINE sur League of Legends ! (!rank) (!point) (!revolut) (!revocash) - (Collaboration Commerciale)](https://twitch.tv/Inoxtag)** by **Inoxtag**<br>40,111명 시청  - League of Legends
+**[[JOUR 3] 7 jours pour passer PLATINE sur League of Legends ! (!rank) (!point) (!revolut) (!revocash) - (Collaboration Commerciale)](https://twitch.tv/Inoxtag)** by **Inoxtag**<br>41,786명 시청  - League of Legends
 
 **2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[すみませんLOLはやりません、ポケモンスナップをやります](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>37,519명 시청  - New Pokémon Snap
+**[すみませんLOLはやりません、ポケモンスナップをやります](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>36,465명 시청  - New Pokémon Snap
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_musicinfonews-320x180.jpg)](https://twitch.tv/musicinfonews)
-**[Music Info News https://musicinfonews.fun/](https://twitch.tv/musicinfonews)** by **musicinfonews**<br>19,156명 시청  - Music
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_indegnasen0706-320x180.jpg)](https://twitch.tv/布団ちゃんと申します)
+**[マッツロックフェスティバル〜秋の陣〜](https://twitch.tv/布団ちゃんと申します)** by **布団ちゃんと申します**<br>14,724명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_arsekvon-320x180.jpg)](https://twitch.tv/arsekvon)
-**[13000 MMR 500 rank EU carry (anyrole) gameplay !tg >>>>14kroad 30  tier TA TB MORPH >>>>Juggernaut practice this stream](https://twitch.tv/arsekvon)** by **arsekvon**<br>17,654명 시청  - Dota 2
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_alfrea-320x180.jpg)](https://twitch.tv/らいじん)
+**[KZHCUP 公式スクリム日](https://twitch.tv/らいじん)** by **らいじん**<br>14,697명 시청  - League of Legends
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_k4sen-320x180.jpg)](https://twitch.tv/k4sen)
-**[自分に正直になれ2025](https://twitch.tv/k4sen)** by **k4sen**<br>15,281명 시청  - Just Chatting
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_oniyadayo-320x180.jpg)](https://twitch.tv/おにや)
+**[小松潤季の弾き語りラボ～特別講師の鈴木ゆゆうた先生から直接学ぶ編～YOASOBI 怪物～](https://twitch.tv/おにや)** by **おにや**<br>11,191명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2025-10-20 13:24 UTC
+: 마지막 업데이트: 2025-10-20 14:12 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
