@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_inoxtag-320x180.jpg)](https://twitch.tv/Inoxtag)
-**[[JOUR 4] 7 jours pour passer PLATINE sur League of Legends ! (!rank) (!point) (!revolut) (!revocash) - (Collaboration Commerciale)](https://twitch.tv/Inoxtag)** by **Inoxtag**<br>71,982명 시청  - League of Legends
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_anyme023-320x180.jpg)](https://twitch.tv/Anyme023)
+**[NOUVELLE CHAMBRE LETSGOOOOO](https://twitch.tv/Anyme023)** by **Anyme023**<br>51,096명 시청  - Just Chatting
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_anyme023-320x180.jpg)](https://twitch.tv/Anyme023)
-**[NOUVELLE CHAMBRE LETSGOOOOO](https://twitch.tv/Anyme023)** by **Anyme023**<br>65,291명 시청  - Just Chatting
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
+**[[DROPS ON] BIG DAY HUGE DRAMA NINJA GAIDEN 4 BIG NEWS AND GAMES MULTISTREAMING+REACTS | Follow  @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>45,149명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eliasn97-320x180.jpg)](https://twitch.tv/eliasn97)
-**[Season Three MD-06 - SC Bürgeramt vs. Wontorriors FC ⚽️ | !finale !tickets !iconleague !lyora !doku !eligella !gaming](https://twitch.tv/eliasn97)** by **eliasn97**<br>52,144명 시청  - Special Events
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
+**[AMERICANS ARE LOVING SOCIALISM?🚨JD IN ISRAEL🚨WILL CEASEFIRE HOLD🚨GOVT SHUTDOWN🚨LOUVRE HEIST IS CRAZY🚨NYC MAYORAL DEBATE 2 TOMORROW!](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>31,833명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
-**[[DROPS ON] BIG DAY HUGE DRAMA NINJA GAIDEN 4 BIG NEWS AND GAMES MULTISTREAMING+REACTS | Follow  @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>46,260명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
+**[[295/365] 🔴 CANT LET GO DAY 3 -> ROAD TO 2200 MEDALS -> SCARY GAME w/ RYLEY KEN BOBBY 🔴](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>26,587명 시청  - Geometry Dash
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_evelone2004-320x180.jpg)](https://twitch.tv/evelone2004)
-**[🎬 Смотрим «Тор: Рагнарек» (2017) | Начало: 22:10](https://twitch.tv/evelone2004)** by **evelone2004**<br>33,470명 시청  - Just Chatting
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
+**[🛎️LIVE🛎️CLICK🛎️DRAMA🛎️NEWS🛎️LIVE🛎️BACK FOR GOOD🛎️BACK FROM TC🛎️YAY🛎️LOCK IN🛎️LETS GO🛎️BIG🛎️YAY🛎️](https://twitch.tv/xQc)** by **xQc**<br>21,690명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2025-10-21 21:12 UTC
+: 마지막 업데이트: 2025-10-21 22:12 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
