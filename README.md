@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
-**[🔴T1 VS 100T ELIMINATION WORLDS SWISS STAGE #WORLDS2025🔴!dpm !displate !youtube](https://twitch.tv/Caedrel)** by **Caedrel**<br>156,892명 시청  - League of Legends
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_therealknossi-320x180.jpg)](https://twitch.tv/TheRealKnossi)
+**[KNOSSI BIG BROTHER Staffel 3! 57 Stunden LIVE !ford !lieferando](https://twitch.tv/TheRealKnossi)** by **TheRealKnossi**<br>46,114명 시청  - Special Events
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ibai-320x180.jpg)](https://twitch.tv/ibai)
-**[WORLDS 2025 | T1 vs 100T | BLG vs VKS | QUIEN PIERDA ELIMINADO | HOY SORTEO | HOY CONOCEMOS A NUESTRO RIVAL](https://twitch.tv/ibai)** by **ibai**<br>69,791명 시청  - League of Legends
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_nix-320x180.jpg)](https://twitch.tv/Nix)
+**[Aurora vs PVISION bo3 0:0 Fissure Playground 2 w/ Alagon](https://twitch.tv/Nix)** by **Nix**<br>38,158명 시청  - Dota 2
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_riotgames-320x180.jpg)](https://twitch.tv/Riot Games)
-**[100T vs T1 | WORLDS 2025 | Swiss](https://twitch.tv/Riot Games)** by **Riot Games**<br>50,512명 시청  - League of Legends
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[モンハンP3rd合宿withわっちゃん](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>31,603명 시청  - Monster Hunter Portable 3rd
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_nix-320x180.jpg)](https://twitch.tv/Nix)
-**[Tundra vs BetBoom bo3 1:1 Fissure Playground 2 w/ Alagon](https://twitch.tv/Nix)** by **Nix**<br>42,748명 시청  - Dota 2
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
+**[chori](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>28,410명 시청  - Grand Theft Auto V
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_otplol_-320x180.jpg)](https://twitch.tv/otplol_)
-**[WORLDS 2025 - T1 vs 100T  - SWISS STAGE DAY 8 - BO3](https://twitch.tv/otplol_)** by **otplol_**<br>40,990명 시청  - League of Legends
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_inoxtag-320x180.jpg)](https://twitch.tv/Inoxtag)
+**[[JOUR 7] 7 jours pour passer PLATINE sur League of Legends !  (!rank) (!point) (!revolut) (!revocash) - (Collaboration Commerciale)](https://twitch.tv/Inoxtag)** by **Inoxtag**<br>24,215명 시청  - League of Legends
 
 
 ---
-: 마지막 업데이트: 2025-10-24 11:11 UTC
+: 마지막 업데이트: 2025-10-24 12:28 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
