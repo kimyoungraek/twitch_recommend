@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
-**[[DROPS ON] BIG DAY HUGE DRAMA NEW BIG NEWS AND GAMES  MULTISTREAMING+REACTS | Follow  @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>51,743명 시청  - Just Chatting
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_loud_coringa-320x180.jpg)](https://twitch.tv/loud_coringa)
+**[Kings Cup: Challenger │ LOUD x Fluxo às 21h │ X1 contra o Cerol!](https://twitch.tv/loud_coringa)** by **loud_coringa**<br>51,842명 시청  - Kings League
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eliasn97-320x180.jpg)](https://twitch.tv/eliasn97)
-**[WL CHALLENGE MIT DEN JUNGS ⚽ | !finale !tickets !iconleague !lyora !doku !eligella !gaming](https://twitch.tv/eliasn97)** by **eliasn97**<br>41,254명 시청  - EA Sports FC 26
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
+**[[301/365] ⭐️ 20 WIN CHALLENGE w RYLEY  ⭐️ LONG STREAM ⭐️](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>34,956명 시청  - Clash Royale
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_anyme023-320x180.jpg)](https://twitch.tv/Anyme023)
-**[Nouvelle destination, nouvelle aventure](https://twitch.tv/Anyme023)** by **Anyme023**<br>37,982명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eliasn97-320x180.jpg)](https://twitch.tv/eliasn97)
+**[CRAFT ATTACK 13 MIT DEN SÄULEN 🔥 | !finale !tickets !iconleague !lyora !doku !eligella !gaming](https://twitch.tv/eliasn97)** by **eliasn97**<br>27,233명 시청  - Minecraft
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[301/365] ⭐️ 20 WIN CHALLENGE w RYLEY  ⭐️ LONG STREAM ⭐️](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>36,776명 시청  - Clash Royale
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
+**[🚨BACK IN LA🚨RECAP OF Z RALLY+NYC🚨NEW DNC PAC REPEATS OLD TAKES🚨TRUMPINASIA🚨MILITARY BUILDUP🚨SNAP FOR 40M UNDER THREAT🚨](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>24,754명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_papaplatte-320x180.jpg)](https://twitch.tv/Papaplatte)
-**[⛏️ CRAFTATTACK TAG 3 - ES GEHT ENDLICH LOS ⛏️](https://twitch.tv/Papaplatte)** by **Papaplatte**<br>34,432명 시청  - Minecraft
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
+**[🙋LIVE🙋CLICK🙋DRAMA🙋NEWS🙋STUFF🙋THINGS🙋VIDEOS🙋GAMES🙋CLIPS🙋WOW!🙋GOGO🙋YAYA🙋WOOHOO🙋](https://twitch.tv/xQc)** by **xQc**<br>24,751명 시청  - skate.
 
 
 ---
-: 마지막 업데이트: 2025-10-27 23:12 UTC
+: 마지막 업데이트: 2025-10-28 01:01 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
