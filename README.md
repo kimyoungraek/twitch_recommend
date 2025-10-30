@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_shroud-320x180.jpg)](https://twitch.tv/shroud)
-**[[DROPS] LAUNCH DAY!!!!](https://twitch.tv/shroud)** by **shroud**<br>29,190명 시청  - ARC Raiders
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eliasn97-320x180.jpg)](https://twitch.tv/eliasn97)
+**[CRAFT ATTACK 13 MIT DEN SÄULEN 🔥 | kein Among Us heute | !finale !tickets !iconleague !lyora !doku !eligella !gaming](https://twitch.tv/eliasn97)** by **eliasn97**<br>34,578명 시청  - Minecraft
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_bastighg-320x180.jpg)](https://twitch.tv/BastiGHG)
-**[CRAFT ATTACK 13 💼🌹 TAG 6 💼🌹ORI 💼🌹GHG 💼🌹](https://twitch.tv/BastiGHG)** by **BastiGHG**<br>25,398명 시청  - Minecraft
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_papaplatte-320x180.jpg)](https://twitch.tv/Papaplatte)
+**[⛏️ CRAFTATTACK TAG 6 - ES GEHT ENDLICH LOS ⛏️](https://twitch.tv/Papaplatte)** by **Papaplatte**<br>31,285명 시청  - Minecraft
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_pgl-320x180.jpg)](https://twitch.tv/PGL)
-**[PGL Masters Bucharest 2025 - Aurora vs Astralis - Day 5 - Game 3 - Group Stage](https://twitch.tv/PGL)** by **PGL**<br>24,631명 시청  - Counter-Strike
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tumblurr-320x180.jpg)](https://twitch.tv/Tumblurr)
+**[🏆⚽KINGS LEAGUE QUARTA GIORNATA⚽🏆STALLIONS - FC ZETA ALLE 19🐎 !JD](https://twitch.tv/Tumblurr)** by **Tumblurr**<br>30,431명 시청  - Kings League
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
-**[予定なくなた；](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>24,040명 시청  - Grand Theft Auto V
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ohnepixel-320x180.jpg)](https://twitch.tv/ohnePixel)
+**[🔴NEW GOLDS ARE TRADABLE: MARKET CRASH?🔴](https://twitch.tv/ohnePixel)** by **ohnePixel**<br>29,595명 시청  - Counter-Strike
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_papaplatte-320x180.jpg)](https://twitch.tv/Papaplatte)
-**[⛏️ CRAFTATTACK TAG 6 - ES GEHT ENDLICH LOS ⛏️](https://twitch.tv/Papaplatte)** by **Papaplatte**<br>23,991명 시청  - Minecraft
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_shroud-320x180.jpg)](https://twitch.tv/shroud)
+**[[DROPS] LAUNCH DAY!!!!](https://twitch.tv/shroud)** by **shroud**<br>25,571명 시청  - ARC Raiders
 
 
 ---
-: 마지막 업데이트: 2025-10-30 15:14 UTC
+: 마지막 업데이트: 2025-10-30 16:17 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
