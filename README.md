@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_papaplatte-320x180.jpg)](https://twitch.tv/Papaplatte)
-**[⛏️ CRAFTATTACK TAG 9 - ES GEHT WEITER ⛏️ TIKITACKER SPIEL HEUTE OMG (WICHTIGSTES GAME) ⛏️](https://twitch.tv/Papaplatte)** by **Papaplatte**<br>32,471명 시청  - Minecraft
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_nix-320x180.jpg)](https://twitch.tv/Nix)
+**[BetBoom vs Falcons bo5 0:0 (Grand Final) FISSURE Playground 2 w/ Alagon](https://twitch.tv/Nix)** by **Nix**<br>59,805명 시청  - Dota 2
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_nix-320x180.jpg)](https://twitch.tv/Nix)
-**[Yandex vs Falcons bo3 0:2 (Lower Bracket Final) FISSURE Playground 2 w/ Alagon](https://twitch.tv/Nix)** by **Nix**<br>28,721명 시청  - Dota 2
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_papaplatte-320x180.jpg)](https://twitch.tv/Papaplatte)
+**[⛏️ CRAFTATTACK TAG 9 - ES GEHT WEITER ⛏️ TIKITACKER SPIEL HEUTE OMG (WICHTIGSTES GAME) ⛏️](https://twitch.tv/Papaplatte)** by **Papaplatte**<br>42,822명 시청  - Minecraft
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_montanablack88-320x180.jpg)](https://twitch.tv/MontanaBlack88)
-**[Craft Attack 13 - Tag 9 Dias sammeln mit Zarbex | XXL-SPORTKARTEN Unboxing mit Kiki gegen 18:30 Uhr](https://twitch.tv/MontanaBlack88)** by **MontanaBlack88**<br>22,556명 시청  - Minecraft
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eliasn97-320x180.jpg)](https://twitch.tv/eliasn97)
+**[⚽ Season Three MD 08 - aus der Porsche Arena Stuttgart ⚽ | !finale !tickets !iconleague !lyora !doku !eligella  !gaming](https://twitch.tv/eliasn97)** by **eliasn97**<br>27,207명 시청  - 
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
-**[倉庫パンパンマン](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>20,050명 시청  - ARC Raiders
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_solo-320x180.jpg)](https://twitch.tv/Solo)
+**[BetBoom Team [0:0] Team Falcons | FISSURE PLAYGROUND 2: Grand Final w/ @DreadzTV @ALOHADANCETV !betboom !розыгрыш !100К](https://twitch.tv/Solo)** by **Solo**<br>25,160명 시청  - Dota 2
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zarbex-320x180.jpg)](https://twitch.tv/zarbex)
-**[🤏 MR. GEIL STREAMT 🤏 CRAFT ATTACK 13 🤏 DIE LAGE IST ANGESPANNT 🤏 MISSION ANCIENT CITY 🤏  !socials !merch !discord](https://twitch.tv/zarbex)** by **zarbex**<br>17,646명 시청  - Minecraft
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_betboom_ru-320x180.jpg)](https://twitch.tv/betboom_ru)
+**[BetBoom Team [0:0] Team Falcons | Bo5 | FISSURE Playground 2 — DOTA: Grand Final | by @sheyl311 & @RoMaLL1KaTV](https://twitch.tv/betboom_ru)** by **betboom_ru**<br>20,855명 시청  - Dota 2
 
 
 ---
-: 마지막 업데이트: 2025-11-02 15:11 UTC
+: 마지막 업데이트: 2025-11-02 16:14 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
