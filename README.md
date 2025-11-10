@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eliasn97-320x180.jpg)](https://twitch.tv/eliasn97)
-**[MD-06 Live - ⚽️ | !merch !nissan !IconLeagueTarif !oneblade !spielplan !rulebreaker !iconleague ᵂᴱᴿᴮᵁᴺᴳ](https://twitch.tv/eliasn97)** by **eliasn97**<br>30,946명 시청  - Special Events
+**[⚽️ Season Three MD-09 - Wontorriors FC vs. Berlin Underdogs ⚽️ | !tickets !iconleague !lyora !doku !eligella !gaming](https://twitch.tv/eliasn97)** by **eliasn97**<br>44,951명 시청  - Special Events
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_bastighg-320x180.jpg)](https://twitch.tv/BastiGHG)
-**[CRAFT ATTACK 13 💼🌹TAG 17 💼🌹ORI 💼🌹GHG 💼🌹](https://twitch.tv/BastiGHG)** by **BastiGHG**<br>28,632명 시청  - Minecraft
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_evelone2004-320x180.jpg)](https://twitch.tv/evelone2004)
+**[Ирльчик с @gensyxa](https://twitch.tv/evelone2004)** by **evelone2004**<br>29,370명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sasavot-320x180.jpg)](https://twitch.tv/sasavot)
-**[ЦВЕТ/НАСТРОЕНИЯ](https://twitch.tv/sasavot)** by **sasavot**<br>25,267명 시청  - Fortnite
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_bastighg-320x180.jpg)](https://twitch.tv/BastiGHG)
+**[CRAFT ATTACK 13 💼🌹TAG 17 💼🌹ORI 💼🌹GHG 💼🌹](https://twitch.tv/BastiGHG)** by **BastiGHG**<br>29,248명 시청  - Minecraft
 
 **4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_papaplatte-320x180.jpg)](https://twitch.tv/Papaplatte)
-**[⛏️ CRAFTATTACK TAG 16 - IGNORIERT MEINE HAARFARBE ⛏️](https://twitch.tv/Papaplatte)** by **Papaplatte**<br>20,130명 시청  - Just Chatting
+**[⛏️ CRAFTATTACK TAG 16 - IGNORIERT MEINE HAARFARBE ⛏️](https://twitch.tv/Papaplatte)** by **Papaplatte**<br>28,981명 시청  - Minecraft
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tumblurr-320x180.jpg)](https://twitch.tv/Tumblurr)
-**[🏆⚽KINGS LEAGUE LAST CHANCE E QUARTI DI FINALE⚽🏆 !JD](https://twitch.tv/Tumblurr)** by **Tumblurr**<br>19,879명 시청  - Kings League
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_auronplay-320x180.jpg)](https://twitch.tv/auronplay)
+**[EXODOOOOOOOO](https://twitch.tv/auronplay)** by **auronplay**<br>27,663명 시청  - Minecraft
 
 
 ---
-: 마지막 업데이트: 2025-11-10 17:12 UTC
+: 마지막 업데이트: 2025-11-10 18:19 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
