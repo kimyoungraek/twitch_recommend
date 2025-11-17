@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_evelone2004-320x180.jpg)](https://twitch.tv/evelone2004)
-**[мама мы в Дубае w/ @mokrivskyi @gensyxa @yuuechka](https://twitch.tv/evelone2004)** by **evelone2004**<br>47,140명 시청  - IRL
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tumblurr-320x180.jpg)](https://twitch.tv/Tumblurr)
+**[⚽KINGS LEAGUE SEMIFINALE ⚽🐎STALLIONS - CAESAR FC ALLE 19🐎 !JD](https://twitch.tv/Tumblurr)** by **Tumblurr**<br>69,879명 시청  - Kings League
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_illojuan-320x180.jpg)](https://twitch.tv/IlloJuan)
-**[INVITADO ESPECIAL 🚬 MANSIÓN DIOZES 🏠 DÍA 3 DE PAYISMO 😭 NOMINADOS A LOS GOTY 🏆](https://twitch.tv/IlloJuan)** by **IlloJuan**<br>32,873명 시청  - Just Chatting
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sasavot-320x180.jpg)](https://twitch.tv/sasavot)
+**[ПОНЕДЕЛЬНИК/ИНТРИГУЮЩИЙ](https://twitch.tv/sasavot)** by **sasavot**<br>39,776명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_pestily-320x180.jpg)](https://twitch.tv/Pestily)
-**[[DROPS] NEW DAY DROPS!! 35% OFF SUBS!](https://twitch.tv/Pestily)** by **Pestily**<br>31,873명 시청  - Escape from Tarkov
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eliasn97-320x180.jpg)](https://twitch.tv/eliasn97)
+**[Season Three MD-10 - The Pack FC vs. Buzz Club ⚽️🔥 | !tickets !iconleague !lyora !doku !eligella !gaming](https://twitch.tv/eliasn97)** by **eliasn97**<br>34,725명 시청  - Special Events
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[雑談](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>30,312명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_anarabdullaev-320x180.jpg)](https://twitch.tv/anarabdullaev)
+**[Новоселье , Рум Тур , Крис , Каролина , шампусик все дела](https://twitch.tv/anarabdullaev)** by **anarabdullaev**<br>32,398명 시청  - IRL
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
-**[はや](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>25,048명 시청  - Escape from Tarkov
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_mokrivskyi-320x180.jpg)](https://twitch.tv/mokrivskyi)
+**[ДУБАЙ ИРЛ w/ @evelone2004 @gensyxa @yuuechka !pari !tg](https://twitch.tv/mokrivskyi)** by **mokrivskyi**<br>30,291명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2025-11-17 17:13 UTC
+: 마지막 업데이트: 2025-11-17 18:19 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
