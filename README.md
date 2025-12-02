@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
-**[🌳ALL NIGHT STREAM🌳DRAMA🌳NEWS🌳VIDEOS🌳STUFF🌳CLIPS🌳CHILL🌳WOW🌳COOL🌳FUN🌳TIMES🌳LOCK IN🌳LIVE RN🌳](https://twitch.tv/xQc)** by **xQc**<br>15,236명 시청  - iRacing
+**[🌳ALL NIGHT STREAM🌳DRAMA🌳NEWS🌳VIDEOS🌳STUFF🌳CLIPS🌳CHILL🌳WOW🌳COOL🌳FUN🌳TIMES🌳LOCK IN🌳LIVE RN🌳](https://twitch.tv/xQc)** by **xQc**<br>16,248명 시청  - Just Chatting
 
 **2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
-**[三文](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>15,045명 시청  - Escape from Tarkov
+**[三文](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>16,098명 시청  - Escape from Tarkov
 
 **3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
-**[🔴LR BOOTCAMP RUSHING CHALLENGER AS JUNGLE FOR THE FISRT TIME IN 4 YEARS - SCUFFED SETUP ATM🔴  !dpm !discord](https://twitch.tv/Caedrel)** by **Caedrel**<br>14,634명 시청  - League of Legends
+**[🔴LR BOOTCAMP RUSHING CHALLENGER AS JUNGLE FOR THE FISRT TIME IN 4 YEARS - SCUFFED SETUP ATM🔴  !dpm !discord](https://twitch.tv/Caedrel)** by **Caedrel**<br>15,365명 시청  - League of Legends
 
 **4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_topson-320x180.jpg)](https://twitch.tv/Topson)
-**[Hello](https://twitch.tv/Topson)** by **Topson**<br>10,925명 시청  - Dota 2
+**[Hello](https://twitch.tv/Topson)** by **Topson**<br>12,141명 시청  - Dota 2
 
 **5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_batora324-320x180.jpg)](https://twitch.tv/バトラ)
-**[寿司のホラゲ](https://twitch.tv/バトラ)** by **バトラ**<br>9,658명 시청  - The Sushi House
+**[寿司のホラゲ](https://twitch.tv/バトラ)** by **バトラ**<br>10,895명 시청  - The Sushi House
 
 
 ---
-: 마지막 업데이트: 2025-12-02 10:16 UTC
+: 마지막 업데이트: 2025-12-02 11:14 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
