@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_adapt-320x180.jpg)](https://twitch.tv/Adapt)
-**[🔴 WERE BACK WITH CHRISTMAS VIBES 🔴 LOTS TO TALK ABOUT 🔴 PO BOX OPENING TODAY 🔴 !po !yt !com !discord](https://twitch.tv/Adapt)** by **Adapt**<br>16,231명 시청  - Just Chatting
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
+**[ESCAPE FROM BUNGUS | WACKADOODLE WEDNESDAY | #ShartInMyMouthFromADistanceOf2Meters&AVelocityOf5m/s #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>46,330명 시청  - Escape from Tarkov
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lvndmark-320x180.jpg)](https://twitch.tv/LVNDMARK)
-**[[DROPS] TERMINAL TOMORROW NIGHT | !MONSTER | LVNDMARK_tv On Socials](https://twitch.tv/LVNDMARK)** by **LVNDMARK**<br>15,341명 시청  - Escape from Tarkov
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
+**[🟨LOSING MY MIND🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>26,202명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_agent00-320x180.jpg)](https://twitch.tv/Agent00)
-**[TRANSFORMATION RECAP + FIRST CHEAT MEAL W/ CHRIS + W REACTS + NEW FITNESS JOURNEY](https://twitch.tv/Agent00)** by **Agent00**<br>14,862명 시청  - IRL
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_plaqueboymax-320x180.jpg)](https://twitch.tv/plaqueboymax)
+**[STREAMNAS DAY 3 REUNITING WITH SILKY! TOO MUCH MUSIC (EP) DROPS TMRW!](https://twitch.tv/plaqueboymax)** by **plaqueboymax**<br>23,190명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jltomy-320x180.jpg)](https://twitch.tv/JLTomy)
-**[Officier 1 - 50 prise de service ! Eddie repousse au mieux le symbiote ... | Project Blender round 3 [BO3] : Joblife vs NAVI à 16h](https://twitch.tv/JLTomy)** by **JLTomy**<br>13,319명 시청  - Grand Theft Auto V
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
+**[🐰LIVE🐰CLICK🐰EVENING STREAM🐰LOCK IN🐰COME HERE🐰DRAMA🐰NEWS🐰STUFF🐰CLIPS🐰3892374283947🐰WOW🐰534097859083🐰](https://twitch.tv/xQc)** by **xQc**<br>16,159명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_summit1g-320x180.jpg)](https://twitch.tv/summit1g)
-**[just checking things out @summit1g !starforge @StarforgeSystems](https://twitch.tv/summit1g)** by **summit1g**<br>11,735명 시청  - Escape from Tarkov
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_loud_coringa-320x180.jpg)](https://twitch.tv/loud_coringa)
+**[oi amigos](https://twitch.tv/loud_coringa)** by **loud_coringa**<br>14,670명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2025-12-04 01:06 UTC
+: 마지막 업데이트: 2025-12-04 03:13 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
