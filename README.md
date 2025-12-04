@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_shadowkekw-320x180.jpg)](https://twitch.tv/shadowkekw)
-**[[NO DELAY] FALCONS [0:0] B8 | StarLadder Budapest Major 2025 S3 👉 !тг !розыгрыш](https://twitch.tv/shadowkekw)** by **shadowkekw**<br>94,703명 시청  - Counter-Strike
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_revedtv-320x180.jpg)](https://twitch.tv/RevedTV)
+**[🔴STREAMAWARDS 2025🔴](https://twitch.tv/RevedTV)** by **RevedTV**<br>105,871명 시청  - Special Events
 
 **2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_evelone2004-320x180.jpg)](https://twitch.tv/evelone2004)
-**[[NO DELAY] | NAVI [0:0] FURIA | StarLadder Budapest Major 2025 | STAGE 3](https://twitch.tv/evelone2004)** by **evelone2004**<br>83,299명 시청  - Counter-Strike
+**[[NO DELAY] | VITALITY [0:0] 3DMAX | StarLadder Budapest Major 2025 | STAGE 3](https://twitch.tv/evelone2004)** by **evelone2004**<br>67,548명 시청  - Counter-Strike
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ohnepixel-320x180.jpg)](https://twitch.tv/ohnePixel)
-**[🔴NAVI vs FURIA | STARLADDER BUDAPEST MAJOR🔴](https://twitch.tv/ohnePixel)** by **ohnePixel**<br>69,909명 시청  - Counter-Strike
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_buster-320x180.jpg)](https://twitch.tv/buster)
+**[РАЗБОР ПРЕМИИ. СКАНДАЛЫ. ДРАКА ПОСЛЕ ПРЕМИИ 😱](https://twitch.tv/buster)** by **buster**<br>57,402명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_revedtv-320x180.jpg)](https://twitch.tv/RevedTV)
-**[🔴STREAMAWARDS 2025🔴](https://twitch.tv/RevedTV)** by **RevedTV**<br>60,655명 시청  - Special Events
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ohnepixel-320x180.jpg)](https://twitch.tv/ohnePixel)
+**[🔴NEXT GAMES: FAZE, VITALITY, SPIRIT, NAVI🔴](https://twitch.tv/ohnePixel)** by **ohnePixel**<br>52,016명 시청  - Counter-Strike
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_starladder_cs_en-320x180.jpg)](https://twitch.tv/StarLadder_cs_en)
-**[[EN] Stream A | FUR vs NAVI (0-0) BO1 | StarLadder Budapest Major 2025 - S3 - D1](https://twitch.tv/StarLadder_cs_en)** by **StarLadder_cs_en**<br>51,094명 시청  - Counter-Strike
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_worldoftanks-320x180.jpg)](https://twitch.tv/WorldofTanks)
+**[[Special Mystery Drops] Tankmas Day 2 - Holiday Ops Starts Tomorrow!](https://twitch.tv/WorldofTanks)** by **WorldofTanks**<br>38,082명 시청  - World of Tanks
 
 
 ---
-: 마지막 업데이트: 2025-12-04 16:19 UTC
+: 마지막 업데이트: 2025-12-04 17:17 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
