@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
-**[🎄 LIVE RIGHT NOW 🎄DRAMA🎄NEWS🎄STALLING🎄COOL🎄 CLICK RIGHT NOW 🎄 INFINTE STREAM 🎄 INFINITE DRAMA 🎄 GAMES 🎄 REACTIONS 🎄 CONTENT 🎄](https://twitch.tv/xQc)** by **xQc**<br>23,982명 시청  - League of Legends
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_k3soju-320x180.jpg)](https://twitch.tv/k3soju)
+**[soon to be rank 1 --> winning paris G G | !boxboxbootcamp](https://twitch.tv/k3soju)** by **k3soju**<br>11,734명 시청  - Teamfight Tactics
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ddg-320x180.jpg)](https://twitch.tv/DDG)
-**[SLEEPOVER WITH DESHAE & THE TWINS 🅿️ CHAT ONLY! ANTI-PARASOCIAL 🅿️ JOB INTERVIEW AFTER LOSING 💔](https://twitch.tv/DDG)** by **DDG**<br>11,666명 시청  - Just Chatting
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sasatikk-320x180.jpg)](https://twitch.tv/sasatikk)
+**[The Unheardの謎に迫る](https://twitch.tv/sasatikk)** by **sasatikk**<br>11,371명 시청  - Escape from Tarkov
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_wendolynortizz-320x180.jpg)](https://twitch.tv/wendolynortizz)
-**[Dinner with friends ✨](https://twitch.tv/wendolynortizz)** by **wendolynortizz**<br>10,688명 시청  - IRL
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ddg-320x180.jpg)](https://twitch.tv/DDG)
+**[SLEEPOVER WITH DESHAE & THE TWINS 🅿️ CHAT ONLY! ANTI-PARASOCIAL 🅿️ JOB INTERVIEW AFTER LOSING 💔](https://twitch.tv/DDG)** by **DDG**<br>11,085명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_k3soju-320x180.jpg)](https://twitch.tv/k3soju)
-**[soon to be rank 1 --> winning paris G G | !boxboxbootcamp](https://twitch.tv/k3soju)** by **k3soju**<br>10,455명 시청  - Teamfight Tactics
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_summit1g-320x180.jpg)](https://twitch.tv/summit1g)
+**[co-op chillin w/ the boys @summit1g !starforge @StarforgeSystems](https://twitch.tv/summit1g)** by **summit1g**<br>10,500명 시청  - Baldur's Gate 3
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-320x180.jpg)](https://twitch.tv/vedal987)
-**[STREAM ENDS WHEN WE BEAT MINECRAFT HARDCORE](https://twitch.tv/vedal987)** by **vedal987**<br>10,392명 시청  - Minecraft
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gon_vl-320x180.jpg)](https://twitch.tv/gon_vl)
+**[てとさんがシルバー帯で伸び悩んでいるらしいので助言](https://twitch.tv/gon_vl)** by **gon_vl**<br>10,170명 시청  - VALORANT
 
 
 ---
-: 마지막 업데이트: 2025-12-08 07:19 UTC
+: 마지막 업데이트: 2025-12-08 08:22 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
