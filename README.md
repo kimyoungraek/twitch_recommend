@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_worldoftanks-320x180.jpg)](https://twitch.tv/WorldofTanks)
-**[[Special MYSTERY DROPS] Tankmas Day 7 - Holiday Ops 2026 | Joined by MouzAkrobat @ 15:00 UTC](https://twitch.tv/WorldofTanks)** by **WorldofTanks**<br>34,112명 시청  - World of Tanks
+**[[Special MYSTERY DROPS] Tankmas Day 7 - Holiday Ops 2026 | Joined by MouzAkrobat @ 15:00 UTC](https://twitch.tv/WorldofTanks)** by **WorldofTanks**<br>40,004명 시청  - World of Tanks
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_chrisop999-320x180.jpg)](https://twitch.tv/大天神)
-**[今天要幹嘛@@](https://twitch.tv/大天神)** by **大天神**<br>14,473명 시청  - Just Chatting
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_warframe-320x180.jpg)](https://twitch.tv/Warframe)
+**[???????? ?? ???](https://twitch.tv/Warframe)** by **Warframe**<br>25,800명 시청  - Warframe
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_montanablack88-320x180.jpg)](https://twitch.tv/MontanaBlack88)
-**[FITNACRAFT TAG 3 !mc • NETHER ERÖFFNUNG • Gegen 18 Uhr CLASH ROYALE mit Trymacs](https://twitch.tv/MontanaBlack88)** by **MontanaBlack88**<br>14,017명 시청  - Minecraft
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zubarefff-320x180.jpg)](https://twitch.tv/zubarefff)
+**[Добрый день, добрый вечер и доброй ночи! 👋 Смотрим "Шоу Трумана" 🎪 Начало в 19:09](https://twitch.tv/zubarefff)** by **zubarefff**<br>16,857명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-320x180.jpg)](https://twitch.tv/StRoGo)
-**[🔴 ДОМА 😎](https://twitch.tv/StRoGo)** by **StRoGo**<br>13,860명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_montanablack88-320x180.jpg)](https://twitch.tv/MontanaBlack88)
+**[FITNACRAFT TAG 3 !mc • NETHER ERÖFFNUNG • Gegen 18 Uhr CLASH ROYALE mit Trymacs](https://twitch.tv/MontanaBlack88)** by **MontanaBlack88**<br>16,068명 시청  - Minecraft
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_t2x2-320x180.jpg)](https://twitch.tv/T2x2)
-**[༼ ºل͟º༼ ºل͟º( ͡° ͜ʖ ͡°)ºل͟º ༽ºل͟º ༽ | Тг: t.me/t2xtwitch](https://twitch.tv/T2x2)** by **T2x2**<br>13,782명 시청  - Just Chatting
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_therealknossi-320x180.jpg)](https://twitch.tv/TheRealKnossi)
+**[Fitnäkreft - Das Kaiserreich wird erbaut!](https://twitch.tv/TheRealKnossi)** by **TheRealKnossi**<br>14,964명 시청  - Minecraft
 
 
 ---
-: 마지막 업데이트: 2025-12-09 15:16 UTC
+: 마지막 업데이트: 2025-12-09 16:19 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
