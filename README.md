@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
-**[[DROPS ON] BIG DAY HUGE DRAMA NEW BIG NEWS AND GAMES MULTISTREAMING+REACTS  | Follow  @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>41,341명 시청  - Just Chatting
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_paulinholokobr-320x180.jpg)](https://twitch.tv/PaulinhoLOKObr)
+**[PAULO POBRE na SITUAÇÃO! DIA DE FAZER GRANA - GTA RP](https://twitch.tv/PaulinhoLOKObr)** by **PaulinhoLOKObr**<br>42,122명 시청  - Grand Theft Auto V
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_illojuan-320x180.jpg)](https://twitch.tv/IlloJuan)
-**[HUMOR HONDURAS 😂 HUMOR BADAJOZ 🤣 HUMOR SEKIAM 😹 - Pokémon Twitch Cup 4 ft. Knekro #2](https://twitch.tv/IlloJuan)** by **IlloJuan**<br>34,331명 시청  - Pokémon Community Game
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
+**[[DROPS] !PUBGErangel : Subzero | #ad #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>38,346명 시청  - PUBG: BATTLEGROUNDS
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eliasn97-320x180.jpg)](https://twitch.tv/eliasn97)
-**[Geburtstags JELLO 🎁🎊 Modgeschenke auspacken | Fitnacraft Tag 4 | !iconleague !lyora !doku !eligella !gaming](https://twitch.tv/eliasn97)** by **eliasn97**<br>32,988명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
+**[JASMINECROCKETT DRAMA🚨TIMPOOL BANKRUPT?!🚨BENSHABIBO FALLOFF🚨HOGWATCH🚨NFxPIERS🚨FBI WATCHLIST🚨PARAMOUNT BID FOR WB🚨DISPATCH LATER!!!🚨](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>27,495명 시청  - Just Chatting
 
 **4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[344/365] ⭐️ 2000 MEDALS PUSH -> SOLO Q RANKED ⭐️](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>29,546명 시청  - Clash Royale
+**[[344/365] ⭐️ SOLO Q RANKED ⭐️](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>25,343명 시청  - Tom Clancy's Rainbow Six Siege X
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
-**[JASMINECROCKETT DRAMA🚨TIMPOOL BANKRUPT?!🚨BENSHABIBO FALLOFF🚨HOGWATCH🚨NFxPIERS🚨FBI WATCHLIST🚨PARAMOUNT BID FOR WB🚨DISPATCH LATER!!!🚨](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>28,708명 시청  - Just Chatting
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
+**[👿LIVE👿DRAMA👿NEWS👿GAMES👿VIDEOS👿CLIPS👿BRAIN ROT👿WOW👿PULL UP👿QUICKLY👿](https://twitch.tv/xQc)** by **xQc**<br>24,524명 시청  - Quarantine Zone: The Last Check
 
 
 ---
-: 마지막 업데이트: 2025-12-09 23:13 UTC
+: 마지막 업데이트: 2025-12-10 01:08 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
