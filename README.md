@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sasavot-320x180.jpg)](https://twitch.tv/sasavot)
-**[СНЕЖОК/ПОД ДОМОМ](https://twitch.tv/sasavot)** by **sasavot**<br>44,949명 시청  - Dead by Daylight
+**[СНЕЖОК/ПОД ДОМОМ](https://twitch.tv/sasavot)** by **sasavot**<br>44,220명 시청  - Dead by Daylight
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_worldoftanks-320x180.jpg)](https://twitch.tv/WorldofTanks)
-**[[Special MYSTERY DROPS] Tankmas Day 8 - Holiday Ops 2026 | Joined by Skill4ltu @ 15:00 UTC](https://twitch.tv/WorldofTanks)** by **WorldofTanks**<br>43,536명 시청  - World of Tanks
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kabam-320x180.jpg)](https://twitch.tv/Kabam)
+**[Anniversary LIVESTREAM 🕹️  | Marvel Contest of Champions](https://twitch.tv/Kabam)** by **Kabam**<br>36,113명 시청  - MARVEL Contest of Champions
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ramzes-320x180.jpg)](https://twitch.tv/ramzes)
-**[Aurora Gaming [0:1] Natus Vincere | DreamLeague S27: Group Stage | bo3 | \w @afoninje @vtunedota | !tg !win !втб !playerok](https://twitch.tv/ramzes)** by **ramzes**<br>29,763명 시청  - Dota 2
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_skill4ltu-320x180.jpg)](https://twitch.tv/skill4ltu)
+**[🍌Mystery !DROPS & NEW Festive Token #5🍌!charity stream🍌Playing on Main account🍌!chair !calendar](https://twitch.tv/skill4ltu)** by **skill4ltu**<br>34,482명 시청  - World of Tanks
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_deepins02-320x180.jpg)](https://twitch.tv/deepins02)
-**[[ РАЗОБЛАЧЕНИЕ + ДЕБЮТ П.И.С.Д. ] | !winline !gigachat !mademan !tg](https://twitch.tv/deepins02)** by **deepins02**<br>24,779명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_auronplay-320x180.jpg)](https://twitch.tv/auronplay)
+**[Estoy vivo y con ganas de picar bloques](https://twitch.tv/auronplay)** by **auronplay**<br>27,025명 시청  - Minecraft
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_yaritaiji-320x180.jpg)](https://twitch.tv/たいじ_たいちゃんねる)
-**[マモンキングきちゃああああああああああ](https://twitch.tv/たいじ_たいちゃんねる)** by **たいじ_たいちゃんねる**<br>21,115명 시청  - Mamon King
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_montanablack88-320x180.jpg)](https://twitch.tv/MontanaBlack88)
+**[FITNACRAFT TAG 4 !mc • Fitna pur & KRIEG](https://twitch.tv/MontanaBlack88)** by **MontanaBlack88**<br>23,283명 시청  - Minecraft
 
 
 ---
-: 마지막 업데이트: 2025-12-10 17:17 UTC
+: 마지막 업데이트: 2025-12-10 18:22 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
