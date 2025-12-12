@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_evelone2004-320x180.jpg)](https://twitch.tv/evelone2004)
-**[[NO DELAY] | NAVI [1:1] FURIA | BO3 | StarLadder Budapest Major 2025 | Quarter-final](https://twitch.tv/evelone2004)** by **evelone2004**<br>274,773명 시청  - Counter-Strike
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
+**[[DROPS ON] BIG DAY HUGE DRAMA ASHES OF CREATION RELEASE NEW BIG NEWS AND GAMES MULTISTREAMING+REACTS  | Follow  @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>42,233명 시청  - Just Chatting
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ohnepixel-320x180.jpg)](https://twitch.tv/ohnePixel)
-**[🔴NAVI vs FURIA [PLAYOFFS] STARLADDER BUDAPEST MAJOR🔴](https://twitch.tv/ohnePixel)** by **ohnePixel**<br>109,369명 시청  - Counter-Strike
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_angryginge13-320x180.jpg)](https://twitch.tv/angryginge13)
+**[🔥THE KING OF THE JUNGLE!🔥](https://twitch.tv/angryginge13)** by **angryginge13**<br>33,275명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_starladder_cs_en-320x180.jpg)](https://twitch.tv/StarLadder_cs_en)
-**[[EN] FUR vs NAVI (1-1) BO3 | StarLadder Budapest Major 2025 -  Quarterfinals - Playoffs - Day 2](https://twitch.tv/StarLadder_cs_en)** by **StarLadder_cs_en**<br>109,160명 시청  - Counter-Strike
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
+**[👺NEW EPSTEIN PHOTO DUMP👺BARONTRUMP ANDREWTATE👺HOGWATCH👺TRUMP IS FLAILING👺FREAKY FRIDAY👺SHERRONE MOORE ARREST👺DISPATCH👺!socialistmas](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>29,523명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
-**[[DROPS ON] BIG DAY HUGE DRAMA ASHES OF CREATION RELEASE NEW BIG NEWS AND GAMES MULTISTREAMING+REACTS  | Follow  @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>39,972명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
+**[100k FORNITE TOURNAMENT w/ CLIX | #BUNGULATE NO ALERTS](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>28,101명 시청  - Fortnite
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_angryginge13-320x180.jpg)](https://twitch.tv/angryginge13)
-**[🔥THE KING OF THE JUNGLE!🔥](https://twitch.tv/angryginge13)** by **angryginge13**<br>35,681명 시청  - Just Chatting
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sasavot-320x180.jpg)](https://twitch.tv/sasavot)
+**[ПЯТНИЦА/РАЗВРАТНИЦА](https://twitch.tv/sasavot)** by **sasavot**<br>27,300명 시청  - Clash Royale
 
 
 ---
-: 마지막 업데이트: 2025-12-12 22:14 UTC
+: 마지막 업데이트: 2025-12-12 23:14 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
