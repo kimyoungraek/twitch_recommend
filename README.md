@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[NUT RAIDERS + GAME AWARDS | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>38,671명 시청  - ARC Raiders
+**[NUT RAIDERS + GAME AWARDS | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>35,462명 시청  - ARC Raiders
 
 **2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stableronaldo-320x180.jpg)](https://twitch.tv/stableronaldo)
-**[😭 MINECRAFT 😭 HARDCORE 😭 CHAINED TOGETHER 😭 ADAPT FIRST TIME 😭 NOT ENDING 😭 GG 😭 JOIN 😭[twitter/insta stableronaldo] !snap !com !sub](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>19,238명 시청  - Minecraft
+**[😭 MINECRAFT 😭 HARDCORE 😭 CHAINED TOGETHER 😭 ADAPT FIRST TIME 😭 NOT ENDING 😭 GG 😭 JOIN 😭[twitter/insta stableronaldo] !snap !com !sub](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>22,419명 시청  - Minecraft
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_plaqueboymax-320x180.jpg)](https://twitch.tv/plaqueboymax)
-**[STREAMNAS DAY 11 DESKTOP VIBES](https://twitch.tv/plaqueboymax)** by **plaqueboymax**<br>19,019명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jasontheween-320x180.jpg)](https://twitch.tv/jasontheween)
+**[🔴CANT END UNTIL WE BEAT MINECRAFT CHAINED TOGETHER🔴WITH @stableronaldo & @CUFFFEM 🔴](https://twitch.tv/jasontheween)** by **jasontheween**<br>12,688명 시청  - Minecraft
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_thegameawards-320x180.jpg)](https://twitch.tv/thegameawards)
-**[THE GAME AWARDS 2025: Official 2K Livestream (with Drops)](https://twitch.tv/thegameawards)** by **thegameawards**<br>17,787명 시청  - The Game Awards
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sasatikk-320x180.jpg)](https://twitch.tv/sasatikk)
+**[雪うわあああああああああああ](https://twitch.tv/sasatikk)** by **sasatikk**<br>12,463명 시청  - Escape from Tarkov
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_emiru-320x180.jpg)](https://twitch.tv/Emiru)
-**[[DROPS| THE GAME AWARDS TODAY!! ✨⭐❄️ LUNE COSPLAY :D ✨⭐❄️ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA](https://twitch.tv/Emiru)** by **Emiru**<br>17,053명 시청  - Bloodborne
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_summit1g-320x180.jpg)](https://twitch.tv/summit1g)
+**[checking this out for a bit @summit1g !starforge @StarforgeSystems](https://twitch.tv/summit1g)** by **summit1g**<br>10,889명 시청  - Ashes of Creation
 
 
 ---
-: 마지막 업데이트: 2025-12-12 07:18 UTC
+: 마지막 업데이트: 2025-12-12 08:20 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
