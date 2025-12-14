@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_evelone2004-320x180.jpg)](https://twitch.tv/evelone2004)
-**[[NO DELAY] | GRAND FINAL | VITALITY [2:1] FAZE | BO5 | StarLadder Budapest Major 2025](https://twitch.tv/evelone2004)** by **evelone2004**<br>349,653명 시청  - Counter-Strike
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
+**[[DROPS ON] BIG DAY HUGE DRAMA ASHES OF CREATION RELEASE NEW BIG NEWS AND GAMES MULTISTREAMING+REACTS  | Follow  @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>42,670명 시청  - Just Chatting
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ohnepixel-320x180.jpg)](https://twitch.tv/ohnePixel)
-**[🔴FAZE vs VITALITY [GRAND FINAL] STARLADDER BUDAPEST MAJOR🔴](https://twitch.tv/ohnePixel)** by **ohnePixel**<br>202,562명 시청  - Counter-Strike
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_dota2_paragon_ru-320x180.jpg)](https://twitch.tv/dota2_paragon_ru)
+**[PARIVISION [1:2] Team Spirit | DreamLeague S27: Group Stage | BO3 | @Maelstorm & @BLACKARHANGEL](https://twitch.tv/dota2_paragon_ru)** by **dota2_paragon_ru**<br>36,806명 시청  - Dota 2
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_starladder_cs_en-320x180.jpg)](https://twitch.tv/StarLadder_cs_en)
-**[[EN] VIT vs FaZe (2-1) BO5 | StarLadder Budapest Major 2025 -  Grand Final](https://twitch.tv/StarLadder_cs_en)** by **StarLadder_cs_en**<br>171,339명 시청  - Counter-Strike
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_illojuan-320x180.jpg)](https://twitch.tv/IlloJuan)
+**[SOLO FALTAN 5 MEDALLAS 🥰 GRACIAS SEKIAM 💋 TE QUEREMOS 💘 - Pokémon Twitch Cup 4 ft. Knekro #3](https://twitch.tv/IlloJuan)** by **IlloJuan**<br>36,482명 시청  - Pokémon Community Game
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eliasn97-320x180.jpg)](https://twitch.tv/eliasn97)
-**[FINALE ICONLEAGUE IN WIEN 🔥 DNA Athletics vs. Plyrs United ⚽  | !iconleague !lyora !doku !eligella !gaming](https://twitch.tv/eliasn97)** by **eliasn97**<br>109,998명 시청  - Special Events
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
+**[[349/365] 🏆$50,000 Console Pro League Tourney 🏆](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>36,201명 시청  - Tom Clancy's Rainbow Six Siege X
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_croissantstriketv-320x180.jpg)](https://twitch.tv/CroissantStrikeTV)
-**[VITALITY vs FAZE CLAN - GRANDE FINALE - STARLADDER MAJOR BUDAPEST - !Winamax !Crypto !Matnet](https://twitch.tv/CroissantStrikeTV)** by **CroissantStrikeTV**<br>61,992명 시청  - Counter-Strike
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_anyme023-320x180.jpg)](https://twitch.tv/Anyme023)
+**[CAMPING PARADIS  !jd !discord](https://twitch.tv/Anyme023)** by **Anyme023**<br>31,580명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2025-12-14 21:12 UTC
+: 마지막 업데이트: 2025-12-14 22:12 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
