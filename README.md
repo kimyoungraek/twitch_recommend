@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
-**[告知をしてからスクリムをする](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>13,528명 시청  - League of Legends
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[19時より龍が如く極み２](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>20,019명 시청  - Just Chatting
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_summit1g-320x180.jpg)](https://twitch.tv/summit1g)
-**[cs chillin @summit1g !starforge @StarforgeSystems](https://twitch.tv/summit1g)** by **summit1g**<br>12,087명 시청  - Counter-Strike
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gocchanmikey-320x180.jpg)](https://twitch.tv/ごっちゃんマイキー)
+**[ストグラSeason2 １日目](https://twitch.tv/ごっちゃんマイキー)** by **ごっちゃんマイキー**<br>17,132명 시청  - Grand Theft Auto V
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_topson-320x180.jpg)](https://twitch.tv/Topson)
-**[7.40 PATCH LIVE LETSGO](https://twitch.tv/Topson)** by **Topson**<br>11,188명 시청  - Dota 2
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
+**[告知をしてからスクリムをする](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>12,530명 시청  - League of Legends
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_k4sen-320x180.jpg)](https://twitch.tv/k4sen)
-**[#𝓛𝓣𝓚 𝓟𝓵𝓪𝔂𝓸𝓯𝓯 𝓓𝓪𝔂𝟏 𝓦𝓲𝓷𝓷𝓮𝓻𝓼 𝓕𝓲𝓷𝓪𝓵](https://twitch.tv/k4sen)** by **k4sen**<br>11,028명 시청  - League of Legends
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_topson-320x180.jpg)](https://twitch.tv/Topson)
+**[7.40 PATCH LIVE LETSGO](https://twitch.tv/Topson)** by **Topson**<br>12,206명 시청  - Dota 2
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut_247-320x180.jpg)](https://twitch.tv/TheBurntPeanut_247)
-**[24/7 @TheBurntPeanut VODS/YT | TARKOV | ARC RAIDERS | SILLY GAMES | BUNGULATORS ONLY CHAT](https://twitch.tv/TheBurntPeanut_247)** by **TheBurntPeanut_247**<br>10,015명 시청  - Always On
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hjune-320x180.jpg)](https://twitch.tv/hJune)
+**[🔥XMAS DROPS 24/7🔥TRIO W FROST AND QAIXX & MULTISTREAMING :) !donate !leaderboard !mousepad !newvid !youtube !hjune2](https://twitch.tv/hJune)** by **hJune**<br>9,222명 시청  - Rust
 
 
 ---
-: 마지막 업데이트: 2025-12-19 09:17 UTC
+: 마지막 업데이트: 2025-12-19 10:15 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
