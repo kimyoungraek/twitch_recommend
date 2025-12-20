@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[地元の連中とミメシスをやる](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>44,149명 시청  - MIMESIS
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_shadowkekw-320x180.jpg)](https://twitch.tv/shadowkekw)
+**[Shadowkek [0:0] Magixx | BetBoom Streamers Battle x Динамо | @strogo @des0ut @skywhywalker @dmitry_lixxx 👉 !betboom !тг !tbank](https://twitch.tv/shadowkekw)** by **shadowkekw**<br>44,979명 시청  - Counter-Strike
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ramzes-320x180.jpg)](https://twitch.tv/ramzes)
-**[Team Yandex [1:0] Team Spirit | DreamLeague S27: Upper Bracket Final | bo3 | w/ @afoninje !tg !win !give !playerok !интервью](https://twitch.tv/ramzes)** by **ramzes**<br>33,993명 시청  - Dota 2
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[地元の連中とミメシスをやる](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>41,234명 시청  - MIMESIS
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_dota2_paragon_ru-320x180.jpg)](https://twitch.tv/dota2_paragon_ru)
-**[Team Spirit [0:1] Team Yandex | DreamLeague S27: Playoffs | BO3 | @lexggez & @Y0nd](https://twitch.tv/dota2_paragon_ru)** by **dota2_paragon_ru**<br>33,332명 시청  - Dota 2
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sasavot-320x180.jpg)](https://twitch.tv/sasavot)
+**[СУББОТНИЙ/ДЕНЬ](https://twitch.tv/sasavot)** by **sasavot**<br>31,733명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_shadowkekw-320x180.jpg)](https://twitch.tv/shadowkekw)
-**[Shadowkek [0:0] Magixx | BetBoom Streamers Battle x Динамо | @strogo @des0ut 👉 !betboom !тг !tbank](https://twitch.tv/shadowkekw)** by **shadowkekw**<br>29,468명 시청  - Counter-Strike
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_quickybaby-320x180.jpg)](https://twitch.tv/QuickyBaby)
+**[🔥EXCLUSIVE !DROPS🔥 !CHARITY FUNDRAISER FOR !CRUK & !SPECIALEFFECT | $480,000 raised since 2013 | !GUESTS | !AUCTION of BZ-176 and EBR 75](https://twitch.tv/QuickyBaby)** by **QuickyBaby**<br>21,290명 시청  - World of Tanks
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_mashtakof-320x180.jpg)](https://twitch.tv/MashtakOF)
-**[DROPS ON Ёлочка, не забываем про ёлочку !тг !реф !прив !магаз !тт](https://twitch.tv/MashtakOF)** by **MashtakOF**<br>19,988명 시청  - STALCRAFT: X
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ohnepixel-320x180.jpg)](https://twitch.tv/ohnePixel)
+**[🔴ARE WE DOING GOLD TRADE UPS???🔴](https://twitch.tv/ohnePixel)** by **ohnePixel**<br>18,920명 시청  - Counter-Strike
 
 
 ---
-: 마지막 업데이트: 2025-12-20 16:16 UTC
+: 마지막 업데이트: 2025-12-20 17:11 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
