@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_shadowkekw-320x180.jpg)](https://twitch.tv/shadowkekw)
-**[Shadowkek [0:0] Magixx | BetBoom Streamers Battle x Динамо | @strogo @des0ut @skywhywalker @dmitry_lixxx 👉 !betboom !тг !tbank](https://twitch.tv/shadowkekw)** by **shadowkekw**<br>44,979명 시청  - Counter-Strike
+**[Shadowkek [0:1] Magixx | BetBoom Streamers Battle x Динамо | @strogo @des0ut @skywhywalker @dmitry_lixxx 👉 !betboom !тг !tbank](https://twitch.tv/shadowkekw)** by **shadowkekw**<br>38,642명 시청  - Counter-Strike
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[地元の連中とミメシスをやる](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>41,234명 시청  - MIMESIS
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sasavot-320x180.jpg)](https://twitch.tv/sasavot)
+**[СУББОТНИЙ/ДЕНЬ](https://twitch.tv/sasavot)** by **sasavot**<br>29,657명 시청  - Dota 2
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sasavot-320x180.jpg)](https://twitch.tv/sasavot)
-**[СУББОТНИЙ/ДЕНЬ](https://twitch.tv/sasavot)** by **sasavot**<br>31,733명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_anarabdullaev-320x180.jpg)](https://twitch.tv/anarabdullaev)
+**[Гуляем W/ @RavshanN @ekatze007 Ди Астер и её подруга](https://twitch.tv/anarabdullaev)** by **anarabdullaev**<br>24,151명 시청  - IRL
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_quickybaby-320x180.jpg)](https://twitch.tv/QuickyBaby)
-**[🔥EXCLUSIVE !DROPS🔥 !CHARITY FUNDRAISER FOR !CRUK & !SPECIALEFFECT | $480,000 raised since 2013 | !GUESTS | !AUCTION of BZ-176 and EBR 75](https://twitch.tv/QuickyBaby)** by **QuickyBaby**<br>21,290명 시청  - World of Tanks
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ohnepixel-320x180.jpg)](https://twitch.tv/ohnePixel)
+**[🔴RATING VIEWER CHRISTMAS TREES🔴](https://twitch.tv/ohnePixel)** by **ohnePixel**<br>21,203명 시청  - Counter-Strike
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ohnepixel-320x180.jpg)](https://twitch.tv/ohnePixel)
-**[🔴ARE WE DOING GOLD TRADE UPS???🔴](https://twitch.tv/ohnePixel)** by **ohnePixel**<br>18,920명 시청  - Counter-Strike
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-320x180.jpg)](https://twitch.tv/vedal987)
+**[THE 2025 NEURO SUBATHON](https://twitch.tv/vedal987)** by **vedal987**<br>21,154명 시청  - Cyberpunk 2077
 
 
 ---
-: 마지막 업데이트: 2025-12-20 17:11 UTC
+: 마지막 업데이트: 2025-12-20 18:18 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
