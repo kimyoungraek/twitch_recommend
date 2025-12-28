@@ -1,19 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_rtainjapan-320x180.jpg)](https://twitch.tv/RTAinJapan)
-**[スーパーマリオギャラクシー : RTA in Japan Winter 2025](https://twitch.tv/RTAinJapan)** by **RTAinJapan**<br>47,598명 시청  - Super Mario Galaxy
+**[スーパーマリオギャラクシー : RTA in Japan Winter 2025](https://twitch.tv/RTAinJapan)** by **RTAinJapan**<br>47,084명 시청  - Super Mario Galaxy
 
 **2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[1９時から龍が如くやる加藤純一](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>18,528명 시청  - Just Chatting
+**[龍が如く極2 初見実況プレイ5日目 ©︎SEGA](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>24,742명 시청  - Yakuza Kiwami 2
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_metashi12-320x180.jpg)](https://twitch.tv/metashi12)
-**[🔴24/7 <SAUERCROWD> 20.000€ EVENT [GM/MT POV] | !rested | !More | !prepmymeal | !TB | !knabekola | !Hitech #Werbung](https://twitch.tv/metashi12)** by **metashi12**<br>17,165명 시청  - World of Warcraft
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_buster-320x180.jpg)](https://twitch.tv/buster)
+**[BetBoom Streamers Battle x Динамо | TEAM BUSTER 0:0 CS2NEWS | @akyuliych @karavay46 @hypetried @r3salt](https://twitch.tv/buster)** by **buster**<br>23,663명 시청  - Counter-Strike
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_k3soju-320x180.jpg)](https://twitch.tv/k3soju)
-**[gg](https://twitch.tv/k3soju)** by **k3soju**<br>16,645명 시청  - Teamfight Tactics
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_metashi12-320x180.jpg)](https://twitch.tv/metashi12)
+**[🔴24/7 <SAUERCROWD> 20.000€ EVENT [GM/MT POV] | !rested | !More | !prepmymeal | !TB | !knabekola | !Hitech #Werbung](https://twitch.tv/metashi12)** by **metashi12**<br>20,998명 시청  - World of Warcraft
+
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_papaplatte-320x180.jpg)](https://twitch.tv/Papaplatte)
+**[[SAUERCROWD] 24/7 WOW HC LAN MIT WIELAND & REEZE OMG](https://twitch.tv/Papaplatte)** by **Papaplatte**<br>19,501명 시청  - World of Warcraft
 
 
 ---
-: 마지막 업데이트: 2025-12-28 09:14 UTC
+: 마지막 업데이트: 2025-12-28 10:14 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
