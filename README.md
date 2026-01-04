@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[MASSIVE NUT RAIDERS w/ Cloakzy & HutchMF | SLUR SATURDAY | #ShartInMyHandWhileISqueezeItLikePlay-Doh #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>68,605명 시청  - ARC Raiders
+**[MASSIVE NUT RAIDERS w/ Cloakzy & HutchMF | SLUR SATURDAY | #ShartInMyHandWhileISqueezeItLikePlay-Doh #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>62,147명 시청  - ARC Raiders
 
 **2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
-**[💬LIVE💬CLICK💬DRAMA💬NEWS💬VIDEOS💬REACTS💬GREAT TAKES ONLY💬YAY💬LOCK IT IN💬WE OUT HERE💬IM WRITING THIS TITLE💬COOL💬](https://twitch.tv/xQc)** by **xQc**<br>25,632명 시청  - Just Chatting
+**[💬LIVE💬CLICK💬DRAMA💬NEWS💬VIDEOS💬REACTS💬GREAT TAKES ONLY💬YAY💬LOCK IT IN💬WE OUT HERE💬IM WRITING THIS TITLE💬COOL💬](https://twitch.tv/xQc)** by **xQc**<br>25,204명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_n3on-320x180.jpg)](https://twitch.tv/N3on)
-**[N3on x Jack Della Maddalena (UFC STAR)](https://twitch.tv/N3on)** by **N3on**<br>21,340명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_willerz-320x180.jpg)](https://twitch.tv/WillerZ)
+**[[24/7 DROPS] CHRISTMAS EVENT  | !glasses](https://twitch.tv/WillerZ)** by **WillerZ**<br>11,878명 시청  - Escape from Tarkov
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lacy-320x180.jpg)](https://twitch.tv/Lacy)
-**[😎 LIVE ALL DAY 😎 3/365 😎 EATING ALL STREAM 😎 FORTNITE W/ DAWLA LATER 😎 LATE NIGHT GAMING 😎 CODE "LACY" 10% OFF YOUNGLA 😎](https://twitch.tv/Lacy)** by **Lacy**<br>20,549명 시청  - Call of Duty: Warzone
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_desmondpilak-320x180.jpg)](https://twitch.tv/DesmondPilak)
+**[[Last Day of Drops] First Prestige 6 ✅ | Lvl 53 | !starforge !settings !playlist !sens](https://twitch.tv/DesmondPilak)** by **DesmondPilak**<br>11,733명 시청  - Escape from Tarkov
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_logicalsolutions-320x180.jpg)](https://twitch.tv/LogicalSolutions)
-**[LAST NIGHT OF DROPS ~ !IMAGE GENERATOR WEBSITE COMING SOON](https://twitch.tv/LogicalSolutions)** by **LogicalSolutions**<br>14,132명 시청  - Escape from Tarkov
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_adapt-320x180.jpg)](https://twitch.tv/Adapt)
+**[🔴 HAPPY NEW YEAR!! 🔴 LATE NIGHT VIBES 🔴 GAMING W THE GUYS 🔴 IRL LATER??! 🔴](https://twitch.tv/Adapt)** by **Adapt**<br>10,470명 시청  - Call of Duty: Warzone
 
 
 ---
-: 마지막 업데이트: 2026-01-04 06:21 UTC
+: 마지막 업데이트: 2026-01-04 07:16 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
