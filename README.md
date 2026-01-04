@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[MASSIVE NUT RAIDERS w/ Cloakzy & HutchMF | SLUR SATURDAY | #ShartInMyHandWhileISqueezeItLikePlay-Doh #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>62,147명 시청  - ARC Raiders
+**[MASSIVE NUT RAIDERS w/ Cloakzy & HutchMF | SLUR SATURDAY | #ShartInMyHandWhileISqueezeItLikePlay-Doh #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>50,579명 시청  - ARC Raiders
 
 **2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
-**[💬LIVE💬CLICK💬DRAMA💬NEWS💬VIDEOS💬REACTS💬GREAT TAKES ONLY💬YAY💬LOCK IT IN💬WE OUT HERE💬IM WRITING THIS TITLE💬COOL💬](https://twitch.tv/xQc)** by **xQc**<br>25,204명 시청  - Just Chatting
+**[💬LIVE💬CLICK💬DRAMA💬NEWS💬VIDEOS💬REACTS💬GREAT TAKES ONLY💬YAY💬LOCK IT IN💬WE OUT HERE💬IM WRITING THIS TITLE💬COOL💬](https://twitch.tv/xQc)** by **xQc**<br>22,011명 시청  - Rocket League
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_willerz-320x180.jpg)](https://twitch.tv/WillerZ)
-**[[24/7 DROPS] CHRISTMAS EVENT  | !glasses](https://twitch.tv/WillerZ)** by **WillerZ**<br>11,878명 시청  - Escape from Tarkov
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sasatikk-320x180.jpg)](https://twitch.tv/sasatikk)
+**[このターミナルを終わらせに来た](https://twitch.tv/sasatikk)** by **sasatikk**<br>16,932명 시청  - Escape from Tarkov
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_desmondpilak-320x180.jpg)](https://twitch.tv/DesmondPilak)
-**[[Last Day of Drops] First Prestige 6 ✅ | Lvl 53 | !starforge !settings !playlist !sens](https://twitch.tv/DesmondPilak)** by **DesmondPilak**<br>11,733명 시청  - Escape from Tarkov
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_yuyuta0702-320x180.jpg)](https://twitch.tv/ゆゆうた押忍)
+**[おはようございます](https://twitch.tv/ゆゆうた押忍)** by **ゆゆうた押忍**<br>12,806명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_adapt-320x180.jpg)](https://twitch.tv/Adapt)
-**[🔴 HAPPY NEW YEAR!! 🔴 LATE NIGHT VIBES 🔴 GAMING W THE GUYS 🔴 IRL LATER??! 🔴](https://twitch.tv/Adapt)** by **Adapt**<br>10,470명 시청  - Call of Duty: Warzone
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_verybadscav-320x180.jpg)](https://twitch.tv/VeryBadSCAV)
+**[24/7HR New [!drops] daily till Jan 4th PVE & PVP / !XMAS !tree / New Cultist !Circle / !promo code/ !ending route](https://twitch.tv/VeryBadSCAV)** by **VeryBadSCAV**<br>12,272명 시청  - Escape from Tarkov
 
 
 ---
-: 마지막 업데이트: 2026-01-04 07:16 UTC
+: 마지막 업데이트: 2026-01-04 08:19 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
