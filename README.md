@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[NUT RAIDERS /w cloakzy & HutchMF | #ShartInMyVicinitySoICanInhaleTheAroma | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>67,357명 시청  - ARC Raiders
+**[NUT RAIDERS /w cloakzy & HutchMF | #ShartInMyVicinitySoICanInhaleTheAroma | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>63,762명 시청  - ARC Raiders
 
 **2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
-**[🟨SPOOKY TIME🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>63,311명 시청  - Quarantine Zone: The Last Check
+**[🟨SPOOKY TIME🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>63,682명 시청  - Quarantine Zone: The Last Check
 
 **3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gamesdonequick-320x180.jpg)](https://twitch.tv/GamesDoneQuick)
-**[AGDQ 2026 benefiting Prevent Cancer Foundation - Chrono Trigger !donate !schedule](https://twitch.tv/GamesDoneQuick)** by **GamesDoneQuick**<br>42,327명 시청  - Chrono Trigger
+**[AGDQ 2026 benefiting Prevent Cancer Foundation - Chrono Trigger !donate !schedule](https://twitch.tv/GamesDoneQuick)** by **GamesDoneQuick**<br>38,965명 시청  - Chrono Trigger
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_yourragegaming-320x180.jpg)](https://twitch.tv/yourragegaming)
-**[WE ARE BACK! FIRST STREAM OF 2026! YRG AWARDS!!](https://twitch.tv/yourragegaming)** by **yourragegaming**<br>20,449명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
+**[🙀LIVE🙀CLICK🙀DRAMA🙀NEWS🙀THINGS🙀RUNS🙀CLIPS🙀VIDEOS🙀RECORD🙀YAY🙀438973489248947897894892747893497824897🙀](https://twitch.tv/xQc)** by **xQc**<br>24,233명 시청  - Minecraft
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
-**[🙀LIVE🙀CLICK🙀DRAMA🙀NEWS🙀THINGS🙀RUNS🙀CLIPS🙀VIDEOS🙀RECORD🙀YAY🙀438973489248947897894892747893497824897🙀](https://twitch.tv/xQc)** by **xQc**<br>17,590명 시청  - Minecraft
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_yourragegaming-320x180.jpg)](https://twitch.tv/yourragegaming)
+**[WE ARE BACK! FIRST STREAM OF 2026! YRG AWARDS!!](https://twitch.tv/yourragegaming)** by **yourragegaming**<br>12,853명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2026-01-10 05:15 UTC
+: 마지막 업데이트: 2026-01-10 06:21 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
