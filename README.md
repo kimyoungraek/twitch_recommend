@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
-**[🔴LEC G2 VS KOI #WatchLEC🔴 !discord](https://twitch.tv/Caedrel)** by **Caedrel**<br>69,449명 시청  - League of Legends
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_loud_coringa-320x180.jpg)](https://twitch.tv/loud_coringa)
+**[DIRETAMENTE DO ALLIANZ PARQUE │ Brasil x Chile | Kings World Cup: FINAL](https://twitch.tv/loud_coringa)** by **loud_coringa**<br>37,188명 시청  - Kings League
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ibai-320x180.jpg)](https://twitch.tv/ibai)
-**[LEC J1 | MKOI vs G2 | COSTREAM OFICIAL | DAMOS TODOS LOS PARTIDOS | VUELVE LA LOCURA #WatchLEC](https://twitch.tv/ibai)** by **ibai**<br>60,917명 시청  - League of Legends
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
+**[👺JUDGE RULES AGAINST ICE👺NAZI RALLY IN MN TODAY👺REGIME CHANGE IN IRAN👺 TARIFFS TILL GREENLAND IS OURS?!👺SATURDAY REACTLORD👺GAMING?](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>33,436명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_shadowkekw-320x180.jpg)](https://twitch.tv/shadowkekw)
-**[MONTE [0:1] FALCONS | BLAST Bounty 2026 S1 👉 !betboom !тг](https://twitch.tv/shadowkekw)** by **shadowkekw**<br>44,195명 시청  - Counter-Strike
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_plaqueboymax-320x180.jpg)](https://twitch.tv/plaqueboymax)
+**[FIRST LONDON SHOW 🇬🇧 W/ SKEPTA 🇬🇧](https://twitch.tv/plaqueboymax)** by **plaqueboymax**<br>28,623명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kamet0-320x180.jpg)](https://twitch.tv/Kamet0)
-**[MOVISTAR KOI vs G2 ESPORTS | LEC Winter (BO1) - #WatchLEC 🔵 (!match) (!prime) (!bluerising)](https://twitch.tv/Kamet0)** by **Kamet0**<br>43,817명 시청  - League of Legends
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
+**[[382/730] 🟥 CLIPS -> ROCKET LEAGUE PLACEMENT MATCHES 🟥](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>26,923명 시청  - Tom Clancy's Rainbow Six Siege X
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_blastpremier-320x180.jpg)](https://twitch.tv/BLASTPremier)
-**[BLAST Premier Bounty Season 1 2026 - Day 5 - paiN vs HEROIC, Gentle Mates vs Team Liquid, GamerLegion vs Aurora, Monte vs Team Falcons](https://twitch.tv/BLASTPremier)** by **BLASTPremier**<br>41,253명 시청  - Counter-Strike
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tumblurr-320x180.jpg)](https://twitch.tv/Tumblurr)
+**[🏆 ALLE 22.45 GIOCA BLUR 🤢 A MEZZANOTTE FINALE KINGS WORLD CUP NATIONS 2026🏆DIRETTAMENTE DA UNO STADIO⚽](https://twitch.tv/Tumblurr)** by **Tumblurr**<br>26,556명 시청  - Kings League
 
 
 ---
-: 마지막 업데이트: 2026-01-17 21:12 UTC
+: 마지막 업데이트: 2026-01-17 22:13 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
