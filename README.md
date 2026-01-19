@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
-**[🟨LOSING MY MIND🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>61,370명 시청  - Quarantine Zone: The Last Check
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[時差ボケ治ったがDBDで完全に昼夜逆転した男](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>25,238명 시청  - Dead by Daylight
 
 **2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tfue-320x180.jpg)](https://twitch.tv/Tfue)
-**[CHEATER POV](https://twitch.tv/Tfue)** by **Tfue**<br>27,257명 시청  - ARC Raiders
+**[CHEATER POV](https://twitch.tv/Tfue)** by **Tfue**<br>21,173명 시청  - ARC Raiders
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[時差ボケ治ったがDBDで完全に昼夜逆転した男](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>24,999명 시청  - Dead by Daylight
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_summit1g-320x180.jpg)](https://twitch.tv/summit1g)
+**[chillin @summit1g !starforge @StarforgeSystems](https://twitch.tv/summit1g)** by **summit1g**<br>10,863명 시청  - Delta Force
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_loltyler1-320x180.jpg)](https://twitch.tv/loltyler1)
-**[UNLOCK SECRETS SUCCESS ALL THING FOR HOW BEEN ! can tells ? LOL funny joked kid now RUN HIDE SEEK ! THE TRAIN AND TRACKS !! CHOO CHOO !!!](https://twitch.tv/loltyler1)** by **loltyler1**<br>15,412명 시청  - League of Legends
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ironmouse-320x180.jpg)](https://twitch.tv/ironmouse)
+**[NO MORE GRASS, NOW WE GAME !concert ALBUM LIVE | !cheeky | !ht | !moe | !starforge | !tts | !merch | !yt | !razer | !gfuel](https://twitch.tv/ironmouse)** by **ironmouse**<br>10,605명 시청  - Quarantine Zone: The Last Check
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_n3on-320x180.jpg)](https://twitch.tv/N3on)
-**[N3on vs Zavala Soccer Match + Carne Asada](https://twitch.tv/N3on)** by **N3on**<br>14,547명 시청  - Just Chatting
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_pikabooirl-320x180.jpg)](https://twitch.tv/Pikabooirl)
+**[QUICK 5 WIN GLAD PUSH! 3rd BEST DAY OF THE WEEK! TBC HYPEEE!! HONOR GAINS BUFFED 50%!! !youtube](https://twitch.tv/Pikabooirl)** by **Pikabooirl**<br>7,093명 시청  - World of Warcraft
 
 
 ---
-: 마지막 업데이트: 2026-01-19 06:28 UTC
+: 마지막 업데이트: 2026-01-19 07:23 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
