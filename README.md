@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[384/730] 🔴 CLIMBING 2S W/ COACH @SquishyMuffinz & @thesketchreal -> 1V1 WAGER VS RON @ 9PM EST🔴](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>40,082명 시청  - Rocket League
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
+**[🟨COOKING WITH CASEOH🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>63,480명 시청  - Just Chatting
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_n3on-320x180.jpg)](https://twitch.tv/N3on)
-**[N3on x Kevin Gates Double Date](https://twitch.tv/N3on)** by **N3on**<br>35,612명 시청  - Just Chatting
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
+**[ARC NUTTERS | MANY MEN MONDAY | #ShartInMyButtCallMrShartButt #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>63,339명 시청  - ARC Raiders
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
-**[👺MLK DAY👺TRUMP READIES TROOPS  FOR MN👺GREENLAND MANIA OVER NOBEL?👺REGIME CHANGE IN IRAN👺KAT ABUGHAZALEH👺 - !guest](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>34,312명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
+**[[384/730] 🔴 2V1 WAGER W/ RON VS XQC 🔴](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>38,507명 시청  - Rocket League
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stableronaldo-320x180.jpg)](https://twitch.tv/stableronaldo)
-**[⚽ UCLA SOCCER TRAINING ⚽ SIDEMEN PLEASE WATCH ⚽ TOP 250 PURE TALENT ⚽ IRL ⚽ JYNXZI 1V1 LATER?⚽  [twitter/insta stableronaldo] !po !com !sub](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>30,070명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
+**[🍀LIVE🍀CLICK🍀HERE🍀DRAMA🍀NEWS🍀VIDEOS🍀CLIPS🍀REACTS🍀STUFF🍀PULL UP🍀AYY🍀YIPEE🍀LETS HAVE FUN🍀1010101🍀](https://twitch.tv/xQc)** by **xQc**<br>32,671명 시청  - Rocket League
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tfue-320x180.jpg)](https://twitch.tv/Tfue)
-**[KILLING CHEATERS ALL DAY](https://twitch.tv/Tfue)** by **Tfue**<br>23,998명 시청  - ARC Raiders
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lacy-320x180.jpg)](https://twitch.tv/Lacy)
+**[🔴 MIAMI vs INDIANA WATCHPARTY 🔴 $11,500 ON MIAMI 🔴 NATIONAL CHAMPIONSHIP 🔴 $2000 GIVEAWAY IF MIAMI WINS 🔴](https://twitch.tv/Lacy)** by **Lacy**<br>32,148명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2026-01-20 01:10 UTC
+: 마지막 업데이트: 2026-01-20 03:27 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
