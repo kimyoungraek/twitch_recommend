@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-320x180.jpg)](https://twitch.tv/StRoGo)
-**[🔴[NO DELAY] s1mple 0:0 Ursa | bo3 | IEM Rio 2026 Closed Qualifier |](https://twitch.tv/StRoGo)** by **StRoGo**<br>19,615명 시청  - Counter-Strike
+**[🔴[NO DELAY] s1mple 0:0 Ursa | bo3 | IEM Rio 2026 Closed Qualifier | @m3wsu @ct0m](https://twitch.tv/StRoGo)** by **StRoGo**<br>43,943명 시청  - Counter-Strike
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_brawks-320x180.jpg)](https://twitch.tv/brawks)
-**[Qualifier IEM RIO - M8 vs Nuclear TigeRES w/ @shoxiejesuss](https://twitch.tv/brawks)** by **brawks**<br>14,809명 시청  - Counter-Strike
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ishowspeed-320x180.jpg)](https://twitch.tv/IShowSpeed)
+**[irl stream in Nigeria 🇳🇬  (50 million) + (21st birthday)](https://twitch.tv/IShowSpeed)** by **IShowSpeed**<br>22,591명 시청  - IRL
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lck-320x180.jpg)](https://twitch.tv/LCK)
-**[DK vs NS - DRX vs DNS | 2026 LCK CUP](https://twitch.tv/LCK)** by **LCK**<br>13,343명 시청  - League of Legends
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_dmitry_lixxx-320x180.jpg)](https://twitch.tv/Dmitry_Lixxx)
+**[[NO DELAY] S1mple 0:0 Ursa w/ @evelone2004 @Aunkere @degst3r @hypetried | IEM Rio 2026 Closed Qualifier | !tg !winline !lis !rave !pioner](https://twitch.tv/Dmitry_Lixxx)** by **Dmitry_Lixxx**<br>17,992명 시청  - Counter-Strike
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fantasista_jp-320x180.jpg)](https://twitch.tv/ファン太)
-**[STGR13日目](https://twitch.tv/ファン太)** by **ファン太**<br>12,875명 시청  - Grand Theft Auto V
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gamerbrother-320x180.jpg)](https://twitch.tv/GamerBrother)
+**[Tag 4 | 151 STUNDEN TOTY-VERTEIDIGER RELEASE mit @Tisischubech 🔥🔥 | !prime](https://twitch.tv/GamerBrother)** by **GamerBrother**<br>13,327명 시청  - EA Sports FC 26
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gamerbrother-320x180.jpg)](https://twitch.tv/GamerBrother)
-**[Tag 4 | 151 STUNDEN TOTY-VERTEIDIGER RELEASE mit @Tisischubech 🔥🔥 | !prime](https://twitch.tv/GamerBrother)** by **GamerBrother**<br>12,337명 시청  - EA Sports FC 26
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fantasista_jp-320x180.jpg)](https://twitch.tv/ファン太)
+**[STGR13日目](https://twitch.tv/ファン太)** by **ファン太**<br>12,532명 시청  - Grand Theft Auto V
 
 
 ---
-: 마지막 업데이트: 2026-01-21 13:39 UTC
+: 마지막 업데이트: 2026-01-21 14:23 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
