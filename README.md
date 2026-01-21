@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[ARC NUTTERS | TESTICULAR TORSION TUESDAY | #ShartOnMyForehead&DripItDownIntoMyMouth #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>51,890명 시청  - ARC Raiders
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
+**[🔴LCK DK VS NS  🔴 !discord](https://twitch.tv/Caedrel)** by **Caedrel**<br>24,493명 시청  - League of Legends
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
-**[🙋‍♂️LIVE🙋‍♂️CLICK🙋‍♂️HERE🙋‍♂️LOCK IN🙋‍♂️DRAMA🙋‍♂️NEWS🙋‍♂️VIDEOS🙋‍♂️GAMES🙋‍♂️STUFF🙋‍♂️WOW🙋‍♂️](https://twitch.tv/xQc)** by **xQc**<br>22,649명 시청  - Rocket League
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut_247-320x180.jpg)](https://twitch.tv/TheBurntPeanut_247)
+**[24/7 @TheBurntPeanut VODS/YT | TARKOV | ARC RAIDERS | SILLY GAMES | BUNGULATORS ONLY CHAT](https://twitch.tv/TheBurntPeanut_247)** by **TheBurntPeanut_247**<br>14,563명 시청  - Always On
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_yourragegaming-320x180.jpg)](https://twitch.tv/yourragegaming)
-**[Opening a Resturant with Juliakins! @juliakins](https://twitch.tv/yourragegaming)** by **yourragegaming**<br>17,970명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lck-320x180.jpg)](https://twitch.tv/LCK)
+**[DK vs NS - DRX vs DNS | 2026 LCK CUP](https://twitch.tv/LCK)** by **LCK**<br>11,885명 시청  - League of Legends
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_silky-320x180.jpg)](https://twitch.tv/Silky)
-**[🟣 OSCS DAY 🟣 ORG TOUR 2026 🟣 !patreon !sub !socials](https://twitch.tv/Silky)** by **Silky**<br>10,354명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tfue-320x180.jpg)](https://twitch.tv/Tfue)
+**[STELLA MONTIS MOVEMENT DEMONS](https://twitch.tv/Tfue)** by **Tfue**<br>10,951명 시청  - ARC Raiders
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ddg-320x180.jpg)](https://twitch.tv/DDG)
-**[RAKAI MUST BE STOPPED…](https://twitch.tv/DDG)** by **DDG**<br>10,120명 시청  - IRL
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_silky-320x180.jpg)](https://twitch.tv/Silky)
+**[🟣 OSCS DAY 🟣 ORG TOUR 2026 🟣 !patreon !sub !socials](https://twitch.tv/Silky)** by **Silky**<br>10,562명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2026-01-21 07:22 UTC
+: 마지막 업데이트: 2026-01-21 08:23 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
