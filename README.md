@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
-**[🔴LCK GENG VS DK🔴 !discord](https://twitch.tv/Caedrel)** by **Caedrel**<br>56,060명 시청  - League of Legends
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[ダンガンロンパ２やる](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>47,312명 시청  - Danganronpa 2: Goodbye Despair
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_daxak-320x180.jpg)](https://twitch.tv/Daxak)
-**[топ 100 ммр "игрок" !тг !разбор !ютуб РОЗЫГРЫШ !розыгрыш !пудж](https://twitch.tv/Daxak)** by **Daxak**<br>26,568명 시청  - Dota 2
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_renatko-320x180.jpg)](https://twitch.tv/renatko)
+**[ПОКУПКА CLS 63 со @steel @aleekooo !bb !гта](https://twitch.tv/renatko)** by **renatko**<br>14,583명 시청  - IRL
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lck-320x180.jpg)](https://twitch.tv/LCK)
-**[HLE vs DNS - DK vs GEN | 2026 LCK CUP](https://twitch.tv/LCK)** by **LCK**<br>22,284명 시청  - League of Legends
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_metashi12-320x180.jpg)](https://twitch.tv/metashi12)
+**[[DROPS] 58 WARRI DEAD. <SAUERCROWD> GO AGAIN! | !rested | !More | !prepmymeal | !TB | !knabekola | !Hitech !Midnight #Werbung](https://twitch.tv/metashi12)** by **metashi12**<br>13,300명 시청  - World of Warcraft
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lazvell-320x180.jpg)](https://twitch.tv/Lazvell)
-**[DRX vs FS - VCT Pacific 2026 KICKOFF - Day 3 #VCTWatchParty](https://twitch.tv/Lazvell)** by **Lazvell**<br>17,910명 시청  - VALORANT
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_mokrivskyi-320x180.jpg)](https://twitch.tv/mokrivskyi)
+**[ГАРРИ ПОТНЫЙ ФИНАЛ | НАЧАЛО 15:34 !tg](https://twitch.tv/mokrivskyi)** by **mokrivskyi**<br>12,863명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_bijusan-320x180.jpg)](https://twitch.tv/Bijusan)
-**[VCT Pacific 2026 : KICKOFF - Day 3 ２２時超えたらプレミアに出るためきるかもしれないびず](https://twitch.tv/Bijusan)** by **Bijusan**<br>15,218명 시청  - VALORANT
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_superbuss_-320x180.jpg)](https://twitch.tv/SuperBusS_)
+**[ดูแข่งand T1 vs NS and DRX vs FSSSSSSSSSSSSSS  #VCTWatchParty](https://twitch.tv/SuperBusS_)** by **SuperBusS_**<br>12,300명 시청  - VALORANT
 
 
 ---
-: 마지막 업데이트: 2026-01-24 12:27 UTC
+: 마지막 업데이트: 2026-01-24 13:26 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
