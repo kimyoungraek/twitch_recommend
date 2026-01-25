@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
-**[[DROPS ON] BIG DAY HUGE DRAMA ARKKNIGHTS ENDFIELD RELEASE NEW BIG NEWS AND GAMES MULTISTREAMING+REACTS  | Follow  @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>49,237명 시청  - Just Chatting
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
+**[She Spaceport My Bluegate Until I Stella Montis | #ShartFumesInASealedRoomWhileIHyperventilate #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>65,217명 시청  - ARC Raiders
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[389/730] 🟥 ROAD TO GOLD DAY 7 🟥](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>42,649명 시청  - Rocket League
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_2xrakai-320x180.jpg)](https://twitch.tv/2xRaKai)
+**[SLEEPOVER😈TRENCHES😈LIT STREAM😈](https://twitch.tv/2xRaKai)** by **2xRaKai**<br>20,053명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stableronaldo-320x180.jpg)](https://twitch.tv/stableronaldo)
-**[🌊 DRIVING MY DREAM CAR 🌊EXPLORING MIAMI w/ ALEX G & MARLON🌊 MIAMI DAY 2 🌊 GOOD VIBES 🌊 LIFE 🌊 [twitter/insta @stableronaldo] !com !po](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>39,501명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sodapoppin-320x180.jpg)](https://twitch.tv/sodapoppin)
+**[Naxx full clear today 100% over 1000% over 1mil% clearing it w/ @ahmpy | !podcast !guide !gamersupps](https://twitch.tv/sodapoppin)** by **sodapoppin**<br>18,348명 시청  - World of Warcraft
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
-**[IRL PROTEST IN MN / ICE WATCH 👺 ICE KILLS ANOTHER IN MN THIS MORNING 👺 NO ICE 👺 NEWS LATER 👺](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>39,255명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_yourragegaming-320x180.jpg)](https://twitch.tv/yourragegaming)
+**[LOOKIN FOR RON & SILKY IN MIAMI? REACTIONS!’](https://twitch.tv/yourragegaming)** by **yourragegaming**<br>16,427명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_rubius-320x180.jpg)](https://twitch.tv/Rubius)
-**[☄️DIA LEGENDARIO☄️LIGA POKEMON☄️FINAL DE KANTO☄️MAS LEGENDARIOS☄️FULL ENDGAME☄️](https://twitch.tv/Rubius)** by **Rubius**<br>33,398명 시청  - Minecraft
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tfue-320x180.jpg)](https://twitch.tv/Tfue)
+**[STELLA MONTIS DEMON](https://twitch.tv/Tfue)** by **Tfue**<br>15,190명 시청  - ARC Raiders
 
 
 ---
-: 마지막 업데이트: 2026-01-25 01:18 UTC
+: 마지막 업데이트: 2026-01-25 03:47 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
