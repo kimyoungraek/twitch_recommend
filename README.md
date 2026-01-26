@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
-**[👺BACK IN LA👺ICE IS SIEGING MN 👺 HOGWATCH ICE EDITION👺 SUNDAYNEWSDAY 👺](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>42,369명 시청  - Just Chatting
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
+**[🟨LOSING MY MIND🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>59,890명 시청  - BUCKSHOT ROULETTE
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[390/730]  🏆 TOP #6,000,000 🏆 ROAD TO GOLD DAY 8 🏆 BOTTOM 3% 🏆 LOCK IN 🏆](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>42,044명 시청  - Rocket League
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_loud_coringa-320x180.jpg)](https://twitch.tv/loud_coringa)
+**[🇺🇸 IRL - DIA 5 | 👻 NOITE DE TERROR EM LAS VEGAS](https://twitch.tv/loud_coringa)** by **loud_coringa**<br>35,619명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
-**[[DROPS ON] BIG DAY HUGE DRAMA ARKKNIGHTS ENDFIELD RELEASE NEW BIG NEWS AND GAMES MULTISTREAMING+REACTS  | Follow  @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>39,002명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tfue-320x180.jpg)](https://twitch.tv/Tfue)
+**[STELLA MONTIS MAX WINS INBOUND](https://twitch.tv/Tfue)** by **Tfue**<br>26,067명 시청  - ARC Raiders
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lacy-320x180.jpg)](https://twitch.tv/Lacy)
-**[🏈 RAMS vs SEAHAWKS WATCH PARTY 🏈 $25,000 BET ON SEAHAWKS 🏈 GIVEAWAY IF SEAHAWKS WIN 🏈 W/ KONVY & BENDADON 🏈](https://twitch.tv/Lacy)** by **Lacy**<br>38,214명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jasontheween-320x180.jpg)](https://twitch.tv/jasontheween)
+**[🔴LOST IN LA W/ @adapt🔴HELP ME🔴DESKTOP WHEN I GET HOME🔴](https://twitch.tv/jasontheween)** by **jasontheween**<br>23,212명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gabepeixe-320x180.jpg)](https://twitch.tv/gabepeixe)
-**[🇺🇸 IRL EM LAS VEGAS, CHEGAMOS! - DIA 6](https://twitch.tv/gabepeixe)** by **gabepeixe**<br>26,689명 시청  - Just Chatting
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
+**[🧑‍🎓LIVE🧑‍🎓CLICK🧑‍🎓DRAMA🧑‍🎓NEWS🧑‍🎓CLIPS🧑‍🎓VIDEOS🧑‍🎓STUFF🧑‍🎓IMPORTANT🧑‍🎓RECORD TODAY🧑‍🎓STUFF🧑‍🎓JUST PULL UP🧑‍🎓](https://twitch.tv/xQc)** by **xQc**<br>23,031명 시청  - Minecraft
 
 
 ---
-: 마지막 업데이트: 2026-01-26 01:17 UTC
+: 마지막 업데이트: 2026-01-26 03:50 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
