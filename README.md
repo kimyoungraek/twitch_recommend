@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tfue-320x180.jpg)](https://twitch.tv/Tfue)
-**[7400+ Knocks](https://twitch.tv/Tfue)** by **Tfue**<br>19,079명 시청  - ARC Raiders
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[スーパーダンガンロンパ2 さよなら絶望学園実況プレイ #4](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>42,567명 시청  - Danganronpa 2: Goodbye Despair
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ishowspeed-320x180.jpg)](https://twitch.tv/IShowSpeed)
-**[irl Tribe stream in Namibia 🇳🇦 (Himba Tribe)](https://twitch.tv/IShowSpeed)** by **IShowSpeed**<br>18,021명 시청  - IRL
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_evelone2004-320x180.jpg)](https://twitch.tv/evelone2004)
+**[12 ЧАСОВОЙ СТРИМ 🔥 🔥 🔥](https://twitch.tv/evelone2004)** by **evelone2004**<br>26,016명 시청  - Just Chatting
 
 **3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
-**[🔴POKEMON HARDCORE SOULLINK NUZLOCKED WITH @CDAWG 🔴 !discord](https://twitch.tv/Caedrel)** by **Caedrel**<br>13,091명 시청  - Pokémon Black/White
+**[🔴POKEMON HARDCORE SOULLINK NUZLOCKED WITH @CDAWG 🔴 !discord](https://twitch.tv/Caedrel)** by **Caedrel**<br>13,812명 시청  - Pokémon Black/White
 
 **4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_skywhywalker-320x180.jpg)](https://twitch.tv/skywhywalker)
-**[играю жестко, иногда прикалываюсь 😊/w @ct0m](https://twitch.tv/skywhywalker)** by **skywhywalker**<br>11,694명 시청  - Counter-Strike
+**[играю жестко, иногда прикалываюсь 😊/w @ct0m](https://twitch.tv/skywhywalker)** by **skywhywalker**<br>11,666명 시청  - Counter-Strike
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gon_vl-320x180.jpg)](https://twitch.tv/gon_vl)
-**[VC基本オン 世界で１番流行ってるRobloxでエイム勝負出来るゲームがあるらしいから調査する→VALO](https://twitch.tv/gon_vl)** by **gon_vl**<br>11,032명 시청  - ROBLOX
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_thebausffs-320x180.jpg)](https://twitch.tv/Thebausffs)
+**[Soloq Adventures](https://twitch.tv/Thebausffs)** by **Thebausffs**<br>10,586명 시청  - League of Legends
 
 
 ---
-: 마지막 업데이트: 2026-01-27 11:17 UTC
+: 마지막 업데이트: 2026-01-27 12:33 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
