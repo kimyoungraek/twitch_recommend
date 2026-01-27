@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[NUT NUTTERS w/ Officer | Maybe HighGuard Later | #ILoveHatingOnNewGamesBecauseTheyAreNew #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>53,643명 시청  - ARC Raiders
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut_247-320x180.jpg)](https://twitch.tv/TheBurntPeanut_247)
+**[24/7 @TheBurntPeanut VODS/YT | TARKOV | ARC RAIDERS | SILLY GAMES | BUNGULATORS ONLY CHAT](https://twitch.tv/TheBurntPeanut_247)** by **TheBurntPeanut_247**<br>15,226명 시청  - Always On
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_emiru-320x180.jpg)](https://twitch.tv/Emiru)
-**[HELLO :3 ⭐🩷 ABSOLUTE SILENCE + ZERO REACTION + SMALL GAMING ⭐🩷 RDR2 FIRST PLAYTHROUGH CONTINUES (FINALE?) ⭐🩷 I AM THAT GUY @EMIRU247](https://twitch.tv/Emiru)** by **Emiru**<br>19,078명 시청  - Red Dead Redemption II
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tfue-320x180.jpg)](https://twitch.tv/Tfue)
+**[7400+ Knocks](https://twitch.tv/Tfue)** by **Tfue**<br>14,075명 시청  - ARC Raiders
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
-**[14:27 14:27 14:27 14:27 14:27 14:27🚵LIVE🚵DRAMA🚵NEWS🚵GAMES🚵VIDEOS🚵REACTS🚵IMPORTANT🚵ALERT🚵RECORD TODAY🚵DONT MISS IT🚵1111111111111🚵](https://twitch.tv/xQc)** by **xQc**<br>17,453명 시청  - League of Legends
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_agent00-320x180.jpg)](https://twitch.tv/Agent00)
+**[SURVIVING THE ARCTIC + ATTEMPT #2 + GOING TO NORTH POLE WEDNESDAY + OUTDOOR BOYS RP](https://twitch.tv/Agent00)** by **Agent00**<br>13,128명 시청  - IRL
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_agent00-320x180.jpg)](https://twitch.tv/Agent00)
-**[SURVIVING THE ARCTIC + ATTEMPT #2 + GOING TO NORTH POLE WEDNESDAY + OUTDOOR BOYS RP](https://twitch.tv/Agent00)** by **Agent00**<br>13,316명 시청  - IRL
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ludwig-320x180.jpg)](https://twitch.tv/Ludwig)
+**[IM IN DRAMA🔕DONT CARE TIME FOR GOLD🗝️](https://twitch.tv/Ludwig)** by **Ludwig**<br>9,589명 시청  - Minecraft
 
 **5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_yourragegaming-320x180.jpg)](https://twitch.tv/yourragegaming)
-**[THE WORLD IS COOKED. GAMES WITH ADA & SNOW! HOLLOW MONDAYS!!’](https://twitch.tv/yourragegaming)** by **yourragegaming**<br>11,640명 시청  - Just Chatting
+**[THE WORLD IS COOKED. GAMES WITH ADA & SNOW! HOLLOW MONDAYS!!’](https://twitch.tv/yourragegaming)** by **yourragegaming**<br>6,876명 시청  - Hollow Knight
 
 
 ---
-: 마지막 업데이트: 2026-01-27 07:22 UTC
+: 마지막 업데이트: 2026-01-27 08:23 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
