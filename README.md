@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[ZETA vs GE - VCT Pacific 2026 KICKOFF - Day 5](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>49,464명 시청  - VALORANT
+**[勝ち方を教えるDBD](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>32,870명 시청  - Dead by Daylight
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
-**[🔴LCK FEARX VS DNS🔴 !discord](https://twitch.tv/Caedrel)** by **Caedrel**<br>43,134명 시청  - League of Legends
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tfue-320x180.jpg)](https://twitch.tv/Tfue)
+**[7700+ Knocks](https://twitch.tv/Tfue)** by **Tfue**<br>15,882명 시청  - ARC Raiders
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gon_vl-320x180.jpg)](https://twitch.tv/gon_vl)
-**[今日DFM戦もZETA戦もあるの激熱すぎる ZETA vs GE - VCT Pacific 2026 KICKOFF - Day 5 #VCTWatchParty](https://twitch.tv/gon_vl)** by **gon_vl**<br>21,861명 시청  - VALORANT
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lacy-320x180.jpg)](https://twitch.tv/Lacy)
+**[🇶🇦 FOOTBALL TRAINING WITH EDEN HAZARD, MARCELO & DIEGO COSTA 🇶🇦 EXPERIENCING QATAR FOR THE FIRST TIME 🇶🇦 JOIN NOW 🇶🇦](https://twitch.tv/Lacy)** by **Lacy**<br>15,446명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lck-320x180.jpg)](https://twitch.tv/LCK)
-**[DNS vs BFX | 2026 LCK CUP](https://twitch.tv/LCK)** by **LCK**<br>16,914명 시청  - League of Legends
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_marlon-320x180.jpg)](https://twitch.tv/Marlon)
+**[FIRST TIME IN QATAR!! FULL DAY IN QATAR PREPARING FOR THE GAME WITH EDEN HAZARD, MARCELO & DIEGO COSTA!](https://twitch.tv/Marlon)** by **Marlon**<br>14,292명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lazvell-320x180.jpg)](https://twitch.tv/Lazvell)
-**[日本応援！ZETA vs GE - VCT Pacific 2026 KICKOFF - Day 5 #VCTWatchParty](https://twitch.tv/Lazvell)** by **Lazvell**<br>15,989명 시청  - VALORANT
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_skywhywalker-320x180.jpg)](https://twitch.tv/skywhywalker)
+**[играю жестко, иногда прикалываюсь 😊](https://twitch.tv/skywhywalker)** by **skywhywalker**<br>10,030명 시청  - Counter-Strike
 
 
 ---
-: 마지막 업데이트: 2026-01-29 11:25 UTC
+: 마지막 업데이트: 2026-01-29 12:40 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
