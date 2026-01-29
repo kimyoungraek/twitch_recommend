@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-320x180.jpg)](https://twitch.tv/StRoGo)
-**[🔴AURORA [1:1] PV | IEM Krakow 2026 Stage 1 | @stanislaw9 @m3wsu](https://twitch.tv/StRoGo)** by **StRoGo**<br>53,714명 시청  - Counter-Strike
+**[🔴BC [0:1] 3DMAX | IEM Krakow 2026 Stage 1 | @stanislaw9 @skywhywalker](https://twitch.tv/StRoGo)** by **StRoGo**<br>52,897명 시청  - Counter-Strike
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eslcs-320x180.jpg)](https://twitch.tv/ESLCS)
-**[LIVE: Aurora Gaming vs. PARIVISION - IEM Krakow 2026 - Stage 1](https://twitch.tv/ESLCS)** by **ESLCS**<br>36,431명 시청  - Counter-Strike
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gotaga-320x180.jpg)](https://twitch.tv/Gotaga)
+**[GENTLE MATES vs NAVI - #M8WIN #VCTWatchParty](https://twitch.tv/Gotaga)** by **Gotaga**<br>39,572명 시청  - VALORANT
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_buster-320x180.jpg)](https://twitch.tv/buster)
-**[🦖 PARIVISION [1:1] Aurora 🦖 IEM Krakow Stage 1 🦖 @dmitry_lixxx @aunkere @chopperinho 🦖](https://twitch.tv/buster)** by **buster**<br>29,706명 시청  - Counter-Strike
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ohnepixel-320x180.jpg)](https://twitch.tv/ohnePixel)
+**[🔴CAN S1MPLE QUALIFY FOR STAGE 2... (IEM KRAKOW 2026)🔴](https://twitch.tv/ohnePixel)** by **ohnePixel**<br>32,395명 시청  - Counter-Strike
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_bysl4m-320x180.jpg)](https://twitch.tv/bySL4M)
-**[[RU] Aurora [1:1] PARIVISION | BO3 | IEM Kraków 2026 Stage 1 | Day 2 /w @WorldEdit](https://twitch.tv/bySL4M)** by **bySL4M**<br>18,861명 시청  - Counter-Strike
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eslcs-320x180.jpg)](https://twitch.tv/ESLCS)
+**[LIVE: BC Game Esports vs. 3DMAX - IEM Krakow 2026 - Stage 1](https://twitch.tv/ESLCS)** by **ESLCS**<br>26,981명 시청  - Counter-Strike
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tfue-320x180.jpg)](https://twitch.tv/Tfue)
-**[7700+ Knocks](https://twitch.tv/Tfue)** by **Tfue**<br>16,220명 시청  - ARC Raiders
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_dmitry_lixxx-320x180.jpg)](https://twitch.tv/Dmitry_Lixxx)
+**[[NO DELAY] SIMPLE 0:1 3DMAX | IEM Krakow 2026 Stage 1 w/ @evelone2004 @aunkere @buster | !tg !winline !lis !rave !pioner !2026](https://twitch.tv/Dmitry_Lixxx)** by **Dmitry_Lixxx**<br>20,947명 시청  - Counter-Strike
 
 
 ---
-: 마지막 업데이트: 2026-01-29 15:28 UTC
+: 마지막 업데이트: 2026-01-29 16:34 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
