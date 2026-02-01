@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jasontheween-320x180.jpg)](https://twitch.tv/jasontheween)
-**[🔴NMS BOXING 3🔴](https://twitch.tv/jasontheween)** by **jasontheween**<br>90,075명 시청  - Just Chatting
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
+**[ARC NUTTERS | HUTCH X CLOAKZY | SLUR SATURDAY | #FartOnMyBox #Fedsex #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>69,785명 시청  - ARC Raiders
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[ARC NUTTERS | HUTCH X CLOAKZY | SLUR SATURDAY | #FartOnMyBox #Fedsex #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>66,961명 시청  - ARC Raiders
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
+**[🚔LIVE🚔DRAMA🚔NEWS🚔HERE🚔CLICK🚔PULL UP🚔VIDEOS🚔GAMES🚔REACTS🚔STUFF🚔IDK🚔BLAH BLAH🚔](https://twitch.tv/xQc)** by **xQc**<br>20,763명 시청  - Rocket League
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_plaqueboymax-320x180.jpg)](https://twitch.tv/plaqueboymax)
-**[GRAMMYS TOMORROW! I STARTED A JOURNEY TODAY! REACTING TO JASON’S BOXING EVENT! #excited](https://twitch.tv/plaqueboymax)** by **plaqueboymax**<br>44,991명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_krokoboa-320x180.jpg)](https://twitch.tv/krokoboa)
+**[Стрим проклят на 16666 зрителей | DJ: DopeAmine](https://twitch.tv/krokoboa)** by **krokoboa**<br>16,844명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_yourragegaming-320x180.jpg)](https://twitch.tv/yourragegaming)
-**[THE SISTERS ARE FIGHTING!! NMS BOXING 3!!!](https://twitch.tv/yourragegaming)** by **yourragegaming**<br>24,278명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_arky-320x180.jpg)](https://twitch.tv/Arky)
+**[🔶  BOXING AFTERMATH 🔶 !oscs !comm !socials](https://twitch.tv/Arky)** by **Arky**<br>15,723명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jerma985-320x180.jpg)](https://twitch.tv/Jerma985)
-**[Laugh You Lose, and Messin around with Clay](https://twitch.tv/Jerma985)** by **Jerma985**<br>21,074명 시청  - Just Chatting
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_moonmoon-320x180.jpg)](https://twitch.tv/MOONMOON)
+**[Evil Man (he is extremely evil)](https://twitch.tv/MOONMOON)** by **MOONMOON**<br>13,953명 시청  - Half Sword
 
 
 ---
-: 마지막 업데이트: 2026-02-01 04:24 UTC
+: 마지막 업데이트: 2026-02-01 05:56 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
