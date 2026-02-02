@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
-**[🔴LEC G2 VS VIT🔴 !discord](https://twitch.tv/Caedrel)** by **Caedrel**<br>83,023명 시청  - League of Legends
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
+**[[398/730] 🟥 ALMOST PLATINUM -> JYNXZI vs RAKAI @ 7PM EST 🟥](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>39,245명 시청  - Rocket League
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-320x180.jpg)](https://twitch.tv/StRoGo)
-**[🔴 FURIA 0:0 NaVi | IEM Krakow 2026 |  @skywhywalker @STANISLAW9](https://twitch.tv/StRoGo)** by **StRoGo**<br>69,061명 시청  - Counter-Strike
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stableronaldo-320x180.jpg)](https://twitch.tv/stableronaldo)
+**[❤️‍🔥 INDIAN MUKBANG ❤️‍🔥 YUGI ❤️‍🔥 IRL ❤️‍🔥 GAMES ❤️‍🔥 SHORT STREAM ❤️‍🔥 JOIN ❤️‍🔥 [twitter/instastableronaldo] !po !com !sub](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>34,531명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ohnepixel-320x180.jpg)](https://twitch.tv/ohnePixel)
-**[🔴NAVI vs FURIA [ELIMINATION] IEM KRAKOW 2026🔴](https://twitch.tv/ohnePixel)** by **ohnePixel**<br>59,300명 시청  - Counter-Strike
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
+**[👺IM BACK👺IN QATAR👺PARTIAL SHUTDOWN?👺EPSTEIN REVEALS POG👺YANIS VAROUFAKIS👺](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>34,134명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kamet0-320x180.jpg)](https://twitch.tv/Kamet0)
-**[G2 ESPORTS vs VITALITY | LEC Winter (BO1) - #WatchLEC 🔵 (!match) (!bluerising)](https://twitch.tv/Kamet0)** by **Kamet0**<br>41,451명 시청  - League of Legends
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_rubius-320x180.jpg)](https://twitch.tv/Rubius)
+**[⚡DIA MASIVO⚡MEDIA ESPADA ⚡YA HUBO CHEPAMON ⚡ CAP EN YT MAÑANA ⚡](https://twitch.tv/Rubius)** by **Rubius**<br>20,533명 시청  - Half Sword
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ibai-320x180.jpg)](https://twitch.tv/ibai)
-**[LEC J9 | MKOI vs TEAM HERETICS | SI GANAMOS ESTAMOS EN PLAYOFFS | LA MEJOR LEC DE LA HISTORIA](https://twitch.tv/ibai)** by **ibai**<br>41,183명 시청  - League of Legends
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_elxokas-320x180.jpg)](https://twitch.tv/elxokas)
+**[💎COACH EN DIAMANTE CON ELOJONINJA💎MEJORAMOS ASPECTOS DEL JUEGO💎SOY TAN BUENO QUE LOS LATAMERS DICEN QUE ESTOY ELOBOOSTED (GRACIAS)💎](https://twitch.tv/elxokas)** by **elxokas**<br>18,218명 시청  - League of Legends
 
 
 ---
-: 마지막 업데이트: 2026-02-02 18:33 UTC
+: 마지막 업데이트: 2026-02-02 23:20 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
