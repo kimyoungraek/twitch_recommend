@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_yourragegaming-320x180.jpg)](https://twitch.tv/yourragegaming)
-**[STREAMING WITH RON](https://twitch.tv/yourragegaming)** by **yourragegaming**<br>23,542명 시청  - Just Chatting
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tfue-320x180.jpg)](https://twitch.tv/Tfue)
+**[8300+ Knocks](https://twitch.tv/Tfue)** by **Tfue**<br>20,691명 시청  - ARC Raiders
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[ご飯を食べる](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>22,943명 시청  - Just Chatting
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gon_vl-320x180.jpg)](https://twitch.tv/gon_vl)
+**[VCJが今日から始まっているらしい](https://twitch.tv/gon_vl)** by **gon_vl**<br>14,155명 시청  - VALORANT
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tfue-320x180.jpg)](https://twitch.tv/Tfue)
-**[8300+ Knocks](https://twitch.tv/Tfue)** by **Tfue**<br>21,326명 시청  - ARC Raiders
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tonbocub-320x180.jpg)](https://twitch.tv/とんぼです)
+**[ムラゲ数字応援配信](https://twitch.tv/とんぼです)** by **とんぼです**<br>11,786명 시청  - VALORANT
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
-**[👂LIVE👂DRAMA👂NEWS👂BIG THINGS👂CLICK👂ALERT👂GAMES👂VIDEOS👂REACTS👂THINGS👂PULL UP AHHHH👂I](https://twitch.tv/xQc)** by **xQc**<br>18,734명 시청  - Half Sword
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_summit1g-320x180.jpg)](https://twitch.tv/summit1g)
+**[chillin - !starforge @StarforgeSystems](https://twitch.tv/summit1g)** by **summit1g**<br>9,187명 시청  - Dark and Darker
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_summit1g-320x180.jpg)](https://twitch.tv/summit1g)
-**[chillin - !starforge @StarforgeSystems](https://twitch.tv/summit1g)** by **summit1g**<br>10,414명 시청  - Dark and Darker
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sasatikk-320x180.jpg)](https://twitch.tv/sasatikk)
+**[ソードマスターヤマモト Half Sword 槍禁止 死んだら終わり](https://twitch.tv/sasatikk)** by **sasatikk**<br>9,135명 시청  - Half Sword
 
 
 ---
-: 마지막 업데이트: 2026-02-02 07:04 UTC
+: 마지막 업데이트: 2026-02-02 08:34 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
