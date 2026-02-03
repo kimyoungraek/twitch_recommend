@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_evelone2004-320x180.jpg)](https://twitch.tv/evelone2004)
-**[[NO DELAY] FALCONS [0:1] MOUZ | IEM Krakow 2026 | LB FINAL](https://twitch.tv/evelone2004)** by **evelone2004**<br>107,276명 시청  - Counter-Strike
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
+**[[DROPS ON] BIG DAY HUGE DRAMA CODE VEIN 2 RELEASE NEW BIG NEWS AND GAMES MULTISTREAMING+REACTS #AD !endfield  | Follow  @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>54,140명 시청  - Just Chatting
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ohnepixel-320x180.jpg)](https://twitch.tv/ohnePixel)
-**[🔴FALCONS vs MOUZ [ELIMINATION] IEM KRAKOW 2026🔴](https://twitch.tv/ohnePixel)** by **ohnePixel**<br>64,527명 시청  - Counter-Strike
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
+**[[399/730] 🟨 ALMOST PLATINUM IN ROCKET LEAGUE 🟨](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>29,760명 시청  - Rocket League
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
-**[[DROPS ON] BIG DAY HUGE DRAMA CODE VEIN 2 RELEASE NEW BIG NEWS AND GAMES MULTISTREAMING+REACTS #AD !endfield  | Follow  @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>52,981명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
+**[👺EPSTEIN FILES REACTIONS/DEFLECTIONS👺TALKING TO BELAL KHALED FROM GAZA👺CLINTONS AGREE TO TESTIFY👺PARTIAL SHUTDOWN👺TALARICO DRAMA👺](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>29,560명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eslcs-320x180.jpg)](https://twitch.tv/ESLCS)
-**[LIVE: MOUZ vs. Team Falcons - IEM Krakow 2026 - Group B](https://twitch.tv/ESLCS)** by **ESLCS**<br>39,015명 시청  - Counter-Strike
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tumblurr-320x180.jpg)](https://twitch.tv/Tumblurr)
+**[🎵🔊KARAOKE 2026🔊🎵](https://twitch.tv/Tumblurr)** by **Tumblurr**<br>29,335명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eslcsb-320x180.jpg)](https://twitch.tv/ESLCSb)
-**[LIVE: Team Vitality vs. Aurora Gaming - IEM Krakow 2026 - Group B](https://twitch.tv/ESLCSb)** by **ESLCSb**<br>36,736명 시청  - Counter-Strike
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eliasn97-320x180.jpg)](https://twitch.tv/eliasn97)
+**[Pummel Party Comeback 🔥 | !goty2026 !iconleague !lyora !doku !eligella !gaming](https://twitch.tv/eliasn97)** by **eliasn97**<br>26,665명 시청  - Pummel Party
 
 
 ---
-: 마지막 업데이트: 2026-02-03 21:27 UTC
+: 마지막 업데이트: 2026-02-03 22:22 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
