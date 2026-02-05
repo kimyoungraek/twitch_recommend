@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[NUT RAIDERS | 1 MILLION SPACE DOLLAR CHALLENGE | FROM DUMB AND POOR TO RICH AND SEXY | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>47,227명 시청  - ARC Raiders
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[VCT Pacific 2026 : KICKOFF - Day9 ZETA vs TS](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>35,989명 시청  - VALORANT
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[DBD→ZETAみる→ダンロン２](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>24,154명 시청  - Dead by Daylight
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gon_vl-320x180.jpg)](https://twitch.tv/gon_vl)
+**[ZETAをすごく応援する ZETA vs TS - VCT Pacific 2026 KICKOFF - Day9 #VCTWatchParty](https://twitch.tv/gon_vl)** by **gon_vl**<br>15,454명 시청  - VALORANT
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
-**[🤯LIVE🤯LOCK IN🤯DRAMA🤯NEWS🤯VIDEOS🤯GAMES🤯THINGS🤯CLIPS🤯REACTS🤯IDK🤯FLKJEFOKWEHIUWHFIPWHFIUWEQRYU3489417349857🤯](https://twitch.tv/xQc)** by **xQc**<br>17,714명 시청  - Codenames
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tfue-320x180.jpg)](https://twitch.tv/Tfue)
+**[9000+ Knocks (MINIMAL AD STREAMER)](https://twitch.tv/Tfue)** by **Tfue**<br>13,786명 시청  - ARC Raiders
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_arky-320x180.jpg)](https://twitch.tv/Arky)
-**[🔶 LOST & STRANDED ON ISLAND @BONNIE 🔶  !comm !socials](https://twitch.tv/Arky)** by **Arky**<br>11,579명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_bijusan-320x180.jpg)](https://twitch.tv/Bijusan)
+**[VCT Pacific 2026 : KICKOFF - Day 9 絶対にチリに行く男達をみるびず](https://twitch.tv/Bijusan)** by **Bijusan**<br>13,552명 시청  - VALORANT
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tfue-320x180.jpg)](https://twitch.tv/Tfue)
-**[9000+ Knocks (MINIMAL AD STREAMER)](https://twitch.tv/Tfue)** by **Tfue**<br>9,610명 시청  - ARC Raiders
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut_247-320x180.jpg)](https://twitch.tv/TheBurntPeanut_247)
+**[24/7 @TheBurntPeanut VODS/YT | TARKOV | ARC RAIDERS | SILLY GAMES | BUNGULATORS ONLY CHAT](https://twitch.tv/TheBurntPeanut_247)** by **TheBurntPeanut_247**<br>13,487명 시청  - Always On
 
 
 ---
-: 마지막 업데이트: 2026-02-05 07:44 UTC
+: 마지막 업데이트: 2026-02-05 08:34 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
