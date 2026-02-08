@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-320x180.jpg)](https://twitch.tv/StRoGo)
-**[🔴 SPIRIT 1:0 MOUZ | IEM Krakow 2026 | @shadowkekw @skywhywalker](https://twitch.tv/StRoGo)** by **StRoGo**<br>62,481명 시청  - Counter-Strike
+**[🔴 АУК НА АВП ЗА 200К ЖДЕМ ИГРУ FURIA vs Vitality В 19:00](https://twitch.tv/StRoGo)** by **StRoGo**<br>58,457명 시청  - Counter-Strike
 
 **2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[スーパーダンガンロンパ2 さよなら絶望学園 実況プレイ #最終回](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>57,371명 시청  - Danganronpa 2: Goodbye Despair
+**[スーパーダンガンロンパ2 さよなら絶望学園 実況プレイ #最終回](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>57,977명 시청  - Danganronpa 2: Goodbye Despair
 
 **3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ohnepixel-320x180.jpg)](https://twitch.tv/ohnePixel)
-**[🔴SPIRIT vs MOUZ | IEM KRAKOW 2026🔴](https://twitch.tv/ohnePixel)** by **ohnePixel**<br>40,799명 시청  - Counter-Strike
+**[🔴VITALITY vs FURIA [GRAND FINAL] IEM KRAKOW 2026🔴](https://twitch.tv/ohnePixel)** by **ohnePixel**<br>46,727명 시청  - Counter-Strike
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eslcs-320x180.jpg)](https://twitch.tv/ESLCS)
-**[LIVE: Team Spirit vs. MOUZ - IEM Krakow 2026 - Third-Place Decider](https://twitch.tv/ESLCS)** by **ESLCS**<br>35,520명 시청  - Counter-Strike
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_bysl4m-320x180.jpg)](https://twitch.tv/bySL4M)
+**[[RU] FURIA [0:0] Vitality | BO5 | IEM Kraków 2026 Grand Final | Day 3 w/ @WorldEdit](https://twitch.tv/bySL4M)** by **bySL4M**<br>32,149명 시청  - Counter-Strike
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_rainbow6-320x180.jpg)](https://twitch.tv/Rainbow6)
-**[FALCONS vs. SHOPIFY - Six Invitational 2026 | Playoffs - Day 6](https://twitch.tv/Rainbow6)** by **Rainbow6**<br>23,141명 시청  - Tom Clancy's Rainbow Six Siege X
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eslcs-320x180.jpg)](https://twitch.tv/ESLCS)
+**[LIVE: Team Vitality vs. FURIA - IEM Krakow 2026 - Grand Final](https://twitch.tv/ESLCS)** by **ESLCS**<br>31,753명 시청  - Counter-Strike
 
 
 ---
-: 마지막 업데이트: 2026-02-08 13:39 UTC
+: 마지막 업데이트: 2026-02-08 14:20 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
