@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_rainbow6-320x180.jpg)](https://twitch.tv/Rainbow6)
-**[FLUXO W7M vs. SPACESTATION - Six Invitational 2026 | Playoffs - Day 8](https://twitch.tv/Rainbow6)** by **Rainbow6**<br>29,633명 시청  - Tom Clancy's Rainbow Six Siege X
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sasavot-320x180.jpg)](https://twitch.tv/sasavot)
+**[ЛЫСЫЙ/ПОМИДОР](https://twitch.tv/sasavot)** by **sasavot**<br>41,584명 시청  - Just Chatting
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sasavot-320x180.jpg)](https://twitch.tv/sasavot)
-**[ЛЫСЫЙ/ПОМИДОР](https://twitch.tv/sasavot)** by **sasavot**<br>28,124명 시청  - Just Chatting
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_worldoftanks-320x180.jpg)](https://twitch.tv/WorldofTanks)
+**[*Drops* Surfshark OLS Season 5 Phase 2 Begins!](https://twitch.tv/WorldofTanks)** by **WorldofTanks**<br>28,962명 시청  - World of Tanks
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
-**[がち金稼ぎ](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>27,809명 시청  - Street Fighter 6
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_papaplatte-320x180.jpg)](https://twitch.tv/Papaplatte)
+**[📦 HÖHLE DER LÖWEN PRODUKTE TESTEN 📦 BASTI KEVIN ABEND 📦 DOKU GUCKEN 📦 JIPPIE 📦](https://twitch.tv/Papaplatte)** by **Papaplatte**<br>28,035명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[DBD](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>26,313명 시청  - Dead by Daylight
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_illojuan-320x180.jpg)](https://twitch.tv/IlloJuan)
+**[EL FINAL DEL CAMINO 💪 A POR EL DRAGÓN 🐲 45 AÑITOS DE MEDIA 🐐 - Minecraft Hardcore 2 ft. Andrés y Guille #5 [FINAL]](https://twitch.tv/IlloJuan)** by **IlloJuan**<br>25,723명 시청  - Minecraft
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-320x180.jpg)](https://twitch.tv/StRoGo)
-**[🔴 АУК ЗА БАЛЛЫ ОТ 25к БАЛЛОВ, У КОГО НЕТУ ФАРМИТЕ В КАТКЕ НА СТАВКАХ w/ @skywhywalker](https://twitch.tv/StRoGo)** by **StRoGo**<br>20,443명 시청  - Counter-Strike
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_rainbow6-320x180.jpg)](https://twitch.tv/Rainbow6)
+**[The Late Show - Six Invitational 2026 | Playoffs - Day 8](https://twitch.tv/Rainbow6)** by **Rainbow6**<br>23,346명 시청  - Tom Clancy's Rainbow Six Siege X
 
 
 ---
-: 마지막 업데이트: 2026-02-10 17:09 UTC
+: 마지막 업데이트: 2026-02-10 18:57 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
