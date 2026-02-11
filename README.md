@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
-**[🟨SPOOKY TIME🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>54,703명 시청  - Games + Demos
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
+**[ARC NUTTERS | TESTICULAR TORSION TUESDAY | OFFICER X CLOAKZY | #ShartOnThatThangForADollar #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>45,622명 시청  - ARC Raiders
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[ARC NUTTERS | TESTICULAR TORSION TUESDAY | OFFICER X CLOAKZY | #ShartOnThatThangForADollar #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>54,157명 시청  - ARC Raiders
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[DBD→ドラクエ](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>30,700명 시청  - Dead by Daylight
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[おはよう](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>30,962명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_vulture_ow-320x180.jpg)](https://twitch.tv/vulture_ow)
+**[[!DROPS] 48 HOUR STREAM FOR NEW SEASON!! HELLO KITTY BUNDLE GIVEAWAYS!! NEW HEROS COMP REST BAHH !giveaway !discord !yt !optimization !qgame](https://twitch.tv/vulture_ow)** by **vulture_ow**<br>18,016명 시청  - Overwatch
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_froggerow-320x180.jpg)](https://twitch.tv/FroggerOW)
-**[[DROPS ON!] LONG STREAM BIGGEST OVERWATCH UPDATE YET!!! LUCIO MYTHIC. NOT HERE!](https://twitch.tv/FroggerOW)** by **FroggerOW**<br>21,038명 시청  - Overwatch
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_supertf-320x180.jpg)](https://twitch.tv/supertf)
+**[[DROPS] omg fun times new stuff fun things!!! yippee!!!!!](https://twitch.tv/supertf)** by **supertf**<br>11,066명 시청  - Overwatch
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_aspen-320x180.jpg)](https://twitch.tv/Aspen)
-**[[!DROPS] NEW SEASON TODAY!!! JETPACK CAT, HELLO KITTY, & MORE :D](https://twitch.tv/Aspen)** by **Aspen**<br>18,814명 시청  - Overwatch
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_moonmoon-320x180.jpg)](https://twitch.tv/MOONMOON)
+**[🇲  🇦  🇴  🇼](https://twitch.tv/MOONMOON)** by **MOONMOON**<br>8,889명 시청  - Mewgenics
 
 
 ---
-: 마지막 업데이트: 2026-02-11 06:04 UTC
+: 마지막 업데이트: 2026-02-11 07:50 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
