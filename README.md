@@ -1,19 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_emongg-320x180.jpg)](https://twitch.tv/Emongg)
-**[[!DROPS ENABLED] WELCOME BACK OVERWATCH](https://twitch.tv/Emongg)** by **Emongg**<br>23,387명 시청  - Overwatch
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_andrey_gaidulean-320x180.jpg)](https://twitch.tv/andrey_gaidulean)
+**[мой первый стрим](https://twitch.tv/andrey_gaidulean)** by **andrey_gaidulean**<br>33,430명 시청  - Just Chatting
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_thebausffs-320x180.jpg)](https://twitch.tv/Thebausffs)
-**[Back Home](https://twitch.tv/Thebausffs)** by **Thebausffs**<br>22,439명 시청  - League of Legends
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_illojuan-320x180.jpg)](https://twitch.tv/IlloJuan)
+**[STREAM FARAÓNICO 🐪 GTA V MODEADO 👀 JUEGO DE MIEDO CHUNGO 😰 SIMULADOR DE DESEMPLEADO 😴 Y ABSOLUTAMENTE GRATIS ✅](https://twitch.tv/IlloJuan)** by **IlloJuan**<br>31,458명 시청  - Just Chatting
 
 **3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_papaplatte-320x180.jpg)](https://twitch.tv/Papaplatte)
-**[🍌 GEILER MANN 🍌 DER DÜMMSTE FLIEGT 🍌 REACTIONS AUF DOKUS 🍌](https://twitch.tv/Papaplatte)** by **Papaplatte**<br>22,357명 시청  - Just Chatting
+**[🍌 GEILER MANN 🍌 DER DÜMMSTE FLIEGT 🍌 REACTIONS AUF DOKUS 🍌](https://twitch.tv/Papaplatte)** by **Papaplatte**<br>25,957명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_elxokas-320x180.jpg)](https://twitch.tv/elxokas)
-**[〽️SOLOQ〽️DESDE QUE ELM ME DIAGNOSTICÓ VOY EN CAÍDA LIBRE〽️STREAM BAJANDO A PLATINO (DIAMANTE EN LAS/LAN)〽️ABSOLUTAMENTE DESTROZADO〽️](https://twitch.tv/elxokas)** by **elxokas**<br>20,784명 시청  - League of Legends
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_aspen-320x180.jpg)](https://twitch.tv/Aspen)
+**[[!DROPS] NEW SEASON TODAY!!! JETPACK CAT, HELLO KITTY, & MORE :D](https://twitch.tv/Aspen)** by **Aspen**<br>22,944명 시청  - Overwatch
+
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_emongg-320x180.jpg)](https://twitch.tv/Emongg)
+**[[!DROPS ENABLED] WELCOME BACK OVERWATCH](https://twitch.tv/Emongg)** by **Emongg**<br>22,810명 시청  - Overwatch
 
 
 ---
-: 마지막 업데이트: 2026-02-11 17:55 UTC
+: 마지막 업데이트: 2026-02-11 18:54 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
