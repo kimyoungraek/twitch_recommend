@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
-**[[DROPS ON] BIG DAY HUGE DRAMA MEWGENICS RELEASE NEW BIG NEWS AND GAMES MULTISTREAMING+REACTS #AD !endfield  | Follow  @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>56,199명 시청  - Just Chatting
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
+**[ARC NUTTERS w/ HutchMF x Nickmercs | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>72,846명 시청  - ARC Raiders
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[EXCLUSIVE !MARATHON EARLY GAMEPLAY | #ad #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>42,852명 시청  - Marathon
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_paulinholokobr-320x180.jpg)](https://twitch.tv/PaulinhoLOKObr)
+**[PAULO MILIONÁRIO VENDEDOR, ROLISTA E NEGOCIANTE na SITUAÇÃO! GTA RP](https://twitch.tv/PaulinhoLOKObr)** by **PaulinhoLOKObr**<br>33,906명 시청  - Grand Theft Auto V
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_illojuan-320x180.jpg)](https://twitch.tv/IlloJuan)
-**[YO ESTUVE AQUÍ 🤿 - SUBNAUTICA #1](https://twitch.tv/IlloJuan)** by **IlloJuan**<br>40,270명 시청  - Subnautica
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
+**[⏰LIVE⏰ALERT⏰PLAYSTATION⏰STATE OF PLAY?⏰REACT⏰DRAMA⏰LOCK IN⏰WE OUT HERE⏰YAY⏰](https://twitch.tv/xQc)** by **xQc**<br>27,697명 시청  - Rocket League
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[408/730] 🟨 COACH SQUISHY -> 1v1 my VIEWERS in ROCKET LEAGUE 🟨](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>35,392명 시청  - Rocket League
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
+**[SPEECH AT UBC 👺IN CANADA👺ICE BACKS DOWN IN MN👺PAMBONDI CRASHOUT HOGWATCH👺](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>26,329명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
-**[👺IN CANADA👺ICE BACKS DOWN IN MN👺PAMBONDI CRASHOUT HOGWATCH👺SPEECH AT UBC LATER!](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>34,417명 시청  - Just Chatting
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_aspen-320x180.jpg)](https://twitch.tv/Aspen)
+**[[!DROPS] HAVING NEW SEASON FUN. JETPACK CAT, HELLO KITTY, & MORE :D](https://twitch.tv/Aspen)** by **Aspen**<br>21,538명 시청  - Overwatch
 
 
 ---
-: 마지막 업데이트: 2026-02-12 23:21 UTC
+: 마지막 업데이트: 2026-02-13 01:43 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
