@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_pgl-320x180.jpg)](https://twitch.tv/PGL)
-**[Natus Vincere vs G2 Esports - PGL Cluj-Napoca 2026 - Group Stage: Round 5 (2-2)](https://twitch.tv/PGL)** by **PGL**<br>52,246명 시청  - Counter-Strike
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_rubius-320x180.jpg)](https://twitch.tv/Rubius)
+**[🔴POPPY PLAYTIME 5🔵EL CAPITULO FINAL🔴RUN COMPLETA🔵NO CERRAMOS HASTA TERMINARLO🔴NOCHE DE TERROR MASIVA🔵](https://twitch.tv/Rubius)** by **Rubius**<br>42,826명 시청  - Poppy Playtime
 
 **2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zarbex-320x180.jpg)](https://twitch.tv/zarbex)
-**[❄️ WINTERBERG-TOUR 2026 ❄️ 7 TAGE LIVE MIT SCHRADIN ❄️ TAG 2 ❄️ !socials !merch !discord](https://twitch.tv/zarbex)** by **zarbex**<br>36,701명 시청  - IRL
+**[❄️ WINTERBERG-TOUR 2026 ❄️ 7 TAGE LIVE MIT SCHRADIN ❄️ TAG 2 ❄️ !socials !merch !discord](https://twitch.tv/zarbex)** by **zarbex**<br>39,791명 시청  - IRL
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
-**[a](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>35,588명 시청  - Grand Theft Auto V
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_illojuan-320x180.jpg)](https://twitch.tv/IlloJuan)
+**[🚫 ESPACIO LIBRE DE THERIANS 🚫 DÍA 4 EN EL SUBACUÁTICA 🌊 ENGANCHAERA GENERACIONAL 🚨 - SUBNAUTICA #4](https://twitch.tv/IlloJuan)** by **IlloJuan**<br>30,537명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jasontheween-320x180.jpg)](https://twitch.tv/jasontheween)
-**[🏝️7 DAYS STRANDED ON AN ISLAND🏝️DAY 4🏝️ !charity !TTS $3](https://twitch.tv/jasontheween)** by **jasontheween**<br>33,329명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_papaplatte-320x180.jpg)](https://twitch.tv/Papaplatte)
+**[❄️ SNOWTRIP 2026 - TAG 5 ❄️ SNOWBIKEN & SPIELEABEND](https://twitch.tv/Papaplatte)** by **Papaplatte**<br>30,037명 시청  - Special Events
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_dmitry_lixxx-320x180.jpg)](https://twitch.tv/Dmitry_Lixxx)
-**[🔴 NAVI 1:0 G2 🔴 PGL Cluj-Napoca 2026: Group Stage 🔴 !tg !winline !lis !rave !pioner](https://twitch.tv/Dmitry_Lixxx)** by **Dmitry_Lixxx**<br>31,312명 시청  - Counter-Strike
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sasavot-320x180.jpg)](https://twitch.tv/sasavot)
+**[СРЕДА/ОБЫВАНИЯ](https://twitch.tv/sasavot)** by **sasavot**<br>26,530명 시청  - Super Battle Golf
 
 
 ---
-: 마지막 업데이트: 2026-02-18 17:49 UTC
+: 마지막 업데이트: 2026-02-18 18:42 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
