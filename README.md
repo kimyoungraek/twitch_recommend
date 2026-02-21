@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[416/730] 🟨 JYNXZI vs DEJI 🟨](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>54,246명 시청  - EA Sports FC 26
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_plaqueboymax-320x180.jpg)](https://twitch.tv/plaqueboymax)
+**[BLUEFACE IN THE BOOTH ♿️](https://twitch.tv/plaqueboymax)** by **plaqueboymax**<br>59,831명 시청  - Just Chatting
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
-**[[DROPS ON] BIG DAY HUGE DRAMA NEW GAMES NEW BIG NEWS AND GAMES MULTISTREAMING+REACTS #AD !endfield  | Follow  @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>31,452명 시청  - Windrose
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
+**[FLUFF A FAN FRIDAY! | ARC NUTTERS w/ HutchMF & Nickmercs | #30RabbitShartsInMySock #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>59,668명 시청  - ARC Raiders
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
-**[👺IRAN!👺SCOTUS SAYS NO $$ FUMBLES👺PRINCE ANDREW  IS COOKED👺EPSTEIN HAD ISRAEL DOING SURVEILLANCE👺CUBA INTERVIEW W/ BELLYOF THE BEAST](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>29,383명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
+**[🟨ROCKET LEAGUE W/MOISTCR1TIKAL🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>49,455명 시청  - Rocket League
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jasontheween-320x180.jpg)](https://twitch.tv/jasontheween)
-**[🏝️7 DAYS STRANDED ON AN ISLAND🏝️DAY 6🏝️ !charity !TTS](https://twitch.tv/jasontheween)** by **jasontheween**<br>20,433명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[１３時までｽﾄ６し、その後ドラゴンクエストVII](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>20,495명 시청  - Street Fighter 6
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sodapoppin-320x180.jpg)](https://twitch.tv/sodapoppin)
-**[FIRST DEATHLESS KARA? (no) RAID DAY BABY | !podcast !guide !gamersupps](https://twitch.tv/sodapoppin)** by **sodapoppin**<br>20,180명 시청  - World of Warcraft
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_n3on-320x180.jpg)](https://twitch.tv/N3on)
+**[STUDIO SESH FT. BLOODHOUND Q50](https://twitch.tv/N3on)** by **N3on**<br>19,007명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2026-02-21 01:21 UTC
+: 마지막 업데이트: 2026-02-21 04:00 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
