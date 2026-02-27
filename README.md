@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
-**[ちるそう](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>42,517명 시청  - Grand Theft Auto V
+**[ちるそう](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>46,625명 시청  - Grand Theft Auto V
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ramzes-320x180.jpg)](https://twitch.tv/ramzes)
-**[Xtreme Gaming [0:0] Team Falcons | DreamLeague S28: Group Stage 2 | bo3 | /w @afoninje  !tg !win !playerok](https://twitch.tv/ramzes)** by **ramzes**<br>24,677명 시청  - Dota 2
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_illojuan-320x180.jpg)](https://twitch.tv/IlloJuan)
+**[DE VUELTA EN RACCOON CITY 🧟 - RESIDENT EVIL: REQUIEM #1](https://twitch.tv/IlloJuan)** by **IlloJuan**<br>27,666명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_folagorlives-320x180.jpg)](https://twitch.tv/FolagorLives)
-**[POKÉMON PRESENTS 2026 | 10 GEN TRAILER | POKÉMON CHAMPIONS | SORTEO SWITCH 2 PARA SUBS ( s u s c r i b e t e )](https://twitch.tv/FolagorLives)** by **FolagorLives**<br>21,078명 시청  - Special Events
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ramzes-320x180.jpg)](https://twitch.tv/ramzes)
+**[Xtreme Gaming [0:1] Team Falcons | DreamLeague S28: Group Stage 2 | bo3 | /w @afoninje  !tg !win !playerok](https://twitch.tv/ramzes)** by **ramzes**<br>19,514명 시청  - Dota 2
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ct0m-320x180.jpg)](https://twitch.tv/ct0m)
-**[WW Team [1:0] Leo NODWIN Clutch Series 5 комментаторы -  @shadowkekw @evelone2004 @mokrivskyi](https://twitch.tv/ct0m)** by **ct0m**<br>19,271명 시청  - Counter-Strike
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
+**[🔴LEC FINALS BARCELONA - GX VS KC🔴 !discord](https://twitch.tv/Caedrel)** by **Caedrel**<br>17,393명 시청  - League of Legends
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_cydonia_chiara-320x180.jpg)](https://twitch.tv/Cydonia_Chiara)
-**[Pokémon Presents x Reveal del nostro Monster Collector! | !prime !sip !wnv](https://twitch.tv/Cydonia_Chiara)** by **Cydonia_Chiara**<br>18,343명 시청  - Special Events
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_trymacs-320x180.jpg)](https://twitch.tv/Trymacs)
+**[XXL Opening vom Neuen ultra geilen Set Erhabene Helden I !eBay !Bitpanda !PrepMyMeal !ESN](https://twitch.tv/Trymacs)** by **Trymacs**<br>14,359명 시청  - Pokémon Trading Card Game
 
 
 ---
-: 마지막 업데이트: 2026-02-27 14:34 UTC
+: 마지막 업데이트: 2026-02-27 15:32 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
