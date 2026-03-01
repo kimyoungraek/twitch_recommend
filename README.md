@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[ARC NUTTERS w/ CLOAKZY & GINGY | RV THERE YET & BURGLIN GNOMES LATER | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>58,844명 시청  - ARC Raiders
+**[BURGLIN GNOME w/ CLOAKZY & GINGY & OFFICER | RV THERE YET LATER | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>63,894명 시청  - Burglin' Gnomes
 
 **2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
-**[🧑‍🍳LIVE 🧑‍🍳DRAMA 🧑‍🍳NEWS 🧑‍🍳THINGS 🧑‍🍳GAMES 🧑‍🍳VIDEOS 🧑‍🍳REACT 🧑‍🍳STUFF 🧑‍🍳LOCK IN 🧑‍🍳BIG DAY 🧑‍🍳WOAH 🧑‍🍳](https://twitch.tv/xQc)** by **xQc**<br>22,871명 시청  - RESIDENT EVIL: requiem
+**[🧑‍🍳LIVE 🧑‍🍳DRAMA 🧑‍🍳NEWS 🧑‍🍳THINGS 🧑‍🍳GAMES 🧑‍🍳VIDEOS 🧑‍🍳REACT 🧑‍🍳STUFF 🧑‍🍳LOCK IN 🧑‍🍳BIG DAY 🧑‍🍳WOAH 🧑‍🍳](https://twitch.tv/xQc)** by **xQc**<br>24,645명 시청  - RESIDENT EVIL: requiem
 
 **3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_iq200yukaf-320x180.jpg)](https://twitch.tv/IQ200YukaF)
-**[ALGS OPEN 10min delay #ZETAWIN](https://twitch.tv/IQ200YukaF)** by **IQ200YukaF**<br>20,438명 시청  - Apex Legends
+**[ALGS OPEN 10min delay #ZETAWIN](https://twitch.tv/IQ200YukaF)** by **IQ200YukaF**<br>23,371명 시청  - Apex Legends
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_moonmoon-320x180.jpg)](https://twitch.tv/MOONMOON)
-**[this house is giving sinister vibes no cap](https://twitch.tv/MOONMOON)** by **MOONMOON**<br>12,158명 시청  - RESIDENT EVIL: requiem
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[ow→飯→BIOHAZARD requiem をハードでやるよ](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>15,940명 시청  - Overwatch
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_summit1g-320x180.jpg)](https://twitch.tv/summit1g)
-**[checkin this out. !starforge @StarforgeSystems](https://twitch.tv/summit1g)** by **summit1g**<br>10,328명 시청  - RESIDENT EVIL: requiem
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fanum-320x180.jpg)](https://twitch.tv/Fanum)
+**[V9](https://twitch.tv/Fanum)** by **Fanum**<br>12,628명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2026-03-01 04:15 UTC
+: 마지막 업데이트: 2026-03-01 05:46 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
