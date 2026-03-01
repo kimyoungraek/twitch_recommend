@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
-**[🔴LCK GRAND FINALS GENG VS FEARX🔴 !discord](https://twitch.tv/Caedrel)** by **Caedrel**<br>66,251명 시청  - League of Legends
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[BIOHAZARD requiem をハードでやるよ。その２](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>35,393명 시청  - RESIDENT EVIL: requiem
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[BIOHAZARD requiem をハードでやるよ。その２](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>33,971명 시청  - RESIDENT EVIL: requiem
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-320x180.jpg)](https://twitch.tv/StRoGo)
+**[🔴 WW 1:1 ENCE | EPL Series 5 | bo3 | @MARKL1NCK](https://twitch.tv/StRoGo)** by **StRoGo**<br>27,471명 시청  - Counter-Strike
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lck-320x180.jpg)](https://twitch.tv/LCK)
-**[GEN vs BFX | Woori Bank 2026 LCK CUP Finals @ Hong Kong](https://twitch.tv/LCK)** by **LCK**<br>25,275명 시청  - League of Legends
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_bysl4m-320x180.jpg)](https://twitch.tv/bySL4M)
+**[[RU] PARIVISION [0:0] SemperFi | BO3 | ESL Pro League Season 23 Stage 1 | Day 1 w/ @WorldEdit](https://twitch.tv/bySL4M)** by **bySL4M**<br>15,471명 시청  - Counter-Strike
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-320x180.jpg)](https://twitch.tv/StRoGo)
-**[🔴 WW 1:0 ENCE | EPL Series 5 | bo3 | @MARKL1NCK](https://twitch.tv/StRoGo)** by **StRoGo**<br>19,304명 시청  - Counter-Strike
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eslcs-320x180.jpg)](https://twitch.tv/ESLCS)
+**[LIVE: HEROIC vs NRG - ESL Pro League Season 23 - Stage 1](https://twitch.tv/ESLCS)** by **ESLCS**<br>13,051명 시청  - Counter-Strike
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_batora324-320x180.jpg)](https://twitch.tv/バトラ)
-**[復活のマリオ64☆120枚RTA  ~リハビリに終止符を打とう138編~](https://twitch.tv/バトラ)** by **バトラ**<br>14,747명 시청  - Super Mario 64
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_yaritaiji-320x180.jpg)](https://twitch.tv/たいじ_たいちゃんねる)
+**[バイオハザードレクイエムクリアするぞ](https://twitch.tv/たいじ_たいちゃんねる)** by **たいじ_たいちゃんねる**<br>10,519명 시청  - RESIDENT EVIL: requiem
 
 
 ---
-: 마지막 업데이트: 2026-03-01 10:18 UTC
+: 마지막 업데이트: 2026-03-01 11:14 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
