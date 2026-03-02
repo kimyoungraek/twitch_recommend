@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[425/730] ⭐️ WINNING A TOURNEY ⭐️](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>55,907명 시청  - Rocket League
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
+**[🟨LOSING MY MIND🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>56,545명 시청  - Just Chatting
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
-**[👺IRAN RETALIATES AGAINST THE ENTIRE REGION👺WORLD WAR EPSTEIN👺ISRAEL STRUCK HARD👺AMERISRAELI INTEL FAIL?!](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>47,545명 시청  - Just Chatting
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_larinpost-320x180.jpg)](https://twitch.tv/Larinpost)
+**[ты мимо проходил, я тут случайно](https://twitch.tv/Larinpost)** by **Larinpost**<br>34,279명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
-**[[DROPS ON] WOW MIDNIGHT RELEASE BIG DAY HUGE DRAMA NEW BIG NEWS AND GAMES MULTISTREAMING+REACTS | Follow  @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>42,128명 시청  - World of Warcraft
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_plaqueboymax-320x180.jpg)](https://twitch.tv/plaqueboymax)
+**[TRIP 2 CHINA DAY ONE 🇨🇳 WE IN CHENGDU 🐼 #PRINCE2026](https://twitch.tv/plaqueboymax)** by **plaqueboymax**<br>23,458명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_illojuan-320x180.jpg)](https://twitch.tv/IlloJuan)
-**[SE CIERRA UN CICLO ❌SE ABRE LA CAJA 📦 SE TERMINA REQUIEM ✍🏻 FINAL BOLIVIANO 😎 - RESIDENT EVIL: REQUIEM #3](https://twitch.tv/IlloJuan)** by **IlloJuan**<br>22,540명 시청  - RESIDENT EVIL: requiem
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
+**[🐛LIVE🐛HERE🐛QUICK🐛DRAMA🐛NEWS🐛GAMES🐛VIDEOS🐛CLIPS🐛DONT MISS IT🐛FINISHING RE9🐛OTHER STUFF TOO🐛IDK🐛](https://twitch.tv/xQc)** by **xQc**<br>18,868명 시청  - RESIDENT EVIL: requiem
 
 **5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stableronaldo-320x180.jpg)](https://twitch.tv/stableronaldo)
-**[🤩#1 CONTENT FINDER 🤩FUN DAY 🤩SUNDAY 🤩WEEKEND 🤩 LETS GO 🤩 NEW DAY 🤩 IRL 🤩 GAMES 🤩  [twitter/insta stableronaldo] !po !com !sub](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>22,277명 시청  - Just Chatting
+**[🤩ROCKET LEAGUE RANKED w/ @LACY @JASONTHEWEEN 🤩NO BOOS 🤩 #1 GAMER🤩29% BODY FAT 🤩 GAMES 🤩 [twitter/insta stableronaldo] !po !com !sub"](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>17,971명 시청  - Rocket League
 
 
 ---
-: 마지막 업데이트: 2026-03-02 01:24 UTC
+: 마지막 업데이트: 2026-03-02 04:07 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
