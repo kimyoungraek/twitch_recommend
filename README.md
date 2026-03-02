@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_iq200yukaf-320x180.jpg)](https://twitch.tv/IQ200YukaF)
-**[ALGS OPEN 10min delay #ZETAWIN](https://twitch.tv/IQ200YukaF)** by **IQ200YukaF**<br>24,387명 시청  - Apex Legends
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-320x180.jpg)](https://twitch.tv/StRoGo)
+**[🔴 WW 0:0 ECSTATIC | NODWIN Clutch Series 5 | bo3 | @shadowkekw](https://twitch.tv/StRoGo)** by **StRoGo**<br>21,953명 시청  - Counter-Strike
 
 **2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_plaqueboymax-320x180.jpg)](https://twitch.tv/plaqueboymax)
-**[TRIP 2 CHINA DAY ONE 🇨🇳 WE IN CHENGDU w/ KKLUV & TRICKYZB 🐼 #PRINCE2026](https://twitch.tv/plaqueboymax)** by **plaqueboymax**<br>16,274명 시청  - Music
+**[TRIP 2 CHINA DAY ONE 🇨🇳 WE IN CHENGDU w/ KKLUV & TRICKYZB 🐼 #PRINCE2026](https://twitch.tv/plaqueboymax)** by **plaqueboymax**<br>15,511명 시청  - Music
 
 **3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eslcs-320x180.jpg)](https://twitch.tv/ESLCS)
-**[LIVE: HEROIC vs Astralis - ESL Pro League Season 23 - Stage 1](https://twitch.tv/ESLCS)** by **ESLCS**<br>12,951명 시청  - Counter-Strike
+**[LIVE: HEROIC vs Astralis - ESL Pro League Season 23 - Stage 1](https://twitch.tv/ESLCS)** by **ESLCS**<br>14,228명 시청  - Counter-Strike
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_yaritaiji-320x180.jpg)](https://twitch.tv/たいじ_たいちゃんねる)
-**[まずは3月のあつ森](https://twitch.tv/たいじ_たいちゃんねる)** by **たいじ_たいちゃんねる**<br>12,765명 시청  - Animal Crossing: New Horizons
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[バイオハザードロス](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>13,741명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_bysl4m-320x180.jpg)](https://twitch.tv/bySL4M)
-**[[RU] HEROIC [0:0] Astralis | BO3 | ESL Pro League Season 23 Stage 1 | Day 2 w/ @WorldEdit](https://twitch.tv/bySL4M)** by **bySL4M**<br>10,764명 시청  - Counter-Strike
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_k4sen-320x180.jpg)](https://twitch.tv/k4sen)
+**[カセガク スクリムなんだけど、ゴルフできないやつがLoLできるわけない](https://twitch.tv/k4sen)** by **k4sen**<br>12,244명 시청  - League of Legends
 
 
 ---
-: 마지막 업데이트: 2026-03-02 11:27 UTC
+: 마지막 업데이트: 2026-03-02 12:39 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
