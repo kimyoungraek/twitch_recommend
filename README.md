@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_anarabdullaev-320x180.jpg)](https://twitch.tv/anarabdullaev)
-**[Едем в баню шашлыки жарить / БЕК Паштет Cadrol Fatich @pinqtast @ELDOSBIG @enzzai](https://twitch.tv/anarabdullaev)** by **anarabdullaev**<br>57,095명 시청  - IRL
+**[Едем в баню шашлыки жарить / Паштет Cadrol Fatich Пинк Бек @ELDOSBIG @enzzai](https://twitch.tv/anarabdullaev)** by **anarabdullaev**<br>43,548명 시청  - IRL
 
 **2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[427/730]  ⭐️ DROPS ON ⭐️ New Season of Rainbow 6 Siege ⭐️](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>36,643명 시청  - Rainbow Six Siege
+**[[427/730]  ⭐️ DROPS ON ⭐️ New Season of Rainbow 6 Siege ⭐️](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>43,327명 시청  - Rainbow Six Siege
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_deepins02-320x180.jpg)](https://twitch.tv/deepins02)
-**[[ я обмотал себя скотчем и щас буду предсказывать ] | !winline !гига !tg](https://twitch.tv/deepins02)** by **deepins02**<br>18,553명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eliasn97-320x180.jpg)](https://twitch.tv/eliasn97)
+**[Zenzakan Gerichte nachkochen mit @gtimetv 👨🏻‍🍳🔥  | !goty2026 !iconleague !lyora !doku !eligella !gaming](https://twitch.tv/eliasn97)** by **eliasn97**<br>28,459명 시청  - Special Events
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ohnepixel-320x180.jpg)](https://twitch.tv/ohnePixel)
-**[🔴CS2 IS BEING SUED BY NEW YORK (FOR CASES)🔴](https://twitch.tv/ohnePixel)** by **ohnePixel**<br>16,284명 시청  - Counter-Strike
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_valorant-320x180.jpg)](https://twitch.tv/VALORANT)
+**[EDG vs. T1 — VALORANT Masters Santiago — Swiss Stage](https://twitch.tv/VALORANT)** by **VALORANT**<br>23,654명 시청  - VALORANT
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_thebausffs-320x180.jpg)](https://twitch.tv/Thebausffs)
-**[Chopped](https://twitch.tv/Thebausffs)** by **Thebausffs**<br>15,576명 시청  - League of Legends
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_papaplatte-320x180.jpg)](https://twitch.tv/Papaplatte)
+**[🫥 GEILE MÄNNER MACHEN GEILE SACHEN 🫥](https://twitch.tv/Papaplatte)** by **Papaplatte**<br>22,678명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2026-03-03 17:36 UTC
+: 마지막 업데이트: 2026-03-03 18:38 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
