@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
-**[🟨LOSING MY MIND🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>55,489명 시청  - Just Chatting
+**[🟨SPOOKY TIME🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>59,314명 시청  - Thekku Island
 
 **2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[SUBURBAN WARFARE | Hutch X Summit X Nick X Ninja X Cloakzy X Willerz X Nadeshot X Officer X Gingy](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>52,909명 시청  - Neighbors: Suburban Warfare
+**[GNOME GAME | Officer X Cloakzy X Gingy](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>50,690명 시청  - Burglin' Gnomes
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
-**[👺IRANxAMERISRAEL👺EPSTEINS FURY👺IRAN CLERIC MEET BOMBED👺TALARICOvsCROCKETT TX👺NIDA ALLAM NC4!👺](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>35,801명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
+**[🙋‍♂️LIVE🙋‍♂️HERE🙋‍♂️WICKED🙋‍♂️DRAMA🙋‍♂️NEWS🙋‍♂️THINGS🙋‍♂️GAMES🙋‍♂️VIDEOS🙋‍♂️REACTS🙋‍♂️STUFF🙋‍♂️LOCK IT IN🙋‍♂️WOAH🙋‍♂️](https://twitch.tv/xQc)** by **xQc**<br>17,810명 시청  - Minecraft
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_loud_coringa-320x180.jpg)](https://twitch.tv/loud_coringa)
-**[TRABAIA NE FI](https://twitch.tv/loud_coringa)** by **loud_coringa**<br>21,298명 시청  - Grand Theft Auto V
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_emiru-320x180.jpg)](https://twitch.tv/Emiru)
+**[HEHE XD IT IS ME ⭐🐎 BIG VARIETY GAMING RESIDENT EVIL REQUIEM NOT STRESSFUL AT ALL!!!!!!!!!!!!! ⭐🐎 LUNAR NEW YEAR PARTY TOMORROW @EMIRU247](https://twitch.tv/Emiru)** by **Emiru**<br>17,611명 시청  - RESIDENT EVIL: requiem
 
 **5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_yourragegaming-320x180.jpg)](https://twitch.tv/yourragegaming)
-**[.. its sooo good](https://twitch.tv/yourragegaming)** by **yourragegaming**<br>20,102명 시청  - Just Chatting
+**[TERRIFIED FLORIDIAN EBONY FINDS OUT WHY THE RESIDENTS ARE EVIL !!!!! MUST WATCH !!!!! (CLASSIC MODE)](https://twitch.tv/yourragegaming)** by **yourragegaming**<br>16,227명 시청  - RESIDENT EVIL: requiem
 
 
 ---
-: 마지막 업데이트: 2026-03-04 04:02 UTC
+: 마지막 업데이트: 2026-03-04 05:38 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
