@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_buster-320x180.jpg)](https://twitch.tv/buster)
-**[Ирл Дубай с Эксайлом, Лимбой](https://twitch.tv/buster)** by **buster**<br>27,278명 시청  - IRL
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_anarabdullaev-320x180.jpg)](https://twitch.tv/anarabdullaev)
+**[Одеваю @IvanZolo578 на свидание](https://twitch.tv/anarabdullaev)** by **anarabdullaev**<br>35,352명 시청  - IRL
 
 **2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ohnepixel-320x180.jpg)](https://twitch.tv/ohnePixel)
-**[🔴CSGO IS BACK (UPDATE)🔴](https://twitch.tv/ohnePixel)** by **ohnePixel**<br>17,071명 시청  - Counter-Strike
+**[🔴CSGO IS BACK (UPDATE)🔴](https://twitch.tv/ohnePixel)** by **ohnePixel**<br>26,373명 시청  - Counter-Strike
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_bysl4m-320x180.jpg)](https://twitch.tv/bySL4M)
-**[[RU] HEROIC [0:0] Passion | BO3 | ESL Pro League Season 23 Stage 1 | Day 4 w/ @WorldEdit](https://twitch.tv/bySL4M)** by **bySL4M**<br>15,792명 시청  - Counter-Strike
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_deepins02-320x180.jpg)](https://twitch.tv/deepins02)
+**[[ мама в 16 (рендерю тикток) ] | !winline !гига !tg](https://twitch.tv/deepins02)** by **deepins02**<br>22,633명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zubarefff-320x180.jpg)](https://twitch.tv/zubarefff)
-**[Эта тайна хранилась веками 🗄️ Смотрим "Сокровище нации" 💰](https://twitch.tv/zubarefff)** by **zubarefff**<br>14,659명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_dangerlyoha-320x180.jpg)](https://twitch.tv/dangerlyoha)
+**[😎🤙🏿 тот самий день... (that very day...) ешкин кошкин](https://twitch.tv/dangerlyoha)** by **dangerlyoha**<br>20,267명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_t2x2-320x180.jpg)](https://twitch.tv/T2x2)
-**[༼ ºل͟º༼ ºل͟º( ͡° ͜ʖ ͡°)ºل͟º ༽ºل͟º ༽ | Тг: t.me/t2xtwitch](https://twitch.tv/T2x2)** by **T2x2**<br>14,637명 시청  - Just Chatting
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_elxokas-320x180.jpg)](https://twitch.tv/elxokas)
+**[🈹PRIMER DIRECTO EN JAPÓN🈹SOLOQ KOREANO🈹DUO CON LA TÓXICA🈹DIAMANTE EN EUROPA, MASTER EN LAS, ORO EN KOREA??🈹](https://twitch.tv/elxokas)** by **elxokas**<br>17,750명 시청  - League of Legends
 
 
 ---
-: 마지막 업데이트: 2026-03-04 16:34 UTC
+: 마지막 업데이트: 2026-03-04 17:33 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
