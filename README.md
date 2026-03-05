@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[ポケモンファイアレッド草むらのポケモンは倒しちゃダメ※どうしても倒したい場合は倒していいものとする](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>37,493명 시청  - Pokémon FireRed/LeafGreen
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_anarabdullaev-320x180.jpg)](https://twitch.tv/anarabdullaev)
+**[Стрим с Симкой, @pinqtast , Аней, Огром](https://twitch.tv/anarabdullaev)** by **anarabdullaev**<br>41,932명 시청  - IRL
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sasavot-320x180.jpg)](https://twitch.tv/sasavot)
-**[ЧТО-ТО/КАК-ТО](https://twitch.tv/sasavot)** by **sasavot**<br>24,475명 시청  - Just Chatting
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_dangerlyoha-320x180.jpg)](https://twitch.tv/dangerlyoha)
+**[😎🤙🏿 турнир ксго профессиональний (дилей две минути) @murzofix @morphe_ya @skywhywalker @baz1221](https://twitch.tv/dangerlyoha)** by **dangerlyoha**<br>28,014명 시청  - Counter-Strike
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eslcs-320x180.jpg)](https://twitch.tv/ESLCS)
-**[LIVE: G2 Esports vs Ninjas in Pyjamas - ESL Pro League Season 23 - Stage 1](https://twitch.tv/ESLCS)** by **ESLCS**<br>18,666명 시청  - Counter-Strike
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eliasn97-320x180.jpg)](https://twitch.tv/eliasn97)
+**[Reactions & Talks 🔥 ca. 20:30 Among Us | !goty2026 !iconleague !lyora !doku !eligella !gaming](https://twitch.tv/eliasn97)** by **eliasn97**<br>26,140명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_t2x2-320x180.jpg)](https://twitch.tv/T2x2)
-**[༼ ºل͟º༼ ºل͟º( ͡° ͜ʖ ͡°)ºل͟º ༽ºل͟º ༽ | Тг: t.me/t2xtwitch](https://twitch.tv/T2x2)** by **T2x2**<br>14,531명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-320x180.jpg)](https://twitch.tv/StRoGo)
+**[🔴 WW 0:0 TDK | IZI WEX Season 1 | bo3 | тренер @shadowkekw](https://twitch.tv/StRoGo)** by **StRoGo**<br>24,020명 시청  - Counter-Strike
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_bysl4m-320x180.jpg)](https://twitch.tv/bySL4M)
-**[[RU] G2 [0:0] NiP | BO3 | ESL Pro League Season 23 Stage 1 | Day 5 w/ @WorldEdit](https://twitch.tv/bySL4M)** by **bySL4M**<br>13,292명 시청  - Counter-Strike
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sasavot-320x180.jpg)](https://twitch.tv/sasavot)
+**[ЧТО-ТО/КАК-ТО](https://twitch.tv/sasavot)** by **sasavot**<br>23,427명 시청  - Dale & Dawson Stationery Supplies
 
 
 ---
-: 마지막 업데이트: 2026-03-05 15:43 UTC
+: 마지막 업데이트: 2026-03-05 17:56 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
