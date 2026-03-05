@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[NUT RAIDERS w/ TFUE & NateHill | WACKADOODLE WEDNESDAY | #Shart-A-Thon #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>36,224명 시청  - ARC Raiders
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut_247-320x180.jpg)](https://twitch.tv/TheBurntPeanut_247)
+**[24/7 @TheBurntPeanut VODS/YT | TARKOV | ARC RAIDERS | SILLY GAMES | BUNGULATORS ONLY CHAT](https://twitch.tv/TheBurntPeanut_247)** by **TheBurntPeanut_247**<br>11,603명 시청  - Always On
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[一旦夕方までマイ](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>17,929명 시청  - Street Fighter 6
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_yourragegaming-320x180.jpg)](https://twitch.tv/yourragegaming)
+**[YRG AFTER DARK #AD !kalshi](https://twitch.tv/yourragegaming)** by **yourragegaming**<br>10,698명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_yourragegaming-320x180.jpg)](https://twitch.tv/yourragegaming)
-**[BROWARDIAN EBONY LIGHTSKIN TRIES TO EVICT ALL THE EVIL RESIDENTS (CLASSIC DIFFICULTY)](https://twitch.tv/yourragegaming)** by **yourragegaming**<br>12,612명 시청  - RESIDENT EVIL: requiem
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_summit1g-320x180.jpg)](https://twitch.tv/summit1g)
+**[wow chillin. warrior. !starforge @StarforgeSystems](https://twitch.tv/summit1g)** by **summit1g**<br>8,490명 시청  - World of Warcraft
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tfue-320x180.jpg)](https://twitch.tv/Tfue)
-**[RESET DAY 3!!! (13000+ Knocks)](https://twitch.tv/Tfue)** by **Tfue**<br>11,206명 시청  - ARC Raiders
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_leva2k-320x180.jpg)](https://twitch.tv/leva2k)
+**[ЗООПАРК (Эфиопия) w/ @guacamolemolly / !tg !donate !vodka](https://twitch.tv/leva2k)** by **leva2k**<br>6,513명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_reginald-320x180.jpg)](https://twitch.tv/Reginald)
-**[GAMES OF WAR 25XK \ GGOT !sub](https://twitch.tv/Reginald)** by **Reginald**<br>8,338명 시청  - IRL
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sasatikk-320x180.jpg)](https://twitch.tv/sasatikk)
+**[私を構成する9つのゲーム 雑談](https://twitch.tv/sasatikk)** by **sasatikk**<br>6,071명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2026-03-05 07:36 UTC
+: 마지막 업데이트: 2026-03-05 08:32 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
