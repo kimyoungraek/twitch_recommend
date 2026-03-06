@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_anarabdullaev-320x180.jpg)](https://twitch.tv/anarabdullaev)
-**[Квест с Фанаткой(Симкой) @pinqtast с жинкой и Огр с Кентом](https://twitch.tv/anarabdullaev)** by **anarabdullaev**<br>37,402명 시청  - IRL
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gofns-320x180.jpg)](https://twitch.tv/GOFNS)
+**[FNS | PRX vs FURIA - Playoffs - VCT Masters Santiago #VCTWatchparty !INZONE !ytstream](https://twitch.tv/GOFNS)** by **GOFNS**<br>51,409명 시청  - VALORANT
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eslcs-320x180.jpg)](https://twitch.tv/ESLCS)
-**[LIVE: G2 Esports vs FaZe Clan - ESL Pro League Season 23 - Stage 2](https://twitch.tv/ESLCS)** by **ESLCS**<br>31,267명 시청  - Counter-Strike
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_anarabdullaev-320x180.jpg)](https://twitch.tv/anarabdullaev)
+**[Квест с Фанаткой(Симкой) @pinqtast с жинкой и Огр с Кентом](https://twitch.tv/anarabdullaev)** by **anarabdullaev**<br>43,911명 시청  - Special Events
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_plaqueboymax-320x180.jpg)](https://twitch.tv/plaqueboymax)
-**[TRIP 2 CHINA DAY FIVE 🇨🇳 FIRST CLUB PERFORMANCE IN SHANGHAI 🐼](https://twitch.tv/plaqueboymax)** by **plaqueboymax**<br>24,374명 시청  - IRL
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_valorant-320x180.jpg)](https://twitch.tv/VALORANT)
+**[FUR vs. PRX — VALORANT Masters Santiago — Playoffs Stage](https://twitch.tv/VALORANT)** by **VALORANT**<br>29,980명 시청  - VALORANT
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sasavot-320x180.jpg)](https://twitch.tv/sasavot)
-**[ТЕПЛЕЕТ/ПОТИХОНЬКУ](https://twitch.tv/sasavot)** by **sasavot**<br>18,674명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eslcs-320x180.jpg)](https://twitch.tv/ESLCS)
+**[LIVE: MOUZ vs HEROIC - ESL Pro League Season 23 - Stage 2](https://twitch.tv/ESLCS)** by **ESLCS**<br>22,584명 시청  - Counter-Strike
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_bysl4m-320x180.jpg)](https://twitch.tv/bySL4M)
-**[[RU] G2 [1:0] FaZe | BO3 | ESL Pro League Season 23 Stage 2 | Day 1 w/ @WorldEdit](https://twitch.tv/bySL4M)** by **bySL4M**<br>18,164명 시청  - Counter-Strike
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_evelone2004-320x180.jpg)](https://twitch.tv/evelone2004)
+**[WL STAR SERIES VS Team BRATISHKIN BO3 w/ @mokrivskyi @xeedo9 @morphilina @anarkez | Комментирует: @skywhywalker](https://twitch.tv/evelone2004)** by **evelone2004**<br>22,074명 시청  - Counter-Strike
 
 
 ---
-: 마지막 업데이트: 2026-03-06 17:28 UTC
+: 마지막 업데이트: 2026-03-06 18:34 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
