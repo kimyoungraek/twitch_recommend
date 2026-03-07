@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[430/730] ⭐️  FIRST RL TOURNEY WIN... RIGHT NOW ⭐️](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>47,674명 시청  - Rocket League
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
+**[ARC Nutters w/ HutchMF & Nickmercs | #ShartInMyButtWhileIFart #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>47,949명 시청  - ARC Raiders
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
-**[👺KRISTINOEM REPLACED!👺DEMS MAD AT GAV GAV👺MAGA LOVES THIS WAR NOW👺BURGERREICH👺LEFT FLANK RISING👺OKBUDDY LATER!](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>37,937명 시청  - Just Chatting
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lacy-320x180.jpg)](https://twitch.tv/Lacy)
+**[🃏 $10,000 BET ON POWERSLAP 🃏 WON $50,000 🃏 VEGAS TRIP 🃏 KEKW 🃏 SPECIAL GUESTS 🃏 GAMBLING LATER 🃏 23 AND STILL FAT 🃏](https://twitch.tv/Lacy)** by **Lacy**<br>22,838명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
-**[[DROPS ON] BIG DAY HUGE DRAMA RE9 PLAYTHROUGH NEW BIG NEWS AND GAMES MULTISTREAMING+REACTS | Follow  @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>34,327명 시청  - RESIDENT EVIL: requiem
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_plaqueboymax-320x180.jpg)](https://twitch.tv/plaqueboymax)
+**[TRIP 2 CHINA FINALE 🇨🇳 TRYING OUT FOR THE SHANGHAI SHARKS 🏀](https://twitch.tv/plaqueboymax)** by **plaqueboymax**<br>19,772명 시청  - IRL
 
 **4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
-**[💀LOCK IN💀LIVE💀NEWS💀DRAMA💀CLIPS💀VIDEOS💀GAMES💀POKOPIA GAMEPLAY💀BEST GAMER WORLD💀FREE TIPS FOR NOOBS💀FROM THE MASTER💀](https://twitch.tv/xQc)** by **xQc**<br>19,821명 시청  - Pokémon Pokopia
+**[💀LOCK IN💀LIVE💀NEWS💀DRAMA💀CLIPS💀VIDEOS💀GAMES💀POKOPIA GAMEPLAY💀BEST GAMER WORLD💀FREE TIPS FOR NOOBS💀FROM THE MASTER💀](https://twitch.tv/xQc)** by **xQc**<br>19,568명 시청  - Slay the Spire II
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jasontheween-320x180.jpg)](https://twitch.tv/jasontheween)
-**[🔴CONTENT OVERLOAD🔴BIG  NEWS🔴EPICNESS🔴LETS BE GREAT🔴W CHARITY](https://twitch.tv/jasontheween)** by **jasontheween**<br>19,119명 시청  - Just Chatting
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[ｽﾄ６→デルタフォース練習→楽天カップ](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>16,004명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2026-03-07 01:19 UTC
+: 마지막 업데이트: 2026-03-07 03:54 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
