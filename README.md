@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[433/730] 🏆 3v3 STREAMER TOURNEY @ 6PM EST 🏆](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>71,039명 시청  - Rainbow Six Siege
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lajefaok-320x180.jpg)](https://twitch.tv/lajefaok)
+**[Premios Cleopatra Quinta Edición](https://twitch.tv/lajefaok)** by **lajefaok**<br>83,963명 시청  - Special Events
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_squeezie-320x180.jpg)](https://twitch.tv/Squeezie)
-**[GENTLE MATES vs AG (Valorant Masters Playoffs) ft. @beyAz // Obligés de gagner ! #MastersCostream](https://twitch.tv/Squeezie)** by **Squeezie**<br>63,775명 시청  - VALORANT
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
+**[[433/730] 🏆 3v3 STREAMER TOURNEY 🏆](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>75,554명 시청  - Rainbow Six Siege
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fugu_fps-320x180.jpg)](https://twitch.tv/fugu_fps)
-**[😾RESIDENT EVIL REQUIEM PT 3😾HORROR GAME](https://twitch.tv/fugu_fps)** by **fugu_fps**<br>59,187명 시청  - RESIDENT EVIL: requiem
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
+**[[DROPS ON] BIG DAY HUGE DRAMA RE9 PLAYTHROUGH NEW BIG NEWS AND GAMES MULTISTREAMING+REACTS | Follow  @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>48,100명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
-**[[DROPS ON] BIG DAY HUGE DRAMA RE9 PLAYTHROUGH NEW BIG NEWS AND GAMES MULTISTREAMING+REACTS | Follow  @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>50,348명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
+**[👺NEW AYATOLLAH KHAMENI UNLOCKED👺MONITORING THE SITUATION👺CUBA UNDER THREAT👺ZOHRAN ATTACKED👺BURGERREICH👺](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>38,051명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_byilhann-320x180.jpg)](https://twitch.tv/byilhann)
-**[SOIRÉE JEU D’HORREUR !programme !discord !ytb3](https://twitch.tv/byilhann)** by **byilhann**<br>36,935명 시청  - CAPTURED 2
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tumblurr-320x180.jpg)](https://twitch.tv/Tumblurr)
+**[PORCAM*DONNA](https://twitch.tv/Tumblurr)** by **Tumblurr**<br>32,101명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2026-03-08 22:16 UTC
+: 마지막 업데이트: 2026-03-08 23:16 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
