@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[432/730] ⭐️ CSGO DAY 3 w/ OHNE ⭐️](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>34,625명 시청  - Counter-Strike
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
+**[PARTY ANIMALS w/ HUTCHMF & DRAC | PARTY GAME NIGHT | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>56,222명 시청  - Party Animals
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
-**[[DROPS ON] BIG DAY HUGE DRAMA RE9 PLAYTHROUGH NEW BIG NEWS AND GAMES MULTISTREAMING+REACTS | Follow  @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>33,064명 시청  - RESIDENT EVIL: requiem
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
+**[🥠LIVE🥠CLICK🥠DRAMA🥠NEWS🥠THINGS🥠VIDEOS🥠GAMES🥠STUFF🥠WOW🥠VERY COOL🥠BEST PLAYER OF ALL GAMES🥠](https://twitch.tv/xQc)** by **xQc**<br>20,687명 시청  - Rocket League
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
-**[CHICAGO! NORTHWESTERN SPEECH👺MONITORING THE SITUATION👺CUBA UNDER THREAT👺MAGA LOVES THIS WAR NOW👺BURGERREICH👺](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>28,903명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_brucedropemoff-320x180.jpg)](https://twitch.tv/BruceDropEmOff)
+**[🤴🏾 RIVERDALE PRINCE 😝 HERE TO SAVE THE DAY 🦹🏾 COME HAVE FUN 🤗 LAUGHS 😆 REACTS 👀 GAMES 🟣 !sub !ig](https://twitch.tv/BruceDropEmOff)** by **BruceDropEmOff**<br>17,500명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[ARC NUTTERS w/ HUTCHMF & DRAC | PARTY GAME NIGHT | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>20,698명 시청  - ARC Raiders
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jasontheween-320x180.jpg)](https://twitch.tv/jasontheween)
+**[🔴CONTENT MASTERCLASS🔴GAMING🔴EPICNESS🔴EXCITEMENT AWAITS🔴](https://twitch.tv/jasontheween)** by **jasontheween**<br>16,107명 시청  - VALORANT
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_cellbit-320x180.jpg)](https://twitch.tv/Cellbit)
-**[voltei.](https://twitch.tv/Cellbit)** by **Cellbit**<br>20,124명 시청  - RESIDENT EVIL: requiem
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_moonmoon-320x180.jpg)](https://twitch.tv/MOONMOON)
+**[234 dollar game](https://twitch.tv/MOONMOON)** by **MOONMOON**<br>14,148명 시청  - WWE 2K26
 
 
 ---
-: 마지막 업데이트: 2026-03-08 01:25 UTC
+: 마지막 업데이트: 2026-03-08 04:04 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
