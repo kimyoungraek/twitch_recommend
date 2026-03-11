@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
-**[🟨LOSING MY MIND🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>57,717명 시청  - Fall Guys
+**[🟨SPOOKY TIME🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>55,033명 시청  - At Night: The Nurse
 
 **2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[APEX LEGENDS w/ Cloakzy & Drac | TESTICULAR TORSION TUESDAY | #ShartMania #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>42,948명 시청  - Apex Legends
+**[APEX LEGENDS w/ Cloakzy & Drac | TESTICULAR TORSION TUESDAY | #ShartMania #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>37,716명 시청  - Apex Legends
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stableronaldo-320x180.jpg)](https://twitch.tv/stableronaldo)
-**[😂BRO VS BRO AGAINST @LUDWIG 😂GAMING GOD 😂NOT LOSING AT ALL 😂GREAT VIBES HERE😂 [twitter/insta stableronaldo] !po !com !sub !brovsbro](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>24,499명 시청  - Counter-Strike
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
+**[今日はCCを見るぞ](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>19,217명 시청  - Street Fighter 6
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
-**[今日はCCを見るぞ](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>18,897명 시청  - Street Fighter 6
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
+**[🦙LIVE🦙HERE🦙DRAMA🦙LOCK IN🦙VIDEOS🦙CLIPS🦙REACTS🦙STUFF🦙BOOM🦙PULL UP QUICK🦙DONT MISS IT🦙](https://twitch.tv/xQc)** by **xQc**<br>17,031명 시청  - Minecraft
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
-**[🦙LIVE🦙HERE🦙DRAMA🦙LOCK IN🦙VIDEOS🦙CLIPS🦙REACTS🦙STUFF🦙BOOM🦙PULL UP QUICK🦙DONT MISS IT🦙](https://twitch.tv/xQc)** by **xQc**<br>18,145명 시청  - Minecraft
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_yourragegaming-320x180.jpg)](https://twitch.tv/yourragegaming)
+**[BAM PASSED KOBE!!! SLEEVELESS THE SLUMP GOD WANTS TO SPEND TIME WITH YOU LEARNING!!!](https://twitch.tv/yourragegaming)** by **yourragegaming**<br>14,109명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2026-03-11 04:03 UTC
+: 마지막 업데이트: 2026-03-11 05:42 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
