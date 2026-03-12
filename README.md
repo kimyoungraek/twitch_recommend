@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
-**[🟨LOSING MY MIND🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>56,832명 시청  - Rewind 99
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
+**[LIARS BAR w/ Cloakzy & HutchMF | WACKADOODLE WEDNESDAY | #Shart3TimesForGoodLuck #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>40,674명 시청  - Liar's Bar
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[COUNTER STRIKE w/ Cloakzy & HutchMF | WACKADOODLE WEDNESDAY | #Shart3TimesForGoodLuck #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>44,469명 시청  - Counter-Strike
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_yourragegaming-320x180.jpg)](https://twitch.tv/yourragegaming)
+**[SLEEVELESS THE BUMMY GOD WANTS YOU ON THE FRONTLINES !!! ENLIST TODAY !!!](https://twitch.tv/yourragegaming)** by **yourragegaming**<br>14,527명 시청  - Just Chatting
 
 **3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
-**[今日もCCを見るぞ](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>15,076명 시청  - Street Fighter 6
+**[今日もCCを見るぞ](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>14,017명 시청  - Street Fighter 6
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_yourragegaming-320x180.jpg)](https://twitch.tv/yourragegaming)
-**[SLEEVELESS THE BUMMY GOD WANTS YOU ON THE FRONTLINES !!! ENLIST TODAY !!!](https://twitch.tv/yourragegaming)** by **yourragegaming**<br>14,604명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_realzbluewater-320x180.jpg)](https://twitch.tv/RealzBlueWater)
+**[🐧💨PENGUINO🐧💨✨CLICK🐬✨NOW🐬✨💰BIG GIVEAWAYS💰PS5💰💎GIFT CARDS!💎(>❛̀ 👅 ́❛)>](https://twitch.tv/RealzBlueWater)** by **RealzBlueWater**<br>7,354명 시청  - Black Myth: Wukong
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_summit1g-320x180.jpg)](https://twitch.tv/summit1g)
-**[Charles Johnson ProdigyRP. !starforge @StarforgeSystems](https://twitch.tv/summit1g)** by **summit1g**<br>10,976명 시청  - Grand Theft Auto V
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_shuto_fgc-320x180.jpg)](https://twitch.tv/shuto_fgc)
+**[CC見るぞ！ なるおさんと](https://twitch.tv/shuto_fgc)** by **shuto_fgc**<br>6,843명 시청  - Street Fighter 6
 
 
 ---
-: 마지막 업데이트: 2026-03-12 05:44 UTC
+: 마지막 업데이트: 2026-03-12 06:44 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
