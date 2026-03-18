@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[442/730] 🟨 $4K CSGO CASE OPENING 🟨](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>50,000명 시청  - Counter-Strike
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
+**[🟨SPOOKY TIME🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>57,507명 시청  - Corner Shop: NightShift
 
 **2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[ARC RAIDERS | PEANUT-ASORAUS | TESTICULAR TORSION TUESDAY | #RAAAAH #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>40,217명 시청  - ARC Raiders
+**[The Isle | PEANUT-ASORAUS | TESTICULAR TORSION TUESDAY | #RAAAAH #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>42,364명 시청  - The Isle
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
-**[👺EF DAY17👺STRAIT OF HORMUZ: CLOSED👺ALI LARIJANI KILLED?!👺COUNTERTERROR HEAD RESIGNS👺TRUMP WANTS CUBA👺GRID COLLAPSES👺IL PRIMARY!](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>36,142명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
+**[👷LIVE👷DRAMA👷NEWS👷VIDEOS👷REACTS👷CLIPS👷THINGS👷LOCK IN👷PULL UP QUICK👷LETS GO👷WAH WAH👷](https://twitch.tv/xQc)** by **xQc**<br>21,360명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_paulinholokobr-320x180.jpg)](https://twitch.tv/PaulinhoLOKObr)
-**[O QUE PAULO FARÁ? GTA RP](https://twitch.tv/PaulinhoLOKObr)** by **PaulinhoLOKObr**<br>35,957명 시청  - Grand Theft Auto V
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[今日はｶﾞﾁで配信休む](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>18,281명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_plaqueboymax-320x180.jpg)](https://twitch.tv/plaqueboymax)
-**[PLAQUEBOYMAX VS MARLON! WHO IS THE WORST GAMER?? GET IN HERE!!](https://twitch.tv/plaqueboymax)** by **plaqueboymax**<br>32,449명 시청  - GeoGuessr
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_emiru-320x180.jpg)](https://twitch.tv/Emiru)
+**[HI!!!! :3 ⭐🍀 TOXIC TUESDAY ⭐🍀 YAPS DAILIES REACTS MEGA VARIETY GAMING ⭐🍀 DEMON SOULS PLAYTHROUGH ⭐🍀 EEEEEEEEEEEEEEEEEEEEEEEEEE @EMIRU247](https://twitch.tv/Emiru)** by **Emiru**<br>14,988명 시청  - Demon's Souls
 
 
 ---
-: 마지막 업데이트: 2026-03-18 01:29 UTC
+: 마지막 업데이트: 2026-03-18 04:17 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
