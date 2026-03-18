@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gon_vl-320x180.jpg)](https://twitch.tv/gon_vl)
-**[ぶいすぽの頭にヴァロを叩き入れる BIND SPLIT HAVENをおさらいしようの日](https://twitch.tv/gon_vl)** by **gon_vl**<br>9,310명 시청  - VALORANT
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_shadowkekw-320x180.jpg)](https://twitch.tv/shadowkekw)
+**[FALCONS [1:0] NRG | BLAST Open Rotterdam 2026 👉 !тг !betboom !lisskins](https://twitch.tv/shadowkekw)** by **shadowkekw**<br>29,297명 시청  - Counter-Strike
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_enzzai-320x180.jpg)](https://twitch.tv/enzzai)
-**[Восстанавливаю режим – тренировка | Не знаю что с онлайном](https://twitch.tv/enzzai)** by **enzzai**<br>8,065명 시청  - Just Chatting
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_blastpremier-320x180.jpg)](https://twitch.tv/BLASTPremier)
+**[BLAST Open Rotterdam 2026 - Day 1 - NRG vs Falcons, NAVI vs B8, FaZe vs Aurora, FURIA vs TYLOO](https://twitch.tv/BLASTPremier)** by **BLASTPremier**<br>20,719명 시청  - Counter-Strike
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut_247-320x180.jpg)](https://twitch.tv/TheBurntPeanut_247)
-**[24/7 @TheBurntPeanut VODS/YT | TARKOV | ARC RAIDERS | SILLY GAMES | BUNGULATORS ONLY CHAT](https://twitch.tv/TheBurntPeanut_247)** by **TheBurntPeanut_247**<br>7,977명 시청  - Always On
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_chopperinho-320x180.jpg)](https://twitch.tv/chopperinho)
+**[FALCONS [1:0] NRG | BO3 | BLAST Open Rotterdam 2026 | !tg !yt !bb](https://twitch.tv/chopperinho)** by **chopperinho**<br>16,166명 시청  - Counter-Strike
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_cdawg-320x180.jpg)](https://twitch.tv/CDawg)
-**[Slay the Spire II CONTINUING OUR STS2 RUN @ironmouse @peter | !gamersupps !tiltify !roomreviews !cook !talent](https://twitch.tv/CDawg)** by **CDawg**<br>7,815명 시청  - Slay the Spire II
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
+**[ちょいアレクからLOLすくりゃむ](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>12,174명 시청  - Street Fighter 6
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_echo_esports-320x180.jpg)](https://twitch.tv/Echo_Esports)
-**[Echo Race to World FIrst Advanced by AMD : Midnight Season 1 | Day 1 | !amd](https://twitch.tv/Echo_Esports)** by **Echo_Esports**<br>7,667명 시청  - World of Warcraft
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gon_vl-320x180.jpg)](https://twitch.tv/gon_vl)
+**[ぶいすぽの頭にヴァロを叩き入れる BIND SPLIT HAVENをおさらいしようの日](https://twitch.tv/gon_vl)** by **gon_vl**<br>9,963명 시청  - VALORANT
 
 
 ---
-: 마지막 업데이트: 2026-03-18 09:44 UTC
+: 마지막 업데이트: 2026-03-18 10:43 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
