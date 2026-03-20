@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[444/730] 🟨 DOUBLE DATE W/ MOODA  -> OPENING 100 CSGO CASES 🟨](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>58,559명 시청  - VALORANT
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
+**[🟨SPOOKY TIME🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>52,926명 시청  - Corner Shop: NightShift
 
 **2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
-**[[DROPS ON] BIG DAY HUGE DRAMA NEW CRIMSON DESERT RELEASE BIG NEWS AND GAMES MULTISTREAMING+REACTS | Follow  @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>50,771명 시청  - Crimson Desert
+**[[DROPS ON] BIG DAY HUGE DRAMA NEW CRIMSON DESERT RELEASE BIG NEWS AND GAMES MULTISTREAMING+REACTS | Follow  @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>44,425명 시청  - Crimson Desert
 
 **3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[Battlefield 6 | !BF6 | PROTECT THE PEANUT | #Battlefield6 #BF6 #ad #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>34,514명 시청  - Battlefield 6
+**[ARC RAIDERS w/ Nickmercs | THICC MEN THURSDAY | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>39,750명 시청  - ARC Raiders
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_paulinholokobr-320x180.jpg)](https://twitch.tv/PaulinhoLOKObr)
-**[PAULO DAS IDEIAS VENDEDOR NATO! GTA RP](https://twitch.tv/PaulinhoLOKObr)** by **PaulinhoLOKObr**<br>32,409명 시청  - Grand Theft Auto V
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
+**[⚽  LIVE ⚽  FIRST BALLERS LEAGUE MATCH  ⚽  VS Speed UTD ⚽  GET IN ⚽  HUGE ⚽  BIG ⚽](https://twitch.tv/xQc)** by **xQc**<br>18,416명 시청  - Carry The Glass
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_alanzoka-320x180.jpg)](https://twitch.tv/alanzoka)
-**[DROPS ON - crimson desert](https://twitch.tv/alanzoka)** by **alanzoka**<br>22,109명 시청  - Crimson Desert
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_elmariana-320x180.jpg)](https://twitch.tv/ElMariana)
+**[ME ESTOY ENFERMANDO 🤒 | REGALITOS DE HERMOSILLO 🌵 + APLANAMOS NUESTRO TERRENO EN QSMP 🌎](https://twitch.tv/ElMariana)** by **ElMariana**<br>17,337명 시청  - QSMP
 
 
 ---
-: 마지막 업데이트: 2026-03-20 01:24 UTC
+: 마지막 업데이트: 2026-03-20 04:07 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
