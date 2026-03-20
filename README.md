@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[４６億年物語をリメイク実況する](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>29,914명 시청  - E.V.O.: Search for Eden
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ow_esports_jp-320x180.jpg)](https://twitch.tv/OW_ESPORTS_JP)
+**[2026 OWCS ASIA l KOREA STAGE 1 - Week 1 Day 1](https://twitch.tv/OW_ESPORTS_JP)** by **OW_ESPORTS_JP**<br>31,150명 시청  - Overwatch
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ow_esports_jp-320x180.jpg)](https://twitch.tv/OW_ESPORTS_JP)
-**[2026 OWCS ASIA l KOREA STAGE 1 - Week 1 Day 1](https://twitch.tv/OW_ESPORTS_JP)** by **OW_ESPORTS_JP**<br>25,822명 시청  - Overwatch
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[４６億年物語をリメイク実況する](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>29,495명 시청  - E.V.O.: Search for Eden
 
 **3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_plaqueboymax-320x180.jpg)](https://twitch.tv/plaqueboymax)
-**[WE’RE IN JAPAN FOR THE DAY 🇯🇵💁🏻‍♀️](https://twitch.tv/plaqueboymax)** by **plaqueboymax**<br>20,231명 시청  - IRL
+**[WE’RE IN JAPAN FOR THE DAY 🇯🇵💁🏻‍♀️](https://twitch.tv/plaqueboymax)** by **plaqueboymax**<br>21,008명 시청  - IRL
 
 **4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_bijusan-320x180.jpg)](https://twitch.tv/Bijusan)
-**[VALORANT Challengers Japan 2026 Split 1 Main Stage Phase 1 Day 2  どうも](https://twitch.tv/Bijusan)** by **Bijusan**<br>12,971명 시청  - VALORANT
+**[VALORANT Challengers Japan 2026 Split 1 Main Stage Phase 1 Day 2  どうも](https://twitch.tv/Bijusan)** by **Bijusan**<br>20,807명 시청  - VALORANT
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sasatikk-320x180.jpg)](https://twitch.tv/sasatikk)
-**[紅の砂漠 やるぞ！ ネタバレ禁止](https://twitch.tv/sasatikk)** by **sasatikk**<br>7,834명 시청  - Crimson Desert
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
+**[LOLOLOL](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>8,940명 시청  - League of Legends
 
 
 ---
-: 마지막 업데이트: 2026-03-20 09:33 UTC
+: 마지막 업데이트: 2026-03-20 10:31 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
