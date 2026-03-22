@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
-**[🔴GRAND FINALS G2 VS BLG - FIRST STAND #FST2026🔴 !discord !operagx](https://twitch.tv/Caedrel)** by **Caedrel**<br>217,277명 시청  - League of Legends
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_anarabdullaev-320x180.jpg)](https://twitch.tv/anarabdullaev)
+**[Гуляю с Равшаном, Паштетом, Огром и Саней](https://twitch.tv/anarabdullaev)** by **anarabdullaev**<br>42,688명 시청  - IRL
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_otplol_-320x180.jpg)](https://twitch.tv/otplol_)
-**[FIRST STAND 2026 - G2 vs BLG - FINALE - BO5](https://twitch.tv/otplol_)** by **otplol_**<br>66,690명 시청  - League of Legends
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ow_esports-320x180.jpg)](https://twitch.tv/ow_esports)
+**[[DROPS] OWCS 2026 | NA/EMEA | Stage 1 Day 2](https://twitch.tv/ow_esports)** by **ow_esports**<br>40,451명 시청  - Overwatch
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ibai-320x180.jpg)](https://twitch.tv/ibai)
-**[GRAN FINAL | G2 vs BLG | DÍA PARA HACER HISTORIA | FIRST STAND](https://twitch.tv/ibai)** by **ibai**<br>58,390명 시청  - League of Legends
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ohnepixel-320x180.jpg)](https://twitch.tv/ohnePixel)
+**[🔴OPENING MY LAST GOLD EVER...🔴](https://twitch.tv/ohnePixel)** by **ohnePixel**<br>37,371명 시청  - Counter-Strike
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_riotgames-320x180.jpg)](https://twitch.tv/Riot Games)
-**[G2 vs. BLG | First Stand Tournament | Finals](https://twitch.tv/Riot Games)** by **Riot Games**<br>54,978명 시청  - League of Legends
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ramzes-320x180.jpg)](https://twitch.tv/ramzes)
+**[[NO DELAY] Team Yandex [0:1] PARIVISION | ESL One Birmingham 2026: Group Stage | bo2 | \w @afoninje !tg !win !playerok](https://twitch.tv/ramzes)** by **ramzes**<br>29,330명 시청  - Dota 2
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_montanablack88-320x180.jpg)](https://twitch.tv/MontanaBlack88)
-**[IRL von der MANGA COMIC CON in Leipzig](https://twitch.tv/MontanaBlack88)** by **MontanaBlack88**<br>37,243명 시청  - IRL
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_blastpremier-320x180.jpg)](https://twitch.tv/BLASTPremier)
+**[BLAST Open Rotterdam 2026 - Day 5 - TYLOO vs Falcons, NRG vs FURIA, Liquid vs The MongolZ, 9z vs Spirit](https://twitch.tv/BLASTPremier)** by **BLASTPremier**<br>28,116명 시청  - Counter-Strike
 
 
 ---
-: 마지막 업데이트: 2026-03-22 16:21 UTC
+: 마지막 업데이트: 2026-03-22 17:19 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
