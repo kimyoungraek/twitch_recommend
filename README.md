@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[447/730] ⭐️ Opening 200 CS CASES ⭐️](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>84,181명 시청  - Counter-Strike
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
+**[🟨SPOOKY TIME🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>58,940명 시청  - Conductor: Eternal Service
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
-**[[DROPS ON] BIG DAY HUGE DRAMA NEW CRIMSON DESERT RELEASE BIG NEWS AND GAMES MULTISTREAMING+REACTS | Follow  @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>33,768명 시청  - Crimson Desert
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_plaqueboymax-320x180.jpg)](https://twitch.tv/plaqueboymax)
+**[WE BACK IN LA BIHHH SLAYR X EZCODYLEE IN THE BOOTH](https://twitch.tv/plaqueboymax)** by **plaqueboymax**<br>25,363명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_plaqueboymax-320x180.jpg)](https://twitch.tv/plaqueboymax)
-**[WE BACK IN LA BIHHH SLAYR IN THE BOOTH](https://twitch.tv/plaqueboymax)** by **plaqueboymax**<br>28,411명 시청  - Music
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[OW DPS ダイヤまでの軌跡](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>16,329명 시청  - Overwatch
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_emiru-320x180.jpg)](https://twitch.tv/Emiru)
-**[COSPLAY WITH @WATERLYNN AND @ITSKATCHII :D ⭐🖤  RESIDENT EVIL DIMITRESCU SISTERS MMM MAN BLOOD ⭐🖤  VARIETY GAMING DEMON SOULS IDK @EMIRU247](https://twitch.tv/Emiru)** by **Emiru**<br>18,643명 시청  - Demon's Souls
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_agent00-320x180.jpg)](https://twitch.tv/Agent00)
+**[1 SUB = 50 BALLS  + FILLING MY ROOM UP WITH BALLS](https://twitch.tv/Agent00)** by **Agent00**<br>11,786명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hadi_ow-320x180.jpg)](https://twitch.tv/hadi_ow)
-**[[!DROPS]✅ GIVEAWAY EVERY 30MINS ☆ INSANE LONG STREAM ☆ RANK 1 EU TANK ☆ SSG HADI  ☆ ☆ ☆ ☆ ☆ GIVEAWAYS EVERY 30MIN AFTER OWCS 🔵🔵🔵](https://twitch.tv/hadi_ow)** by **hadi_ow**<br>16,384명 시청  - Overwatch
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_vinesauce-320x180.jpg)](https://twitch.tv/Vinesauce)
+**[Mario World Troll Hacks, Freaky Mushrooms, Lucid Blocks](https://twitch.tv/Vinesauce)** by **Vinesauce**<br>11,036명 시청  - Super Mario World
 
 
 ---
-: 마지막 업데이트: 2026-03-23 01:29 UTC
+: 마지막 업데이트: 2026-03-23 04:22 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
