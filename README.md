@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
-**[🔴LEC SPRING SPLIT FNC VS GX🔴 !discord !operagx](https://twitch.tv/Caedrel)** by **Caedrel**<br>47,165명 시청  - League of Legends
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_shadowkekw-320x180.jpg)](https://twitch.tv/shadowkekw)
+**[Vitality [0:0] Aurora | BLAST Open Rotterdam 2026 SF 👉 !тг !betboom !lisskins !розыгрыш](https://twitch.tv/shadowkekw)** by **shadowkekw**<br>60,595명 시청  - Counter-Strike
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ramzes-320x180.jpg)](https://twitch.tv/ramzes)
-**[[NO DELAY] Aurora Gaming [0:1] PARIVISION | ESL One Birmingham 2026: Lower Bracket Quarterfinals | bo3 | w/ @afoninje !tg !win !playerok](https://twitch.tv/ramzes)** by **ramzes**<br>37,483명 시청  - Dota 2
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
+**[🔴LEC SPRING SPLIT FNC VS GX🔴 !discord !operagx](https://twitch.tv/Caedrel)** by **Caedrel**<br>44,727명 시청  - League of Legends
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-320x180.jpg)](https://twitch.tv/StRoGo)
-**[🔴WW 1:1 MEGOSHORT | EPL Series 6: Group Stage | Комментатор: @MARKL1NCK](https://twitch.tv/StRoGo)** by **StRoGo**<br>29,649명 시청  - Counter-Strike
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ohnepixel-320x180.jpg)](https://twitch.tv/ohnePixel)
+**[🔴VITALITY vs AURORA [SEMI FINAL] BLAST ROTTERDAM🔴](https://twitch.tv/ohnePixel)** by **ohnePixel**<br>42,829명 시청  - Counter-Strike
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_egorcr1nge-320x180.jpg)](https://twitch.tv/egorcr1nge)
-**[Я вспомнил пароль](https://twitch.tv/egorcr1nge)** by **egorcr1nge**<br>29,248명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_blastpremier-320x180.jpg)](https://twitch.tv/BLASTPremier)
+**[BLAST Open Rotterdam 2026 - Semi-Final - Vitality vs Aurora, NAVI vs PARIVISION](https://twitch.tv/BLASTPremier)** by **BLASTPremier**<br>37,728명 시청  - Counter-Strike
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_dota2_paragon_ru-320x180.jpg)](https://twitch.tv/dota2_paragon_ru)
-**[PARIVISION [1:0] Aurora Gaming | ESL One Birmingham 2026: Playoffs | BO3 | @Jamclub & @Santadoto](https://twitch.tv/dota2_paragon_ru)** by **dota2_paragon_ru**<br>24,793명 시청  - Dota 2
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gotaga-320x180.jpg)](https://twitch.tv/Gotaga)
+**[GENTLE MATES [0] vs. [1] FAZE - MAJOR COD en direct de Birmingham #M8WIN 🏟️ !Major](https://twitch.tv/Gotaga)** by **Gotaga**<br>35,903명 시청  - Call of Duty: Black Ops 7
 
 
 ---
-: 마지막 업데이트: 2026-03-28 13:44 UTC
+: 마지막 업데이트: 2026-03-28 14:25 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
