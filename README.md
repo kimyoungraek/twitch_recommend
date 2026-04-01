@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_nasa-320x180.jpg)](https://twitch.tv/NASA)
-**[NASA’s Artemis II Crew Launches to the Moon (Official Broadcast)](https://twitch.tv/NASA)** by **NASA**<br>52,750명 시청  - Science & Technology
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_nasdas_off-320x180.jpg)](https://twitch.tv/nasdas_off)
+**[CHIENNETE TV : Le Jour Du Jugement A Sonné !](https://twitch.tv/nasdas_off)** by **nasdas_off**<br>294,429명 시청  - Just Chatting
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_anarabdullaev-320x180.jpg)](https://twitch.tv/anarabdullaev)
-**[Едем кушать](https://twitch.tv/anarabdullaev)** by **anarabdullaev**<br>50,010명 시청  - IRL
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_nasa-320x180.jpg)](https://twitch.tv/NASA)
+**[NASA’s Artemis II Crew Launches to the Moon (Official Broadcast)](https://twitch.tv/NASA)** by **NASA**<br>51,240명 시청  - Science & Technology
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ohnepixel-320x180.jpg)](https://twitch.tv/ohnePixel)
-**[🔴BEST EXPLOSIVE EXPERT ON TWITCH🔴](https://twitch.tv/ohnePixel)** by **ohnePixel**<br>30,174명 시청  - Keep Talking and Nobody Explodes
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eliasn97-320x180.jpg)](https://twitch.tv/eliasn97)
+**[Among Us mit verrücktem Squad 🤯🔥 | !iconleague !lyora !doku !eligella !gaming](https://twitch.tv/eliasn97)** by **eliasn97**<br>42,978명 시청  - Among Us
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
-**[[DROPS ON] BIG DAY HUGE DRAMA NEW CONTENT KING TODAY BIG NEWS AND GAMES MULTISTREAMING+REACTS | Follow  @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>28,933명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_anarabdullaev-320x180.jpg)](https://twitch.tv/anarabdullaev)
+**[Едем кушать](https://twitch.tv/anarabdullaev)** by **anarabdullaev**<br>41,011명 시청  - IRL
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eliasn97-320x180.jpg)](https://twitch.tv/eliasn97)
-**[Reactions & Talks 🔥 21 Uhr Among Us 🔥 | !iconleague !lyora !doku !eligella !gaming](https://twitch.tv/eliasn97)** by **eliasn97**<br>26,893명 시청  - Just Chatting
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
+**[[DROPS ON] BIG DAY HUGE DRAMA NEW CONTENT KING TODAY BIG NEWS AND GAMES MULTISTREAMING+REACTS | Follow  @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>38,962명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2026-04-01 18:51 UTC
+: 마지막 업데이트: 2026-04-01 19:53 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
