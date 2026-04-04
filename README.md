@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[KNIGHTS OF THE BUNGUS | Peanut's Wasteland | FLUFF A FAN FRIDAY | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>42,633명 시청  - Rust
+**[KNIGHTS OF THE BUNGUS | Peanut's Wasteland | FLUFF A FAN FRIDAY | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>37,380명 시청  - Rust
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jasontheween-320x180.jpg)](https://twitch.tv/jasontheween)
-**[🔴BY THE GODS...🔴KANYE CONCERT🔴IM HERE🔴WHAT WILL TODAY ENTAIL?🔴AKjsdfasdhf;lskajdKASHJ🔴](https://twitch.tv/jasontheween)** by **jasontheween**<br>18,999명 시청  - Just Chatting
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ow_esports_jp-320x180.jpg)](https://twitch.tv/OW_ESPORTS_JP)
+**[2026 OWCS ASIA l KOREA STAGE 1 - Week 2 Day 2](https://twitch.tv/OW_ESPORTS_JP)** by **OW_ESPORTS_JP**<br>17,181명 시청  - Overwatch
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_aldo_geo-320x180.jpg)](https://twitch.tv/aldo_geo)
-**[HOY QUE SE HACE? MUEJEJE CUESEMEPE DOS](https://twitch.tv/aldo_geo)** by **aldo_geo**<br>12,798명 시청  - QSMP
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
+**[nigeruna](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>11,872명 시청  - Overwatch
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_2xrakai-320x180.jpg)](https://twitch.tv/2xRaKai)
-**[🍀 4 MAN W/ REEM, KELO, AND MADI🍀 LATE NIGHT FRIDAY STREAM 🍀 ALMOST 1 MILL ON YT 🍀 SATELITEEE](https://twitch.tv/2xRaKai)** by **2xRaKai**<br>12,731명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_maximum-320x180.jpg)](https://twitch.tv/Maximum)
+**[RWF Mythic day 11 addons are not in the game anymore they removed them](https://twitch.tv/Maximum)** by **Maximum**<br>11,105명 시청  - World of Warcraft
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_teamliquid-320x180.jpg)](https://twitch.tv/TeamLiquid)
-**[[8/9M] Race to World First 12.0 - Day 11](https://twitch.tv/TeamLiquid)** by **TeamLiquid**<br>12,536명 시청  - World of Warcraft
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_rainbow6-320x180.jpg)](https://twitch.tv/Rainbow6)
+**[Kickoff 2026: APL Asia - Day 2](https://twitch.tv/Rainbow6)** by **Rainbow6**<br>10,773명 시청  - Rainbow Six Siege
 
 
 ---
-: 마지막 업데이트: 2026-04-04 05:52 UTC
+: 마지막 업데이트: 2026-04-04 06:51 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
