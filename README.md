@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-320x180.jpg)](https://twitch.tv/StRoGo)
-**[🔴 PV 1:0 Wildcard | PGL Bucharest 2026](https://twitch.tv/StRoGo)** by **StRoGo**<br>25,694명 시청  - Counter-Strike
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_anarabdullaev-320x180.jpg)](https://twitch.tv/anarabdullaev)
+**[Приехали к @ravshann в Апшеронск, шашлыки машлыки, Нимат, Джордан](https://twitch.tv/anarabdullaev)** by **anarabdullaev**<br>49,030명 시청  - IRL
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_pgl-320x180.jpg)](https://twitch.tv/PGL)
-**[PARIVISION vs. Wildcard Gaming - PGL Bucharest 2026 - Group Stage: Round 5 (2-2)](https://twitch.tv/PGL)** by **PGL**<br>24,207명 시청  - Counter-Strike
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_martinciriook-320x180.jpg)](https://twitch.tv/MartinCirioOk)
+**[FARANECDOTAS + MIGUE GRANADOS](https://twitch.tv/MartinCirioOk)** by **MartinCirioOk**<br>20,159명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[ちょっと話して軽くOWして家に帰る](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>18,409명 시청  - Overwatch
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_chess24-320x180.jpg)](https://twitch.tv/chess24)
+**[FIDE Candidates 2026: Anish v. Fabiano In A Race To Catch Sindarov! Who'll Come On Top! Rd 9](https://twitch.tv/chess24)** by **chess24**<br>19,039명 시청  - Chess
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_bysl4m-320x180.jpg)](https://twitch.tv/bySL4M)
-**[[RU] PARIVISION [1:0] Wildcard | BO3 | PGL Bucharest 2026 Group Stage | Day 5 w/ @WorldEdit](https://twitch.tv/bySL4M)** by **bySL4M**<br>17,908명 시청  - Counter-Strike
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_shadowkekw-320x180.jpg)](https://twitch.tv/shadowkekw)
+**[Бегущий в лабиринте: Лекарство от смерти» [СМОТРЮ ВПЕРВЫЕ] / начало: 19:44 👉 !тг !betboom !lisskins](https://twitch.tv/shadowkekw)** by **shadowkekw**<br>18,741명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ow_esports_jp-320x180.jpg)](https://twitch.tv/OW_ESPORTS_JP)
-**[2026 OWCS ASIA l JAPAN STAGE 1 - Week 4 Day 3](https://twitch.tv/OW_ESPORTS_JP)** by **OW_ESPORTS_JP**<br>16,310명 시청  - Overwatch
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_deepins02-320x180.jpg)](https://twitch.tv/deepins02)
+**[[мама в 16, папа блоггер] | !winline !tg](https://twitch.tv/deepins02)** by **deepins02**<br>17,870명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2026-04-08 15:04 UTC
+: 마지막 업데이트: 2026-04-08 16:53 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
