@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[463/730] 🟨 Jynxzi vs Ron 🟨](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>45,255명 시청  - Chess
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
+**[🟨SPOOKY TIME🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>56,955명 시청  - Games + Demos
 
 **2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[KING of the KNIGHTS OF THE BUNGUS | Peanut's Wasteland | TESTICULAR TORSION TUESDAY | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>45,153명 시청  - Rust
+**[KING of the KNIGHTS OF THE BUNGUS | Peanut's Wasteland | TESTICULAR TORSION TUESDAY | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>38,159명 시청  - Rust
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_paulinholokobr-320x180.jpg)](https://twitch.tv/PaulinhoLOKObr)
-**[PAULO LOKO TREINADOR de MALUCOS!](https://twitch.tv/PaulinhoLOKObr)** by **PaulinhoLOKObr**<br>32,852명 시청  - Grand Theft Auto V
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[ﾑﾗｹﾞ超全力応援 VALORANT Challengers Japan 2026 Split 1 Main Stage Phase 2 Day 5](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>27,907명 시청  - VALORANT
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
-**[🤬TRUMP THREATENS RAMPAGE🤬ABDUL EL-SAYED+SUMMER LEE RALLY IN MSU + UM🤬WE ARE THE BADDIES🤬IRAN REMAINS RESTRAINED🤬EF DAY38🤬](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>25,052명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_cdawg-320x180.jpg)](https://twitch.tv/CDawg)
+**[Day 4 Cyclethon w/ @abroadchris and @gigguk | !gamersupps !tiltify !idf !tts !sfx !merch !bingo !book !connorbike](https://twitch.tv/CDawg)** by **CDawg**<br>20,585명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stableronaldo-320x180.jpg)](https://twitch.tv/stableronaldo)
-**[😁 STABLE X ANDREA BOTEZ 😁 LIFE IS GOOD 😁 GREAT VIBES 😁 IRL 😁 GAMES 😁 LIFE IS GOOD 😁  [twitter/insta stableronaldo] !po !com !sub](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>23,804명 시청  - Chess
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_summit1g-320x180.jpg)](https://twitch.tv/summit1g)
+**[PEANUT BATTLEGROUND SERVER. !starforge @StarforgeSystems](https://twitch.tv/summit1g)** by **summit1g**<br>12,913명 시청  - Rust
 
 
 ---
-: 마지막 업데이트: 2026-04-08 01:49 UTC
+: 마지막 업데이트: 2026-04-08 04:31 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
