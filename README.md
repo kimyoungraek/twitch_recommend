@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_pgl-320x180.jpg)](https://twitch.tv/PGL)
-**[The MongolZ vs. PARIVISION - PGL Bucharest 2026 - Playoffs: QuarterFinal 4](https://twitch.tv/PGL)** by **PGL**<br>34,526명 시청  - Counter-Strike
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eliasn97-320x180.jpg)](https://twitch.tv/eliasn97)
+**[Among Us mit dem Squad 🔥🤯 | !finale !iconleague !lyora !doku !eligella !gaming](https://twitch.tv/eliasn97)** by **eliasn97**<br>47,330명 시청  - Among Us
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eliasn97-320x180.jpg)](https://twitch.tv/eliasn97)
-**[Reactions & Talks 🔥 | 20:30 Among Us 🔥 | !finale !iconleague !lyora !doku !eligella !gaming](https://twitch.tv/eliasn97)** by **eliasn97**<br>31,927명 시청  - Just Chatting
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
+**[[465/730] 🔴 ONE DAY or DAY ONE 🔴](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>42,286명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-320x180.jpg)](https://twitch.tv/StRoGo)
-**[🔴 PV 1:0 The MongolZ | PGL Bucharest 2026](https://twitch.tv/StRoGo)** by **StRoGo**<br>28,595명 시청  - Counter-Strike
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jltomy-320x180.jpg)](https://twitch.tv/JLTomy)
+**[FLASHBACK V6 : que la révolution du RP commence !](https://twitch.tv/JLTomy)** by **JLTomy**<br>40,276명 시청  - Grand Theft Auto V
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sasavot-320x180.jpg)](https://twitch.tv/sasavot)
-**[Rostikfacekid [ 0 ] vs [ 0 ] DAXAK | FONBET MEDIA ELEAGUE](https://twitch.tv/sasavot)** by **sasavot**<br>26,420명 시청  - Dota 2
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
+**[🤬WHAT CEASEFIRE?🤬ISRAEL STRIKES LEBANON🤬DNC SAYS YES TO AIPAC🤬SITUATION MONITORED!🤬EF DAY40🤬](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>35,609명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_bysl4m-320x180.jpg)](https://twitch.tv/bySL4M)
-**[[RU] The MongolZ [0:1] PARIVISION | BO3 | PGL Bucharest 2026 Quarterfinals | Day 6 w/ @WorldEdit](https://twitch.tv/bySL4M)** by **bySL4M**<br>24,958명 시청  - Counter-Strike
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_evelone2004-320x180.jpg)](https://twitch.tv/evelone2004)
+**[Ку](https://twitch.tv/evelone2004)** by **evelone2004**<br>29,051명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2026-04-09 18:00 UTC
+: 마지막 업데이트: 2026-04-09 19:59 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
