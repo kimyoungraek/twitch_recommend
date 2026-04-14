@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[KING of the KNIGHTS OF THE BUNGUS | RUST CONCERT | FART IN MY MOUTH | Peanut's Wasteland | MANY MEN MONDAY | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>34,267명 시청  - Rust
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ow_esports_jp-320x180.jpg)](https://twitch.tv/OW_ESPORTS_JP)
+**[2026 OWCS ASIA l JAPAN STAGE 1 - PLAYOFFS Day 2](https://twitch.tv/OW_ESPORTS_JP)** by **OW_ESPORTS_JP**<br>19,782명 시청  - Overwatch
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_brucedropemoff-320x180.jpg)](https://twitch.tv/BruceDropEmOff)
-**[KEEP THE BALL ROLLING 🏀 CONSISTENT STROKES 🔥 FREE VAMPIRE FOOD 🧛🏿 DRAMA 👀 !sub !ig](https://twitch.tv/BruceDropEmOff)** by **BruceDropEmOff**<br>21,098명 시청  - Just Chatting
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_batora324-320x180.jpg)](https://twitch.tv/バトラ)
+**[ポケモンチャンピオンズ マスターいきたい！！！！！！！！！！](https://twitch.tv/バトラ)** by **バトラ**<br>9,782명 시청  - Pokémon Champions
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_cdawg-320x180.jpg)](https://twitch.tv/CDawg)
-**[Day 10 Cyclethon w/ @abroadchris @Peter | !gamersupps !tiltify !idf !tts !sfx !merch !bingo !book !cyclefaq !app](https://twitch.tv/CDawg)** by **CDawg**<br>15,691명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ramzes-320x180.jpg)](https://twitch.tv/ramzes)
+**[BetBoom Team [0:0] Nemiga Gaming | DreamLeague Season 29: Eastern Europe Closed Qualifier | bo3 | !tg !win !playerok](https://twitch.tv/ramzes)** by **ramzes**<br>8,623명 시청  - Dota 2
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_qa_asun_partner-320x180.jpg)](https://twitch.tv/qa_asun_partner)
-**[I am a robot.](https://twitch.tv/qa_asun_partner)** by **qa_asun_partner**<br>12,924명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut_247-320x180.jpg)](https://twitch.tv/TheBurntPeanut_247)
+**[24/7 @TheBurntPeanut VODS/YT | TARKOV | ARC RAIDERS | SILLY GAMES | BUNGULATORS ONLY CHAT](https://twitch.tv/TheBurntPeanut_247)** by **TheBurntPeanut_247**<br>7,555명 시청  - Always On
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_batora324-320x180.jpg)](https://twitch.tv/バトラ)
-**[ポケモンチャンピオンズ マスターいきたい！！！！！！！！！！](https://twitch.tv/バトラ)** by **バトラ**<br>8,477명 시청  - Pokémon Champions
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ironmouse-320x180.jpg)](https://twitch.tv/ironmouse)
+**[🔴AHHHHHH🔴WORST VTUBER EVER READY TO RUIN YOUR DAY !cycle | !focus | !cheeky | !ht | !starforge | !tts | !merch | !razer](https://twitch.tv/ironmouse)** by **ironmouse**<br>7,229명 시청  - Crime Scene Cleaner
 
 
 ---
-: 마지막 업데이트: 2026-04-14 08:22 UTC
+: 마지막 업데이트: 2026-04-14 10:09 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
