@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stableronaldo-320x180.jpg)](https://twitch.tv/stableronaldo)
-**[🟨 PO BOX 🟨 IRL 🟨 WHAT IS IN THE PO TODAY 🟨LIKELY PO BOX MUKBANG🟨CHARITY MATCH 3 DAYS 🟨LONDON TMR🟨[twitter/insta stableronaldo] !po !com !sub](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>33,407명 시청  - Just Chatting
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
+**[RUST | PEANUT'S WASTELAND | THE BIG WAR | LAST NIGHT BEFORE WIPE | WACKADOODLE WEDNESDAY | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>38,435명 시청  - Rust
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
-**[🤬YALE RECAP🤬HANDS OFF CUBA🤬FRESH IRAN TALKS?!🤬NEW MI POLL FOR ABDUL🤬US HORMUZ DOUBLEBLOCK🤬SITUATION MONITORED!🤬EF DAY47🤬](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>31,952명 시청  - Just Chatting
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_paulinholokobr-320x180.jpg)](https://twitch.tv/PaulinhoLOKObr)
+**[CARRO NOVO CHEGANDO! GTA RP](https://twitch.tv/PaulinhoLOKObr)** by **PaulinhoLOKObr**<br>26,447명 시청  - Grand Theft Auto V
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
-**[[DROPS ON] UNBANNED BIG DAY HUGE DRAMA NEW GAMES TODAY BIG NEWS AND GAMES MULTISTREAMING+REACTS | Follow @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>31,811명 시청  - Windrose
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_cdawg-320x180.jpg)](https://twitch.tv/CDawg)
+**[Day 12 Cyclethon w/ @abroadchris @Peter | !gamersupps !tiltify !idf !tts !sfx !merch !bingo !book !cyclefaq !app](https://twitch.tv/CDawg)** by **CDawg**<br>14,767명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kamet0-320x180.jpg)](https://twitch.tv/Kamet0)
-**[100H ELDEN RING | JOUR 1 - KAMEL PART RESTAURER LE CERCLE D'ELDEN [4/26] ! [Collaboration Commerciale] 🌳 (!revolut) (!cagnotte) (!boss)](https://twitch.tv/Kamet0)** by **Kamet0**<br>17,455명 시청  - Special Events
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_loud_coringa-320x180.jpg)](https://twitch.tv/loud_coringa)
+**[NOITE QUENTE](https://twitch.tv/loud_coringa)** by **loud_coringa**<br>14,711명 시청  - Grand Theft Auto V
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jltomy-320x180.jpg)](https://twitch.tv/JLTomy)
-**[Finn Darrig l'homme le plus riche de Los Santos ? L'ascension continue](https://twitch.tv/JLTomy)** by **JLTomy**<br>17,200명 시청  - Grand Theft Auto V
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_agent00-320x180.jpg)](https://twitch.tv/Agent00)
+**[SURVIVING THE AMAZON RAINFOREST](https://twitch.tv/Agent00)** by **Agent00**<br>13,806명 시청  - IRL
 
 
 ---
-: 마지막 업데이트: 2026-04-15 23:35 UTC
+: 마지막 업데이트: 2026-04-16 01:59 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
