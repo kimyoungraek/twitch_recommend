@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[480/730] 🏆 $100k GEOGUESSER TOURNEY w/ OHNEPIXEL 🏆](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>45,298명 시청  - GeoGuessr
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_paulinholokobr-320x180.jpg)](https://twitch.tv/PaulinhoLOKObr)
+**[TRIBUNAL do CRIME no ROLEPLAY! GTA](https://twitch.tv/PaulinhoLOKObr)** by **PaulinhoLOKObr**<br>38,073명 시청  - Grand Theft Auto V
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_finalfantasyxiv-320x180.jpg)](https://twitch.tv/finalfantasyxiv)
-**[FINAL FANTASY XIV Fan Festival 2026 in Anaheim - Day 1](https://twitch.tv/finalfantasyxiv)** by **finalfantasyxiv**<br>38,524명 시청  - FINAL FANTASY XIV ONLINE
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_crayong-320x180.jpg)](https://twitch.tv/crayong)
+**[💀How many peopole can i talk to at beach💀](https://twitch.tv/crayong)** by **crayong**<br>36,543명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
-**[🤬FREAKY UNC🤬FOXNEWS LOST ITS MIND🤬ARAGCHI->ISLAMABAD🤬NYC NEXT WEEK🤬](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>29,212명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
+**[[DROPS] PEANUT'S WASTELAND | THE AFTERMATH OF NUCLEAR FALLOUT | PROS GOT GUNS | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>34,937명 시청  - Rust
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
-**[[DROPS ON] UNBANNED BIG DAY HUGE DRAMA MARVEL RIVALS PVE NEW GAMES TODAY BIG NEWS AND GAMES MULTISTREAMING+REACTS #AD | Follow @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>28,777명 시청  - Marvel Rivals
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_amazonmusic-320x180.jpg)](https://twitch.tv/AmazonMusic)
+**[Stagecoach ft. Cody Johnson, Diplo, The Red Clay Strays + more sponsored by !Amex, !Arbys, !TMobile, and the Toyota !RAV4](https://twitch.tv/AmazonMusic)** by **AmazonMusic**<br>30,816명 시청  - Music
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ohnepixel-320x180.jpg)](https://twitch.tv/ohnePixel)
-**[🔴$100K GEOGUESSR TOURNEY WITH JYNXZI!!!!🔴](https://twitch.tv/ohnePixel)** by **ohnePixel**<br>28,136명 시청  - GeoGuessr
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_2xrakai-320x180.jpg)](https://twitch.tv/2xRaKai)
+**[🏫DAY 1 OF BOARDING SCHOOL🏫](https://twitch.tv/2xRaKai)** by **2xRaKai**<br>26,945명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2026-04-24 23:33 UTC
+: 마지막 업데이트: 2026-04-25 01:49 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
