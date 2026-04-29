@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_shadowkekw-320x180.jpg)](https://twitch.tv/shadowkekw)
-**[VITALITY [1:1] FUT | BLAST Rivals 2026 Season 1 👉 !тг !betboom !lisskins](https://twitch.tv/shadowkekw)** by **shadowkekw**<br>40,673명 시청  - Counter-Strike
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_aminematue-320x180.jpg)](https://twitch.tv/aminematue)
+**[LIVE ANNONCE ELEVEN ALL STARS : Billetterie, joueurs, show, sponsors, etc](https://twitch.tv/aminematue)** by **aminematue**<br>51,728명 시청  - Just Chatting
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
-**[🔴VIT VS KOI // KC VS SKEWC QUALIFIERS🔴 !discord !operagx](https://twitch.tv/Caedrel)** by **Caedrel**<br>40,006명 시청  - League of Legends
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hamham_dtx-320x180.jpg)](https://twitch.tv/Hamham_DTX)
+**[IShowSpeed Caribbean Tour in Dominica & Guadeloupe & St. Kitts and Nevis & St. Maarten Reaction](https://twitch.tv/Hamham_DTX)** by **Hamham_DTX**<br>48,704명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_blastpremier-320x180.jpg)](https://twitch.tv/BLASTPremier)
-**[BLAST Rivals Fort Worth 2026, Group Stage, Day 1 - Team Vitality vs. FUT Esports](https://twitch.tv/BLASTPremier)** by **BLASTPremier**<br>38,152명 시청  - Counter-Strike
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_buster-320x180.jpg)](https://twitch.tv/buster)
+**[Женский подкаст 18+ 🥰❤️👠 @ekatze007 @korya_mc @yuuechka @cutierover @gaechkatm](https://twitch.tv/buster)** by **buster**<br>47,356명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kamet0-320x180.jpg)](https://twitch.tv/Kamet0)
-**[KARMINE CORP 0 vs 0 SK GAMING | EWC Qualifier (BO3) 🔵 (!razer) (!extension)](https://twitch.tv/Kamet0)** by **Kamet0**<br>36,825명 시청  - League of Legends
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
+**[[DROPS ON] BIG DAY HUGE DRAMA NTE RELEASE NEW GAMES TODAY BIG NEWS AND GAMES MULTISTREAMING+REACTS #AD | Follow @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>34,551명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ishowspeed-320x180.jpg)](https://twitch.tv/IShowSpeed)
-**[irl stream in Dominica 🇩🇲 & Guadeloupe 🇬🇵 & St. Kitts and Nevis 🇰🇳 & St. Maarten 🇸🇽](https://twitch.tv/IShowSpeed)** by **IShowSpeed**<br>32,501명 시청  - IRL
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
+**[🤬NYC DAY3🤬CONDEMN HASANABI BILL@🤬RADICAL LIBERAL DRILLER🤬BA'ALROOM BLITZ🤬HORMUZ STILL CLOSED🤬UAE OUT OF OPEC🤬LIFTING W/ CHI LATER!!!!](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>30,526명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2026-04-29 17:20 UTC
+: 마지막 업데이트: 2026-04-29 19:13 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
