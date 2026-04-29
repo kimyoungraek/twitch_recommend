@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[RUST | PEANUT'S WASTELAND 3 | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>26,962명 시청  - Rust
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
+**[🔴LCK KT VS HLE🔴 !discord !operagx](https://twitch.tv/Caedrel)** by **Caedrel**<br>41,562명 시청  - League of Legends
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
-**[🔴LCK T1 VS NS // KT VS HLE🔴 !discord !operagx](https://twitch.tv/Caedrel)** by **Caedrel**<br>24,992명 시청  - League of Legends
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_bijusan-320x180.jpg)](https://twitch.tv/Bijusan)
+**[SBJ優勝記念会館 Devil Clutch杯2026 #1 Supported by Riot Games](https://twitch.tv/Bijusan)** by **Bijusan**<br>16,177명 시청  - VALORANT
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
-**[JGもやらせてください](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>10,470명 시청  - League of Legends
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lck-320x180.jpg)](https://twitch.tv/LCK)
+**[NS vs T1 - KT vs HLE | 2026 LCK](https://twitch.tv/LCK)** by **LCK**<br>16,134명 시청  - League of Legends
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_batora324-320x180.jpg)](https://twitch.tv/バトラ)
-**[ハードコアマイクラ 建築したい、メイスとってみたい、ネザライト作ってみたい、トラップタワー作ってみたい](https://twitch.tv/バトラ)** by **バトラ**<br>10,200명 시청  - Minecraft
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_yaritaiji-320x180.jpg)](https://twitch.tv/たいじ_たいちゃんねる)
+**[ウメハラダイゴ全力応援チャンネル【獣道】ミラー配信](https://twitch.tv/たいじ_たいちゃんねる)** by **たいじ_たいちゃんねる**<br>14,360명 시청  - Street Fighter 6
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lck-320x180.jpg)](https://twitch.tv/LCK)
-**[NS vs T1 - KT vs HLE | 2026 LCK](https://twitch.tv/LCK)** by **LCK**<br>9,334명 시청  - League of Legends
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_naru0419045-320x180.jpg)](https://twitch.tv/なるお_)
+**[グッズ出ました 17時から獣道ミラー](https://twitch.tv/なるお_)** by **なるお_**<br>13,987명 시청  - Special Events
 
 
 ---
-: 마지막 업데이트: 2026-04-29 08:04 UTC
+: 마지막 업데이트: 2026-04-29 10:49 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
