@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_asianjeff-320x180.jpg)](https://twitch.tv/AsianJeff)
-**[GRINDING 🏆3/12🏆!newvid🏆](https://twitch.tv/AsianJeff)** by **AsianJeff**<br>137,435명 시청  - Fortnite
+**[GRINDING 🏆3/12🏆!newvid🏆](https://twitch.tv/AsianJeff)** by **AsianJeff**<br>115,871명 시청  - Fortnite
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[485/730] 🔴 LEAGUE OF LEGENDS DAY 4 🔴](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>40,066명 시청  - League of Legends
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
+**[NUT RAIDERS | RIVEN TIDES | NEW UPDATE | WACKADOODLE WEDNESDAY | ATT CUP DRAFT TOMORROW | BANNED ON YOUTUBE FOR BEING TOO SEXY | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>38,280명 시청  - ARC Raiders
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
-**[[DROPS ON] BIG DAY HUGE DRAMA NTE RELEASE NEW GAMES TODAY BIG NEWS AND GAMES MULTISTREAMING+REACTS #ntepartner | Follow @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>30,917명 시청  - NTE: Neverness to Everness
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_paulinholokobr-320x180.jpg)](https://twitch.tv/PaulinhoLOKObr)
+**[TRIBUNAL DO CRIME PARTE 2! BORA!!!!](https://twitch.tv/PaulinhoLOKObr)** by **PaulinhoLOKObr**<br>33,639명 시청  - Grand Theft Auto V
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gorilon-320x180.jpg)](https://twitch.tv/gorilon)
-**[VIEWING PARTY LAST CHANCE QUALIFIER MUNDIAL 🏆 | TOP 2 CLASIFICA A ALEMANIA](https://twitch.tv/gorilon)** by **gorilon**<br>27,363명 시청  - Fortnite
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
+**[🟨LOSING MY MIND🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>26,304명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
-**[🤬NYC DAY3🤬CONDEMN HASANABI BILL@🤬RADICAL LIBERAL DRILLER🤬BA'ALROOM BLITZ🤬HORMUZ STILL CLOSED🤬UAE OUT OF OPEC🤬LIFTING W/ CHI LATER!!!!](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>27,314명 시청  - Just Chatting
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
+**[!NTE  NEW GAME W @mendo ! #AD  🤽 LIVE 🤽 HERE 🤽 COOL 🤽 DRAMA 🤽 NEWS 🤽 THINGS 🤽 WICKED 🤽 IDK 🤽 LOCK IN 🤽](https://twitch.tv/xQc)** by **xQc**<br>21,658명 시청  - NTE: Neverness to Everness
 
 
 ---
-: 마지막 업데이트: 2026-04-29 23:47 UTC
+: 마지막 업데이트: 2026-04-30 02:13 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
