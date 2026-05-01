@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
-**[🔴LCK T1 VS HLE🔴 !discord !operagx](https://twitch.tv/Caedrel)** by **Caedrel**<br>82,105명 시청  - League of Legends
+**[🔴LCK T1 VS HLE🔴 !discord !operagx](https://twitch.tv/Caedrel)** by **Caedrel**<br>43,404명 시청  - League of Legends
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lck-320x180.jpg)](https://twitch.tv/LCK)
-**[DNS vs BRO - HLE vs T1 | 2026 LCK](https://twitch.tv/LCK)** by **LCK**<br>29,399명 시청  - League of Legends
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jasysta-320x180.jpg)](https://twitch.tv/jasysta)
+**[I listen to my songs and play slots](https://twitch.tv/jasysta)** by **jasysta**<br>26,085명 시청  - Slots
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jasysta-320x180.jpg)](https://twitch.tv/jasysta)
-**[I listen to my songs and play slots](https://twitch.tv/jasysta)** by **jasysta**<br>25,688명 시청  - Slots
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_bijusan-320x180.jpg)](https://twitch.tv/Bijusan)
+**[VCT Pacific 2026 : STAGE 1 - Day 13 まじでしっとり見る](https://twitch.tv/Bijusan)** by **Bijusan**<br>18,926명 시청  - VALORANT
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ow_esports_jp-320x180.jpg)](https://twitch.tv/OW_ESPORTS_JP)
-**[2026 OWCS ASIA l KOREA STAGE 1 - PLAYOFFS DAY 1](https://twitch.tv/OW_ESPORTS_JP)** by **OW_ESPORTS_JP**<br>22,475명 시청  - Overwatch
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_k4sen-320x180.jpg)](https://twitch.tv/k4sen)
+**[職業図鑑2](https://twitch.tv/k4sen)** by **k4sen**<br>14,531명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lck_carry-320x180.jpg)](https://twitch.tv/LCK_Carry)
-**[[中文] DNS vs BRO | HLE vs T1 | 2026 LCK](https://twitch.tv/LCK_Carry)** by **LCK_Carry**<br>17,229명 시청  - League of Legends
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lazvell-320x180.jpg)](https://twitch.tv/Lazvell)
+**[ZETA最終戦 vs VL - Group Stage Week5 - VCT Pacific 2026 Stage1 #VCTWatchParty](https://twitch.tv/Lazvell)** by **Lazvell**<br>13,807명 시청  - VALORANT
 
 
 ---
-: 마지막 업데이트: 2026-05-01 11:52 UTC
+: 마지막 업데이트: 2026-05-01 13:02 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
