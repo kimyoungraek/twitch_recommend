@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
-**[EVOJapan ウォチパ](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>32,398명 시청  - Street Fighter 6
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
+**[🔴LCK KT VS BRO🔴 !discord !operagx](https://twitch.tv/Caedrel)** by **Caedrel**<br>38,176명 시청  - League of Legends
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_uadayto-320x180.jpg)](https://twitch.tv/uadayto)
-**[broadcast](https://twitch.tv/uadayto)** by **uadayto**<br>20,362명 시청  - Just Chatting
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gofns-320x180.jpg)](https://twitch.tv/GOFNS)
+**[EG FNS | PRX vs KRX  - VCT Pacific Stage 1 #VCTWatchparty | !inZONE !socials](https://twitch.tv/GOFNS)** by **GOFNS**<br>20,372명 시청  - VALORANT
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_evo-320x180.jpg)](https://twitch.tv/Evo)
-**[Evo Japan 2026 Day 3: TEKKEN 8 & Street Fighter 6 Top 8's.](https://twitch.tv/Evo)** by **Evo**<br>17,726명 시청  - Street Fighter 6
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ow_esports_jp-320x180.jpg)](https://twitch.tv/OW_ESPORTS_JP)
+**[2026 OWCS ASIA l KOREA STAGE 1 - PLAYOFFS DAY 3](https://twitch.tv/OW_ESPORTS_JP)** by **OW_ESPORTS_JP**<br>19,167명 시청  - Overwatch
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ow_esports_jp-320x180.jpg)](https://twitch.tv/OW_ESPORTS_JP)
-**[2026 OWCS ASIA l KOREA STAGE 1 - PLAYOFFS DAY 3](https://twitch.tv/OW_ESPORTS_JP)** by **OW_ESPORTS_JP**<br>13,437명 시청  - Overwatch
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_uadayto-320x180.jpg)](https://twitch.tv/uadayto)
+**[broadcast](https://twitch.tv/uadayto)** by **uadayto**<br>18,815명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_maximilian_dood-320x180.jpg)](https://twitch.tv/Maximilian_DOOD)
-**[EVO JAPAN FINALS DAY - TRAILERS & MORE!](https://twitch.tv/Maximilian_DOOD)** by **Maximilian_DOOD**<br>11,155명 시청  - Special Events
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lazvell-320x180.jpg)](https://twitch.tv/Lazvell)
+**[PRX vs KRX / DFM vs RRQ - Group Stage Week5 - VCT Pacific 2026 Stage1 #VCTWatchParty](https://twitch.tv/Lazvell)** by **Lazvell**<br>17,228명 시청  - VALORANT
 
 
 ---
-: 마지막 업데이트: 2026-05-03 07:50 UTC
+: 마지막 업데이트: 2026-05-03 09:15 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
