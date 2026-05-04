@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
-**[🟨CASEOH'S WATERPARK🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>53,308명 시청  - Waterpark Simulator
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_snestaz-320x180.jpg)](https://twitch.tv/snestaz)
+**[привет !donate](https://twitch.tv/snestaz)** by **snestaz**<br>30,235명 시청  - Just Chatting
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_uasria-320x180.jpg)](https://twitch.tv/uasria)
-**[My stream](https://twitch.tv/uasria)** by **uasria**<br>31,247명 시청  - Just Chatting
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_trymacs-320x180.jpg)](https://twitch.tv/Trymacs)
+**[8 Tage Tour mit Liegerädern! 600km Marseille bis Barcelona! !teilnehmer !vote !allianz #CreatorQuest !ESN !bitpanda !PrepMyMeal](https://twitch.tv/Trymacs)** by **Trymacs**<br>11,308명 시청  - IRL
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
-**[🏄LIVE🏄HERE🏄DRAMA🏄NEWS🏄VIDEOS🏄REACTS🏄CLIPS🏄THINGS🏄GAMES🏄VIDEOGAMES EVEN🏄WOW🏄BEST PLAYER IN THE WORLD🏄LIVE HERE🏄](https://twitch.tv/xQc)** by **xQc**<br>23,437명 시청  - Counter-Strike
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
+**[LOL、ヨルバイオ](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>9,998명 시청  - League of Legends
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_brucedropemoff-320x180.jpg)](https://twitch.tv/BruceDropEmOff)
-**[🚨 SURPRISE SURPRISE 😁 WHAT A BLESSED SUNDAY 🙏🏾 JOIN TO END THE WEEKEND OFF RIGHT 🔥  !sub !ig](https://twitch.tv/BruceDropEmOff)** by **BruceDropEmOff**<br>14,742명 시청  - Counter-Strike
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ironmouse-320x180.jpg)](https://twitch.tv/ironmouse)
+**[HERE FOR THE ISLAND DRAMA  | !ff14 | !cafe | !senpai | !cheeky | !ht | !starforge | !tts | !merch | !razer](https://twitch.tv/ironmouse)** by **ironmouse**<br>9,492명 시청  - Tomodachi Life: Living the Dream
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_rdcgaming-320x180.jpg)](https://twitch.tv/RDCgaming)
-**[SUNDAY NIGHT WITH DA BOYS! | FIRST TIME PLAYING INVINCIBLE! | BRICK NATION STAND UP](https://twitch.tv/RDCgaming)** by **RDCgaming**<br>10,413명 시청  - Marvel Rivals
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_summit1g-320x180.jpg)](https://twitch.tv/summit1g)
+**[day 4 thursday wipe and I hate myself !starforge @StarforgeSystems](https://twitch.tv/summit1g)** by **summit1g**<br>9,082명 시청  - Rust
 
 
 ---
-: 마지막 업데이트: 2026-05-04 05:56 UTC
+: 마지막 업데이트: 2026-05-04 08:25 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
