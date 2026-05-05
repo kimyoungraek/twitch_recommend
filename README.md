@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jasdyat-320x180.jpg)](https://twitch.tv/jasdyat)
-**[https://t.me/TubeSL - 250$ for our private view bot program.](https://twitch.tv/jasdyat)** by **jasdyat**<br>49,297명 시청  - Just Chatting
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lessyyfn-320x180.jpg)](https://twitch.tv/lessyyfn)
+**[chilling](https://twitch.tv/lessyyfn)** by **lessyyfn**<br>93,484명 시청  - Just Chatting
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[490/730] 😊 LEAGUE OF LEGENDS DAY 8 🟨](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>38,505명 시청  - League of Legends
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
+**[🟨SPOOKY TIME🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>53,770명 시청  - Games + Demos
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[GAMBLE WITH YOUR FRIENDS w/ HutchMF, Drac, & Cloakzy | PARTY GAME NIGHT | MANY MEN MONDAY | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>37,052명 시청  - Gamble With Your Friends
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[もうカイロスを使ってわざと負けるのはやめた](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>26,556명 시청  - Pokémon Champions
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stableronaldo-320x180.jpg)](https://twitch.tv/stableronaldo)
-**[😂 DAY 3 😂COOKING STEAK & POTATOES w/ MARLON😂CORE ERA😂GREAT HOUSE VIBES 😂 IRL 😂 GAMES 😂 LAG? 😂 [twitter/insta stableronaldo] !po !com !sub](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>30,579명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
+**[GAMBLE WITH YOUR FRIENDS w/ HutchMF, Drac, & Cloakzy | PARTY GAME NIGHT | MANY MEN MONDAY | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>25,962명 시청  - Gamble With Your Friends
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_loud_coringa-320x180.jpg)](https://twitch.tv/loud_coringa)
-**[LOUD x Podpah Funkbol às 21h │ Kings League Brazil: 2º Split - 9ª Rodada](https://twitch.tv/loud_coringa)** by **loud_coringa**<br>27,974명 시청  - Kings League
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_iasdysa-320x180.jpg)](https://twitch.tv/iasdysa)
+**[broadcast](https://twitch.tv/iasdysa)** by **iasdysa**<br>25,863명 시청  - Counter-Strike
 
 
 ---
-: 마지막 업데이트: 2026-05-05 02:07 UTC
+: 마지막 업데이트: 2026-05-05 05:35 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
