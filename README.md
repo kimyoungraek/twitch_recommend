@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
-**[🔴LEC KC VS GX🔴 !discord !operagx FOLLOW @caedrel247](https://twitch.tv/Caedrel)** by **Caedrel**<br>45,563명 시청  - League of Legends
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kamet0-320x180.jpg)](https://twitch.tv/Kamet0)
+**[KARMINE CORP 1 vs 0 GIANTX | LEC Spring Roadtrip (BO3) #WatchLEC 🔵 (!razer) (!extension)](https://twitch.tv/Kamet0)** by **Kamet0**<br>59,254명 시청  - League of Legends
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_mistermv-320x180.jpg)](https://twitch.tv/mistermv)
-**[SpeeDons au profit de Médecins du Monde - Portal 2 Coop par savvydruid & @zadadaz](https://twitch.tv/mistermv)** by **mistermv**<br>42,409명 시청  - Special Events
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
+**[🔴LEC KC VS GX🔴 !discord !operagx FOLLOW @caedrel247](https://twitch.tv/Caedrel)** by **Caedrel**<br>57,212명 시청  - League of Legends
 
 **3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-320x180.jpg)](https://twitch.tv/StRoGo)
-**[🔴 FALCONS 0:0 9Z | PGL Astana 2026 | @m3wsu @skywhywalker](https://twitch.tv/StRoGo)** by **StRoGo**<br>40,266명 시청  - Counter-Strike
+**[🔴 FALCONS 0:1 9Z | PGL Astana 2026 |  @skywhywalker](https://twitch.tv/StRoGo)** by **StRoGo**<br>56,573명 시청  - Counter-Strike
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jsdtraya-320x180.jpg)](https://twitch.tv/jsdtraya)
-**[my 1-st stream on Twitch](https://twitch.tv/jsdtraya)** by **jsdtraya**<br>30,192명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[トモダチコレクション２日目](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>51,927명 시청  - Tomodachi Life: Living the Dream
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gofns-320x180.jpg)](https://twitch.tv/GOFNS)
-**[EG SUDOWOODO | PRX vs KRX - VCT Pacific Playoffs #VCTWatchparty | !inzone !socials](https://twitch.tv/GOFNS)** by **GOFNS**<br>28,932명 시청  - VALORANT
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ardasaatci1-320x180.jpg)](https://twitch.tv/ardasaatci1)
+**[🇺🇸 RED BULL "CYBORG SEASON 26" ULTRA 600 🇺🇸 | Arda Saatci](https://twitch.tv/ardasaatci1)** by **ardasaatci1**<br>50,912명 시청  - Special Events
 
 
 ---
-: 마지막 업데이트: 2026-05-10 13:01 UTC
+: 마지막 업데이트: 2026-05-10 14:44 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
