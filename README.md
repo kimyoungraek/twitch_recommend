@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[497/730] 🟨 DROPS ON 🟨 40 STREAMER LEAGUE OF LEGENDS TOURNEY 🟨](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>407,847명 시청  - League of Legends
+**[[497/730] 🟨 DROPS ON 🟨 40 STREAMER LEAGUE OF LEGENDS TOURNEY 🟨](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>317,078명 시청  - League of Legends
 
 **2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_asianjeff-320x180.jpg)](https://twitch.tv/AsianJeff)
-**[🥊 72 hour STREAM  🥊 GETTING VIEWBOTTED AGAIN 🌟 12/14 🏆!newvid !personaltrainer](https://twitch.tv/AsianJeff)** by **AsianJeff**<br>72,327명 시청  - IRL
+**[🏆WINNING DIV CUP🏆72 HOUR STREAM🏆GETTING VIEWBOTTED AGAIN🏆!newvid !personaltrainer](https://twitch.tv/AsianJeff)** by **AsianJeff**<br>73,046명 시청  - IRL
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_loltyler1-320x180.jpg)](https://twitch.tv/loltyler1)
-**[DROP ONS ! GAMEDAYS ! GO SHOW STAR #1 TALENT WINNER SPOT ! FINE !! buts focus ... SHOCK WORLDS ! BIG TONKA T TERRIFIC WONDERFUL AWESOME](https://twitch.tv/loltyler1)** by **loltyler1**<br>51,897명 시청  - League of Legends
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
+**[[DROPS] LEAGUE OF LEGENDS | TRAINING FOR AT&T TOURNAMENT | MANY MEN MONDAY | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>38,856명 시청  - League of Legends
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_rainbow6-320x180.jpg)](https://twitch.tv/Rainbow6)
-**[G2 ESPORTS vs. TWISTED MINDS - BLAST R6 SLC Major | Phase 2 - Day 2](https://twitch.tv/Rainbow6)** by **Rainbow6**<br>44,760명 시청  - Rainbow Six Siege
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
+**[[DROPS ON] BIG DAY HUGE DRAMA TRYING MIXTAPE NEW GAMES TODAY BIG NEWS AND GAMES MULTISTREAMING+REACTS  | Follow @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>36,900명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[[DROPS] Jynxzi's League Of Legends Tournament | LAST MINUTE ENTRY | MANY MEN MONDAY | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>40,669명 시청  - League of Legends
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_rainbow6-320x180.jpg)](https://twitch.tv/Rainbow6)
+**[FAZE CLAN vs. WILDCARD - BLAST R6 SLC Major | Phase 2 - Day 2](https://twitch.tv/Rainbow6)** by **Rainbow6**<br>36,582명 시청  - Rainbow Six Siege
 
 
 ---
-: 마지막 업데이트: 2026-05-11 21:59 UTC
+: 마지막 업데이트: 2026-05-11 22:57 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
