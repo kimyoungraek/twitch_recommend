@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_asianjeff-320x180.jpg)](https://twitch.tv/AsianJeff)
-**[🏆72 HOUR STREAM🏆GETTING VIEWBOTTED AGAIN🏆!newvid !personaltrainer](https://twitch.tv/AsianJeff)** by **AsianJeff**<br>72,070명 시청  - IRL
+**[sleeping WIL BE UP ON 10 AM  CST 🏆72 HOUR STREAM🏆GETTING VIEWBOTTED AGAIN🏆!newvid !personaltrainer](https://twitch.tv/AsianJeff)** by **AsianJeff**<br>70,914명 시청  - I'm Only Sleeping
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
-**[🟨LOSING MY MIND🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>53,712명 시청  - ROBLOX
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_pgl-320x180.jpg)](https://twitch.tv/PGL)
+**[[A] MOUZ vs. Aurora Gaming - PGL Astana 2026 - Group Stage: Round 4 High Match (2-1)](https://twitch.tv/PGL)** by **PGL**<br>19,728명 시청  - Counter-Strike
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[[DROPS] LEAGUE OF LEGENDS | TRAINING FOR AT&T TOURNAMENT | MANY MEN MONDAY | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>36,199명 시청  - League of Legends
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[OWチーム練習](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>17,037명 시청  - Overwatch
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_247jynxzi-320x180.jpg)](https://twitch.tv/247Jynxzi)
-**[🚨 24/7 JYNXZI STREAMS! GET IN HERE!! !charm 🚨](https://twitch.tv/247Jynxzi)** by **247Jynxzi**<br>28,525명 시청  - Always On
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_cs2_paragon_ru-320x180.jpg)](https://twitch.tv/cs2_paragon_ru)
+**[[RU] MOUZ [1:0] Aurora Gaming | PGL Astana 2026: Group Stage | BO3 | @Solaar_06, @Lampaaa & @Roma_roo](https://twitch.tv/cs2_paragon_ru)** by **cs2_paragon_ru**<br>13,940명 시청  - Counter-Strike
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
-**[🍁LIVE🍁HERE🍁CLICK🍁DRAMA🍁NEWS🍁VIDEOS🍁CLIPS🍁REACTS🍁IMPORTANT🍁LOL TOURNY CHAMPION🍁MINECRAFT RECORD BREAKER🍁WOW🍁ALL IN ONE DAY🍁](https://twitch.tv/xQc)** by **xQc**<br>27,939명 시청  - Minecraft
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_bysl4m-320x180.jpg)](https://twitch.tv/bySL4M)
+**[[RU] MOUZ [1:0] Aurora | BO3 | PGL Astana 2026 Group Stage | Day 4 w/ @WorldEdit](https://twitch.tv/bySL4M)** by **bySL4M**<br>12,759명 시청  - Counter-Strike
 
 
 ---
-: 마지막 업데이트: 2026-05-12 03:24 UTC
+: 마지막 업데이트: 2026-05-12 06:32 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
