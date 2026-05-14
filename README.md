@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_asianjeff-320x180.jpg)](https://twitch.tv/AsianJeff)
-**[WAKING UP AT 10:40🌜 72 HOUR STREAM 🕺 VIEWBOTS ARE BACK👺 !newvid !comm !personaltrainer](https://twitch.tv/AsianJeff)** by **AsianJeff**<br>66,692명 시청  - I'm Only Sleeping
+**[GETTING MY BODY STRETCHED 🤩 72 HOUR STREAM 🕺 !newvid !comm !personaltrainer](https://twitch.tv/AsianJeff)** by **AsianJeff**<br>74,603명 시청  - IRL
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
-**[🔴 EWC LEC G2 VS NAVI / KC KOI LATER🔴 !discord !operagx FOLLOW @caedrel247](https://twitch.tv/Caedrel)** by **Caedrel**<br>39,045명 시청  - League of Legends
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_evelone2004-320x180.jpg)](https://twitch.tv/evelone2004)
+**[1x5 S-chilla / Reznik  на 10k$](https://twitch.tv/evelone2004)** by **evelone2004**<br>49,465명 시청  - Counter-Strike
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_vjlbz-320x180.jpg)](https://twitch.tv/vjlbz)
-**[we can help you streamers](https://twitch.tv/vjlbz)** by **vjlbz**<br>37,463명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ohnepixel-320x180.jpg)](https://twitch.tv/ohnePixel)
+**[🔴GEOGUESSR 1 PRO VS 100 VIEWERS WITH ZIGZAG 🔴](https://twitch.tv/ohnePixel)** by **ohnePixel**<br>32,460명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ramzes-320x180.jpg)](https://twitch.tv/ramzes)
-**[[NO DELAY] Spirit [1:0] Aurora | DreamLeague | DreamLeague S29: Group Stage |BO3| /w @afoninje @icebergdoto !tg !win !playerok !give](https://twitch.tv/ramzes)** by **ramzes**<br>30,141명 시청  - Dota 2
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_anarabdullaev-320x180.jpg)](https://twitch.tv/anarabdullaev)
+**[Амирхан Оев Сексбомба гуляем, импровизируем](https://twitch.tv/anarabdullaev)** by **anarabdullaev**<br>26,760명 시청  - IRL
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kamet0-320x180.jpg)](https://twitch.tv/Kamet0)
-**[KARMINE CORP 0 vs 0 MOVISTAR KOI | EWC Qualifier (BO3) 🔵 (!razer) (!LECRoadtrip)](https://twitch.tv/Kamet0)** by **Kamet0**<br>26,310명 시청  - League of Legends
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ramzes-320x180.jpg)](https://twitch.tv/ramzes)
+**[PARIVISION [0:0] Xtreme Gaming  | DreamLeague S29: Group Stage |BO3| /w @afoninje @icebergdoto @solo !tg !win !playerok !give](https://twitch.tv/ramzes)** by **ramzes**<br>26,569명 시청  - Dota 2
 
 
 ---
-: 마지막 업데이트: 2026-05-14 15:13 UTC
+: 마지막 업데이트: 2026-05-14 17:43 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
