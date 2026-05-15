@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stylishnoob4-320x180.jpg)](https://twitch.tv/stylishnoob4)
-**[関優太(36) パーマかけすぎた](https://twitch.tv/stylishnoob4)** by **stylishnoob4**<br>69,209명 시청  - Just Chatting
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-320x180.jpg)](https://twitch.tv/StRoGo)
+**[🔴 Falcons 0:0 FURIA | PGL Astana 2026 | @shadowkekw @STANISLAW9](https://twitch.tv/StRoGo)** by **StRoGo**<br>83,177명 시청  - Counter-Strike
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-320x180.jpg)](https://twitch.tv/StRoGo)
-**[🔴 9z 1:1 magic | PGL Astana 2026 | @shadowkekw @STANISLAW9](https://twitch.tv/StRoGo)** by **StRoGo**<br>42,631명 시청  - Counter-Strike
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_pgl-320x180.jpg)](https://twitch.tv/PGL)
+**[FURIA vs. Team Falcons - PGL Astana 2026 - Playoffs: QuarterFinal 4](https://twitch.tv/PGL)** by **PGL**<br>71,587명 시청  - Counter-Strike
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[トモダチコレクション５日目](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>34,492명 시청  - Tomodachi Life: Living the Dream
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_buster-320x180.jpg)](https://twitch.tv/buster)
+**[FALCONS 0:0 FURIA 📛 PGL Astana 2026 📛 | WINLINE ГАЗ НА КАСТ | Розыгрыш 250 ножей в !tg @dmitry_lixxx @hypetried @chopperinho](https://twitch.tv/buster)** by **buster**<br>52,977명 시청  - Counter-Strike
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_pgl-320x180.jpg)](https://twitch.tv/PGL)
-**[9z Globant vs. magic - PGL Astana 2026 - Playoffs: QuarterFinal 3](https://twitch.tv/PGL)** by **PGL**<br>32,721명 시청  - Counter-Strike
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ybkfb-320x180.jpg)](https://twitch.tv/ybkfb)
+**[we can help you streamers](https://twitch.tv/ybkfb)** by **ybkfb**<br>40,221명 시청  - Grand Theft Auto V
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gofns-320x180.jpg)](https://twitch.tv/GOFNS)
-**[EG SUDOWOODO | PRX vs T1 - VCT Pacific Playoffs #VCTWatchparty | !inzone !socials](https://twitch.tv/GOFNS)** by **GOFNS**<br>30,917명 시청  - VALORANT
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_bysl4m-320x180.jpg)](https://twitch.tv/bySL4M)
+**[[RU] FURIA [0:0] Falcons | BO3 | PGL Astana 2026 Quarterfinals | Day 6 w/ @adren @perfecto_of @WorldEdit](https://twitch.tv/bySL4M)** by **bySL4M**<br>31,277명 시청  - Counter-Strike
 
 
 ---
-: 마지막 업데이트: 2026-05-15 13:48 UTC
+: 마지막 업데이트: 2026-05-15 15:58 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
