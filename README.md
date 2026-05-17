@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
-**[🔴LCK BRO VS KRX🔴 !discord !operagx FOLLOW @caedrel247](https://twitch.tv/Caedrel)** by **Caedrel**<br>77,442명 시청  - League of Legends
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-320x180.jpg)](https://twitch.tv/StRoGo)
+**[🔴 SPIRIT 0:0 FALCONS | PGL Astana 2026 GRAND-FINAL | @shadowkekw @STANISLAW9 @molodoy1818](https://twitch.tv/StRoGo)** by **StRoGo**<br>133,858명 시청  - Counter-Strike
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stylishnoob4-320x180.jpg)](https://twitch.tv/stylishnoob4)
-**[海行ってからバイオハザードやる](https://twitch.tv/stylishnoob4)** by **stylishnoob4**<br>36,926명 시청  - RESIDENT EVIL: requiem
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_buster-320x180.jpg)](https://twitch.tv/buster)
+**[Spirit 0:0 Falcons 📛 PGL Astana 2026 📛 | WINLINE ГАЗ НА КАСТ | Розыгрыш 250 ножей в !tg @ct0m @chopperinho @dmitry_lixxx @overdrivezzz](https://twitch.tv/buster)** by **buster**<br>100,465명 시청  - Counter-Strike
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_buster-320x180.jpg)](https://twitch.tv/buster)
-**[Spirit 0:0 Falcons 📛 PGL Astana 2026 📛 | WINLINE ГАЗ НА КАСТ | Розыгрыш 250 ножей в !tg @hypetried @dmitry_lixxx @chopperinho](https://twitch.tv/buster)** by **buster**<br>27,588명 시청  - Counter-Strike
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_pgl-320x180.jpg)](https://twitch.tv/PGL)
+**[Team Spirit vs. Team Falcons - PGL Astana 2026 - Playoffs: Grand Final](https://twitch.tv/PGL)** by **PGL**<br>83,985명 시청  - Counter-Strike
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-320x180.jpg)](https://twitch.tv/StRoGo)
-**[🔴 SPIRIT 0:0 FALCONS | PGL Astana 2026 GRAND-FINAL | @shadowkekw @STANISLAW9](https://twitch.tv/StRoGo)** by **StRoGo**<br>26,453명 시청  - Counter-Strike
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zerator-320x180.jpg)](https://twitch.tv/ZeratoR)
+**[ZLAN 2026, dernier jour ! Les duos s'affrontent pour gagner 52 026€ en finale ! Grande annonce en fin de spectacle](https://twitch.tv/ZeratoR)** by **ZeratoR**<br>76,129명 시청  - ZLAN
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gofns-320x180.jpg)](https://twitch.tv/GOFNS)
-**[EG SUDOWOODO | PRX vs FS - VCT Pacific Playoffs Grand Final #VCTWatchparty !inzone !socials](https://twitch.tv/GOFNS)** by **GOFNS**<br>25,256명 시청  - VALORANT
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zpbab-320x180.jpg)](https://twitch.tv/zpbab)
+**[streamers we are here for you](https://twitch.tv/zpbab)** by **zpbab**<br>52,971명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2026-05-17 10:24 UTC
+: 마지막 업데이트: 2026-05-17 11:55 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
