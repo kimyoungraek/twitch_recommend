@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_rsvxb-320x180.jpg)](https://twitch.tv/rsvxb)
-**[streamers we are here for you](https://twitch.tv/rsvxb)** by **rsvxb**<br>78,510명 시청  - Just Chatting
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tmvgx-320x180.jpg)](https://twitch.tv/tmvgx)
+**[streamers we are here for you](https://twitch.tv/tmvgx)** by **tmvgx**<br>77,712명 시청  - Just Chatting
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_rainbow6-320x180.jpg)](https://twitch.tv/Rainbow6)
-**[DARKZERO vs. FAZE CLAN - BLAST R6 SLC Major | Phase 3 - Day 2](https://twitch.tv/Rainbow6)** by **Rainbow6**<br>40,317명 시청  - Rainbow Six Siege
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stableronaldo-320x180.jpg)](https://twitch.tv/stableronaldo)
+**[🤑 WHOLE HOUSE MAD HELPPP🤑GETTING A PIANO🤑 NEW DAY 🤑 IRL 🤑 REACTS 🤑 PO BOX SOON 🤑 [twitter/insta stableronaldo] !po !com !sub](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>36,342명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[502/730] 🟨 DARKZERO VS FAZE WATCH PARTY -> LEAGUE OF LEGENDS W DANTES 🟨](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>37,886명 시청  - Rainbow Six Siege
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
+**[Subnautica 2 w/ Gingy | !SN2 | SILLY GOOSE SATURDAY | #SN2Partner #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>33,983명 시청  - Subnautica 2
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stableronaldo-320x180.jpg)](https://twitch.tv/stableronaldo)
-**[🤑 MAKING A BAND w/ JASON & LACY 🤑GETTING A PIANO🤑 NEW DAY 🤑 IRL 🤑 REACTS 🤑 PO BOX SOON 🤑 [twitter/insta stableronaldo] !po !com !sub](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>33,558명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jasontheween-320x180.jpg)](https://twitch.tv/jasontheween)
+**[🔴MAD CONTENT🔴UPDATES🔴EPICNESS🔴COME QUICK🔴BEST BOUNCER OF ALL TIME🔴LINK CLICKER](https://twitch.tv/jasontheween)** by **jasontheween**<br>20,589명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gotaga-320x180.jpg)](https://twitch.tv/Gotaga)
-**[GENTLE MATES vs. FAZE au major COD d'Atlanta pour le top4 minimum ! #M8WIN !Scuf](https://twitch.tv/Gotaga)** by **Gotaga**<br>28,493명 시청  - Call of Duty: Black Ops 7
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_plaqueboymax-320x180.jpg)](https://twitch.tv/PlaqueBoyMax)
+**[IN THE BOOTH WIT 1300 SAINT   POP ITTTT #FIVESTARSUMMER2026💕](https://twitch.tv/PlaqueBoyMax)** by **PlaqueBoyMax**<br>16,491명 시청  - Music
 
 
 ---
-: 마지막 업데이트: 2026-05-16 23:43 UTC
+: 마지막 업데이트: 2026-05-17 02:28 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
