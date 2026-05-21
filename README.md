@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hfyyd-320x180.jpg)](https://twitch.tv/hfyyd)
-**[streamers we are here for you](https://twitch.tv/hfyyd)** by **hfyyd**<br>42,582명 시청  - Just Chatting
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
+**[🔴LCK DK VS BRO🔴 !discord !operagx](https://twitch.tv/Caedrel)** by **Caedrel**<br>40,892명 시청  - League of Legends
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[DAYZ | MF SURVIVAL | w/ Gimmick | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>24,116명 시청  - DayZ
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_nix-320x180.jpg)](https://twitch.tv/Nix)
+**[BetBoom Streamers Battle - Team Nix vs Team Recrent bo3 1:1 !состав !сетка](https://twitch.tv/Nix)** by **Nix**<br>28,418명 시청  - Dota 2
 
 **3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[金輪際DADしかしない](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>19,542명 시청  - Dark and Darker
+**[何しよかな](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>26,643명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
-**[🤯LIVE🤯QUICK🤯BIG DAY🤯LOCK IN🤯WE OUT HERE🤯DRAMA🤯NEWS🤯VIDS🤯IMPORTANT INFO🤯THAT YOU NEED🤯IN THIS BROADCAST🤯LOCK IN🤯](https://twitch.tv/xQc)** by **xQc**<br>17,658명 시청  - Marvel Rivals
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stylishnoob4-320x180.jpg)](https://twitch.tv/stylishnoob4)
+**[サイレントヒルFやってみる](https://twitch.tv/stylishnoob4)** by **stylishnoob4**<br>25,552명 시청  - SILENT HILL ƒ
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stylishnoob4-320x180.jpg)](https://twitch.tv/stylishnoob4)
-**[またりと→サイレントヒル？バニガ？Dotch～？](https://twitch.tv/stylishnoob4)** by **stylishnoob4**<br>14,771명 시청  - Just Chatting
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_dota2_paragon_ru-320x180.jpg)](https://twitch.tv/dota2_paragon_ru)
+**[Natus Vincere [0:0] PlayTime | DreamLeague S29: Playoffs | BO3 | @jamclub & @santadoto](https://twitch.tv/dota2_paragon_ru)** by **dota2_paragon_ru**<br>15,974명 시청  - Dota 2
 
 
 ---
-: 마지막 업데이트: 2026-05-21 06:46 UTC
+: 마지막 업데이트: 2026-05-21 10:34 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
