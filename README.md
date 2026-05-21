@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[PUBG UNCUP season2](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>48,593명 시청  - PUBG: BATTLEGROUNDS
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_honeymad-320x180.jpg)](https://twitch.tv/HoneyMad)
+**[Невероятный успешный релиз прекрасной ММО THRONE AND LIBERTY  в РОССИИ](https://twitch.tv/HoneyMad)** by **HoneyMad**<br>42,392명 시청  - Throne and Liberty
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stylishnoob4-320x180.jpg)](https://twitch.tv/stylishnoob4)
-**[サイレントヒルFやってみる](https://twitch.tv/stylishnoob4)** by **stylishnoob4**<br>27,735명 시청  - SILENT HILL ƒ
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_dota2_paragon_ru-320x180.jpg)](https://twitch.tv/dota2_paragon_ru)
+**[Team Falcons [1:1] PARIVISION | DreamLeague S29: Playoffs | BO3 | @CrystalMaytv & @Grayne](https://twitch.tv/dota2_paragon_ru)** by **dota2_paragon_ru**<br>34,674명 시청  - Dota 2
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
-**[🔴SPARKIE12 CLIMBING TO CHALLENGER ADC GOAT SPARKIYUSHI🔴 !discord !operagx](https://twitch.tv/Caedrel)** by **Caedrel**<br>26,437명 시청  - League of Legends
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ramzes-320x180.jpg)](https://twitch.tv/ramzes)
+**[[NO DELAY] Team Falcons [1:1] PARIVISION | DreamLeague S29: Upper Bracket Semifinals | BO3 | /w @afoninje @icebergdoto !tg !win !playerok](https://twitch.tv/ramzes)** by **ramzes**<br>31,255명 시청  - Dota 2
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_boggles-320x180.jpg)](https://twitch.tv/Boggles)
-**[🟠 ROAD TO SILVER SIEGE 🟠 141/365 🟠](https://twitch.tv/Boggles)** by **Boggles**<br>22,640명 시청  - Rainbow Six Siege
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_rocketleague-320x180.jpg)](https://twitch.tv/RocketLeague)
+**[Ninjas in Pyjamas vs Rebellion | Group C | Group Stage | Paris Major | RLCS 2026](https://twitch.tv/RocketLeague)** by **RocketLeague**<br>29,894명 시청  - Rocket League
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gotaga-320x180.jpg)](https://twitch.tv/Gotaga)
-**[[NEXT MATCH ≈19H] GENTLE MATES [3] vs. [0] R8 ESPORTS - MAJOR DE PARIS sur Rocket League ! #M8WIN](https://twitch.tv/Gotaga)** by **Gotaga**<br>20,503명 시청  - Rocket League
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_anarabdullaev-320x180.jpg)](https://twitch.tv/anarabdullaev)
+**[Гуляем с @ravshann и Uncleflex](https://twitch.tv/anarabdullaev)** by **anarabdullaev**<br>26,654명 시청  - IRL
 
 
 ---
-: 마지막 업데이트: 2026-05-21 13:58 UTC
+: 마지막 업데이트: 2026-05-21 16:38 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
