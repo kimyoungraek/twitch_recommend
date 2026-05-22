@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hdqze-320x180.jpg)](https://twitch.tv/hdqze)
-**[streamers we are here for you](https://twitch.tv/hdqze)** by **hdqze**<br>42,969명 시청  - Just Chatting
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_qlmpa-320x180.jpg)](https://twitch.tv/qlmpa)
+**[streamers we are here for you](https://twitch.tv/qlmpa)** by **qlmpa**<br>42,926명 시청  - Just Chatting
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_dovrz-320x180.jpg)](https://twitch.tv/dovrz)
-**[streamers we are here for you](https://twitch.tv/dovrz)** by **dovrz**<br>42,540명 시청  - Just Chatting
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_itlmw-320x180.jpg)](https://twitch.tv/itlmw)
+**[streamers we are here for you](https://twitch.tv/itlmw)** by **itlmw**<br>42,751명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
-**[🔴LCK KT VS GENG🔴 !discord !operagx](https://twitch.tv/Caedrel)** by **Caedrel**<br>42,008명 시청  - League of Legends
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_nix-320x180.jpg)](https://twitch.tv/Nix)
+**[BetBoom Streamers Battle - Team Nix vs Miposhka Team bo3 1:1 !состав !сетка](https://twitch.tv/Nix)** by **Nix**<br>34,471명 시청  - Dota 2
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_emongg-320x180.jpg)](https://twitch.tv/Emongg)
-**[[OWCS !DROPS ENABLED] GOING FOR EVERY DPS POTG !progress](https://twitch.tv/Emongg)** by **Emongg**<br>35,744명 시청  - Overwatch
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[DBDしながらDAD待つ](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>31,022명 시청  - Dead by Daylight
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_nix-320x180.jpg)](https://twitch.tv/Nix)
-**[BetBoom Streamers Battle - Team Nix vs Miposhka Team bo3 0:0 !состав !сетка](https://twitch.tv/Nix)** by **Nix**<br>29,908명 시청  - Dota 2
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stylishnoob4-320x180.jpg)](https://twitch.tv/stylishnoob4)
+**[サイレントヒル続き](https://twitch.tv/stylishnoob4)** by **stylishnoob4**<br>24,763명 시청  - SILENT HILL ƒ
 
 
 ---
-: 마지막 업데이트: 2026-05-22 10:19 UTC
+: 마지막 업데이트: 2026-05-22 13:25 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
