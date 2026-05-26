@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tumblurr-320x180.jpg)](https://twitch.tv/Tumblurr)
-**[🏁LIVE SPECIALE REDBULL KINGDOM OF SPEED🚗MEGA OSPITI😱TORNEO 5K SCALATA ORE 22:30😈😈](https://twitch.tv/Tumblurr)** by **Tumblurr**<br>40,539명 시청  - Plague Inc: Evolved
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
+**[🟨LOSING MY MIND🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>52,958명 시청  - ROBLOX
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jasontheween-320x180.jpg)](https://twitch.tv/jasontheween)
-**[🔴THROWING A SURPRISE PARTY FOR MY ASSISTANT LU🔴EPICNESS🔴LETS THROW SOMETHING ON THE GRILL🔴HAPPY MEMORIAL DAY🔴LOLOLOLOLOL🔴](https://twitch.tv/jasontheween)** by **jasontheween**<br>39,376명 시청  - Just Chatting
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
+**[[511/730] 🔴 I AM DARTH MAUL 🔴 SITH LORD JYNXZI 🔴 EVIL GAMING 🔴](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>35,046명 시청  - League of Legends
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
-**[[DROPS ON] BIG DAY HUGE DRAMA RE4 TODAY NEW GAMES TODAY BIG NEWS AND GAMES MULTISTREAMING+REACTS  | Follow @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>27,602명 시청  - Resident Evil 4
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
+**[CS2 | PRACTICING FOR AT&T ANNIHILATOR CUP FINALE | CASE OPENINGS | DoubleLift x HutchMF x Yvonne | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>30,238명 시청  - Counter-Strike
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
-**[👨‍✈️LIVE👨‍✈️CLICK👨‍✈️DRAMA👨‍✈️NEWS👨‍✈️VIDEOS👨‍✈️REACTS👨‍✈️GAMES👨‍✈️IMPORTANT THINGS👨‍✈️THE DAY IS UPON US👨‍✈️WE ARE HERE👨‍✈️](https://twitch.tv/xQc)** by **xQc**<br>26,445명 시청  - Forza Horizon 6
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[おはようございます](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>23,321명 시청  - Shadowverse: Worlds Beyond
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-320x180.jpg)](https://twitch.tv/StRoGo)
-**[🔴 WW 1:1 PsychoFace | BO3 | MPKBK CIS LAN #5: White Nights | @deko @ct0m @m3wsu @keliencs Тренер: @shadowkekw](https://twitch.tv/StRoGo)** by **StRoGo**<br>24,814명 시청  - Counter-Strike
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_brucedropemoff-320x180.jpg)](https://twitch.tv/BruceDropEmOff)
+**[ate a lil too much last night !sub !ig](https://twitch.tv/BruceDropEmOff)** by **BruceDropEmOff**<br>20,758명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2026-05-25 23:58 UTC
+: 마지막 업데이트: 2026-05-26 03:53 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
