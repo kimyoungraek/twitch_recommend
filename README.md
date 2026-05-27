@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
-**[🟨LOSING MY MIND🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>40,403명 시청  - Just Chatting
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
+**[Nut Legends | TESTICULAR TORSION TUESDAY | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>23,335명 시청  - Apex Legends
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[512/730] 🟨 ROAD TO SILVER W/ DANTES  🟨 GAMING ALL NIGHT 🟨](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>37,039명 시청  - League of Legends
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[シャドバ自分なりに仕上げてきた男](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>17,054명 시청  - Shadowverse: Worlds Beyond
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[Nut Legends | TESTICULAR TORSION TUESDAY | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>28,011명 시청  - Apex Legends
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stylishnoob4-320x180.jpg)](https://twitch.tv/stylishnoob4)
+**[なんか→なんか](https://twitch.tv/stylishnoob4)** by **stylishnoob4**<br>11,379명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lvndmark-320x180.jpg)](https://twitch.tv/LVNDMARK)
-**[[DROPS] ICEBREAKER ALL DAY| !STARFORGE !MONSTER | LVNDMARK_tv On Socials @starforgesystems](https://twitch.tv/LVNDMARK)** by **LVNDMARK**<br>22,055명 시청  - Escape from Tarkov
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fragas-320x180.jpg)](https://twitch.tv/Fragas)
+**[[DROPS] KILLING DA BOSS NOW RAAAA !event !mousepad | @mythictalent | !starforge](https://twitch.tv/Fragas)** by **Fragas**<br>11,007명 시청  - Escape from Tarkov
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jasontheween-320x180.jpg)](https://twitch.tv/jasontheween)
-**[🔴BALESHING ALL DAY🔴MAKING THE WORLD'S LARGEST PIZZA 🔴CONTENT OVERLOAD🔴WHATS THE WORD🔴KNICKS IN 4🔴HELP IDK HOW TO STOP COUGHING🔴](https://twitch.tv/jasontheween)** by **jasontheween**<br>17,951명 시청  - Just Chatting
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_vanillamace-320x180.jpg)](https://twitch.tv/vanillamace)
+**[late night games](https://twitch.tv/vanillamace)** by **vanillamace**<br>8,292명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2026-05-27 02:44 UTC
+: 마지막 업데이트: 2026-05-27 06:57 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
