@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[Nut Legends | TESTICULAR TORSION TUESDAY | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>23,335명 시청  - Apex Legends
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
+**[🔴LCK GENG VS HLE🔴 !discord !operagx](https://twitch.tv/Caedrel)** by **Caedrel**<br>43,119명 시청  - League of Legends
 
 **2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[シャドバ自分なりに仕上げてきた男](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>17,054명 시청  - Shadowverse: Worlds Beyond
+**[シャドバドラフト交流戦DAY２優勝配信](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>39,907명 시청  - Shadowverse: Worlds Beyond
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stylishnoob4-320x180.jpg)](https://twitch.tv/stylishnoob4)
-**[なんか→なんか](https://twitch.tv/stylishnoob4)** by **stylishnoob4**<br>11,379명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_nix-320x180.jpg)](https://twitch.tv/Nix)
+**[BLAST Slam VII BetBoom vs Liquid bo1 - Group Stage day 2 w/ Alagon](https://twitch.tv/Nix)** by **Nix**<br>37,382명 시청  - Dota 2
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fragas-320x180.jpg)](https://twitch.tv/Fragas)
-**[[DROPS] KILLING DA BOSS NOW RAAAA !event !mousepad | @mythictalent | !starforge](https://twitch.tv/Fragas)** by **Fragas**<br>11,007명 시청  - Escape from Tarkov
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stylishnoob4-320x180.jpg)](https://twitch.tv/stylishnoob4)
+**[山登り](https://twitch.tv/stylishnoob4)** by **stylishnoob4**<br>23,807명 시청  - Baby Steps
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_vanillamace-320x180.jpg)](https://twitch.tv/vanillamace)
-**[late night games](https://twitch.tv/vanillamace)** by **vanillamace**<br>8,292명 시청  - Just Chatting
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_dmitry_lixxx-320x180.jpg)](https://twitch.tv/Dmitry_Lixxx)
+**[Катаемся с таксистом по Москве | Ищем машину шадовкека | !winline !lis !яо !яп](https://twitch.tv/Dmitry_Lixxx)** by **Dmitry_Lixxx**<br>21,161명 시청  - IRL
 
 
 ---
-: 마지막 업데이트: 2026-05-27 06:57 UTC
+: 마지막 업데이트: 2026-05-27 10:54 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
