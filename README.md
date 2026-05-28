@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_nix-320x180.jpg)](https://twitch.tv/Nix)
-**[BLAST Slam VII Falcons vs Tundra bo1 - Group Stage day 3 w/ Alagon](https://twitch.tv/Nix)** by **Nix**<br>37,987명 시청  - Dota 2
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ohnepixel-320x180.jpg)](https://twitch.tv/ohnePixel)
+**[🔴WINNING MY FIRST CAR RACE...🔴](https://twitch.tv/ohnePixel)** by **ohnePixel**<br>46,159명 시청  - Forza Horizon 6
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stylishnoob4-320x180.jpg)](https://twitch.tv/stylishnoob4)
-**[山を登る](https://twitch.tv/stylishnoob4)** by **stylishnoob4**<br>32,273명 시청  - Baby Steps
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_buster-320x180.jpg)](https://twitch.tv/buster)
+**[Подкаты с Андреем Гайдуляном 😱](https://twitch.tv/buster)** by **buster**<br>38,008명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[The Name's Nut, Pea-Nut](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>24,492명 시청  - 007 First Light
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-320x180.jpg)](https://twitch.tv/StRoGo)
+**[🔴 WW 0:0 ex-RUBY | BO3 | CCT 2026 Europe Series 2 | @skywhywalker](https://twitch.tv/StRoGo)** by **StRoGo**<br>28,391명 시청  - Counter-Strike
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
-**[🔴SPARKIE12 RUNS IT DOWNNNNNNN🔴 !discord !operagx](https://twitch.tv/Caedrel)** by **Caedrel**<br>24,116명 시청  - League of Legends
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_worldoftanks-320x180.jpg)](https://twitch.tv/WorldofTanks)
+**[*Drops* AMD OLS Season 6 P2D5!](https://twitch.tv/WorldofTanks)** by **WorldofTanks**<br>24,812명 시청  - World of Tanks
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_shadowkekw-320x180.jpg)](https://twitch.tv/shadowkekw)
-**[ТРАНСФОРМЕРЫ / 17:10 👉 !тг !betboom !lisskins](https://twitch.tv/shadowkekw)** by **shadowkekw**<br>19,009명 시청  - Just Chatting
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zarbex-320x180.jpg)](https://twitch.tv/zarbex)
+**[MR. GEIL STREAMT 🤏 CHAINED WHEELS MIT @SCHRADIN 🤏 ES KRACHT MAL WIEDER 🤏 !spotify !socials !merch](https://twitch.tv/zarbex)** by **zarbex**<br>19,671명 시청  - Chained Wheels
 
 
 ---
-: 마지막 업데이트: 2026-05-28 14:31 UTC
+: 마지막 업데이트: 2026-05-28 17:58 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
