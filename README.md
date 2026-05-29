@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[515/730] 🟨 PLAYING HARDCORE MINECRAFT UNTIL WE BEAT IT 🟨](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>62,379명 시청  - Minecraft
+**[[515/730] 🟨 PLAYING HARDCORE MINECRAFT UNTIL WE BEAT IT 🟨](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>67,630명 시청  - Minecraft
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_illojuan-320x180.jpg)](https://twitch.tv/IlloJuan)
-**[OPERACIÓN TEMAZO 4 🎤 ft. Andrés y Spoksponha](https://twitch.tv/IlloJuan)** by **IlloJuan**<br>40,234명 시청  - Just Chatting
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tumblurr-320x180.jpg)](https://twitch.tv/Tumblurr)
+**[💥VENERDI' ESPLOSIVO💥REACTIONS🍔CICCIOGAMER✈️ALEDELLAGIUSTA💰GAMBLE💰](https://twitch.tv/Tumblurr)** by **Tumblurr**<br>36,410명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ohnepixel-320x180.jpg)](https://twitch.tv/ohnePixel)
-**[🔴$1000 CAR MEET CONTEST🔴](https://twitch.tv/ohnePixel)** by **ohnePixel**<br>37,061명 시청  - Forza Horizon 6
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
+**[[DROPS ON] BIG DAY HUGE DRAMA POE2DAY NEW GAMES TODAY BIG NEWS AND GAMES MULTISTREAMING+REACTS  | Follow @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>34,732명 시청  - Path of Exile 2
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gorilon-320x180.jpg)](https://twitch.tv/gorilon)
-**[MUNDIAL ALEMANIA UPPER BRACKET | FNCS SUMMIT DIA 1 !jugadores](https://twitch.tv/gorilon)** by **gorilon**<br>34,811명 시청  - Fortnite
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_illojuan-320x180.jpg)](https://twitch.tv/IlloJuan)
+**[OPERACIÓN TEMAZO 4 🎤 ft. Andrés y Spoksponha](https://twitch.tv/IlloJuan)** by **IlloJuan**<br>34,038명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_faxuty-320x180.jpg)](https://twitch.tv/faxuty)
-**[{DROPS ON} 🏆 WATCHING FNCS SUMMIT UPPER BACKET 🏆 |🔥 FAXUTY X DT RISE BOOTH 🔥 | !twitter !ig !maps](https://twitch.tv/faxuty)** by **faxuty**<br>33,903명 시청  - Fortnite
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eliasn97-320x180.jpg)](https://twitch.tv/eliasn97)
+**[Spieleabend mit den Jungs🔥🤯  | !telekom !iconleague !lyora !doku !eligella !gaming](https://twitch.tv/eliasn97)** by **eliasn97**<br>32,778명 시청  - Special Events
 
 
 ---
-: 마지막 업데이트: 2026-05-29 19:28 UTC
+: 마지막 업데이트: 2026-05-29 21:47 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
