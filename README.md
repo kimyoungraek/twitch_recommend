@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
-**[🟨SPOOKY TIME🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>57,236명 시청  - Games + Demos
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ow_esports-320x180.jpg)](https://twitch.tv/ow_esports)
+**[[DROPS] OWWC 2026 | Online Qualifiers Day 1](https://twitch.tv/ow_esports)** by **ow_esports**<br>51,372명 시청  - Overwatch
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[007 First Light | The Name's Nut, Pea-Nut](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>34,955명 시청  - 007 First Light
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_nix-320x180.jpg)](https://twitch.tv/Nix)
+**[BLAST Slam VII Spirit vs Pari bo1 - Group Stage day 4](https://twitch.tv/Nix)** by **Nix**<br>44,870명 시청  - Dota 2
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_plaqueboymax-320x180.jpg)](https://twitch.tv/PlaqueBoyMax)
-**[DUNI COMING OVER  #FIVESTARSUMMER2026💕](https://twitch.tv/PlaqueBoyMax)** by **PlaqueBoyMax**<br>21,829명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
+**[🔴LCK DK VS KRX - LUCID BENCHED --- GENG BRO AFTER🔴 !discord !operagx](https://twitch.tv/Caedrel)** by **Caedrel**<br>39,405명 시청  - League of Legends
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lvndmark-320x180.jpg)](https://twitch.tv/LVNDMARK)
-**[[!DROPS] ICEBREAKER STORYLINE DONE| !STARFORGE !MONSTER | LVNDMARK_tv On Socials @starforgesystems](https://twitch.tv/LVNDMARK)** by **LVNDMARK**<br>19,585명 시청  - Escape from Tarkov
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stylishnoob4-320x180.jpg)](https://twitch.tv/stylishnoob4)
+**[飯食ってテラリア→男砕き](https://twitch.tv/stylishnoob4)** by **stylishnoob4**<br>16,005명 시청  - Terraria
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
-**[👨‍🚒LIVE👨‍🚒CLICK👨‍🚒HERE👨‍🚒FINALLY👨‍🚒DRAMA👨‍🚒NEWS👨‍🚒BIG DAY👨‍🚒LOCK IN👨‍🚒IMPORTANT DAY👨‍🚒VIDEOS👨‍🚒REACTS👨‍🚒STUFF👨‍🚒](https://twitch.tv/xQc)** by **xQc**<br>18,176명 시청  - Deadlock
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_solo-320x180.jpg)](https://twitch.tv/Solo)
+**[🔴 [БЕЗ ЗАДЕРЖКИ] Spirit [0:0] PV BLAST Slam VII: Group Stage, Bo1 | !tg !betboom /w @kyzko_doto](https://twitch.tv/Solo)** by **Solo**<br>13,011명 시청  - Dota 2
 
 
 ---
-: 마지막 업데이트: 2026-05-29 05:07 UTC
+: 마지막 업데이트: 2026-05-29 09:40 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
