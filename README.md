@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[Half Swordをやる](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>45,061명 시청  - Half Sword
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
+**[🔴CAEDREL VS OHNE🔴 !discord !operagx](https://twitch.tv/Caedrel)** by **Caedrel**<br>43,451명 시청  - Forza Horizon 6
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
-**[🔴LEC WAITING ROOM - SPARKY ON THE WHJEEL🔴 !discord !operagx](https://twitch.tv/Caedrel)** by **Caedrel**<br>36,062명 시청  - League of Legends
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_shadowkekw-320x180.jpg)](https://twitch.tv/shadowkekw)
+**[САМЫЙ УМНЫЙ В WW-TEAM @strogo @deko @ct0m @keliencs @m3wsu @skywhywalker @fedos1ch 👉 !тг !betboom !lisskins](https://twitch.tv/shadowkekw)** by **shadowkekw**<br>38,175명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ow_esports-320x180.jpg)](https://twitch.tv/ow_esports)
-**[[DROPS] OWWC 2026 | Online Qualifiers Day 3](https://twitch.tv/ow_esports)** by **ow_esports**<br>34,239명 시청  - Overwatch
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ohnepixel-320x180.jpg)](https://twitch.tv/ohnePixel)
+**[🔴NOT ENDING UNTIL I WIN IN FORZA (ELIMINATOR)🔴](https://twitch.tv/ohnePixel)** by **ohnePixel**<br>37,212명 시청  - Forza Horizon 6
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_montanablack88-320x180.jpg)](https://twitch.tv/MontanaBlack88)
-**[IRL von der DoKomi mit Abu - Die Größte Anime Messe Europas! !ltd7 !gönrgy](https://twitch.tv/MontanaBlack88)** by **MontanaBlack88**<br>28,212명 시청  - IRL
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ow_esports-320x180.jpg)](https://twitch.tv/ow_esports)
+**[[DROPS] OWWC 2026 | Online Qualifiers Day 3](https://twitch.tv/ow_esports)** by **ow_esports**<br>36,247명 시청  - Overwatch
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[516/730] 🟨 DAY 2 🟨 PLAYING HARDCORE MINECRAFT UNTIL WE BEAT IT 🟨](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>22,975명 시청  - Minecraft
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_faxuty-320x180.jpg)](https://twitch.tv/faxuty)
+**[{DROPS ON} 🏆 WATCHING FNCS SUMMIT LAN FINALS  🏆 |🔥 FAXUTY X DT RISE BOOTH 🔥 | !twitter !ig !maps](https://twitch.tv/faxuty)** by **faxuty**<br>32,430명 시청  - Fortnite
 
 
 ---
-: 마지막 업데이트: 2026-05-31 13:21 UTC
+: 마지막 업데이트: 2026-05-31 15:13 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
