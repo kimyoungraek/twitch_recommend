@@ -1,22 +1,19 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
-**[🔴LEC GX VS VIT🔴 !discord !operagx](https://twitch.tv/Caedrel)** by **Caedrel**<br>56,738명 시청  - League of Legends
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sylvainlyve-320x180.jpg)](https://twitch.tv/SylvainLyve)
+**[L.A.C.O.U.R.S.E. 2026 avec @NordVPN](https://twitch.tv/SylvainLyve)** by **SylvainLyve**<br>78,397명 시청  - Special Events
 
 **2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[517/730] 🟨 DAY 3 🟨 PLAYING HARDCORE MINECRAFT UNTIL WE BEAT IT 🟨](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>55,469명 시청  - Minecraft
+**[[517/730] 🟨 DAY 3 🟨 PLAYING HARDCORE MINECRAFT UNTIL WE BEAT IT 🟨](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>66,518명 시청  - Minecraft
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ohnepixel-320x180.jpg)](https://twitch.tv/ohnePixel)
-**[🔴NOT ENDING UNTIL I WIN IN FORZA (ELIMINATOR)🔴](https://twitch.tv/ohnePixel)** by **ohnePixel**<br>42,330명 시청  - Forza Horizon 6
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_evelone2004-320x180.jpg)](https://twitch.tv/evelone2004)
+**[ТЕСТОВЫЙ ТУРНИР ПО ФОРЗЕ 6](https://twitch.tv/evelone2004)** by **evelone2004**<br>42,497명 시청  - Forza Horizon 6
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ow_esports-320x180.jpg)](https://twitch.tv/ow_esports)
-**[[DROPS] OWWC 2026 | Online Qualifiers Day 3](https://twitch.tv/ow_esports)** by **ow_esports**<br>40,191명 시청  - Overwatch
-
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_washing_machine_tv-320x180.jpg)](https://twitch.tv/Washing_Machine_TV)
-**[RANDY'S CROWN 3v3 TOURNAMENT!!!! I !Discord](https://twitch.tv/Washing_Machine_TV)** by **Washing_Machine_TV**<br>37,430명 시청  - MORDHAU
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ohnepixel-320x180.jpg)](https://twitch.tv/ohnePixel)
+**[🔴NOT ENDING UNTIL I WIN IN FORZA (ELIMINATOR)🔴](https://twitch.tv/ohnePixel)** by **ohnePixel**<br>40,023명 시청  - Forza Horizon 6
 
 
 ---
-: 마지막 업데이트: 2026-05-31 16:59 UTC
+: 마지막 업데이트: 2026-05-31 18:05 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
