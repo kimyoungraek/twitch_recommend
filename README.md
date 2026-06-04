@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[520/730] 🟨 ROAD TO SILVER 🟨 GAMING ALL NIGHT LONG 🟨](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>42,994명 시청  - League of Legends
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
+**[🟨LEAGUE ACTION W/ JYNXZI🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>42,121명 시청  - League of Legends
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
-**[[DROPS ON] BIG DAY HUGE DRAMA FATEKEEPER EA NEW GAMES TODAY BIG NEWS AND GAMES MULTISTREAMING+REACTS  | Follow @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>41,389명 시청  - Fatekeeper
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
+**[ESCAPE FROM BUNGUS | HUTCHMF | 5 MILLION RUBLE CHALLENGE | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>36,554명 시청  - Escape from Tarkov
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
-**[🥰HAMAWY WINS!!🥰CATTLE-FORNIA🤬Ws AND Ls🤬TRUMP SLUSHFUN ENDED🤬EF DAY 96🤬WARS BACK ON!!!🤬FAPTOP IN THE NEWS!🤬THEY REALLY WANT ME DEAD🤬](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>32,044명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
+**[[520/730] 🟨 ROAD TO SILVER W/ CASEOH 🟨 GAMING ALL NIGHT LONG 🟨](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>31,549명 시청  - League of Legends
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jasontheween-320x180.jpg)](https://twitch.tv/jasontheween)
-**[🔴NMS BOXING IN 3 DAYS🔴WHAT WILL TODAY ENTAIL🔴BEEN SICK AF🔴](https://twitch.tv/jasontheween)** by **jasontheween**<br>21,478명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_plaqueboymax-320x180.jpg)](https://twitch.tv/PlaqueBoyMax)
+**[PLAQUEBOYMAX X HUDA MUSTAFA 🤪 #FIVESTARSUMMER2026💕](https://twitch.tv/PlaqueBoyMax)** by **PlaqueBoyMax**<br>27,174명 시청  - Music
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_emiru-320x180.jpg)](https://twitch.tv/Emiru)
-**[HIIII :D ⭐🌸 I COSPLAYED TODAY!! HEH ⭐🌸 GIGA REACTS + GIGA VARIETY GAMING ⭐🌸 DOING WHATEVER THE HELL I WANT NOBODY CAN STOP ME @EMIRU247](https://twitch.tv/Emiru)** by **Emiru**<br>17,811명 시청  - Onimusha: Way of the Sword
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
+**[🦎LIVE🦎CLICK🦎DRAMA🦎NEWS🦎VIDEOS🦎REACTS🦎GAMES🦎PLEASE DONT MAKE FUN🦎OF MY HAIR🦎OR ILL BE MAD🦎BE NICELY🦎OK GO🦎](https://twitch.tv/xQc)** by **xQc**<br>19,799명 시청  - Who Wants to Be a Millionaire
 
 
 ---
-: 마지막 업데이트: 2026-06-03 23:27 UTC
+: 마지막 업데이트: 2026-06-04 02:55 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
