@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eslcs-320x180.jpg)](https://twitch.tv/ESLCS)
-**[LIVE: Team Liquid vs FlyQuest - IEM Cologne Major 2026](https://twitch.tv/ESLCS)** by **ESLCS**<br>34,823명 시청  - Counter-Strike
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_nix-320x180.jpg)](https://twitch.tv/Nix)
+**[BLAST Slam VII | Falcons vs Aurora bo3 1:1 - Playoffs w/ @satanic_10 Alagon](https://twitch.tv/Nix)** by **Nix**<br>42,049명 시청  - Dota 2
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[バーガーバーガー２フリーモード難易度ハード前人未到のクリア放送](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>31,527명 시청  - Burger Burger 2
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_anarabdullaev-320x180.jpg)](https://twitch.tv/anarabdullaev)
+**[Операция GT-R: День 2. /w @steel](https://twitch.tv/anarabdullaev)** by **anarabdullaev**<br>41,307명 시청  - IRL
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_buster-320x180.jpg)](https://twitch.tv/buster)
-**[БУСТЕРАЛЬДО 😱](https://twitch.tv/buster)** by **buster**<br>31,298명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eslcs-320x180.jpg)](https://twitch.tv/ESLCS)
+**[LIVE: NRG vs BIG - IEM Cologne Major 2026](https://twitch.tv/ESLCS)** by **ESLCS**<br>40,052명 시청  - Counter-Strike
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_nix-320x180.jpg)](https://twitch.tv/Nix)
-**[BLAST Slam VII | Falcons vs Aurora bo3 0:0 - Playoffs w/ Alagon](https://twitch.tv/Nix)** by **Nix**<br>26,403명 시청  - Dota 2
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ohnepixel-320x180.jpg)](https://twitch.tv/ohnePixel)
+**[🔴BIG vs NRG [ELIMINATION] IEM COLOGNE MAJOR 2026🔴](https://twitch.tv/ohnePixel)** by **ohnePixel**<br>30,939명 시청  - Counter-Strike
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_montanablack88-320x180.jpg)](https://twitch.tv/MontanaBlack88)
-**[🇳🇱 72Std TOUR durch die NIEDERLANDE mit Zarbex & Schradin! !gönrgy !ltd7 !kaufland](https://twitch.tv/MontanaBlack88)** by **MontanaBlack88**<br>20,591명 시청  - IRL
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_buster-320x180.jpg)](https://twitch.tv/buster)
+**[БУСТЕРАЛЬДО 😱](https://twitch.tv/buster)** by **buster**<br>22,251명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2026-06-05 14:31 UTC
+: 마지막 업데이트: 2026-06-05 17:08 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
