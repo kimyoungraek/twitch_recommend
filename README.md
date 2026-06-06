@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_shadowkekw-320x180.jpg)](https://twitch.tv/shadowkekw)
-**[ЕДЕМ НА ФУТБОЛ, ПОСЛЕДНИЙ СТРИМ !тг !betboom](https://twitch.tv/shadowkekw)** by **shadowkekw**<br>51,699명 시청  - Just Chatting
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_paradeev1ch-320x180.jpg)](https://twitch.tv/paradeev1ch)
+**[BetBoom Медиа Класико | Стримеры VS Блогеры](https://twitch.tv/paradeev1ch)** by **paradeev1ch**<br>154,246명 시청  - Special Events
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_nix-320x180.jpg)](https://twitch.tv/Nix)
-**[BLAST Slam VII | Yandex vs Betboom bo3 1:1 - Playoffs w/ Alagon](https://twitch.tv/Nix)** by **Nix**<br>46,207명 시청  - Dota 2
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
+**[🔴LEC PLAYOFFS KC VS KOI MSI SPOT ON THE LINE LOSER GOES HOME🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>44,573명 시청  - League of Legends
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-320x180.jpg)](https://twitch.tv/StRoGo)
-**[🔴 G2 0:0 M80 | BO1 | IEM Cologne Major 2026 Stage 2 | @m3wsu](https://twitch.tv/StRoGo)** by **StRoGo**<br>41,248명 시청  - Counter-Strike
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ow_esports-320x180.jpg)](https://twitch.tv/ow_esports)
+**[[DROPS] OWWC 2026 | Online Qualifiers Day 4](https://twitch.tv/ow_esports)** by **ow_esports**<br>43,584명 시청  - Overwatch
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eslcs-320x180.jpg)](https://twitch.tv/ESLCS)
-**[LIVE: G2 Esports vs M80 - IEM Cologne Major 2026](https://twitch.tv/ESLCS)** by **ESLCS**<br>40,097명 시청  - Counter-Strike
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kamet0-320x180.jpg)](https://twitch.tv/Kamet0)
+**[KCORP 0 vs 0 KOI | LEC PLAYOFFS  - BO5 la qualif au MSI | 5subs offerts = badge KC a vie #WatchLEC 🔵 (!razer) (!ewc) (!extension)](https://twitch.tv/Kamet0)** by **Kamet0**<br>43,499명 시청  - League of Legends
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
-**[🔴CO-Streaming: G2 VS M80 | IEM COLOGNE MAJOR 2026🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>36,693명 시청  - Counter-Strike
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_nix-320x180.jpg)](https://twitch.tv/Nix)
+**[BLAST Slam VII | Aurora vs LGD bo3 0:0 - Playoffs w/ Alagon](https://twitch.tv/Nix)** by **Nix**<br>42,047명 시청  - Dota 2
 
 
 ---
-: 마지막 업데이트: 2026-06-06 13:15 UTC
+: 마지막 업데이트: 2026-06-06 15:07 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
