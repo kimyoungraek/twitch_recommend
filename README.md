@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_thegameawards-320x180.jpg)](https://twitch.tv/thegameawards)
-**[Summer Game Fest 2026 - Official Livestream (with Warframe Drop)](https://twitch.tv/thegameawards)** by **thegameawards**<br>219,072명 시청  - Summer Game Fest
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
+**[[522/730] 🟥 PLAYING ELDEN RING UNTIL I BEAT IT 🟥](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>55,123명 시청  - ELDEN RING
 
 **2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
-**[[DROPS ON] !council BIG DAY HUGE DRAMA SGF+ANNOUNCEMENT+GOTHIC?! NEW GAMES TODAY BIG NEWS AND GAMES MULTISTREAMING+REACTS  | @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>78,264명 시청  - Summer Game Fest
+**[[DROPS ON] !council BIG DAY HUGE DRAMA SGF+ANNOUNCEMENT+GOTHIC?! NEW GAMES TODAY BIG NEWS AND GAMES MULTISTREAMING+REACTS  | @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>43,947명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_rubius-320x180.jpg)](https://twitch.tv/Rubius)
-**[🟧HYPE🟧CONFERENCIA SUMMER GAME FEST🟧LA MAS GRANDE DEL AÑO🟧WORLD PREMIERE🟧GOTYS🟧BINGO🟧GTA 9🟧MASIVO🟧](https://twitch.tv/Rubius)** by **Rubius**<br>60,834명 시청  - Summer Game Fest
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stableronaldo-320x180.jpg)](https://twitch.tv/stableronaldo)
+**[😂JASON PRESS CONFERENCE w/ @SILKY & @LAIYS 😂LIFE IS GOOD😂LIVE ALL DAY 😂CHICAGO SOON 😂GREAT VIBES😂[twitter/insta stableronaldo] !po !com !sub](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>28,421명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[522/730] 🟥 PLAYING ELDEN RING UNTIL I BEAT IT 🟥](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>55,872명 시청  - ELDEN RING
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
+**[TALK W/ YANIS!!🤬SENATE 70B IMMIGRATION BILL🤬CATTLE-FORNIA DUMPS CONT🤬PBD VS BETTER HASAN🤬LEGO UPDATES?🤬EF DAY 98🤬CEASEFIRE?🤬](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>26,296명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
-**[🥟LIVE🥟CLICK🥟HERE🥟DRAMA🥟NEWS🥟VIDEOS🥟REACTS🥟GAMES🥟THINGS🥟IMPORTANT THINGS🥟LOCK IN🥟IMPORTANT DAY FOR SURE🥟](https://twitch.tv/xQc)** by **xQc**<br>35,715명 시청  - Summer Game Fest
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_maximilian_dood-320x180.jpg)](https://twitch.tv/Maximilian_DOOD)
+**[THIS IS IT - Summer Game Fest 2026 Live](https://twitch.tv/Maximilian_DOOD)** by **Maximilian_DOOD**<br>21,690명 시청  - Virtua Fighter Crossroads
 
 
 ---
-: 마지막 업데이트: 2026-06-05 23:00 UTC
+: 마지막 업데이트: 2026-06-06 00:13 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
