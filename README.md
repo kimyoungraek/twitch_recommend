@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_paradeev1ch-320x180.jpg)](https://twitch.tv/paradeev1ch)
-**[BetBoom Медиа Класико | Стримеры VS Блогеры](https://twitch.tv/paradeev1ch)** by **paradeev1ch**<br>152,640명 시청  - Special Events
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_evelone2004-320x180.jpg)](https://twitch.tv/evelone2004)
+**[КОНЦЕРТ МАКСА КОРЖА](https://twitch.tv/evelone2004)** by **evelone2004**<br>59,961명 시청  - Just Chatting
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kamet0-320x180.jpg)](https://twitch.tv/Kamet0)
-**[KCORP 2 vs 0 KOI | LEC PLAYOFFS  - BO5 la qualif au MSI | 5subs offerts = badge KC a vie #WatchLEC 🔵 (!razer) (!ewc) (!extension)](https://twitch.tv/Kamet0)** by **Kamet0**<br>61,740명 시청  - League of Legends
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ow_esports-320x180.jpg)](https://twitch.tv/ow_esports)
+**[[DROPS] OWWC 2026 | Online Qualifiers Day 4](https://twitch.tv/ow_esports)** by **ow_esports**<br>59,774명 시청  - Overwatch
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
-**[🔴LEC PLAYOFFS KC VS KOI MSI SPOT ON THE LINE LOSER GOES HOME🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>57,848명 시청  - League of Legends
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_nix-320x180.jpg)](https://twitch.tv/Nix)
+**[BLAST Slam VII | Aurora vs LGD bo3 1:1 - Playoffs w/ Alagon](https://twitch.tv/Nix)** by **Nix**<br>59,110명 시청  - Dota 2
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ow_esports-320x180.jpg)](https://twitch.tv/ow_esports)
-**[[DROPS] OWWC 2026 | Online Qualifiers Day 4](https://twitch.tv/ow_esports)** by **ow_esports**<br>52,876명 시청  - Overwatch
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eliasn97-320x180.jpg)](https://twitch.tv/eliasn97)
+**[Stream aus der Summer Games Villa 🔥 Morgen 16 Uhr Summer Games 🔥 | !telekom !iconleague !lyora !doku !eligella !gaming](https://twitch.tv/eliasn97)** by **eliasn97**<br>58,536명 시청  - Special Events
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_nix-320x180.jpg)](https://twitch.tv/Nix)
-**[BLAST Slam VII | Aurora vs LGD bo3 1:0 - Playoffs w/ Alagon](https://twitch.tv/Nix)** by **Nix**<br>48,991명 시청  - Dota 2
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eslcs-320x180.jpg)](https://twitch.tv/ESLCS)
+**[LIVE: BetBoom Team vs GamerLegion - IEM Cologne Major 2026](https://twitch.tv/ESLCS)** by **ESLCS**<br>57,833명 시청  - Counter-Strike
 
 
 ---
-: 마지막 업데이트: 2026-06-06 17:03 UTC
+: 마지막 업데이트: 2026-06-06 19:08 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
