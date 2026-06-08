@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[523/730] 🟥 DAY 3 🟥 PLAYING ELDEN RING UNTIL I BEAT IT 🟥](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>66,243명 시청  - ELDEN RING
+**[[523/730] 🟥 DAY 3 🟥 PLAYING ELDEN RING UNTIL I BEAT IT 🟥](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>58,905명 시청  - ELDEN RING
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
-**[[DROPS ON] !council BIG DAY HUGE DRAMA XBOX+PC GAME SHOW NEW GAMES TODAY BIG NEWS AND GAMES MULTISTREAMING+REACTS #AD  | @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>39,332명 시청  - Just Chatting
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
+**[🟨LOSING MY MIND🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>57,413명 시청  - Gate Guard Simulator
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tumblurr-320x180.jpg)](https://twitch.tv/Tumblurr)
-**[😤SDROGO CORSE FOLLI😤❌+18❌](https://twitch.tv/Tumblurr)** by **Tumblurr**<br>37,248명 시청  - Gamble With Your Friends
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lacy-320x180.jpg)](https://twitch.tv/Lacy)
+**[🔴 PRO SCRIMS w/ @arkfpsx 🔴 NEW TAPCAPS OUT NOW🔴 FORTNITE GRIND CONTINUES🔴 KEKW 🔴 !tapcap](https://twitch.tv/Lacy)** by **Lacy**<br>14,271명 시청  - Fortnite
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
-**[🤬IRAN HITS ISRAEL!!!!!!!🤬CATTLE-FORNIA DUMPS CONT🤬RAMAN TO BOX PRATT🤬TRUMP MEET THE PRESS🤬EF100🤬](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>31,890명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_summit1g-320x180.jpg)](https://twitch.tv/summit1g)
+**[dayz chillin @summit1g](https://twitch.tv/summit1g)** by **summit1g**<br>12,793명 시청  - DayZ
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jasontheween-320x180.jpg)](https://twitch.tv/jasontheween)
-**[🔴NMS BOXING DEBRIEF🔴DEJI AT THE CORE HOUSE🔴EPICNESS🔴LETS GOOOOO🔴](https://twitch.tv/jasontheween)** by **jasontheween**<br>27,075명 시청  - Just Chatting
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_verybadscav-320x180.jpg)](https://twitch.tv/VeryBadSCAV)
+**[[Last New !drops ON] 24+HR stream until end / !event / worst streamer challenger / promo !codes / !heliskip / !engineguide](https://twitch.tv/VeryBadSCAV)** by **VeryBadSCAV**<br>10,544명 시청  - Escape from Tarkov
 
 
 ---
-: 마지막 업데이트: 2026-06-08 00:04 UTC
+: 마지막 업데이트: 2026-06-08 05:24 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
