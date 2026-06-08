@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
-**[🔴LPL BLG VS AL ELIMINATION SERIES - WINNER FACE WE LATER THIS WEEK FOR AN MSI SPOT🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>34,940명 시청  - League of Legends
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eslcsb-320x180.jpg)](https://twitch.tv/ESLCSb)
+**[LIVE: MIBR vs B8 Esports - IEM Cologne Major 2026](https://twitch.tv/ESLCSb)** by **ESLCSb**<br>39,376명 시청  - Counter-Strike
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[19時よりowみて２０じより魂のｽﾌﾟﾗﾄｩｰﾝ](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>30,371명 시청  - Just Chatting
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-320x180.jpg)](https://twitch.tv/StRoGo)
+**[🔴 BB 0:0 Monte | BO3 | IEM Cologne Major 2026 Stage 2 | @skywhywalker](https://twitch.tv/StRoGo)** by **StRoGo**<br>38,373명 시청  - Counter-Strike
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ow_esports_jp-320x180.jpg)](https://twitch.tv/OW_ESPORTS_JP)
-**[2026 OWCS ASIA l JAPAN STAGE 2 - Week 2 Day 1](https://twitch.tv/OW_ESPORTS_JP)** by **OW_ESPORTS_JP**<br>14,538명 시청  - Overwatch
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eslcs-320x180.jpg)](https://twitch.tv/ESLCS)
+**[LIVE: Monte vs BetBoom Team - IEM Cologne Major 2026](https://twitch.tv/ESLCS)** by **ESLCS**<br>28,734명 시청  - Counter-Strike
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[523/730] 🟥 DAY 3 🟥 PLAYING ELDEN RING UNTIL I BEAT IT 🟥](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>13,368명 시청  - I'm Only Sleeping
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
+**[LOL→LOL→LOL](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>22,352명 시청  - League of Legends
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
-**[LOL→LOL→LOL](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>13,343명 시청  - League of Legends
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_cs2_paragon_ru-320x180.jpg)](https://twitch.tv/cs2_paragon_ru)
+**[[RU] REDZONE | Monte [0:0] BetBoom Team | IEM Cologne Major 2026: Stage 2 | BO3 | @Solaar_06, @yarushkin1 & @Lampaaa](https://twitch.tv/cs2_paragon_ru)** by **cs2_paragon_ru**<br>21,823명 시청  - Counter-Strike
 
 
 ---
-: 마지막 업데이트: 2026-06-08 10:22 UTC
+: 마지막 업데이트: 2026-06-08 14:42 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
