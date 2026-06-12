@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[527/730]  ⚽️  WORLD CUP TIME ⚽️ ROCKET LEAGUE JYNXZI SKIN ⚽️](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>41,424명 시청  - Rocket League
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
+**[🟨SMARTEST MAN IN ARKANSAS🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>43,439명 시청  - Are You Smarter Than a 5th Grader?
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tumblurr-320x180.jpg)](https://twitch.tv/Tumblurr)
-**[🚨MEGADRAMA🏆TORNEO GRENBAUDISTICO 2.0🏆REACTIONS FOLLI🤯🤯](https://twitch.tv/Tumblurr)** by **Tumblurr**<br>37,133명 시청  - Just Chatting
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
+**[GUY FROM FORTNITE PLAYS Tarkov w/ Cloakzy & HutchMF | #ShartInMyHandWhileISqueeze #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>36,775명 시청  - Escape from Tarkov
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
-**[[DROPS ON] !council BIG DAY HUGE DRAMA RE4 CONTINUES TODAY NEW GAMES TODAY BIG NEWS AND GAMES MULTISTREAMING+REACTS #AD  | @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>33,483명 시청  - Resident Evil 4
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
+**[🛢️CLICK🛢️LIVE🛢️DRAMA🛢️HERE🛢️NOW🛢️NEWS🛢️VIDEOS🛢️REACTS🛢️GAMES🛢️CLIPS🛢️VIDEO GAMES TOO WOW🛢️LETS LOCK IN SHALL WE🛢️](https://twitch.tv/xQc)** by **xQc**<br>23,456명 시청  - Forza Horizon 6
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_warframe-320x180.jpg)](https://twitch.tv/Warframe)
-**[Pride Time #486 - Thursday, June 11 @ 6PM ET](https://twitch.tv/Warframe)** by **Warframe**<br>31,463명 시청  - Warframe
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_yourragegaming-320x180.jpg)](https://twitch.tv/yourragegaming)
+**[STREAMER U APPLICATION! SCARY GAME WITH TK! 007 YOOOO](https://twitch.tv/yourragegaming)** by **yourragegaming**<br>12,596명 시청  - Fears to Fathom - Scratch Creek
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stableronaldo-320x180.jpg)](https://twitch.tv/stableronaldo)
-**[🟥 SHORT STREAM 🟥 IMPORTANT NEWS 🟥 LETS GO 🟥 WE HERE 🟥 ASAP 🟥 GET IN HERE 🟥 YES 🟥WHAT 🟥  [twitter/insta stableronaldo] !po !com !sub](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>29,326명 시청  - Just Chatting
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_vanillamace-320x180.jpg)](https://twitch.tv/vanillamace)
+**[announcements + hiding game](https://twitch.tv/vanillamace)** by **vanillamace**<br>12,425명 시청  - MECCHA CHAMELEON
 
 
 ---
-: 마지막 업데이트: 2026-06-11 23:16 UTC
+: 마지막 업데이트: 2026-06-12 02:50 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
