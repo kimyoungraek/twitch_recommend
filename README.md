@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-320x180.jpg)](https://twitch.tv/StRoGo)
-**[🔴 Vitality 1:0 BB | IEM Cologne Major 2026 Stage 3 | @skywhywalker](https://twitch.tv/StRoGo)** by **StRoGo**<br>105,308명 시청  - Counter-Strike
+**[🔴 Falcons 1:0 NaVi | IEM Cologne Major 2026 Stage 3 | @skywhywalker @stanislaw9 @m3wsu](https://twitch.tv/StRoGo)** by **StRoGo**<br>117,846명 시청  - Counter-Strike
 
 **2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eslcs-320x180.jpg)](https://twitch.tv/ESLCS)
-**[LIVE: BetBoom Team vs Team Vitality - IEM Cologne Major 2026](https://twitch.tv/ESLCS)** by **ESLCS**<br>83,655명 시청  - Counter-Strike
+**[LIVE: Natus Vincere vs Team Falcons - IEM Cologne Major 2026](https://twitch.tv/ESLCS)** by **ESLCS**<br>110,964명 시청  - Counter-Strike
 
 **3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ohnepixel-320x180.jpg)](https://twitch.tv/ohnePixel)
-**[🔴VITALITY 1:0 BETBOOM | IEM COLOGNE MAJOR🔴](https://twitch.tv/ohnePixel)** by **ohnePixel**<br>57,555명 시청  - Counter-Strike
+**[🔴FALCONS 1:0 NAVI | IEM COLOGNE MAJOR🔴](https://twitch.tv/ohnePixel)** by **ohnePixel**<br>74,442명 시청  - Counter-Strike
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_cs2_paragon_ru-320x180.jpg)](https://twitch.tv/cs2_paragon_ru)
-**[[RU] REDZONE | BetBoom Team [0:1] Team Vitality | IEM Cologne Major 2026: Stage 3 | BO3 | @Solaar_06, @yarushkin1 & @Roma_roo](https://twitch.tv/cs2_paragon_ru)** by **cs2_paragon_ru**<br>48,009명 시청  - Counter-Strike
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ow_esports-320x180.jpg)](https://twitch.tv/ow_esports)
+**[[DROPS] OWCS 2026 | Stage 2 Week 1 Day 2](https://twitch.tv/ow_esports)** by **ow_esports**<br>60,697명 시청  - Overwatch
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gofns-320x180.jpg)](https://twitch.tv/GOFNS)
-**[EG SUDOWOODO | G2 vs FUT - VCT Masters London Playoffs #VCTWatchparty !inzone !socials](https://twitch.tv/GOFNS)** by **GOFNS**<br>38,928명 시청  - VALORANT
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stableronaldo-320x180.jpg)](https://twitch.tv/stableronaldo)
+**[🟥 STREAMER UNIVERSITY IN PERSON 🟥 MEETING KAI CENAT 🟥 IRL 🟥 GOOD VIBES 🟥 ome5 🟥 WE HERE 🟥 [twitter/insta stableronaldo] !po !com !sub](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>52,225명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2026-06-14 17:12 UTC
+: 마지막 업데이트: 2026-06-14 19:14 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
