@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[MECCHA CHOMEREON | SLUR SATURDAY | XQC X SUMMIT X Cloakzy X HutchMF X Johnsenn X Gingy X Gimmick | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>40,145명 시청  - MECCHA CHAMELEON
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
+**[🔴LCK T1 VS GENG🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>113,481명 시청  - League of Legends
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lacy-320x180.jpg)](https://twitch.tv/Lacy)
-**[[24 HOUR] 🔴 LATE NIGHT IRL 🔴 MADE MY FIRST SALAD 🔴 IM A KNICKS FAN NOW 🔴 LARP 🔴 SUB FOR NO ADS 🔴](https://twitch.tv/Lacy)** by **Lacy**<br>22,478명 시청  - Just Chatting
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[わかば杯優勝会場](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>57,708명 시청  - Splatoon 3
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
-**[🗣️LIVE🗣️CLICK🗣️DRAMA🗣️NEWS🗣️REAL🗣️LIVE🗣️LOCK IN🗣️GAMES🗣️REACTS🗣️STUFF🗣️IMPORTANT EVENTS🗣️RIGHT HERE🗣️PULL UP🗣️](https://twitch.tv/xQc)** by **xQc**<br>18,418명 시청  - Terraria
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_yaritaiji-320x180.jpg)](https://twitch.tv/たいじ_たいちゃんねる)
+**[わかば杯 Splatoon3 Streamer Tournament【スプラトゥーン3】](https://twitch.tv/たいじ_たいちゃんねる)** by **たいじ_たいちゃんねる**<br>53,919명 시청  - Splatoon 3
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tinchocr_-320x180.jpg)](https://twitch.tv/TinchoCR_)
-**[Minecraft hasta encontrar duo o que me baneen](https://twitch.tv/TinchoCR_)** by **TinchoCR_**<br>12,442명 시청  - Minecraft
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ow_esports_jp-320x180.jpg)](https://twitch.tv/OW_ESPORTS_JP)
+**[2026 OWCS ASIA l KOREA STAGE 2 - Week 2 Day 3](https://twitch.tv/OW_ESPORTS_JP)** by **OW_ESPORTS_JP**<br>44,048명 시청  - Overwatch
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_mertabimula-320x180.jpg)](https://twitch.tv/mertabimula)
-**[WM WATCHPARTY AUS DER ZENTRALE 🔥 | !sucuk !sosis !insta !yt !tiktok](https://twitch.tv/mertabimula)** by **mertabimula**<br>12,291명 시청  - Just Chatting
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lck-320x180.jpg)](https://twitch.tv/LCK)
+**[[Bo5] T1 vs GEN | 2026 LCK Road to MSI: FInal Round](https://twitch.tv/LCK)** by **LCK**<br>43,868명 시청  - League of Legends
 
 
 ---
-: 마지막 업데이트: 2026-06-14 05:25 UTC
+: 마지막 업데이트: 2026-06-14 09:21 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
