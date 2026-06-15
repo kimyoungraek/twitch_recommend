@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stableronaldo-320x180.jpg)](https://twitch.tv/stableronaldo)
-**[🟥 STREAMER UNIVERSITY IN PERSON 🟥 MEETING KAI CENAT 🟥 IRL 🟥 GOOD VIBES 🟥 ome5 🟥 WE HERE 🟥 [twitter/insta stableronaldo] !po !com !sub](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>84,575명 시청  - Just Chatting
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
+**[🟨LOSING MY MIND🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>44,853명 시청  - Don’t Sleep with the Fishes
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_isla_nsds-320x180.jpg)](https://twitch.tv/isla_nsds)
-**[On Vous Raconte Tout !](https://twitch.tv/isla_nsds)** by **isla_nsds**<br>83,345명 시청  - Just Chatting
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stableronaldo-320x180.jpg)](https://twitch.tv/stableronaldo)
+**[🟥WATCHING CARTI SUMMERSMASH SET 🟥 KAI DENIED ME 🟥IRL 🟥 GOOD VIBES  🟥 WE HERE 🟥 [twitter/insta stableronaldo] !po !com !sub](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>32,262명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ow_esports-320x180.jpg)](https://twitch.tv/ow_esports)
-**[[DROPS] OWCS 2026 | Stage 2 Week 1 Day 2](https://twitch.tv/ow_esports)** by **ow_esports**<br>63,918명 시청  - Overwatch
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
+**[💢LIVE💢CLICK💢DRAMA💢NEWS💢VIDEOS💢REACTS💢IRL TOMORROW💢THINGS💢IDK💢LOCK IN💢PULL UP💢](https://twitch.tv/xQc)** by **xQc**<br>22,003명 시청  - Suika Game
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_2xrakai-320x180.jpg)](https://twitch.tv/2xRaKai)
-**[😈STREAMER UNIVERSITY 2 AUDITION😈 SEEING KC3 😈 ACCEPTED😈25XX😈](https://twitch.tv/2xRaKai)** by **2xRaKai**<br>57,829명 시청  - IRL
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lacy-320x180.jpg)](https://twitch.tv/Lacy)
+**[🔥STREAMER UNIVERSITY DAY🔥BAHAMAS TOMORROW🔥JOIN UP🔥MAX CONTENT🔥SUB FOR NO ADS🔥KEKW🔥](https://twitch.tv/Lacy)** by **Lacy**<br>19,474명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
-**[[DROPS ON] !council BIG DAY HUGE DRAMA TODAY NEW GAMES TODAY BIG NEWS AND GAMES MULTISTREAMING+REACTS #AD  | @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>37,256명 시청  - Just Chatting
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_summit1g-320x180.jpg)](https://twitch.tv/summit1g)
+**[UFC watchparty @summit1g !starforge @StarforgeSystems](https://twitch.tv/summit1g)** by **summit1g**<br>13,672명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2026-06-14 23:01 UTC
+: 마지막 업데이트: 2026-06-15 02:59 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
