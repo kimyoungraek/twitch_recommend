@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[531/730] 🟨 WINNING EVERY GAME w/ LOS & RONDALE 🟨](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>46,803명 시청  - Apex Legends
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ow_esports_jp-320x180.jpg)](https://twitch.tv/OW_ESPORTS_JP)
+**[2026 OWCS ASIA l JAPAN STAGE 2 - Week 3 Day 2](https://twitch.tv/OW_ESPORTS_JP)** by **OW_ESPORTS_JP**<br>24,754명 시청  - Overwatch
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[MECCHA CHOMEREON w/ John & Gimmick & Gingy | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>32,958명 시청  - MECCHA CHAMELEON
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_indegnasen0706-320x180.jpg)](https://twitch.tv/布団ちゃんと申します)
+**[まずはいっぱつ雑談かナ！？みなさんお元気きですか？放送！！！](https://twitch.tv/布団ちゃんと申します)** by **布団ちゃんと申します**<br>21,462명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stableronaldo-320x180.jpg)](https://twitch.tv/stableronaldo)
-**[🟥 LOS X JYNXZI X RON 🟥GAME GAUNTLET🟥 JOIN UP 🟥 WE LIVE 🟥 GAMES 🟥 DENIED STREAMER U 🟥 NICE 🟥  [twitter/insta stableronaldo] !po !com !sub](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>32,895명 시청  - Apex Legends
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stylishnoob4-320x180.jpg)](https://twitch.tv/stylishnoob4)
+**[ハーフソード成り上がり](https://twitch.tv/stylishnoob4)** by **stylishnoob4**<br>19,323명 시청  - Half Sword
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_summit1g-320x180.jpg)](https://twitch.tv/summit1g)
-**[chillin @summit1g !starforge @StarforgeSystems](https://twitch.tv/summit1g)** by **summit1g**<br>8,781명 시청  - Counter-Strike
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
+**[🔴TRAINING FOR KOREA- SPARKIE12 NEVER GIVES UP🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>18,789명 시청  - League of Legends
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zerost_s-320x180.jpg)](https://twitch.tv/Zerost_s)
-**[エクスプロッシャーで俺が坂本チームを優勝させるんだあああああああああああああああ](https://twitch.tv/Zerost_s)** by **Zerost_s**<br>5,761명 시청  - Splatoon 3
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zarbex-320x180.jpg)](https://twitch.tv/zarbex)
+**[PROJEKT SCHREBERGARTEN mit ZARBEX & SCHRADIN 🪴 TAG 1 🪴 !spotify !socials !merch](https://twitch.tv/zarbex)** by **zarbex**<br>17,665명 시청  - IRL
 
 
 ---
-: 마지막 업데이트: 2026-06-16 06:26 UTC
+: 마지막 업데이트: 2026-06-16 12:05 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
