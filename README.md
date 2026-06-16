@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ow_esports_jp-320x180.jpg)](https://twitch.tv/OW_ESPORTS_JP)
-**[2026 OWCS ASIA l JAPAN STAGE 2 - Week 3 Day 2](https://twitch.tv/OW_ESPORTS_JP)** by **OW_ESPORTS_JP**<br>24,754명 시청  - Overwatch
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zarbex-320x180.jpg)](https://twitch.tv/zarbex)
+**[PROJEKT SCHREBERGARTEN mit ZARBEX & SCHRADIN 🪴 TAG 1 🪴 !spotify !socials !merch](https://twitch.tv/zarbex)** by **zarbex**<br>32,969명 시청  - IRL
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_indegnasen0706-320x180.jpg)](https://twitch.tv/布団ちゃんと申します)
-**[まずはいっぱつ雑談かナ！？みなさんお元気きですか？放送！！！](https://twitch.tv/布団ちゃんと申します)** by **布団ちゃんと申します**<br>21,462명 시청  - Just Chatting
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_anyme023-320x180.jpg)](https://twitch.tv/Anyme023)
+**[EN MODE MONTAGNE ft. Léa Elui | Publicité !vinted |](https://twitch.tv/Anyme023)** by **Anyme023**<br>29,467명 시청  - IRL
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stylishnoob4-320x180.jpg)](https://twitch.tv/stylishnoob4)
-**[ハーフソード成り上がり](https://twitch.tv/stylishnoob4)** by **stylishnoob4**<br>19,323명 시청  - Half Sword
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_auronplay-320x180.jpg)](https://twitch.tv/auronplay)
+**[🦎 EL JUEGO DEL CAMALEON con amigos 🦎 (no encuentro el emoji de camaleon)](https://twitch.tv/auronplay)** by **auronplay**<br>29,063명 시청  - MECCHA CHAMELEON
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
-**[🔴TRAINING FOR KOREA- SPARKIE12 NEVER GIVES UP🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>18,789명 시청  - League of Legends
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_buster-320x180.jpg)](https://twitch.tv/buster)
+**[IRL на Ниве с Сатиром, Гвакамоле и Ликсом 😎](https://twitch.tv/buster)** by **buster**<br>28,671명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zarbex-320x180.jpg)](https://twitch.tv/zarbex)
-**[PROJEKT SCHREBERGARTEN mit ZARBEX & SCHRADIN 🪴 TAG 1 🪴 !spotify !socials !merch](https://twitch.tv/zarbex)** by **zarbex**<br>17,665명 시청  - IRL
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_deepins02-320x180.jpg)](https://twitch.tv/deepins02)
+**[большое шоу | !winline !tg](https://twitch.tv/deepins02)** by **deepins02**<br>24,663명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2026-06-16 12:05 UTC
+: 마지막 업데이트: 2026-06-16 17:57 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
