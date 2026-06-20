@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_indegnasen0706-320x180.jpg)](https://twitch.tv/布団ちゃんと申します)
-**[【１日目】MODゴリゴリ入れたマイクラカタクリズム←昼飯食ってまずはノミノミスイスイ！お元気ですか？放送！](https://twitch.tv/布団ちゃんと申します)** by **布団ちゃんと申します**<br>22,287명 시청  - Minecraft
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-320x180.jpg)](https://twitch.tv/StRoGo)
+**[🔴 FURIA 0:0 Aurora | IEM Cologne Major 2026 Semifinal | @evelone2004 @shadowkekw @stanislaw9](https://twitch.tv/StRoGo)** by **StRoGo**<br>111,631명 시청  - Counter-Strike
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_yaritaiji-320x180.jpg)](https://twitch.tv/たいじ_たいちゃんねる)
-**[V最 笹木咲全力応援枠 in実家](https://twitch.tv/たいじ_たいちゃんねる)** by **たいじ_たいちゃんねる**<br>19,331명 시청  - Just Chatting
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eslcs-320x180.jpg)](https://twitch.tv/ESLCS)
+**[LIVE: Aurora Gaming vs FURIA - IEM Cologne Major 2026 - Semifinal](https://twitch.tv/ESLCS)** by **ESLCS**<br>89,494명 시청  - Counter-Strike
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stylishnoob4-320x180.jpg)](https://twitch.tv/stylishnoob4)
-**[パワフェスリベンジ psで買いなおした](https://twitch.tv/stylishnoob4)** by **stylishnoob4**<br>19,276명 시청  - Powerful Pro Yakyuu 2026-2027
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_cs2_paragon_ru-320x180.jpg)](https://twitch.tv/cs2_paragon_ru)
+**[[RU] REDZONE | Aurora Gaming [0:0] FURIA | IEM Cologne Major 2026: Playoffs | BO3 | @Solaar_06, @yarushkin1 & @Lampaaa](https://twitch.tv/cs2_paragon_ru)** by **cs2_paragon_ru**<br>66,017명 시청  - Counter-Strike
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
-**[🔴LIVE FROM T1 OFFICE SPARKIE IN KOREA GIGA FRYING THE PAN🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>18,823명 시청  - League of Legends
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ohnepixel-320x180.jpg)](https://twitch.tv/ohnePixel)
+**[🔴AURORA 0:0 FURIA [SEMI-FINAL] IEM COLOGNE MAJOR🔴](https://twitch.tv/ohnePixel)** by **ohnePixel**<br>57,557명 시청  - Counter-Strike
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gon_vl-320x180.jpg)](https://twitch.tv/gon_vl)
-**[🦑人生初イベント ビッグビッグラン？初見プレイ](https://twitch.tv/gon_vl)** by **gon_vl**<br>17,214명 시청  - Splatoon 3
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gofns-320x180.jpg)](https://twitch.tv/GOFNS)
+**[EG SUDOWOODO | EDG vs LEV - VCT Masters London Playoffs Lower Final #VCTWatchparty !socials](https://twitch.tv/GOFNS)** by **GOFNS**<br>32,496명 시청  - VALORANT
 
 
 ---
-: 마지막 업데이트: 2026-06-20 11:57 UTC
+: 마지막 업데이트: 2026-06-20 14:04 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
