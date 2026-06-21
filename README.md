@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[MECCHA CHOMEREON w/ Gimmick x HutchMF x Johnsenn x Gingy | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>54,547명 시청  - MECCHA CHAMELEON
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_k4sen-320x180.jpg)](https://twitch.tv/k4sen)
+**[LTK Season: Pandemonium | Playoffs Day 2 オフラインウォッチパーティー](https://twitch.tv/k4sen)** by **k4sen**<br>52,322명 시청  - League of Legends
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_k4sen-320x180.jpg)](https://twitch.tv/k4sen)
-**[LTK Season: Pandemonium | Playoffs Day 2 オフラインウォッチパーティー](https://twitch.tv/k4sen)** by **k4sen**<br>49,964명 시청  - League of Legends
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
+**[🔴LIVE FROM T1 OFFICE SPARKIE IN KOREA GIGA FRYING THE PAN🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>25,859명 시청  - League of Legends
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_plaqueboymax-320x180.jpg)](https://twitch.tv/PlaqueBoyMax)
-**[PLAQUEBOYMAX X YOUNG THUG 👗 #FIVESTARSUMMER2026💕](https://twitch.tv/PlaqueBoyMax)** by **PlaqueBoyMax**<br>38,408명 시청  - IRL
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ow_esports_jp-320x180.jpg)](https://twitch.tv/OW_ESPORTS_JP)
+**[2026 OWCS ASIA l KOREA STAGE 2 - Week 3 Day 3](https://twitch.tv/OW_ESPORTS_JP)** by **OW_ESPORTS_JP**<br>23,184명 시청  - Overwatch
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_indegnasen0706-320x180.jpg)](https://twitch.tv/布団ちゃんと申します)
-**[【２日目】MODゴリゴリいれたマイクラカタクリズム～魔法とファンタジーの世界～←お昼だネ！こんにちは！放送！](https://twitch.tv/布団ちゃんと申します)** by **布団ちゃんと申します**<br>15,284명 시청  - Minecraft
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_nix-320x180.jpg)](https://twitch.tv/Nix)
+**[Team Spirit vs VP.Prodigy bo3 1:0 The International 2026: EU Closed Qualifier](https://twitch.tv/Nix)** by **Nix**<br>22,314명 시청  - Dota 2
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_aspen-320x180.jpg)](https://twitch.tv/Aspen)
-**[[!DROPS] COSTREAMING OWCS AND GAMING LATER!!!](https://twitch.tv/Aspen)** by **Aspen**<br>13,953명 시청  - Overwatch
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_indegnasen0706-320x180.jpg)](https://twitch.tv/布団ちゃんと申します)
+**[【２日目】MODゴリゴリいれたマイクラカタクリズム～魔法とファンタジーの世界～←お昼だネ！こんにちは！放送！](https://twitch.tv/布団ちゃんと申します)** by **布団ちゃんと申します**<br>19,473명 시청  - Minecraft
 
 
 ---
-: 마지막 업데이트: 2026-06-21 05:55 UTC
+: 마지막 업데이트: 2026-06-21 09:39 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
