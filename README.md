@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_k4sen-320x180.jpg)](https://twitch.tv/k4sen)
-**[LTK Season: Pandemonium | Playoffs Day 2 オフラインウォッチパーティー](https://twitch.tv/k4sen)** by **k4sen**<br>52,322명 시청  - League of Legends
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
+**[🔴LIVE FROM T1 OFFICE SPARKIE IN KOREA GIGA FRYING THE PAN🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>30,592명 시청  - League of Legends
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
-**[🔴LIVE FROM T1 OFFICE SPARKIE IN KOREA GIGA FRYING THE PAN🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>25,859명 시청  - League of Legends
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zarbex-320x180.jpg)](https://twitch.tv/zarbex)
+**[🌊 KIELER WOCHE 2026 IRL mit MONTE & SCHRADIN 🌊 SPLASHGAMES EVENT MIT GEILEN GÄSTEN 🌊 !spotify !socials !merch](https://twitch.tv/zarbex)** by **zarbex**<br>24,911명 시청  - IRL
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ow_esports_jp-320x180.jpg)](https://twitch.tv/OW_ESPORTS_JP)
-**[2026 OWCS ASIA l KOREA STAGE 2 - Week 3 Day 3](https://twitch.tv/OW_ESPORTS_JP)** by **OW_ESPORTS_JP**<br>23,184명 시청  - Overwatch
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_indegnasen0706-320x180.jpg)](https://twitch.tv/布団ちゃんと申します)
+**[【２日目】MODゴリゴリいれたマイクラカタクリズム～魔法とファンタジーの世界～←お昼だネ！こんにちは！放送！](https://twitch.tv/布団ちゃんと申します)** by **布団ちゃんと申します**<br>24,837명 시청  - Minecraft
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_nix-320x180.jpg)](https://twitch.tv/Nix)
-**[Team Spirit vs VP.Prodigy bo3 1:0 The International 2026: EU Closed Qualifier](https://twitch.tv/Nix)** by **Nix**<br>22,314명 시청  - Dota 2
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gon_vl-320x180.jpg)](https://twitch.tv/gon_vl)
+**[🦑ガチスプラ 19時~ビッグビッグラン研修 w/けんしろさん](https://twitch.tv/gon_vl)** by **gon_vl**<br>24,281명 시청  - Splatoon 3
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_indegnasen0706-320x180.jpg)](https://twitch.tv/布団ちゃんと申します)
-**[【２日目】MODゴリゴリいれたマイクラカタクリズム～魔法とファンタジーの世界～←お昼だネ！こんにちは！放送！](https://twitch.tv/布団ちゃんと申します)** by **布団ちゃんと申します**<br>19,473명 시청  - Minecraft
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stylishnoob4-320x180.jpg)](https://twitch.tv/stylishnoob4)
+**[感謝高校のイチロー](https://twitch.tv/stylishnoob4)** by **stylishnoob4**<br>23,930명 시청  - Powerful Pro Yakyuu 2026-2027
 
 
 ---
-: 마지막 업데이트: 2026-06-21 09:39 UTC
+: 마지막 업데이트: 2026-06-21 12:07 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
