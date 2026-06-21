@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eslcs-320x180.jpg)](https://twitch.tv/ESLCS)
-**[LIVE: Team Falcons vs FURIA - IEM Cologne Major 2026 - Grand Final](https://twitch.tv/ESLCS)** by **ESLCS**<br>244,089명 시청  - Counter-Strike
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
+**[[537/730] 🔵 DROPS ON 🔵 3v3 Rocket League Streamer Tournament 🔵](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>87,563명 시청  - Rocket League
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-320x180.jpg)](https://twitch.tv/StRoGo)
-**[🔴 FALCONS 2:0 FURIA | IEM Cologne Major 2026 Grand Final | @evelone2004 @shadowkekw @stanislaw9](https://twitch.tv/StRoGo)** by **StRoGo**<br>231,118명 시청  - Counter-Strike
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ohnepixel-320x180.jpg)](https://twitch.tv/ohnePixel)
+**[🔴FALCONS CHAMPIONS OF IEM COLOGNE MAJOR🔴](https://twitch.tv/ohnePixel)** by **ohnePixel**<br>65,950명 시청  - Counter-Strike
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ohnepixel-320x180.jpg)](https://twitch.tv/ohnePixel)
-**[🔴FALCONS 2:0 FURIA [GRAND FINAL] IEM COLOGNE MAJOR🔴](https://twitch.tv/ohnePixel)** by **ohnePixel**<br>141,208명 시청  - Counter-Strike
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eliasn97-320x180.jpg)](https://twitch.tv/eliasn97)
+**[2vs2vs2 Spieleabend mit den Jungs🔥 | !iconleague !doku !eligella !gaming](https://twitch.tv/eliasn97)** by **eliasn97**<br>38,830명 시청  - Special Events
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_cs2_paragon_ru-320x180.jpg)](https://twitch.tv/cs2_paragon_ru)
-**[[RU] Team Falcons [2:0] FURIA | IEM Cologne Major 2026: Grand Final | BO5 | @little_cs, @Solaar_06, @siberiancaster & @cybercracken](https://twitch.tv/cs2_paragon_ru)** by **cs2_paragon_ru**<br>109,152명 시청  - Counter-Strike
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ow_esports-320x180.jpg)](https://twitch.tv/ow_esports)
+**[[DROPS] OWCS 2026 | Stage 2 Week 2 Day 2](https://twitch.tv/ow_esports)** by **ow_esports**<br>36,021명 시청  - Overwatch
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gofns-320x180.jpg)](https://twitch.tv/GOFNS)
-**[EG SUDOWOODO | PRX vs LEV - VCT Masters London Playoffs Grand Final (BO5) #VCTWatchparty !socials](https://twitch.tv/GOFNS)** by **GOFNS**<br>69,674명 시청  - VALORANT
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_dmitry_lixxx-320x180.jpg)](https://twitch.tv/Dmitry_Lixxx)
+**[ИЗВИНЯЮСЬ НА КОЛЕНЯХ ПЕРЕД КЭРРИГАНОМ | !winline !lis !яо !store](https://twitch.tv/Dmitry_Lixxx)** by **Dmitry_Lixxx**<br>34,011명 시청  - IRL
 
 
 ---
-: 마지막 업데이트: 2026-06-21 17:21 UTC
+: 마지막 업데이트: 2026-06-21 19:19 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
