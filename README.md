@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ishowspeed-320x180.jpg)](https://twitch.tv/IShowSpeed)
-**[irl stream Portugal 🇵🇹 Vs Uzbekistan 🇺🇿! Ronaldo First World Cup Game⚽️🌎!](https://twitch.tv/IShowSpeed)** by **IShowSpeed**<br>48,010명 시청  - Just Chatting
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
+**[[539/730] 💔 RONALDO SCORED 2x 💔 THE SADDEST DAY EVER 💔 DIAMOND IN ROCKET LEAGUE 💔 FORTNITE 💔 MAYBE LOL 💔 IDK IM SAD 💔](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>38,197명 시청  - Rocket League
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_auronplay-320x180.jpg)](https://twitch.tv/auronplay)
-**[!BADGE💀 EXTR3MO 💀 DÍA #2 seguimossssss 💪 #MinecraftPartner](https://twitch.tv/auronplay)** by **auronplay**<br>37,461명 시청  - Minecraft
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tumblurr-320x180.jpg)](https://twitch.tv/Tumblurr)
+**[🚫🤪STREAM +18🔥REACTIONS DISSING DA MEZZANOTTE🔥🤪](https://twitch.tv/Tumblurr)** by **Tumblurr**<br>33,016명 시청  - Backseat Drivers
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_dota2_winline_ru-320x180.jpg)](https://twitch.tv/dota2_winline_ru)
-**[Nigma Galaxy [1:0] Natus Vincere | The International 2026: EU Closed Qualifier | BO3 | @Maelstorm & @Y0nd](https://twitch.tv/dota2_winline_ru)** by **dota2_winline_ru**<br>27,322명 시청  - Dota 2
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_auronplay-320x180.jpg)](https://twitch.tv/auronplay)
+**[!BADGE💀 EXTR3MO 💀 DÍA #2 seguimossssss 💪 #MinecraftPartner](https://twitch.tv/auronplay)** by **auronplay**<br>30,413명 시청  - Minecraft
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
-**[🤬NYC🤬TUE PRIMARIES!🤬IRAN NEGOTIATIONS CONT🤬HORMUZ CLOSED?🤬POOLGATE🤬LEFT POPULISM🤬CANVAS FOR DSA NYC!🤬IRL W MERO!](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>22,214명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_rubius-320x180.jpg)](https://twitch.tv/Rubius)
+**[🎨CIEGO POV🎨](https://twitch.tv/Rubius)** by **Rubius**<br>25,392명 시청  - MECCHA CHAMELEON
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_rainbow6-320x180.jpg)](https://twitch.tv/Rainbow6)
-**[STAGE 01 2026: EML PLAYDAY 6](https://twitch.tv/Rainbow6)** by **Rainbow6**<br>21,527명 시청  - Rainbow Six Siege
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
+**[🤬NYC🤬TUE PRIMARIES!🤬IRAN NEGOTIATIONS CONT🤬HORMUZ CLOSED?🤬POOLGATE🤬LEFT POPULISM🤬CANVAS FOR DSA NYC!🤬IRL W MERO!](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>24,686명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2026-06-23 19:05 UTC
+: 마지막 업데이트: 2026-06-23 21:25 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
