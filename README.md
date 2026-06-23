@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[PARTY GAMES NIGHT | LIARS BAR | Gimmick x Coco | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>31,365명 시청  - Liar's Bar
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[owcs japan ムラゲ応援](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>33,886명 시청  - Overwatch
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[まったり栄冠ナイン2026 3年モード](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>26,911명 시청  - Powerful Pro Yakyuu 2026-2027
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
+**[🔴CHUDREL12 VS KOREA - LIVE FROM THE T1 OFFICE🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>19,792명 시청  - League of Legends
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
-**[🔴CHUDREL12 VS KOREA - LIVE FROM THE T1 OFFICE🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>13,500명 시청  - League of Legends
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_dota2_winline_ru-320x180.jpg)](https://twitch.tv/dota2_winline_ru)
+**[Team Bald [1:0] VP.Prodigy | The International 2026: EU Closed Qualifier | BO3 | @Jamclub & @Santadoto](https://twitch.tv/dota2_winline_ru)** by **dota2_winline_ru**<br>17,682명 시청  - Dota 2
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_summit1g-320x180.jpg)](https://twitch.tv/summit1g)
-**[TOP NUMBER ONE 19k PLAYER IN THE GAME @summit1g](https://twitch.tv/summit1g)** by **summit1g**<br>8,378명 시청  - Counter-Strike
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ow_esports_jp-320x180.jpg)](https://twitch.tv/OW_ESPORTS_JP)
+**[2026 OWCS ASIA l JAPAN STAGE 2 - Week 4 Day 2](https://twitch.tv/OW_ESPORTS_JP)** by **OW_ESPORTS_JP**<br>12,182명 시청  - Overwatch
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sasatikk-320x180.jpg)](https://twitch.tv/sasatikk)
-**[Sandいくぞ！ 砂漠Rust的ゲーム](https://twitch.tv/sasatikk)** by **sasatikk**<br>7,865명 시청  - Sand: Raiders Of Sophie
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_pgl_dota2en2-320x180.jpg)](https://twitch.tv/PGL_DOTA2EN2)
+**[OG vs. Grind Back - TI15 Regional Qualifiers - Southeast Asia](https://twitch.tv/PGL_DOTA2EN2)** by **PGL_DOTA2EN2**<br>11,300명 시청  - Dota 2
 
 
 ---
-: 마지막 업데이트: 2026-06-23 06:41 UTC
+: 마지막 업데이트: 2026-06-23 10:30 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
