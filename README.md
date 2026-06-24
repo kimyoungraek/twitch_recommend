@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[539/730] 💔 RONALDO SCORED 2x 💔 THE SADDEST DAY EVER 💔 FORTNITE 💔 MAYBE LOL 💔 IDK IM SAD 💔](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>39,342명 시청  - Fortnite
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
+**[PARTY GAMES NIGHT | Meccha Chamereon | Gimmick x Gingy x ImPheetus | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>34,219명 시청  - MECCHA CHAMELEON
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[PARTY GAMES NIGHT | LIARS BAR | Gimmick x Gingy x ImPheetus | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>38,200명 시청  - Liar's Bar
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
+**[👨‍🚒LIVE👨‍🚒DRAMA👨‍🚒NEWS👨‍🚒VIDEOS👨‍🚒UNBANNED👨‍🚒AT LAST👨‍🚒LOCKED IN👨‍🚒REACTS👨‍🚒VIDEOGAMES👨‍🚒THINGS👨‍🚒IMPORTANT👨‍🚒BROADC](https://twitch.tv/xQc)** by **xQc**<br>14,266명 시청  - Sand: Raiders Of Sophie
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
-**[🟨PREPARED FOR BATTLE🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>37,762명 시청  - Half Sword
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
+**[🔴CHUDREL12 VS KOREA - LIVE FROM THE T1 OFFICE🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>11,862명 시청  - League of Legends
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
-**[🤬NYC🤬TUE PRIMARIES!🤬IRAN NEGOTIATIONS CONT🤬HORMUZ CLOSED?🤬POOLGATE🤬LEFT POPULISM🤬CANVAS FOR DSA NYC!🤬IRL W MERO!](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>25,331명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_summit1g-320x180.jpg)](https://twitch.tv/summit1g)
+**[TOP NUMBER ONE 20k PLAYER IN THE GAME @summit1g](https://twitch.tv/summit1g)** by **summit1g**<br>8,772명 시청  - Counter-Strike
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
-**[👨‍🚒LIVE👨‍🚒DRAMA👨‍🚒NEWS👨‍🚒VIDEOS👨‍🚒UNBANNED👨‍🚒AT LAST👨‍🚒LOCKED IN👨‍🚒REACTS👨‍🚒VIDEOGAMES👨‍🚒THINGS👨‍🚒IMPORTANT👨‍🚒BROADC](https://twitch.tv/xQc)** by **xQc**<br>21,562명 시청  - Just Chatting
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sasatikk-320x180.jpg)](https://twitch.tv/sasatikk)
+**[砂漠の王に 俺はなる PvPvE砂漠Rust Sand ネタバレ禁](https://twitch.tv/sasatikk)** by **sasatikk**<br>8,216명 시청  - Sand: Raiders Of Sophie
 
 
 ---
-: 마지막 업데이트: 2026-06-24 02:36 UTC
+: 마지막 업데이트: 2026-06-24 06:39 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
