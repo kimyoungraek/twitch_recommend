@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[540/730] 🔴 JYNXZI & JOE vs JASON & RON in EVERY GAME 🔴](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>55,449명 시청  - VALORANT
+**[[540/730] 🔴 JYNXZI & JOE vs JASON & RON in EVERY GAME 🔴](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>58,588명 시청  - Rocket League
 
 **2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tumblurr-320x180.jpg)](https://twitch.tv/Tumblurr)
-**[GTA 6 🔥💀SERATA HORROR💀REACTIONS DA MEZZANOTTE💣💣[REFORMED]](https://twitch.tv/Tumblurr)** by **Tumblurr**<br>51,095명 시청  - Pacify
+**[GTA 6 🔥💀SERATA HORROR💀REACTIONS DA MEZZANOTTE💣💣[REFORMED]](https://twitch.tv/Tumblurr)** by **Tumblurr**<br>49,257명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
-**[[DROPS ON] BIG DAY HUGE DRAMA BALD EAGLE CHARITY DAY TODAY NEW GAMES TODAY BIG NEWS AND GAMES MULTISTREAMING+REACTS #AD  | @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>38,650명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
+**[🤬NYC🤬SOCIALISM WINS🤬IRAN NEGOTIATIONS CONT🤬🤬POOLGATE🤬LEFT POPULISM🤬DARIALIZA LATER!!!!](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>29,151명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eliasn97-320x180.jpg)](https://twitch.tv/eliasn97)
-**[ERSTER STREAM AUS AMERIKA 🇺🇸🔥 | !iconleague !doku !eligella !gaming](https://twitch.tv/eliasn97)** by **eliasn97**<br>34,600명 시청  - IRL
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
+**[[DROPS ON] BIG DAY HUGE DRAMA BALD EAGLE CHARITY DAY TODAY NEW GAMES TODAY BIG NEWS AND GAMES MULTISTREAMING+REACTS #AD  | @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>28,877명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_squeezie-320x180.jpg)](https://twitch.tv/Squeezie)
-**[BIG SOIREE Meccha Chameleon ft Joyca, Djilsi, Locklear, Max, Yann, Doigby et Micka](https://twitch.tv/Squeezie)** by **Squeezie**<br>33,195명 시청  - MECCHA CHAMELEON
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stableronaldo-320x180.jpg)](https://twitch.tv/stableronaldo)
+**[🟨 2v2 AGAINST JYNXZI AND JOE 🟨 GOOD VIBES 🟨 WE HERE 🟨 GAMES 🟨 I WILL WIN 🟨 LETS GO 🟨 [twitter/insta stableronaldo] !po !com !sub](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>24,129명 시청  - Rocket League
 
 
 ---
-: 마지막 업데이트: 2026-06-24 22:09 UTC
+: 마지막 업데이트: 2026-06-25 00:01 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
