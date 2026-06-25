@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[加藤純一恋愛を赤裸々に語る](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>22,434명 시청  - Just Chatting
+**[めっちゃカメレオン、その後Doodle Dice Monstersをやる男](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>45,751명 시청  - MECCHA CHAMELEON
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gon_vl-320x180.jpg)](https://twitch.tv/gon_vl)
-**[🔴人生初、OW個人コーチング（GON覚醒前） w/ Nico3→練習試合！](https://twitch.tv/gon_vl)** by **gon_vl**<br>11,806명 시청  - Overwatch
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_dota2_winline_ru-320x180.jpg)](https://twitch.tv/dota2_winline_ru)
+**[Nigma Galaxy [0:0] Team Spirit | The International 2026: EU Closed Qualifier | BO3 | @Jamclub & @Santadoto](https://twitch.tv/dota2_winline_ru)** by **dota2_winline_ru**<br>23,928명 시청  - Dota 2
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_maximilian_dood-320x180.jpg)](https://twitch.tv/Maximilian_DOOD)
-**[EVO ANNOUNCEMENT PREDICTIONS, Big News Day, 2XKO Yah!?](https://twitch.tv/Maximilian_DOOD)** by **Maximilian_DOOD**<br>7,668명 시청  - Star Fox
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_indegnasen0706-320x180.jpg)](https://twitch.tv/布団ちゃんと申します)
+**[【絵を書いて敵を倒すゲーム】DOODLE DICE MONSTERS←お元気ですか！？関東ジメジメしてますね！梅雨明けまでも少しがんばろネ！放送！](https://twitch.tv/布団ちゃんと申します)** by **布団ちゃんと申します**<br>17,639명 시청  - Doodle Dice Monsters
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut_247-320x180.jpg)](https://twitch.tv/TheBurntPeanut_247)
-**[24/7 @TheBurntPeanut VODS/YT | TARKOV | ARC RAIDERS | SILLY GAMES | BUNGULATORS ONLY CHAT](https://twitch.tv/TheBurntPeanut_247)** by **TheBurntPeanut_247**<br>7,569명 시청  - Always On
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ramzes-320x180.jpg)](https://twitch.tv/ramzes)
+**[Nigma Galaxy [0:0] Team Spirit | The International 2026 EU CQ | BO3 | /w @afoninje @vtunedota @iltw1 !tg !win !playerok](https://twitch.tv/ramzes)** by **ramzes**<br>17,582명 시청  - Dota 2
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_batora324-320x180.jpg)](https://twitch.tv/バトラ)
-**[あれ？もしかして赤帯いける？ S＋554～ 夕方まで](https://twitch.tv/バトラ)** by **バトラ**<br>6,642명 시청  - Super Mario Maker 2
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stylishnoob4-320x180.jpg)](https://twitch.tv/stylishnoob4)
+**[最後の世代 暗黒を照らせ](https://twitch.tv/stylishnoob4)** by **stylishnoob4**<br>15,099명 시청  - Powerful Pro Yakyuu 2026-2027
 
 
 ---
-: 마지막 업데이트: 2026-06-25 08:22 UTC
+: 마지막 업데이트: 2026-06-25 11:33 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
