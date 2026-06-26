@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gotaga-320x180.jpg)](https://twitch.tv/Gotaga)
-**[🏆 MAJOR DE PARIS sur COD](https://twitch.tv/Gotaga)** by **Gotaga**<br>39,214명 시청  - Call of Duty: Black Ops 7
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eliasn97-320x180.jpg)](https://twitch.tv/eliasn97)
+**[TAG 3 AUS AMERIKA 🇺🇸🔥 | !iconleague !doku !eligella !gaming](https://twitch.tv/eliasn97)** by **eliasn97**<br>43,545명 시청  - IRL
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_mongraal-320x180.jpg)](https://twitch.tv/Mongraal)
-**[THE BIG REVEAL... 26TH JUNE - 4:30PM UK / 10:30am CST | USE CODE MONGRAAL](https://twitch.tv/Mongraal)** by **Mongraal**<br>20,832명 시청  - Fortnite
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_auronplay-320x180.jpg)](https://twitch.tv/auronplay)
+**[!BADGE 💀 EXTR3MO 💀 DÍA #4 Y 4 VIDAS #MinecraftPartner](https://twitch.tv/auronplay)** by **auronplay**<br>40,607명 시청  - Minecraft
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stylishnoob4-320x180.jpg)](https://twitch.tv/stylishnoob4)
-**[感謝第二高校 最後の世代。最後の夏](https://twitch.tv/stylishnoob4)** by **stylishnoob4**<br>19,978명 시청  - Powerful Pro Yakyuu 2026-2027
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gotaga-320x180.jpg)](https://twitch.tv/Gotaga)
+**[🏆 MAJOR DE PARIS sur COD](https://twitch.tv/Gotaga)** by **Gotaga**<br>27,253명 시청  - Call of Duty: Black Ops 7
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_skywhywalker-320x180.jpg)](https://twitch.tv/skywhywalker)
-**[я злодей, но не монстр.. w/ @stanislaw9 @strogo](https://twitch.tv/skywhywalker)** by **skywhywalker**<br>15,377명 시청  - Counter-Strike
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-320x180.jpg)](https://twitch.tv/StRoGo)
+**[🔴 FACEIT @skywhywalker @stanislaw9 @m3wsu @des0ut](https://twitch.tv/StRoGo)** by **StRoGo**<br>22,783명 시청  - Counter-Strike
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_dota2_winline_ru-320x180.jpg)](https://twitch.tv/dota2_winline_ru)
-**[Power Rangers [0:0] Team Bald | The International 2026: EU Closed Qualifier | BO3 | @Maelstorm & @grayne](https://twitch.tv/dota2_winline_ru)** by **dota2_winline_ru**<br>15,305명 시청  - Dota 2
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_montanablack88-320x180.jpg)](https://twitch.tv/MontanaBlack88)
+**[IRL-Stream zusammen mit Robert Marc Lehmann !gönrgy !jackpot !ltd7](https://twitch.tv/MontanaBlack88)** by **MontanaBlack88**<br>21,374명 시청  - IRL
 
 
 ---
-: 마지막 업데이트: 2026-06-26 16:08 UTC
+: 마지막 업데이트: 2026-06-26 18:24 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
