@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[543/730] 🔴 MEETING DANTES TONIGHT 🔴 FAKER PLAYS AT 11PM EST 🔴 LOCK TF IN 🔴](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>50,663명 시청  - Just Chatting
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
+**[🔴MSI T1 VS TL - KC VS DCG - DAY1🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>112,729명 시청  - League of Legends
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
-**[[DROPS ON] BIG DAY HUGE DRAMA DAY TODAY NEW GAMES TODAY BIG NEWS AND GAMES MULTISTREAMING+REACTS #AD  | @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>31,818명 시청  - Just Chatting
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
+**[[543/730] 🔴 JYNXZI X DANTES 🔴 OFFICIAL #MSI2026 COSTREAM | FAKER VS TLAW 🔴 LOCK TF IN 🔴](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>47,035명 시청  - League of Legends
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ishowspeed-320x180.jpg)](https://twitch.tv/IShowSpeed)
-**[irl stream Portugal 🇵🇹 Vs Colombia 🇨🇴! Ronaldo Last Group Game⚽️World Cup Full Match Stream🌎!](https://twitch.tv/IShowSpeed)** by **IShowSpeed**<br>31,565명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_riotgames-320x180.jpg)](https://twitch.tv/Riot Games)
+**[T1 vs TLAW | MSI 2026 | Play In Day 1](https://twitch.tv/Riot Games)** by **Riot Games**<br>41,695명 시청  - League of Legends
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stableronaldo-320x180.jpg)](https://twitch.tv/stableronaldo)
-**[🟨 OLD STABLE IS BACK 🟨 IM CHOPPED 🟨CORE DIAMOND GYM VID OUT🟨 SATURDAY 🟨 MATTER DAY 🟨 [twitter/insta stableronaldo] !po !com !sub !core](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>25,355명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
+**[SAND: RAIDERS OF SOHPIE | GIMMICK X COCONUT | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>38,518명 시청  - Sand: Raiders Of Sophie
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lacy-320x180.jpg)](https://twitch.tv/Lacy)
-**[🏆 $100,000 FNCS DIVISION 1 FINALS 🏆 MY FIRST EVER FINALS 🏆 HUNGOVER 🏆 LACY MANZIEL 🏆 DO WE WIN? 🏆 GET IN HERE 🏆 !TAPCAPS !youngla](https://twitch.tv/Lacy)** by **Lacy**<br>24,418명 시청  - Just Chatting
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lolesportstw-320x180.jpg)](https://twitch.tv/lolesportstw)
+**[[中文] T1 vs TLAW - KC vs DCG | MSI 2026 | Play In Day 1](https://twitch.tv/lolesportstw)** by **lolesportstw**<br>26,855명 시청  - League of Legends
 
 
 ---
-: 마지막 업데이트: 2026-06-28 00:08 UTC
+: 마지막 업데이트: 2026-06-28 05:12 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
