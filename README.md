@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stylishnoob4-320x180.jpg)](https://twitch.tv/stylishnoob4)
-**[アイドル育成人関優太](https://twitch.tv/stylishnoob4)** by **stylishnoob4**<br>25,565명 시청  - Shine Post: Be Your Idol!
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gotaga-320x180.jpg)](https://twitch.tv/Gotaga)
+**[🏆 MAJOR DE PARIS sur COD - CHAMPIONSHIP SUNDAY 🏆 : Gentle Mates [2] vs. [1] FaZe Vegas](https://twitch.tv/Gotaga)** by **Gotaga**<br>105,581명 시청  - Call of Duty: Black Ops 7
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gon_vl-320x180.jpg)](https://twitch.tv/gon_vl)
-**[カスタム前にXP2000いく男→21:30~ GON誘ったら来てくれた人杯スプラ](https://twitch.tv/gon_vl)** by **gon_vl**<br>16,982명 시청  - Splatoon 3
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_meiy_vl-320x180.jpg)](https://twitch.tv/Meiy_vl)
+**[ENC予選 Day2 日本代表レツゴ  Meiy視点 本人VCのみ 平和なコメントをお願いしています 勝ったら世界大会](https://twitch.tv/Meiy_vl)** by **Meiy_vl**<br>62,195명 시청  - VALORANT
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ow_esports_jp-320x180.jpg)](https://twitch.tv/OW_ESPORTS_JP)
-**[2026 OWCS ASIA l KOREA STAGE 2 - Week 4 Day 3](https://twitch.tv/OW_ESPORTS_JP)** by **OW_ESPORTS_JP**<br>15,750명 시청  - Overwatch
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_worldoftanks-320x180.jpg)](https://twitch.tv/WorldofTanks)
+**[Tankfest Online 2026 Historical Stream](https://twitch.tv/WorldofTanks)** by **WorldofTanks**<br>36,728명 시청  - World of Tanks
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
-**[C](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>15,236명 시청  - Powerful Pro Yakyuu 2026-2027
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[まずはペットボトルを片します](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>32,815명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_pubg_battlegrounds-320x180.jpg)](https://twitch.tv/PUBG_BATTLEGROUNDS)
-**[[DROPS!] PUBG Nations Cup 2026 - Grand Finals - Day 3](https://twitch.tv/PUBG_BATTLEGROUNDS)** by **PUBG_BATTLEGROUNDS**<br>13,831명 시청  - PUBG: BATTLEGROUNDS
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_dota2_winline_ru-320x180.jpg)](https://twitch.tv/dota2_winline_ru)
+**[HULIGANI [0:1] Virtus.pro | The International 2026: EU Closed Qualifier | BO3 | @Eiritel & @blackarhangel](https://twitch.tv/dota2_winline_ru)** by **dota2_winline_ru**<br>28,727명 시청  - Dota 2
 
 
 ---
-: 마지막 업데이트: 2026-06-28 11:01 UTC
+: 마지막 업데이트: 2026-06-28 13:21 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
