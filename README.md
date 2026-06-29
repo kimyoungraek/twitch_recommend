@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
-**[🔴MSI TL VS DCG ELIMINATION🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>123,424명 시청  - League of Legends
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_k4sen-320x180.jpg)](https://twitch.tv/k4sen)
+**[The k4sen Con Awards 2026](https://twitch.tv/k4sen)** by **k4sen**<br>30,524명 시청  - Special Events
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
-**[🟨SPOOKY TIME🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>63,268명 시청  - ESKINITA
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_buster-320x180.jpg)](https://twitch.tv/buster)
+**[BUSTER 0:0 RECRENT 📛 BB STREAMERS BATTLE 📛 PRIZE POOL 500K$](https://twitch.tv/buster)** by **buster**<br>24,907명 시청  - Counter-Strike
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kamet0-320x180.jpg)](https://twitch.tv/Kamet0)
-**[KARMINE CORP 0 vs 2 T1 | MSI 2026 - Play-In (!razer) (!recrutement) (!extension)](https://twitch.tv/Kamet0)** by **Kamet0**<br>43,882명 시청  - League of Legends
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[2026 OWCS ASIA l JAPAN STAGE 2 - PLAYOFFS DAY 1ムラゲ応援配信](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>23,056명 시청  - Overwatch
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_riotgames-320x180.jpg)](https://twitch.tv/Riot Games)
-**[KC vs T1 | MSI 2026 | Play In Day 2](https://twitch.tv/Riot Games)** by **Riot Games**<br>38,216명 시청  - League of Legends
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_indegnasen0706-320x180.jpg)](https://twitch.tv/布団ちゃんと申します)
+**[いざラーメンショップへ！久々の遠出でワクワクするナ！！！](https://twitch.tv/布団ちゃんと申します)** by **布団ちゃんと申します**<br>20,973명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[544/730] 🔴  NOT ENDING UNTIL IM SILVER IN LEAGUE OF LEGENDS 🔴 LOCK TF IN 🔴](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>36,192명 시청  - League of Legends
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stylishnoob4-320x180.jpg)](https://twitch.tv/stylishnoob4)
+**[シャインポスト 武道館行くぞ](https://twitch.tv/stylishnoob4)** by **stylishnoob4**<br>17,017명 시청  - Shine Post: Be Your Idol!
 
 
 ---
-: 마지막 업데이트: 2026-06-29 05:24 UTC
+: 마지막 업데이트: 2026-06-29 10:27 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
