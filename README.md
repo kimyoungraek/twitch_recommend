@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[546/730] 🔴 DAY 3 🔴 NOT ENDING UNTIL IM SILVER IN LEAGUE OF LEGENDS 🔴 LOCK TF IN 🔴](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>45,480명 시청  - League of Legends
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
+**[🟨SPOOKY TIME🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>58,751명 시청  - Beso's Shawarma
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tumblurr-320x180.jpg)](https://twitch.tv/Tumblurr)
-**[🔥8 ORE DI FUOCO🔥](https://twitch.tv/Tumblurr)** by **Tumblurr**<br>35,976명 시청  - Just Chatting
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
+**[[546/730] 🔴 5 WINS TILL SILVER 🔴 NOT ENDING UNTIL IM SILVER IN LEAGUE OF LEGENDS 🔴 LOCK TF IN 🔴](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>40,187명 시청  - League of Legends
 
 **3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[ARENA BREAKOUT: INFINITE | w/ Shroud | !ABI | #ABIPartner](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>30,029명 시청  - Arena Breakout: Infinite
+**[SAND: RAIDERS OF SOPHIE w/ Shroud & Coconut | TESTICULAR TORSION TUESDAY | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>33,910명 시청  - Sand: Raiders Of Sophie
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stableronaldo-320x180.jpg)](https://twitch.tv/stableronaldo)
-**[⚽MASSIVE CONTENT ⚽FRANCE VS SWEDEN AFTERMATH⚽I LARP FOOTBALL⚽GOOD VIBES ⚽ LIFES GREAT⚽ OMG ⚽ YA ⚽[twitter/insta stableronaldo] !po !com !sub](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>25,410명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
+**[🔴MSI T1 VS TL ELIMNINATION WAITING ROOM (STARTS AT 10AMCET // 1AM PST // 17 KST - CHUDREL12 FOR A BIT🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>15,502명 시청  - League of Legends
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
-**[🤬SCOTUS DEFENDS BIRTHRIGHT🤬HOGWATCH🤬DENVER!!🤬DAVID DAYEN ON TO TALK SCOTUS🤬CANVAS LEAD W/ RAAB🤬BRINGING SOCIALISM TO CO](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>23,928명 시청  - Just Chatting
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[栄冠](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>14,498명 시청  - Powerful Pro Yakyuu 2026-2027
 
 
 ---
-: 마지막 업데이트: 2026-07-01 00:00 UTC
+: 마지막 업데이트: 2026-07-01 05:16 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
