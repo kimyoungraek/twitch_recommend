@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
-**[🟨LOSING MY MIND🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>44,113명 시청  - Slither.io
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
+**[SAND: RAIDERS OF SOPHIE w/ GIMMICK & COCONUT | WACKADOODLE WEDNESDAY | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>30,528명 시청  - Sand: Raiders Of Sophie
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[SAND: RAIDERS OF SOPHIE w/ GIMMICK & COCONUT | WACKADOODLE WEDNESDAY | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>36,052명 시청  - Sand: Raiders Of Sophie
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_indegnasen0706-320x180.jpg)](https://twitch.tv/布団ちゃんと申します)
+**[ELDEN RING NIGHTREIGN 愛好会 ※ビッツ禁止←【番外編】も と に も ど す](https://twitch.tv/布団ちゃんと申します)** by **布団ちゃんと申します**<br>13,538명 시청  - ELDEN RING NIGHTREIGN
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lacy-320x180.jpg)](https://twitch.tv/Lacy)
-**[🇺🇸 USA vs BOSNIA 🇺🇸 IRL WORLD CUP 🇺🇸 KAWWWWWW 🇺🇸 $10,000 ON USA 🇺🇸 ITS CALLED SOCCER 🇺🇸](https://twitch.tv/Lacy)** by **Lacy**<br>26,426명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stylishnoob4-320x180.jpg)](https://twitch.tv/stylishnoob4)
+**[ビッツ禁止 筋トレ→昼エルデン部→武道館](https://twitch.tv/stylishnoob4)** by **stylishnoob4**<br>10,757명 시청  - ELDEN RING NIGHTREIGN
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
-**[🐰LIVE🐰CLICK🐰DRAMA🐰NEWS🐰VIDEOS🐰REACTS🐰GAMES🐰TAKES🐰COOL🐰STUFF🐰LOCK IN🐰QUICKLY🐰BEFORE I GET REAL MAD🐰](https://twitch.tv/xQc)** by **xQc**<br>20,116명 시청  - Sand: Raiders Of Sophie
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_rdcgaming-320x180.jpg)](https://twitch.tv/RDCgaming)
+**[INTO THE ABYSS WE GO](https://twitch.tv/RDCgaming)** by **RDCgaming**<br>8,779명 시청  - ELDEN RING NIGHTREIGN
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_2xrakai-320x180.jpg)](https://twitch.tv/2xRaKai)
-**[🔥 RAKAI X BILZO 🔥 CONSISTENCY 🔥 25XX SUMMER 🔥](https://twitch.tv/2xRaKai)** by **2xRaKai**<br>20,097명 시청  - Just Chatting
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_maximilian_dood-320x180.jpg)](https://twitch.tv/Maximilian_DOOD)
+**[...this is bad](https://twitch.tv/Maximilian_DOOD)** by **Maximilian_DOOD**<br>7,652명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2026-07-02 02:36 UTC
+: 마지막 업데이트: 2026-07-02 06:33 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
