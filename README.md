@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ow_esports_jp-320x180.jpg)](https://twitch.tv/OW_ESPORTS_JP)
-**[2026 OWCS ASIA l KOREA STAGE 2 - WEEK 5 DAY 1](https://twitch.tv/OW_ESPORTS_JP)** by **OW_ESPORTS_JP**<br>32,060명 시청  - Overwatch
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_squeezie-320x180.jpg)](https://twitch.tv/Squeezie)
+**[Valorant est de retour ! M8 vs XLG - EWC VALORANT 2026 ft. @beyaz](https://twitch.tv/Squeezie)** by **Squeezie**<br>31,222명 시청  - VALORANT
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_shadowkekw-320x180.jpg)](https://twitch.tv/shadowkekw)
-**[Team Burger [0:1] Team Recrent @des0ut @overdrivezzz | Betboom Streamers Battle 👉 !тг !betboom !lisskin](https://twitch.tv/shadowkekw)** by **shadowkekw**<br>28,564명 시청  - Counter-Strike
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_buster-320x180.jpg)](https://twitch.tv/buster)
+**[📛 BUSTER 0:2 SHOKE 📛 BB STREAMERS BATTLE S5 📛 ПРИЗОВОЙ 5КК 📛](https://twitch.tv/buster)** by **buster**<br>26,305명 시청  - Counter-Strike
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[鎌田&ネジと飯食いながら人生相談](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>25,798명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
+**[rust](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>23,264명 시청  - Rust
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
-**[rust](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>19,961명 시청  - Rust
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stylishnoob4-320x180.jpg)](https://twitch.tv/stylishnoob4)
+**[ナイトレイン部門  ビッツ禁止](https://twitch.tv/stylishnoob4)** by **stylishnoob4**<br>17,550명 시청  - ELDEN RING NIGHTREIGN
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stylishnoob4-320x180.jpg)](https://twitch.tv/stylishnoob4)
-**[ナイトレイン部門 よしなま 布団ちゃん ビッツ禁止](https://twitch.tv/stylishnoob4)** by **stylishnoob4**<br>17,324명 시청  - ELDEN RING NIGHTREIGN
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ravshann-320x180.jpg)](https://twitch.tv/RavshanN)
+**[🔴ГУЛЯЮ С ЛУНАКОМ /w @lyna_com2000 !тг !бб](https://twitch.tv/RavshanN)** by **RavshanN**<br>16,600명 시청  - IRL
 
 
 ---
-: 마지막 업데이트: 2026-07-03 12:02 UTC
+: 마지막 업데이트: 2026-07-03 15:03 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
