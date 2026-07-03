@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eliasn97-320x180.jpg)](https://twitch.tv/eliasn97)
-**[TREFFEN WIR RONALDO?! TAG 10 AUS KANADA🔥 | !iconleague !doku !eligella !gaming](https://twitch.tv/eliasn97)** by **eliasn97**<br>49,801명 시청  - IRL
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_majed20267-320x180.jpg)](https://twitch.tv/majed20267)
+**[](https://twitch.tv/majed20267)** by **majed20267**<br>164,398명 시청  - 
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kabam-320x180.jpg)](https://twitch.tv/Kabam)
-**[JULY LIVESTREAM 🕹️  | Marvel Contest of Champions](https://twitch.tv/Kabam)** by **Kabam**<br>30,405명 시청  - MARVEL Contest of Champions
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_inoxtag-320x180.jpg)](https://twitch.tv/Inoxtag)
+**[5 JOURS 24H/24H SUR VALORANT ENFERMÉ AVEC GOTA, SQUEEZIE, JBZZ ET DES INVITÉS MYSTÈRES CHAQUE JOUR (ROAD TO IMMORTAL !) !revolut !revocash](https://twitch.tv/Inoxtag)** by **Inoxtag**<br>86,907명 시청  - VALORANT
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ow_esports-320x180.jpg)](https://twitch.tv/ow_esports)
-**[[DROPS] OWCS 2026 | Stage 2 Playoffs Day 1](https://twitch.tv/ow_esports)** by **ow_esports**<br>28,017명 시청  - Overwatch
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eliasn97-320x180.jpg)](https://twitch.tv/eliasn97)
+**[TREFFEN WIR RONALDO?! TAG 10 AUS KANADA🔥 | !iconleague !doku !eligella !gaming](https://twitch.tv/eliasn97)** by **eliasn97**<br>62,834명 시청  - IRL
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_anarabdullaev-320x180.jpg)](https://twitch.tv/anarabdullaev)
-**[Пятничная мужская импровизация](https://twitch.tv/anarabdullaev)** by **anarabdullaev**<br>23,421명 시청  - IRL
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ow_esports-320x180.jpg)](https://twitch.tv/ow_esports)
+**[[DROPS] OWCS 2026 | Stage 2 Playoffs Day 1](https://twitch.tv/ow_esports)** by **ow_esports**<br>45,503명 시청  - Overwatch
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kanae_2434-320x180.jpg)](https://twitch.tv/叶ちゃんねる)
-**[ちょっとだけ無馬かな](https://twitch.tv/叶ちゃんねる)** by **叶ちゃんねる**<br>22,487명 시청  - Grand Theft Auto V
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
+**[[549/730] 🟨 TRYING EVERY SNACK AT 7 ELEVEN -> MESSI vs CABO VERDE -> GAMING ALL NIGHT 🟨](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>33,856명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2026-07-03 17:16 UTC
+: 마지막 업데이트: 2026-07-03 19:06 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
