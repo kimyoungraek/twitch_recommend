@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_inoxtag-320x180.jpg)](https://twitch.tv/Inoxtag)
-**[5 JOURS 24H/24H SUR VALORANT ENFERMÉ AVEC GOTA, SQUEEZIE, JBZZ ET DES INVITÉS MYSTÈRES CHAQUE JOUR !revolut !revocash !orange !ewc !riot](https://twitch.tv/Inoxtag)** by **Inoxtag**<br>82,912명 시청  - VALORANT
+**[5 JOURS 24H/24H SUR VALORANT ENFERMÉ AVEC GOTA, SQUEEZIE, JBZZ ET DES INVITÉS MYSTÈRES CHAQUE JOUR !revolut !revocash !orange !ewc !riot](https://twitch.tv/Inoxtag)** by **Inoxtag**<br>77,389명 시청  - VALORANT
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[バージョンUPされたRUSTを触る](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>47,894명 시청  - Rust
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_evelone2004-320x180.jpg)](https://twitch.tv/evelone2004)
+**[ДЕНЬ РОЖДЕНИЯ НА ОСТРОВЕ](https://twitch.tv/evelone2004)** by **evelone2004**<br>46,235명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_brawks-320x180.jpg)](https://twitch.tv/brawks)
-**[Gentle Mates vs NS - EWC VALORANT 2026 ! #M8WIN](https://twitch.tv/brawks)** by **brawks**<br>20,920명 시청  - VALORANT
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_danila_gorilla-320x180.jpg)](https://twitch.tv/Danila_Gorilla)
+**[IRL КОНЦЕРТ КОУКОШКИ](https://twitch.tv/Danila_Gorilla)** by **Danila_Gorilla**<br>24,072명 시청  - IRL
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fissure_cs_a-320x180.jpg)](https://twitch.tv/fissure_cs_a)
-**[EYEBALLERS [0:0] FaZe | Bo3 | XSE Pro League: Group Stage | by @TollTV & @cyberfocus](https://twitch.tv/fissure_cs_a)** by **fissure_cs_a**<br>20,140명 시청  - Counter-Strike
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gamesdonequick-320x180.jpg)](https://twitch.tv/GamesDoneQuick)
+**[SGDQ 2026 benefiting Doctors Without Borders - SGDQ 2026 Pre-Show !donate !schedule](https://twitch.tv/GamesDoneQuick)** by **GamesDoneQuick**<br>22,805명 시청  - Games Done Quick
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zarbex-320x180.jpg)](https://twitch.tv/zarbex)
-**[🤏 MR. GEIL STREAMT 🤏 THE FOREST mit SCHRADIN 🤏 19:30 5000€ MECCHA CHAMELEON TURNIER 🤏 !spotify !socials !merch](https://twitch.tv/zarbex)** by **zarbex**<br>16,443명 시청  - The Forest
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_montanablack88-320x180.jpg)](https://twitch.tv/MontanaBlack88)
+**[Reaction auf WDR: Zwischen Spritzen, Crackpfeifen und Angst • 19:30 Uhr 5000€ MECHA CHAMELEON TURNIER !prepmymeal !gönrgy !jackpot !ltd7](https://twitch.tv/MontanaBlack88)** by **MontanaBlack88**<br>19,781명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2026-07-05 15:07 UTC
+: 마지막 업데이트: 2026-07-05 16:59 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
