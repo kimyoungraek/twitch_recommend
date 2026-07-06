@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_inoxtag-320x180.jpg)](https://twitch.tv/Inoxtag)
-**[5 JOURS 24H/24H SUR VALORANT ENFERMÉ AVEC GOTA, SQUEEZIE, JBZZ ET DES INVITÉS MYSTÈRES CHAQUE JOUR !revolut !revocash !orange !ewc !riot](https://twitch.tv/Inoxtag)** by **Inoxtag**<br>36,706명 시청  - VALORANT
+**[5 JOURS 24H/24H SUR VALORANT ENFERMÉ AVEC GOTA, SQUEEZIE, JBZZ ET DES INVITÉS MYSTÈRES CHAQUE JOUR !revolut !revocash !orange !ewc !riot](https://twitch.tv/Inoxtag)** by **Inoxtag**<br>81,015명 시청  - VALORANT
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gamesdonequick-320x180.jpg)](https://twitch.tv/GamesDoneQuick)
-**[SGDQ 2026 benefiting Doctors Without Borders — Death's Door !donate !schedule](https://twitch.tv/GamesDoneQuick)** by **GamesDoneQuick**<br>22,211명 시청  - Death's Door
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[ロシアクランの寝込みを襲うRUST～２日目～](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>54,536명 시청  - Rust
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel247-320x180.jpg)](https://twitch.tv/Caedrel247)
-**[🔴 MSI RE-RUN: DAY 8 - BLG vs LYON // T1 vs FUR 🔴](https://twitch.tv/Caedrel247)** by **Caedrel247**<br>12,327명 시청  - League of Legends
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gamesdonequick-320x180.jpg)](https://twitch.tv/GamesDoneQuick)
+**[SGDQ 2026 benefiting Doctors Without Borders — Dragon Quest XI !donate !schedule](https://twitch.tv/GamesDoneQuick)** by **GamesDoneQuick**<br>28,387명 시청  - Dragon Quest XI: Echoes of an Elusive Age
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_yuyuta0702-320x180.jpg)](https://twitch.tv/ゆゆうた押忍)
-**[押忍！](https://twitch.tv/ゆゆうた押忍)** by **ゆゆうた押忍**<br>11,415명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
+**[こいつらLOLすきすぎるだろ](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>19,022명 시청  - League of Legends
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_topson-320x180.jpg)](https://twitch.tv/Topson)
-**[ROAD TO RANK 10  !VPN](https://twitch.tv/Topson)** by **Topson**<br>9,006명 시청  - Dota 2
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ravshann-320x180.jpg)](https://twitch.tv/RavshanN)
+**[🔴ОТДАЛИ ПРИОРУ ПОБЕДИТЕЛЮ РОЗЫГРЫША,ЖДЁМ ЛУНАКОМ И РЕНАТА! /w @steel !тг !бб](https://twitch.tv/RavshanN)** by **RavshanN**<br>14,969명 시청  - IRL
 
 
 ---
-: 마지막 업데이트: 2026-07-06 10:00 UTC
+: 마지막 업데이트: 2026-07-06 14:21 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
