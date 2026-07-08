@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
-**[🔴MSI T1 VS G2 ELIMINATION🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>178,904명 시청  - League of Legends
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_inoxtag-320x180.jpg)](https://twitch.tv/Inoxtag)
+**[5 JOURS 24H/24H SUR VALORANT ENFERMÉ AVEC GOTA, SQUEEZIE, JBZZ ET DES INVITÉS MYSTÈRES CHAQUE JOUR !revolut !orange !ewc !riot](https://twitch.tv/Inoxtag)** by **Inoxtag**<br>60,891명 시청  - VALORANT
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_riotgames-320x180.jpg)](https://twitch.tv/Riot Games)
-**[G2 vs T1 | MSI 2026 |  Bracket Stage Day 5](https://twitch.tv/Riot Games)** by **Riot Games**<br>48,444명 시청  - League of Legends
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gamesdonequick-320x180.jpg)](https://twitch.tv/GamesDoneQuick)
+**[SGDQ 2026 benefiting Doctors Without Borders — In Stars and Time !donate !schedule](https://twitch.tv/GamesDoneQuick)** by **GamesDoneQuick**<br>22,872명 시청  - In Stars and Time
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_otplol_-320x180.jpg)](https://twitch.tv/otplol_)
-**[MSI - LYON vs TSW | G2 vs T1 - LOWER ROUND 2 - BO5](https://twitch.tv/otplol_)** by **otplol_**<br>25,724명 시청  - League of Legends
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_solo-320x180.jpg)](https://twitch.tv/Solo)
+**[🔴 [БЕЗ ЗАДЕРЖКИ] BB Team [1:0] PR, Bo2 | EWC 2026: Group Stage w/ @ramzes @gthemall !tg !betboom](https://twitch.tv/Solo)** by **Solo**<br>17,573명 시청  - Dota 2
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gamesdonequick-320x180.jpg)](https://twitch.tv/GamesDoneQuick)
-**[SGDQ 2026 benefiting Doctors Without Borders — Kuon !donate !schedule](https://twitch.tv/GamesDoneQuick)** by **GamesDoneQuick**<br>23,516명 시청  - Kuon
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel247-320x180.jpg)](https://twitch.tv/Caedrel247)
+**[🔴 MSI RE-RUN: DAY 9 - LYON vs TSW // G2 vs T1 // SPOILER = BAN 🔴](https://twitch.tv/Caedrel247)** by **Caedrel247**<br>14,521명 시청  - League of Legends
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lolesportstw-320x180.jpg)](https://twitch.tv/lolesportstw)
-**[[中文] LYON vs TSW - G2 vs T1 | MSI 2026 | Bracket Stage Day 5](https://twitch.tv/lolesportstw)** by **lolesportstw**<br>20,308명 시청  - League of Legends
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_azamat799-320x180.jpg)](https://twitch.tv/AZAMAT799)
+**[🔴🤓Азамат, Ученик и Пежо 🚗 🟡 | !тг !правила !авто !ухо !tp🟢](https://twitch.tv/AZAMAT799)** by **AZAMAT799**<br>14,256명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2026-07-08 08:12 UTC
+: 마지막 업데이트: 2026-07-08 10:56 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
