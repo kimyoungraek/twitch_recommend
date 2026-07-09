@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_audio__rw-320x180.jpg)](https://twitch.tv/Audio__RW)
-**[Экспертный совет по Автоматизации](https://twitch.tv/Audio__RW)** by **Audio__RW**<br>239,430명 시청  - Just Chatting
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_squeezie-320x180.jpg)](https://twitch.tv/Squeezie)
+**[GENTLE MATES vs NRG - 1/4 FINALE EWC VALORANT 2026 ft. @beyaz](https://twitch.tv/Squeezie)** by **Squeezie**<br>51,188명 시청  - VALORANT
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[RUST～5日目～その２](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>48,325명 시청  - Rust
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_anarabdullaev-320x180.jpg)](https://twitch.tv/anarabdullaev)
+**[Спускаем ванны на воду /w @misolo3 @pinqtast Эксити и Абрахам](https://twitch.tv/anarabdullaev)** by **anarabdullaev**<br>33,204명 시청  - IRL
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gamesdonequick-320x180.jpg)](https://twitch.tv/GamesDoneQuick)
-**[SGDQ 2026 benefiting Doctors Without Borders — WHAT THE GOLF? !donate !schedule](https://twitch.tv/GamesDoneQuick)** by **GamesDoneQuick**<br>28,732명 시청  - WHAT THE GOLF?
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_buster-320x180.jpg)](https://twitch.tv/buster)
+**[ОФФ-РОУД НА НИВАХ С ПАЦАНАМИ @paradeev1ch @kuertov @everybodySOSA @frametamer666](https://twitch.tv/buster)** by **buster**<br>31,920명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_playapex-320x180.jpg)](https://twitch.tv/playapex)
-**[ALGS Year 6 Split 1 Playoffs at EWC | Group Stage - Day 3 | Apex Legends](https://twitch.tv/playapex)** by **playapex**<br>25,218명 시청  - Apex Legends
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gamesdonequick-320x180.jpg)](https://twitch.tv/GamesDoneQuick)
+**[SGDQ 2026 benefiting Doctors Without Borders — The Silly Rundown — Thursday !donate !schedule](https://twitch.tv/GamesDoneQuick)** by **GamesDoneQuick**<br>31,607명 시청  - Games Done Quick
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_solo-320x180.jpg)](https://twitch.tv/Solo)
-**[🔴 [БЕЗ ЗАДЕРЖКИ] Liquid [0:1] Nigma UP, Bo2 | EWC 2026: Group Stage w/ @gthemall !tg !betboom](https://twitch.tv/Solo)** by **Solo**<br>22,075명 시청  - Dota 2
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eliasn97-320x180.jpg)](https://twitch.tv/eliasn97)
+**[Reactions & Talks🔥 19:45 Among Us COMEBACK🤬 | !iconleague !doku !eligella !gaming](https://twitch.tv/eliasn97)** by **eliasn97**<br>24,678명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2026-07-09 14:38 UTC
+: 마지막 업데이트: 2026-07-09 17:14 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
