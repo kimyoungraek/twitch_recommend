@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[554/730] 🔴 RETURNING TO RP 🔴 LETS DO THIS 🔴](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>43,142명 시청  - Grand Theft Auto V
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
+**[🟨SPOOKY TIME🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>60,555명 시청  - Ice Cream Man
 
 **2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gamesdonequick-320x180.jpg)](https://twitch.tv/GamesDoneQuick)
-**[SGDQ 2026 benefiting Doctors Without Borders — Super Mario and Luigi World: Brotherhood !donate !schedule](https://twitch.tv/GamesDoneQuick)** by **GamesDoneQuick**<br>38,725명 시청  - Super Mario World
+**[SGDQ 2026 benefiting Doctors Without Borders — Banjo-Tooie !donate !schedule](https://twitch.tv/GamesDoneQuick)** by **GamesDoneQuick**<br>30,807명 시청  - Banjo-Tooie
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tumblurr-320x180.jpg)](https://twitch.tv/Tumblurr)
-**[🏁SDROGO CORSE A SQUADRE🌏VINCO IL MONDIALE🏆](https://twitch.tv/Tumblurr)** by **Tumblurr**<br>36,095명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
+**[RUNESCAPE: DRAGONWILDS | WACKADOODLE WEDNESDAY | Gimmick X Habibi | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>28,897명 시청  - RuneScape: Dragonwilds
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stableronaldo-320x180.jpg)](https://twitch.tv/stableronaldo)
-**[🟨 NEW DAY 🟨 WE ACCEPTED 🟨 WHATS NEW 🟨 I MISSED ALOT 🟨 NEWS 🟨 LETS GO 🟨 JOIN UP 🟨 [twitter/insta stableronaldo] !po !com !sub](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>33,900명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jasontheween-320x180.jpg)](https://twitch.tv/jasontheween)
+**[🔴EPICNESS🔴PARTY TIME!!!🔴NIGHT STREAM🔴COME HERE🔴I MADE IT INTO STREAMER U LETS GO!!!!!🔴PIMPLE](https://twitch.tv/jasontheween)** by **jasontheween**<br>27,466명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
-**[[DROPS ON] BIG DAY HUGE DRAMA DAY AC BLACK FLAG  TODAY NEW GAMES TODAY BIG NEWS AND GAMES MULTISTREAMING+REACTS #WWMPartner  | @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>29,105명 시청  - Assassin's Creed Black Flag Resynced
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_plaqueboymax-320x180.jpg)](https://twitch.tv/PlaqueBoyMax)
+**[my body did something last night 😔 #FIVESTARSUMMER2026🖐🏼](https://twitch.tv/PlaqueBoyMax)** by **PlaqueBoyMax**<br>21,412명 시청  - IRL
 
 
 ---
-: 마지막 업데이트: 2026-07-09 00:02 UTC
+: 마지막 업데이트: 2026-07-09 04:43 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
