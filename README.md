@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gamesdonequick-320x180.jpg)](https://twitch.tv/GamesDoneQuick)
-**[SGDQ 2026 benefiting Doctors Without Borders — Resident Evil: Requiem !donate !schedule](https://twitch.tv/GamesDoneQuick)** by **GamesDoneQuick**<br>36,587명 시청  - RESIDENT EVIL: requiem
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
+**[🟨SPOOKY TIME🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>59,620명 시청  - Granny
 
 **2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[[DROPS] BUNGULATOR RESYNCED | HARDEST DIFFICULTY | AYE LASSIES, WE BE A PIRATE NOW | NEW ASSASINS CREED GAME | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>30,946명 시청  - Assassin's Creed Black Flag Resynced
+**[[DROPS] BUNGULATOR RESYNCED | HARDEST DIFFICULTY | AYE LASSIES, WE BE A PIRATE NOW | NEW ASSASINS CREED GAME | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>33,315명 시청  - Assassin's Creed Black Flag Resynced
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_2xrakai-320x180.jpg)](https://twitch.tv/2xRaKai)
-**[🔥RAKAI X FUNNYMIKE🔥IN THE STUDIO🔥IN HOUSTON🔥25XX SUMMER🔥](https://twitch.tv/2xRaKai)** by **2xRaKai**<br>30,776명 시청  - IRL
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gamesdonequick-320x180.jpg)](https://twitch.tv/GamesDoneQuick)
+**[SGDQ 2026 benefiting Doctors Without Borders — Dying Light !donate !schedule](https://twitch.tv/GamesDoneQuick)** by **GamesDoneQuick**<br>30,802명 시청  - Dying Light
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
-**[[DROPS ON] BIG DAY HUGE DRAMA DAY PALWORL RELEAS TODAY NEW GAMES TODAY BIG NEWS AND GAMES MULTISTREAMING+REACTS  | @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>24,508명 시청  - Palworld
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
+**[👄LIVE👄CLICK👄HERE👄QUICK👄DRAMA👄NEWS👄VIDEOS👄CLICK👄HERE👄LOCK IN👄SCHEDULE IS COOKED👄PULL UP👄EVENING BROADCAST👄COOL👄](https://twitch.tv/xQc)** by **xQc**<br>19,504명 시청  - ROBLOX
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jasontheween-320x180.jpg)](https://twitch.tv/jasontheween)
-**[🔴GOING TO MIAMI!!🔴IRL🔴LETS GO🔴CONTENT OVERLOAD🔴](https://twitch.tv/jasontheween)** by **jasontheween**<br>16,067명 시청  - Just Chatting
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_moonmoon-320x180.jpg)](https://twitch.tv/MOONMOON)
+**[(first time, very hard) da brotherhood of steel](https://twitch.tv/MOONMOON)** by **MOONMOON**<br>12,785명 시청  - Fallout 4
 
 
 ---
-: 마지막 업데이트: 2026-07-11 01:57 UTC
+: 마지막 업데이트: 2026-07-11 05:13 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
