@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_warframe-320x180.jpg)](https://twitch.tv/Warframe)
-**[TennoCon 2026 Day 1 - Friday @ 7PM ET](https://twitch.tv/Warframe)** by **Warframe**<br>163,447명 시청  - Warframe
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gamesdonequick-320x180.jpg)](https://twitch.tv/GamesDoneQuick)
+**[SGDQ 2026 benefiting Doctors Without Borders — Resident Evil: Requiem !donate !schedule](https://twitch.tv/GamesDoneQuick)** by **GamesDoneQuick**<br>36,587명 시청  - RESIDENT EVIL: requiem
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[556/730] 🔴 GTA RP DAY 3 🔴](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>45,281명 시청  - Grand Theft Auto V
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
+**[[DROPS] BUNGULATOR RESYNCED | HARDEST DIFFICULTY | AYE LASSIES, WE BE A PIRATE NOW | NEW ASSASINS CREED GAME | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>30,946명 시청  - Assassin's Creed Black Flag Resynced
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gamesdonequick-320x180.jpg)](https://twitch.tv/GamesDoneQuick)
-**[SGDQ 2026 benefiting Doctors Without Borders — Super Mario Maker 2 !donate !schedule](https://twitch.tv/GamesDoneQuick)** by **GamesDoneQuick**<br>39,064명 시청  - Super Mario Maker 2
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_2xrakai-320x180.jpg)](https://twitch.tv/2xRaKai)
+**[🔥RAKAI X FUNNYMIKE🔥IN THE STUDIO🔥IN HOUSTON🔥25XX SUMMER🔥](https://twitch.tv/2xRaKai)** by **2xRaKai**<br>30,776명 시청  - IRL
 
 **4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
-**[[DROPS ON] BIG DAY HUGE DRAMA DAY PALWORL RELEAS TODAY NEW GAMES TODAY BIG NEWS AND GAMES MULTISTREAMING+REACTS  | @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>29,969명 시청  - Palworld
+**[[DROPS ON] BIG DAY HUGE DRAMA DAY PALWORL RELEAS TODAY NEW GAMES TODAY BIG NEWS AND GAMES MULTISTREAMING+REACTS  | @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>24,508명 시청  - Palworld
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
-**[🤬CEASEFIRE OVER BUT NEGOTIATIONS CONT?🤬SITUATION MONITOR🤬TRUMP REFUSES TO SIGN HOUSING BILL🤬🤬ICE KILLS TX MAN🤬](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>26,778명 시청  - Just Chatting
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jasontheween-320x180.jpg)](https://twitch.tv/jasontheween)
+**[🔴GOING TO MIAMI!!🔴IRL🔴LETS GO🔴CONTENT OVERLOAD🔴](https://twitch.tv/jasontheween)** by **jasontheween**<br>16,067명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2026-07-10 23:52 UTC
+: 마지막 업데이트: 2026-07-11 01:57 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
