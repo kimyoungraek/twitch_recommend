@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[飯くってRUST～いろいろやる７日目～](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>48,108명 시청  - Rust
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_warframe-320x180.jpg)](https://twitch.tv/Warframe)
+**[TennoCon 2026 Day 2 - Saturday @ 11AM ET](https://twitch.tv/Warframe)** by **Warframe**<br>84,159명 시청  - Warframe
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gamesdonequick-320x180.jpg)](https://twitch.tv/GamesDoneQuick)
-**[SGDQ 2026 benefiting Doctors Without Borders — SpongeBob SquarePants: Titans of the Tide !donate !schedule](https://twitch.tv/GamesDoneQuick)** by **GamesDoneQuick**<br>27,757명 시청  - SpongeBob SquarePants: Titans of the Tide
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[RC全力応援 ALGS Year 6 Split 1 Playoffs at EWC | Match Point Finals - Day 5 | Apex Legends](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>44,562명 시청  - Apex Legends
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sloiniki-320x180.jpg)](https://twitch.tv/sloINiKI)
-**[Сижу и пытаюсь поймать трофа ЛЕЩА.  !TG !donate](https://twitch.tv/sloINiKI)** by **sloINiKI**<br>19,690명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gamesdonequick-320x180.jpg)](https://twitch.tv/GamesDoneQuick)
+**[SGDQ 2026 benefiting Doctors Without Borders — Ed, Edd n Eddy: The Mis-Edventures !donate !schedule](https://twitch.tv/GamesDoneQuick)** by **GamesDoneQuick**<br>31,534명 시청  - Ed, Edd n Eddy: The Mis-Edventures
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_solo-320x180.jpg)](https://twitch.tv/Solo)
-**[🔴 [БЕЗ ЗАДЕРЖКИ] Aurora [0:0] Liquid, Bo2 | EWC 2026: Group Stage w/ @ramzes !tg !betboom !розыгрыш](https://twitch.tv/Solo)** by **Solo**<br>18,852명 시청  - Dota 2
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_playapex-320x180.jpg)](https://twitch.tv/playapex)
+**[ALGS Year 6 Split 1 Playoffs at EWC | Match Point Finals - Day 5 | Apex Legends](https://twitch.tv/playapex)** by **playapex**<br>30,552명 시청  - Apex Legends
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stylishnoob4-320x180.jpg)](https://twitch.tv/stylishnoob4)
-**[この デスゲーム をクリアします。](https://twitch.tv/stylishnoob4)** by **stylishnoob4**<br>18,381명 시청  - Echoes of Aincrad
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_nicewigg-320x180.jpg)](https://twitch.tv/NiceWigg)
+**[(DROPS) ALGS SPLIT 1 PLAYOFFS | MATCH POINT FINALS 🏆 #1 HOST 🏆 !Socials !Cheeky !Youtube](https://twitch.tv/NiceWigg)** by **NiceWigg**<br>23,648명 시청  - Apex Legends
 
 
 ---
-: 마지막 업데이트: 2026-07-11 13:01 UTC
+: 마지막 업데이트: 2026-07-11 14:44 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
