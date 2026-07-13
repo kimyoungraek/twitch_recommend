@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[558/730] 🔴 FORTNITE PRO AM w POLLO 🔴](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>55,427명 시청  - Fortnite
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
+**[👨‍🎓LIVE👨‍🎓HERE👨‍🎓LOCK IN👨‍🎓DRAMA👨‍🎓NEWS👨‍🎓VIDEOS👨‍🎓GAMES👨‍🎓REACT👨‍🎓VIDEOGAMES👨‍🎓BEST PLAYER IN WORLD👨‍🎓BEST REACTOR👨](https://twitch.tv/xQc)** by **xQc**<br>23,615명 시청  - League of Legends
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stableronaldo-320x180.jpg)](https://twitch.tv/stableronaldo)
-**[🏆 FORTNITE PRO AM 🏆 WINNING TODAY 🏆 IM A FNCS CHAMPION 🏆 IRL 🏆 GAMING 🏆 WINNING 🏆 [twitter/insta stableronaldo] !po !com !sub](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>43,515명 시청  - Fortnite
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_muriloso-320x180.jpg)](https://twitch.tv/Muriloso)
+**[TROPA DO GOTI TA VOLTANDO ft @yuuri22 @caaua @astrinhoqy - !Ginga](https://twitch.tv/Muriloso)** by **Muriloso**<br>12,609명 시청  - IRL
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tumblurr-320x180.jpg)](https://twitch.tv/Tumblurr)
-**[ENTRA E VEDRAI](https://twitch.tv/Tumblurr)** by **Tumblurr**<br>32,633명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_summit1g-320x180.jpg)](https://twitch.tv/summit1g)
+**[cs chillin !csteam @summit1g !starforge @StarforgeSystems](https://twitch.tv/summit1g)** by **summit1g**<br>11,886명 시청  - Counter-Strike
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
-**[LINDSEY GRAHAM DEAD AT 71🤬WAR W IRAN IS BACK!🤬SITUATION MONITOR🤬RO KHANNA INTERVIEW 🤬CLAVICULAR IN ISRAEL🤬SUNDAY FUNDAY!🤬](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>31,680명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_paymoneywubby-320x180.jpg)](https://twitch.tv/PaymoneyWubby)
+**[NURSE IS DRUNK AND PREGNANT AND SHES VIOLENT AND EATS FINGERS AND WATCHOUT AND SHES CURRENTLY TIED DOWN BUT WHO KNOWS ALMOST DONE](https://twitch.tv/PaymoneyWubby)** by **PaymoneyWubby**<br>11,861명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_aussieantics-320x180.jpg)](https://twitch.tv/AussieAntics)
-**[HOSTING $50,000 PRO-AM 🏆 JYNXZI, RON, LACY, PETER, CLIX 👀](https://twitch.tv/AussieAntics)** by **AussieAntics**<br>30,532명 시청  - Fortnite
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_emiru-320x180.jpg)](https://twitch.tv/Emiru)
+**[SUB SUNDAY!! :D ⭐🌸 SUB = BADGE ⭐🌸 VARIETY GAMING DAY AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA @EMIRU247 ⭐](https://twitch.tv/Emiru)** by **Emiru**<br>11,221명 시청  - West of Loathing
 
 
 ---
-: 마지막 업데이트: 2026-07-12 23:44 UTC
+: 마지막 업데이트: 2026-07-13 02:03 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
