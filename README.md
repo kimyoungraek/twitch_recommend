@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_anarabdullaev-320x180.jpg)](https://twitch.tv/anarabdullaev)
-**[Заброшка  /w @pinqtast @misolo3 Эксити](https://twitch.tv/anarabdullaev)** by **anarabdullaev**<br>32,934명 시청  - IRL
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eliasn97-320x180.jpg)](https://twitch.tv/eliasn97)
+**[3vs3 Challenge mit dem Squad🔥 | !iconleague !doku !eligella !gaming](https://twitch.tv/eliasn97)** by **eliasn97**<br>38,911명 시청  - Special Events
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eliasn97-320x180.jpg)](https://twitch.tv/eliasn97)
-**[Reactions & Talks🔥 später 3vs3 Challenge | !iconleague !doku !eligella !gaming](https://twitch.tv/eliasn97)** by **eliasn97**<br>23,903명 시청  - Just Chatting
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
+**[[559/730] 🔴 CLASH IS BACK BABY 🔴](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>38,485명 시청  - Clash Royale
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_deepins02-320x180.jpg)](https://twitch.tv/deepins02)
-**[[мужское женское] | !5ка !winline !tg](https://twitch.tv/deepins02)** by **deepins02**<br>23,586명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tumblurr-320x180.jpg)](https://twitch.tv/Tumblurr)
+**[🏆😱TORNEO DEL PORC*DIO 10😈🙏](https://twitch.tv/Tumblurr)** by **Tumblurr**<br>38,133명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_youngmulti-320x180.jpg)](https://twitch.tv/YoungMulti)
-**[[EN/ES CC] ☢️ QSMP: DZIEŃ 48 ☢️ NEGOCJACJE ☢️ | DARMOWY SUB —> !prime !OperaGX !holy](https://twitch.tv/YoungMulti)** by **YoungMulti**<br>18,464명 시청  - QSMP
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
+**[[DROPS ON] BIG DAY HUGE DRAMA DAY PALWORL RELEAS TODAY NEW GAMES TODAY BIG NEWS AND GAMES MULTISTREAMING+REACTS  | @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>37,858명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zarbex-320x180.jpg)](https://twitch.tv/zarbex)
-**[🤏 MR. GEIL STREAMT 🤏 SIMS 4 FIEBERTRAUM WEITERZOCKEN 🤏 ICH WILL FAME WERDEN IN SIMS 🤏 !spotify !socials !merch](https://twitch.tv/zarbex)** by **zarbex**<br>17,886명 시청  - The Sims 4
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hatcheett-320x180.jpg)](https://twitch.tv/hatcheett)
+**[mann up with dogza](https://twitch.tv/hatcheett)** by **hatcheett**<br>36,409명 시청  - Team Fortress 2
 
 
 ---
-: 마지막 업데이트: 2026-07-13 18:27 UTC
+: 마지막 업데이트: 2026-07-13 20:06 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
