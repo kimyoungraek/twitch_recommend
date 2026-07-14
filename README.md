@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[PALWORLD | PARTY GAME NIGHT | HutchMF X Gimmick #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>33,036명 시청  - Palworld
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stylishnoob4-320x180.jpg)](https://twitch.tv/stylishnoob4)
+**[キリトさんもイノシシじゃないだろうな](https://twitch.tv/stylishnoob4)** by **stylishnoob4**<br>17,877명 시청  - Echoes of Aincrad
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[DBD](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>18,621명 시청  - Dead by Daylight
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ironmouse-320x180.jpg)](https://twitch.tv/ironmouse)
+**[🔴DROPS - GIFT 1 SUB🔴DO YOU REMEMBER ME? | !ohmonah | !impulse | !cheeky | !ht | !starforge | !tts | !merch | !razer](https://twitch.tv/ironmouse)** by **ironmouse**<br>9,620명 시청  - Palworld
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
-**[🥪CLICK🥪HERE🥪DRAMA🥪NEWS🥪LIVE🥪VIDEOS🥪REACTS🥪IMPORTANT THINGS🥪TODAY🥪LOCK IN🥪PULL UP QUICK🥪](https://twitch.tv/xQc)** by **xQc**<br>17,098명 시청  - Minecraft
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_rainbow6-320x180.jpg)](https://twitch.tv/Rainbow6)
+**[ENTERPRISE vs. CHIEFS ESC - APL Stage 1 Finals // OCE Day 2](https://twitch.tv/Rainbow6)** by **Rainbow6**<br>8,715명 시청  - Rainbow Six Siege
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ironmouse-320x180.jpg)](https://twitch.tv/ironmouse)
-**[🔴DROPS - GIFT 1 SUB🔴DO YOU REMEMBER ME? | !ohmonah | !impulse | !cheeky | !ht | !starforge | !tts | !merch | !razer](https://twitch.tv/ironmouse)** by **ironmouse**<br>10,047명 시청  - Palworld
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sasatikk-320x180.jpg)](https://twitch.tv/sasatikk)
+**[優勝するぞ おぼと練習 VCC本番は20:00から](https://twitch.tv/sasatikk)** by **sasatikk**<br>8,543명 시청  - Mario Tennis Fever
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_krustyvlogs-320x180.jpg)](https://twitch.tv/KrustyVlogs)
-**[HOUSTON DRAMA RECAP 😳 BAD NEWS 🛑 HELPING MOM WALK DAY 61 👵🏽 ALL SUBS GO TO MY MOM 🔥 FAZE RUG COLLAB AT 100K SUBS ⚡️](https://twitch.tv/KrustyVlogs)** by **KrustyVlogs**<br>9,218명 시청  - Just Chatting
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_topson-320x180.jpg)](https://twitch.tv/Topson)
+**[ROAD TO RANK 10  !VPN](https://twitch.tv/Topson)** by **Topson**<br>8,476명 시청  - Dota 2
 
 
 ---
-: 마지막 업데이트: 2026-07-14 07:05 UTC
+: 마지막 업데이트: 2026-07-14 09:49 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
