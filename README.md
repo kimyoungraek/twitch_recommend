@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_suburbbaby-320x180.jpg)](https://twitch.tv/Suburbbaby)
-**[my girl is in a section with drake & ovo](https://twitch.tv/Suburbbaby)** by **Suburbbaby**<br>110,806명 시청  - Streamer University
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
+**[🔴T1 VS GENG INTO DK VS KC GRAND FINALS EWC MAIN EVENT  🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>82,131명 시청  - League of Legends
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lacy-320x180.jpg)](https://twitch.tv/Lacy)
-**[😁 STREAMER UNIVERSITY 😁 NOTHING BUT POSITIVITY 😁 DAY 4 😁 TYPE "IM HAPPY" IN CHAT IF UR HAPPY 😁 FOLLOWER AND  SUB FOR NO ADS 😁](https://twitch.tv/Lacy)** by **Lacy**<br>70,639명 시청  - Streamer University
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_suburbbaby-320x180.jpg)](https://twitch.tv/Suburbbaby)
+**[STREAMER UNIVERSITY DAY 4 | !badge !discord !socials](https://twitch.tv/Suburbbaby)** by **Suburbbaby**<br>54,891명 시청  - Streamer University
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_2xrakai-320x180.jpg)](https://twitch.tv/2xRaKai)
-**[😈LAST HOURS OF STREAMER U😈](https://twitch.tv/2xRaKai)** by **2xRaKai**<br>54,782명 시청  - Streamer University
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ddg-320x180.jpg)](https://twitch.tv/DDG)
+**[STREAMER UNIVERSITY ALUMNI DAY 📚 MVP MOO 📚 BIGGEST OPP 📚 DAY 1](https://twitch.tv/DDG)** by **DDG**<br>31,548명 시청  - Streamer University
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stableronaldo-320x180.jpg)](https://twitch.tv/stableronaldo)
-**[😈EVIL UNIVERSITY DAY 4 😈GOTHAM CITY😈DOOMSDAY😈ALUMNIS ARE HERE 😈EXCLUSIVE BADGE 😈 [twitter/insta stableronaldo] !po !com !sub](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>47,462명 시청  - Streamer University
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
+**[サンドイッチ](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>31,273명 시청  - Rust
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ddg-320x180.jpg)](https://twitch.tv/DDG)
-**[STREAMER UNIVERSITY ALUMNI DAY 📚 MVP MOO 📚 BIGGEST OPP 📚 DAY 1](https://twitch.tv/DDG)** by **DDG**<br>40,318명 시청  - Streamer University
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kaneljoseph-320x180.jpg)](https://twitch.tv/KanelJoseph)
+**[STREAMER UNIVERSITY DAY 4 😐| NO MORE GAMES 🙅‍♂️ | DAY 65/120  !discord !insta !twitter](https://twitch.tv/KanelJoseph)** by **KanelJoseph**<br>24,582명 시청  - Streamer University
 
 
 ---
-: 마지막 업데이트: 2026-07-19 08:03 UTC
+: 마지막 업데이트: 2026-07-19 10:20 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
