@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_suburbbaby-320x180.jpg)](https://twitch.tv/Suburbbaby)
-**[MVP OF STREAMER U IS HERE | LAST HOURS OF STREAMER UNIVERSITY DAY 5 | !discord !clip !socials](https://twitch.tv/Suburbbaby)** by **Suburbbaby**<br>117,803명 시청  - Streamer University
+**[MVP OF STREAMER U IS HERE | LAST HOURS OF STREAMER UNIVERSITY DAY 5 | !discord !clip !socials](https://twitch.tv/Suburbbaby)** by **Suburbbaby**<br>52,396명 시청  - Streamer University
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lacy-320x180.jpg)](https://twitch.tv/Lacy)
-**[🟥 STREAMER UNIVERSITY 🟥 LAST DAY SAJ 🟥 QUALED FOR FNCS 🟥 FINAL GOODBYES 🟥 FOLLOW AND  SUB FOR NO ADS 🟥](https://twitch.tv/Lacy)** by **Lacy**<br>66,510명 시청  - Streamer University
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[ARKをやる１日目](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>36,682명 시청  - ARK: Survival Ascended
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
-**[🟨SPOOKY TIME🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>54,081명 시청  - Out Here
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
+**[みんなもハイゲきてくれch ハイゲダイレクト見せていただく](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>28,407명 시청  - Rust
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_plaqueboymax-320x180.jpg)](https://twitch.tv/PlaqueBoyMax)
-**[SAYING BYE TO EVERYONE #FIVESTARSUMMER2026🖐🏼](https://twitch.tv/PlaqueBoyMax)** by **PlaqueBoyMax**<br>38,448명 시청  - Streamer University
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_k4sen-320x180.jpg)](https://twitch.tv/k4sen)
+**[#地底杯 #1 本番](https://twitch.tv/k4sen)** by **k4sen**<br>23,054명 시청  - Street Fighter 6
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kaneljoseph-320x180.jpg)](https://twitch.tv/KanelJoseph)
-**[STREAMER UNIVERSITY DAY 5 🤧👀 | WE DID IT 🙏🔥 | DAY 66/120  !discord !insta !twitter](https://twitch.tv/KanelJoseph)** by **KanelJoseph**<br>28,156명 시청  - Streamer University
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stylishnoob4-320x180.jpg)](https://twitch.tv/stylishnoob4)
+**[このゲーム 深い。](https://twitch.tv/stylishnoob4)** by **stylishnoob4**<br>18,843명 시청  - Palworld
 
 
 ---
-: 마지막 업데이트: 2026-07-20 06:08 UTC
+: 마지막 업데이트: 2026-07-20 09:51 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
