@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kaicenat-320x180.jpg)](https://twitch.tv/KaiCenat)
-**[🏆STREAMER UNIVERSITY 2026 AWARD CEREMONY🏆](https://twitch.tv/KaiCenat)** by **KaiCenat**<br>394,194명 시청  - Streamer University
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_suburbbaby-320x180.jpg)](https://twitch.tv/Suburbbaby)
+**[MVP OF STREAMER U IS HERE | LAST HOURS OF STREAMER UNIVERSITY DAY 5 | !discord !clip !socials](https://twitch.tv/Suburbbaby)** by **Suburbbaby**<br>117,803명 시청  - Streamer University
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[565/730] 🔫 NOT ENDING UNTIL I BEAT GTA V STORY MODE 🔫](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>54,079명 시청  - Grand Theft Auto V
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lacy-320x180.jpg)](https://twitch.tv/Lacy)
+**[🟥 STREAMER UNIVERSITY 🟥 LAST DAY SAJ 🟥 QUALED FOR FNCS 🟥 FINAL GOODBYES 🟥 FOLLOW AND  SUB FOR NO ADS 🟥](https://twitch.tv/Lacy)** by **Lacy**<br>66,510명 시청  - Streamer University
 
 **3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
-**[🟨LOSING MY MIND🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>32,392명 시청  - Just Chatting
+**[🟨SPOOKY TIME🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>54,081명 시청  - Out Here
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_dona-320x180.jpg)](https://twitch.tv/dona)
-**[AMISTOSO | ICE NUGGETS x KOSKY CORPORATION ⚽🔥 | !canal !grupo](https://twitch.tv/dona)** by **dona**<br>19,844명 시청  - EA Sports FC 26
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_plaqueboymax-320x180.jpg)](https://twitch.tv/PlaqueBoyMax)
+**[SAYING BYE TO EVERYONE #FIVESTARSUMMER2026🖐🏼](https://twitch.tv/PlaqueBoyMax)** by **PlaqueBoyMax**<br>38,448명 시청  - Streamer University
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
-**[🗃️LIVE🗃️CLICK🗃️HERE🗃️LOCK IN🗃️DRAMA🗃️NEWS🗃️BIG REACTS🗃️BIG VIDS🗃️BIG EVENTS🗃️I DONT KNOW🗃️ STUFF IN TITLE🗃️I GUESS🗃️](https://twitch.tv/xQc)** by **xQc**<br>19,134명 시청  - Strikers Club
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kaneljoseph-320x180.jpg)](https://twitch.tv/KanelJoseph)
+**[STREAMER UNIVERSITY DAY 5 🤧👀 | WE DID IT 🙏🔥 | DAY 66/120  !discord !insta !twitter](https://twitch.tv/KanelJoseph)** by **KanelJoseph**<br>28,156명 시청  - Streamer University
 
 
 ---
-: 마지막 업데이트: 2026-07-20 02:14 UTC
+: 마지막 업데이트: 2026-07-20 06:08 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
