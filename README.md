@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
-**[🟨SPOOKY TIME🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>57,812명 시청  - Relive the Fear: Perfect Neighbor
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gon_vl-320x180.jpg)](https://twitch.tv/gon_vl)
+**[VCJ 準決勝 友達、後輩たちを応援配信 FL vs QTD→ホラゲ](https://twitch.tv/gon_vl)** by **gon_vl**<br>25,667명 시청  - VALORANT
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[SHIFT AT MIDNIGHT | PARTY GAME NIGHT | GIMMICK X JOHN X HABIBI | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>33,618명 시청  - Shift at Midnight
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_finalfantasyxiv-320x180.jpg)](https://twitch.tv/finalfantasyxiv)
+**[FINAL FANTASY XIV Fan Festival 2026 in Berlin - Day 1](https://twitch.tv/finalfantasyxiv)** by **finalfantasyxiv**<br>24,977명 시청  - FINAL FANTASY XIV ONLINE
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jasontheween-320x180.jpg)](https://twitch.tv/jasontheween)
-**[🔴BOUNCER JASON IS BACK🔴OSCS PARTY EPICNESS🔴HIP HIP HORRAY🔴JOIN JOIN JOIN🔴](https://twitch.tv/jasontheween)** by **jasontheween**<br>28,640명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_silky-320x180.jpg)](https://twitch.tv/Silky)
+**[🟥OSCS PARTY🟥BECOMING A BOUNCER W/ JASONTHEWEEN🟥MOST SECURE PARTY🟥GREAT VIBES🟥LOTS OF CONTENT🟥GET IN HERE NOW🟥 !core !patreon](https://twitch.tv/Silky)** by **Silky**<br>19,488명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gon_vl-320x180.jpg)](https://twitch.tv/gon_vl)
-**[VCJ 準決勝 友達、後輩たちを応援配信RC vs IGZ → FL vs QTD→ホラゲ](https://twitch.tv/gon_vl)** by **gon_vl**<br>23,742명 시청  - VALORANT
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
+**[🦜LIVE🦜HERE🦜DRAMA🦜NEWS🦜VIDEOS🦜ALSO🦜SPACEX LAUNCH🦜STARSHIP🦜VERY COOL🦜LOCK IN🦜REACTS🦜AND SUCH🦜ALSO I ORDERED CHICKEN🦜YIPPEE🦜](https://twitch.tv/xQc)** by **xQc**<br>16,336명 시청  - Deadlock
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
-**[🦜LIVE🦜HERE🦜DRAMA🦜NEWS🦜VIDEOS🦜ALSO🦜SPACEX LAUNCH🦜STARSHIP🦜VERY COOL🦜LOCK IN🦜REACTS🦜AND SUCH🦜ALSO I ORDERED CHICKEN🦜YIPPEE🦜](https://twitch.tv/xQc)** by **xQc**<br>16,085명 시청  - Battlefield 6
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_indegnasen0706-320x180.jpg)](https://twitch.tv/布団ちゃんと申します)
+**[しっかり水分を取りながら雑談した後シャインポストかナ！？放送！](https://twitch.tv/布団ちゃんと申します)** by **布団ちゃんと申します**<br>13,548명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2026-07-25 05:18 UTC
+: 마지막 업데이트: 2026-07-25 07:53 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
