@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tumblurr-320x180.jpg)](https://twitch.tv/Tumblurr)
-**[🏆⚽KINGS WORLD CUP CLUBS｜💥OGGI TUTTE ITALIANE 🐎STALLIONS vs MOSTOLES🦁⚔️ ORE 22｜2ª PARTITA !badge !tr](https://twitch.tv/Tumblurr)** by **Tumblurr**<br>67,777명 시청  - Kings League
+**[🏆⚽KINGS WORLD CUP CLUBS｜💥OGGI TUTTE ITALIANE 🐎STALLIONS vs MOSTOLES🦁⚔️ ORE 22｜4ª PARTITA !badge !tr](https://twitch.tv/Tumblurr)** by **Tumblurr**<br>115,612명 시청  - Kings League
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_rubius-320x180.jpg)](https://twitch.tv/Rubius)
-**[Suika, backrooms y más cositas🗿🍉](https://twitch.tv/Rubius)** by **Rubius**<br>30,520명 시청  - BACKROOMS ANOMALY
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stableronaldo-320x180.jpg)](https://twitch.tv/stableronaldo)
+**[💪 JYNXZI X RON 💪 GAMING TODAY 💪 STREAMER GAMES SOON 💪 NEWS 💪 DRAMA 💪 LETS GO 💪 WE HERE 💪 [twitter/insta stableronaldo] !po !com !sub](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>39,687명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
-**[🤬ZELENSKY+SATANYAHU IN DC🤬LADY G FUNERAL🤬STRAIT CLOSED🤬SITUATION MONITORED🤬TPS CHAOS🤬FRAN HONG POLL NUKE!!🤬](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>27,298명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
+**[[572/730] 🔴 R6 IS BACK 🔴 JYNXZI x RON vs RANKED @ 5:30 PM ET 🔴](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>39,275명 시청  - Rainbow Six Siege
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_leb1ga-320x180.jpg)](https://twitch.tv/Leb1ga)
-**[⚡️Я НЕ НЕФОР БЕЗ ПЕРСИ! ч.2](https://twitch.tv/Leb1ga)** by **Leb1ga**<br>26,057명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
+**[🤬ZELENSKY+SATANYAHU IN DC🤬LADY G FUNERAL🤬STRAIT CLOSED🤬SITUATION MONITORED🤬TPS CHAOS🤬FRAN HONG POLL NUKE!!🤬](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>31,975명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gotaga-320x180.jpg)](https://twitch.tv/Gotaga)
-**[La Soirée du TS sur Bombanana !](https://twitch.tv/Gotaga)** by **Gotaga**<br>25,630명 시청  - Bombanana!
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eliasn97-320x180.jpg)](https://twitch.tv/eliasn97)
+**[Watchparty & Talks🔥 | !iconleague !doku !eligella !gaming](https://twitch.tv/eliasn97)** by **eliasn97**<br>29,934명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2026-07-28 19:11 UTC
+: 마지막 업데이트: 2026-07-28 21:01 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
