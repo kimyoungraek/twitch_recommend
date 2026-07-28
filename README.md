@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[[DROPS] DARK & DARKER | w/ GIMMICK | MANY MEN MONDAY | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>27,752명 시청  - Dark and Darker
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
+**[aaaaa](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>21,773명 시청  - Rust
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_yourragegaming-320x180.jpg)](https://twitch.tv/yourragegaming)
-**[WE ARE BACK! CATCHUP! REACTS! PALWORLD WITH RDC!!](https://twitch.tv/yourragegaming)** by **yourragegaming**<br>12,120명 시청  - Palworld
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gon_vl-320x180.jpg)](https://twitch.tv/gon_vl)
+**[初見 妖怪ウォッチを全力で楽しむ夏休み ※一度倒された妖怪は使えない（人生縛り）](https://twitch.tv/gon_vl)** by **gon_vl**<br>18,219명 시청  - Yo-kai Watch
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stylishnoob4-320x180.jpg)](https://twitch.tv/stylishnoob4)
-**[しこしこ執行者～ｗ bits禁止](https://twitch.tv/stylishnoob4)** by **stylishnoob4**<br>10,895명 시청  - ELDEN RING NIGHTREIGN
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sasatikk-320x180.jpg)](https://twitch.tv/sasatikk)
+**[VCR RUST Day10 海まで出来るのか？Rust](https://twitch.tv/sasatikk)** by **sasatikk**<br>14,247명 시청  - Rust
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_madi2hottyy-320x180.jpg)](https://twitch.tv/Madi2hottyy)
-**[THE NIGHT AINT OVER 💫 NEXT BREAKOUT? 💫 !com !discord !sub](https://twitch.tv/Madi2hottyy)** by **Madi2hottyy**<br>10,223명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_batora324-320x180.jpg)](https://twitch.tv/バトラ)
+**[雑談してマリメして夜間警備予定](https://twitch.tv/バトラ)** by **バトラ**<br>13,211명 시청  - Super Mario Maker 2
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_rayasianboy-320x180.jpg)](https://twitch.tv/rayasianboy)
-**[🍀 24 HOUR NYC STREAM 🗽 LATE NIGHT SLEEPOVER W/ SHAZ 💤](https://twitch.tv/rayasianboy)** by **rayasianboy**<br>9,462명 시청  - Just Chatting
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xrohat-320x180.jpg)](https://twitch.tv/xRohat)
+**[8000€ - 2 VS 2 WIN-CHALLENGE w/ @mertabimula | !winchallenge !instant !sourire !kc !whatsapp](https://twitch.tv/xRohat)** by **xRohat**<br>10,724명 시청  - Special Events
 
 
 ---
-: 마지막 업데이트: 2026-07-28 07:36 UTC
+: 마지막 업데이트: 2026-07-28 10:26 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
