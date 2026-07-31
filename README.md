@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_rivers_gg-320x180.jpg)](https://twitch.tv/rivers_gg)
-**[buenas tardes](https://twitch.tv/rivers_gg)** by **rivers_gg**<br>39,155명 시청  - Just Chatting
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
+**[[DROPS] RUST: GLOBAL WARFARE | PEANUT PRESIDENT OF THE UNITED STATES WITH THE LAUNCH CODES | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>43,848명 시청  - Rust
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[574/730] 🔴 You vs Rank You Deserve 🔴](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>38,886명 시청  - Rainbow Six Siege
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_arigameplays-320x180.jpg)](https://twitch.tv/AriGameplays)
+**[loba silenciada˚](https://twitch.tv/AriGameplays)** by **AriGameplays**<br>34,876명 시청  - Just Chatting
 
 **3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stableronaldo-320x180.jpg)](https://twitch.tv/stableronaldo)
-**[🏃 THE FASTEST STREAMER ON TWITCH 🏃 STREAMER GAMES 2 DAYS 🏃 PRACTICE 🏃 IRL 🏃( STREAM CRASHED) [twitter/insta stableronaldo] !po !com !sub](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>38,139명 시청  - Just Chatting
+**[💀 BLACK OPS 2 w/ LAIYS 💀SEARCH & DESTROY 💀EL CINCO 💀STREAMER GAMES 2 DAYS 💀( STREAM CRASHED) [twitter/insta stableronaldo] !po !com !sub](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>27,997명 시청  - Call of Duty: Black Ops II
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[RUST: GLOBAL WARFARE | PEANUT PRESIDENT OF THE UNITED STATES WITH THE LAUNCH CODES | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>36,731명 시청  - Rust
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
+**[🟨LOSING MY MIND🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>25,746명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_warframe-320x180.jpg)](https://twitch.tv/Warframe)
-**[Prime Time #491 - Thursday, July 30 @ 6PM ET](https://twitch.tv/Warframe)** by **Warframe**<br>32,176명 시청  - Warframe
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ow_esports-320x180.jpg)](https://twitch.tv/ow_esports)
+**[[REBROADCAST] [DROPS] OWCS 2026 | Midseason Championship Day 2](https://twitch.tv/ow_esports)** by **ow_esports**<br>21,903명 시청  - Overwatch
 
 
 ---
-: 마지막 업데이트: 2026-07-30 23:55 UTC
+: 마지막 업데이트: 2026-07-31 02:10 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
