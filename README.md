@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tumblurr-320x180.jpg)](https://twitch.tv/Tumblurr)
-**[🏆⚽KINGS WORLD CUP CLUBS｜😱SEMIFINALI💥EVENTO FABRIZIO ROMANO..E FINALE🏆😱 7ª GIORNATA !badge !tr](https://twitch.tv/Tumblurr)** by **Tumblurr**<br>103,198명 시청  - Kings League
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
+**[[576/730] 🚨 IRL STREAMER GAMES DAY 1 🚨 ATHLETE OF THE YEAR 🚨 LETS DANCE 🚨](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>57,993명 시청  - Streamer Games
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[576/730] 🚨 IRL STREAMER GAMES DAY 1 🚨 ATHLETE OF THE YEAR 🚨 LETS DANCE 🚨](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>56,418명 시청  - Streamer Games
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stableronaldo-320x180.jpg)](https://twitch.tv/stableronaldo)
+**[🥇 STREAMER GAMES 🥇 BEST POV 🥇 WE ARE HERE 🥇 WINNERS ARE HERE 🥇 NOBODY CAN STOP ME 🥇 [twitter/insta stableronaldo] !po !com !sub](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>54,003명 시청  - Streamer Games
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kamet0-320x180.jpg)](https://twitch.tv/Kamet0)
-**[KARMINE CORP 1 vs 0 NATUS VINCERE | LEC Summer (BO3) #WatchLEC (!razer) (!extension)](https://twitch.tv/Kamet0)** by **Kamet0**<br>51,858명 시청  - League of Legends
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ludwig-320x180.jpg)](https://twitch.tv/Ludwig)
+**[🌍STREAMER GAMES 2026🌍RED BULL🏆!ATT🥇!Alienware🏟️](https://twitch.tv/Ludwig)** by **Ludwig**<br>51,101명 시청  - Streamer Games
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
-**[🔴LEC KC VS NAVI🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>51,603명 시청  - League of Legends
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
+**[[DROPS ON] BIG DAY HUGE DRAMA NEW GAMES TODAY NEW GAMES TODAY BIG NEWS AND GAMES MULTISTREAMING+REACTS  | @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>37,761명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stableronaldo-320x180.jpg)](https://twitch.tv/stableronaldo)
-**[🥇 STREAMER GAMES 🥇 BEST POV 🥇 WE ARE HERE 🥇 WINNERS ARE HERE 🥇 JOIN UP 🥇 NOBODY CAN STOP ME 🥇 [twitter/insta stableronaldo] !po !com !sub](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>42,923명 시청  - Streamer Games
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_marvelrivals-320x180.jpg)](https://twitch.tv/MarvelRivals)
+**[Marvel Rivals Ignite Mid-Season Finals Main Stage [NAVI vs TEAM LIQUID CITADEL] Day 4](https://twitch.tv/MarvelRivals)** by **MarvelRivals**<br>32,944명 시청  - Marvel Rivals
 
 
 ---
-: 마지막 업데이트: 2026-08-01 20:08 UTC
+: 마지막 업데이트: 2026-08-01 21:46 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
