@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ohnepixel-320x180.jpg)](https://twitch.tv/ohnePixel)
-**[🔴HEY, IM BACK I THINK, SORRY...🔴](https://twitch.tv/ohnePixel)** by **ohnePixel**<br>40,394명 시청  - Just Chatting
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eliasn97-320x180.jpg)](https://twitch.tv/eliasn97)
+**[Among Us mit dem Squad🔥🤯 | !iconleague !doku !eligella !gaming](https://twitch.tv/eliasn97)** by **eliasn97**<br>39,788명 시청  - Among Us
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[こくじんさんとRUST](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>34,959명 시청  - Rust
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
+**[MICHIGAN🤬MAX MILLER ABUSE🤬ITS ELECTION DAY!!!!🤬STRAIT CLOSED🤬TRUMP BACKS DOWN🤬CNN DOC 🤬ELECTION PARTY LATER🤬](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>31,792명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stariy_bog-320x180.jpg)](https://twitch.tv/stariy_bog)
-**[1win Essence II | Playoffs | Team Liquid [0] vs [1] Team Falcons | Bo3 | w/ @mokrivskyi](https://twitch.tv/stariy_bog)** by **stariy_bog**<br>25,944명 시청  - Dota 2
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
+**[[DROPS ON] BIG DAY HUGE DRAMA BEAST OF REINCARNATION TODAY NEW GAMES TODAY BIG NEWS AND GAMES MULTISTREAMING+REACTS | @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>30,814명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_auronplay-320x180.jpg)](https://twitch.tv/auronplay)
-**[Probamos una especie de Mario Party pero con juegos al estilo SAW 🍷](https://twitch.tv/auronplay)** by **auronplay**<br>25,473명 시청  - Machine Party
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[こくじんさんとRUST](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>29,688명 시청  - Rust
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_anarabdullaev-320x180.jpg)](https://twitch.tv/anarabdullaev)
-**[С Лерой в развлекаловке репку тянем на барабанах играем, кассирами побудем и многое другое](https://twitch.tv/anarabdullaev)** by **anarabdullaev**<br>24,521명 시청  - IRL
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
+**[[578/730] 🚨 11 MILLION TODAY 🚨 OPENING FANMAIL -> 1 WIN FOR DIAMOND in R6 🚨](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>26,059명 시청  - Rainbow Six Siege
 
 
 ---
-: 마지막 업데이트: 2026-08-04 17:37 UTC
+: 마지막 업데이트: 2026-08-04 19:20 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
