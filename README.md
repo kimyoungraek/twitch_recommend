@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
-**[🔴LCK BRO VS NS🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>29,396명 시청  - League of Legends
+**[🔴LCK GENG VS HLE🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>48,983명 시청  - League of Legends
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_indegnasen0706-320x180.jpg)](https://twitch.tv/布団ちゃんと申します)
-**[【rust練習鯖】２１時にチーム全員邂逅](https://twitch.tv/布団ちゃんと申します)** by **布団ちゃんと申します**<br>14,835명 시청  - Rust
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[老人会RUSTチーム練習２１じより](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>37,293명 시청  - Rust
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sasatikk-320x180.jpg)](https://twitch.tv/sasatikk)
-**[今日からDropsあるのかないのか Escape From Tarkov](https://twitch.tv/sasatikk)** by **sasatikk**<br>10,025명 시청  - Escape from Tarkov
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stariy_bog-320x180.jpg)](https://twitch.tv/stariy_bog)
+**[1win Essence II | Playoffs | 1w Team [0] vs [1] BetBoom Team | Bo3](https://twitch.tv/stariy_bog)** by **stariy_bog**<br>28,172명 시청  - Dota 2
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lck-320x180.jpg)](https://twitch.tv/LCK)
-**[BRO vs NS - HLE vs GEN | 2026 LCK](https://twitch.tv/LCK)** by **LCK**<br>9,351명 시청  - League of Legends
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
+**[ラスト](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>25,298명 시청  - Rust
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_leva2k-320x180.jpg)](https://twitch.tv/leva2k)
-**[Пик Ленина 7134 | Экстремальный спуск с 5100 на 4400 @rostislav_999 | !tg !donate !winline !ggsel](https://twitch.tv/leva2k)** by **leva2k**<br>9,040명 시청  - IRL
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-320x180.jpg)](https://twitch.tv/StRoGo)
+**[🔴НОВЫЙ СЕЗОН НА FACEIT, ПРИГЛАСИЛИ В ФПЛ, УЧУ ПРОШНИКОВ ИГРАТЬ](https://twitch.tv/StRoGo)** by **StRoGo**<br>17,011명 시청  - Counter-Strike
 
 
 ---
-: 마지막 업데이트: 2026-08-05 08:22 UTC
+: 마지막 업데이트: 2026-08-05 11:13 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
