@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[[BEST DROPS] TARKOV SEASONAL | DAY 4 | HutchMF x GIMMICK | THICC MEN THURSDAY | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>35,816명 시청  - Escape from Tarkov
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[ニコニコ老人会RUST優勝会場１日目](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>40,946명 시청  - Rust
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stylishnoob4-320x180.jpg)](https://twitch.tv/stylishnoob4)
-**[３６歳引きこもりの運動会ハイロックス](https://twitch.tv/stylishnoob4)** by **stylishnoob4**<br>15,283명 시청  - Just Chatting
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
+**[🔴LCK KT VS GENG 🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>40,868명 시청  - League of Legends
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sasatikk-320x180.jpg)](https://twitch.tv/sasatikk)
-**[[DROPS] 数年に一度の素晴らしいシーズン Escape From Tarkov](https://twitch.tv/sasatikk)** by **sasatikk**<br>14,150명 시청  - Escape from Tarkov
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lazvell-320x180.jpg)](https://twitch.tv/Lazvell)
+**[日本応援勢 DFM vs TS / GEN vs FS - Group Stage Week4 - VCT Pacific 2026 Stage2 #VCTWatchParty](https://twitch.tv/Lazvell)** by **Lazvell**<br>15,669명 시청  - VALORANT
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fanum-320x180.jpg)](https://twitch.tv/Fanum)
-**[FANUM X WALTON ⛓️ CHAINED TOGETHER ⛓️ CANT END TILL WE BEAT IT ⛓️ WTF IS WE DOING ⛓️ !discord !socials !pobox !D10](https://twitch.tv/Fanum)** by **Fanum**<br>14,088명 시청  - Chained Together
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
+**[全員〇す](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>15,576명 시청  - Rust
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_cinna-320x180.jpg)](https://twitch.tv/Cinna)
-**[BLIND DEAF W/ @MALEK_04 ⭐ CINNATHON DAY 6 ⭐](https://twitch.tv/Cinna)** by **Cinna**<br>12,871명 시청  - Just Chatting
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_yaritaiji-320x180.jpg)](https://twitch.tv/たいじ_たいちゃんねる)
+**[老人会RUST初日いくぞおおおおおおおおおお](https://twitch.tv/たいじ_たいちゃんねる)** by **たいじ_たいちゃんねる**<br>15,271명 시청  - Rust
 
 
 ---
-: 마지막 업데이트: 2026-08-07 07:02 UTC
+: 마지막 업데이트: 2026-08-07 08:48 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
