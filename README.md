@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kaicenat-320x180.jpg)](https://twitch.tv/KaiCenat)
-**[KAI X SPEED MINECRAFT MARATHON BEATING ALL BOSSES *HARDCORE* (DAY 5)](https://twitch.tv/KaiCenat)** by **KaiCenat**<br>59,175명 시청  - Minecraft
+**[KAI X SPEED MINECRAFT MARATHON BEATING ALL BOSSES *HARDCORE* (DAY 5)](https://twitch.tv/KaiCenat)** by **KaiCenat**<br>68,134명 시청  - Minecraft
 
 **2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ishowspeed-320x180.jpg)](https://twitch.tv/IShowSpeed)
-**[MINECRAFT HARDCORE ALL BOSSES DAY 5🍄🔨🧟‍♂️ft. KaiCenat](https://twitch.tv/IShowSpeed)** by **IShowSpeed**<br>39,581명 시청  - Minecraft
+**[MINECRAFT HARDCORE ALL BOSSES DAY 5🍄🔨🧟‍♂️ft. KaiCenat](https://twitch.tv/IShowSpeed)** by **IShowSpeed**<br>29,806명 시청  - Minecraft
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_indegnasen0706-320x180.jpg)](https://twitch.tv/布団ちゃんと申します)
-**[RUSTクリップみさせて頂き松←雑談します！なんだこれ！まだボーっとするぞ！放送！](https://twitch.tv/布団ちゃんと申します)** by **布団ちゃんと申します**<br>32,154명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_anarabdullaev-320x180.jpg)](https://twitch.tv/anarabdullaev)
+**[Не гуляем по Москве /w @misolo3 @enzzai](https://twitch.tv/anarabdullaev)** by **anarabdullaev**<br>23,719명 시청  - IRL
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gon_vl-320x180.jpg)](https://twitch.tv/gon_vl)
-**[👻今日めちゃくちゃストーリー進めるぜ！楽しみ！※妖怪指示コーメは友達にならずにお祓い（BAN）](https://twitch.tv/gon_vl)** by **gon_vl**<br>19,333명 시청  - Yo-kai Watch
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_auronplay-320x180.jpg)](https://twitch.tv/auronplay)
+**[JUEGO GRUPAL CON LOS PAYASOS DE SIEMPRE VIVA ESPAÑA](https://twitch.tv/auronplay)** by **auronplay**<br>22,522명 시청  - Gamble With Your Friends
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_pestily-320x180.jpg)](https://twitch.tv/Pestily)
-**[[!DROPS] 2x PC !GIVEAWAY | 2 ITEMS TILL KAPPA THEN RESET](https://twitch.tv/Pestily)** by **Pestily**<br>17,122명 시청  - Escape from Tarkov
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ohnepixel-320x180.jpg)](https://twitch.tv/ohnePixel)
+**[🔴CS2 GOT A NEW ANTI-CHEAT... BUT HOW DOES IT WORK?🔴](https://twitch.tv/ohnePixel)** by **ohnePixel**<br>22,426명 시청  - Counter-Strike
 
 
 ---
-: 마지막 업데이트: 2026-08-11 15:52 UTC
+: 마지막 업데이트: 2026-08-11 16:50 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
