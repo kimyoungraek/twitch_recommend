@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stableronaldo-320x180.jpg)](https://twitch.tv/stableronaldo)
-**[⏰ LAST DAY ⏰ SORRY FOR LATE ⏰ POWER BACK ⏰ MONTERAY TMR ⏰ WE HERE ⏰ I LOVE YOU ⏰ JOIN ⏰  [twitter/insta stableronaldo] !po !com !sub](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>35,926명 시청  - Just Chatting
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_dota2ti-320x180.jpg)](https://twitch.tv/dota2ti)
+**[[EN-A] Team Falcons vs. LGD Gaming - The International 2026 - Group Stage - Round 1](https://twitch.tv/dota2ti)** by **dota2ti**<br>79,036명 시청  - Dota 2
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[[DROPS] TARKOV SEASONAL | ICE BREAKER FOR REAL | GIMMICK x LEMON | PARTY GAMES LATER | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>34,566명 시청  - Escape from Tarkov
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_nix-320x180.jpg)](https://twitch.tv/Nix)
+**[Team Falcons vs LGD Gaming bo3 The International 2026: Group Stage](https://twitch.tv/Nix)** by **Nix**<br>71,149명 시청  - Dota 2
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lvndmark-320x180.jpg)](https://twitch.tv/LVNDMARK)
-**[[DROPS] FREE !DROPS| !STARFORGE !MONSTER | LVNDMARK_tv On Socials @starforgesystems](https://twitch.tv/LVNDMARK)** by **LVNDMARK**<br>26,520명 시청  - Escape from Tarkov
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
+**[🟨SPOOKY TIME🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>62,689명 시청  - Hariti
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
-**[🤬HONG LOSES🤬PRIMARY TAKE FACTORY🤬USS LINCOLN ON THE VERGE OF REVOLT🤬STRAIT CLOSED🤬KUSHNER LAKERS PURCHASE🤬AISHA WAHAB INTERVIEW 🤬!guest](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>26,338명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_iltw1-320x180.jpg)](https://twitch.tv/iltw1)
+**[1w vs nigma](https://twitch.tv/iltw1)** by **iltw1**<br>55,713명 시청  - Dota 2
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_yourragegaming-320x180.jpg)](https://twitch.tv/yourragegaming)
-**[COD ZOMBIES MARATHON WITH @ExtraEmily !badge](https://twitch.tv/yourragegaming)** by **yourragegaming**<br>23,056명 시청  - Call of Duty: Black Ops III
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
+**[[DROPS] TARKOV SEASONAL | ICE BREAKER FOR REAL | GIMMICK x LEMON | PARTY GAMES LATER | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>53,551명 시청  - Escape from Tarkov
 
 
 ---
-: 마지막 업데이트: 2026-08-13 01:17 UTC
+: 마지막 업데이트: 2026-08-13 04:02 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
