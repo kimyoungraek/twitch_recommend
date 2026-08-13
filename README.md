@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_papaplatte-320x180.jpg)](https://twitch.tv/Papaplatte)
-**[🗣️ GEILE MÄNNER MACHEN GEILE SACHEN 🗣️ BASTI KEVIN ABEND 🗣️](https://twitch.tv/Papaplatte)** by **Papaplatte**<br>34,996명 시청  - Just Chatting
+**[🗣️ GEILE MÄNNER MACHEN GEILE SACHEN 🗣️ BASTI KEVIN ABEND 🗣️](https://twitch.tv/Papaplatte)** by **Papaplatte**<br>37,906명 시청  - The Choicer Voicer
 
 **2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_anarabdullaev-320x180.jpg)](https://twitch.tv/anarabdullaev)
-**[Снимаем у Литвина /w @enzzai @ravshann @misolo3](https://twitch.tv/anarabdullaev)** by **anarabdullaev**<br>34,815명 시청  - IRL
+**[Батуты /w @enzzai @ravshann @misolo3](https://twitch.tv/anarabdullaev)** by **anarabdullaev**<br>36,093명 시청  - IRL
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_shadowkekw-320x180.jpg)](https://twitch.tv/shadowkekw)
-**[FALCONS [1:0] ASTRALIS | Esports World Cup 2026 👉 !тг !betboom](https://twitch.tv/shadowkekw)** by **shadowkekw**<br>32,908명 시청  - Counter-Strike
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eliasn97-320x180.jpg)](https://twitch.tv/eliasn97)
+**[Among Us mit wirt Squad 🔥 | !iconleague !doku !eligella !gaming](https://twitch.tv/eliasn97)** by **eliasn97**<br>35,904명 시청  - Among Us
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ewc_plus_en-320x180.jpg)](https://twitch.tv/EWC_Plus_EN)
-**[Team Falcons vs. Astralis | CS2 at EWC 26 - Day 2 - Group Stage - Stream A - LIVE](https://twitch.tv/EWC_Plus_EN)** by **EWC_Plus_EN**<br>31,298명 시청  - Counter-Strike
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
+**[[587/730] 🔴 JYNXZI vs XIM @ 4PM ET 🔴](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>34,689명 시청  - The Choicer Voicer
 
 **5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_illojuan-320x180.jpg)](https://twitch.tv/IlloJuan)
-**[🌞🌈 UNA INOCENTE TARDE DE VERANO 🌈🌞](https://twitch.tv/IlloJuan)** by **IlloJuan**<br>31,085명 시청  - Just Chatting
+**[🌞🌈 UNA INOCENTE TARDE DE VERANO 🌈🌞](https://twitch.tv/IlloJuan)** by **IlloJuan**<br>27,647명 시청  - Stories to Tell: Greyville Stay
 
 
 ---
-: 마지막 업데이트: 2026-08-13 17:51 UTC
+: 마지막 업데이트: 2026-08-13 18:52 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
