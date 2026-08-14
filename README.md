@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
-**[🔴LEC VIT VS GX🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>34,715명 시청  - League of Legends
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
+**[[588/730] 🔴 OPENING FANMAIL 🔴 BIG GAMING DAY 🔴](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>46,499명 시청  - Just Chatting
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_anarabdullaev-320x180.jpg)](https://twitch.tv/anarabdullaev)
-**[В поисках бензина /w @steel @ravshann](https://twitch.tv/anarabdullaev)** by **anarabdullaev**<br>30,499명 시청  - IRL
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
+**[🤬GOP MIDTERM STRAT IS: LIE! DIVIDE! CONQUER🤬LUIGI MANGIONE GUILTY?🤬STRAIT CLOSED🤬JRE ON COMMUNISM🤬3RDWAY + MAGA + CIA TARGET DSA LEFT](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>27,424명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[588/730] 🔴 OPENING FANMAIL @ 3PM ET 🔴 BIG GAMING DAY 🔴](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>30,488명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_anarabdullaev-320x180.jpg)](https://twitch.tv/anarabdullaev)
+**[Кушаем /w @steel @ravshann](https://twitch.tv/anarabdullaev)** by **anarabdullaev**<br>23,060명 시청  - IRL
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ewc_plus_en-320x180.jpg)](https://twitch.tv/EWC_Plus_EN)
-**[100 Thieves vs. PVISION | CS2 at EWC 26 - Day 3 - Group Stage - Stream A - LIVE](https://twitch.tv/EWC_Plus_EN)** by **EWC_Plus_EN**<br>26,454명 시청  - Counter-Strike
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_rainbow6-320x180.jpg)](https://twitch.tv/Rainbow6)
+**[FaZe Clan vs. Geekay Esports | R6 Siege at EWC 26 - Day 9 - Playoffs](https://twitch.tv/Rainbow6)** by **Rainbow6**<br>22,816명 시청  - Rainbow Six Siege
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_shadowkekw-320x180.jpg)](https://twitch.tv/shadowkekw)
-**[PV [1:0] 100THIEVES | Esports World Cup 2026 👉 !тг !betboom](https://twitch.tv/shadowkekw)** by **shadowkekw**<br>25,946명 시청  - Counter-Strike
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ohnepixel-320x180.jpg)](https://twitch.tv/ohnePixel)
+**[🔴DESTROYING DONUTSMP🔴](https://twitch.tv/ohnePixel)** by **ohnePixel**<br>22,218명 시청  - Minecraft
 
 
 ---
-: 마지막 업데이트: 2026-08-14 18:42 UTC
+: 마지막 업데이트: 2026-08-14 19:42 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
