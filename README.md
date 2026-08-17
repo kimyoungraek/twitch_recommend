@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gingy-320x180.jpg)](https://twitch.tv/Gingy)
-**[🌸[DROPS] CARRYING A FURRY🌸 New !Discord](https://twitch.tv/Gingy)** by **Gingy**<br>13,268명 시청  - Escape from Tarkov
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[誰かか死んだら即終わり5人で７days to die](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>39,125명 시청  - 7 Days to Die
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_k4sen-320x180.jpg)](https://twitch.tv/k4sen)
-**[VALO 腫れてんねえ](https://twitch.tv/k4sen)** by **k4sen**<br>13,189명 시청  - VALORANT
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sasatikk-320x180.jpg)](https://twitch.tv/sasatikk)
+**[[DROPS] いつでも探しているよ どこかにBDの姿を Escape From Tarkov](https://twitch.tv/sasatikk)** by **sasatikk**<br>14,309명 시청  - Escape from Tarkov
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sasatikk-320x180.jpg)](https://twitch.tv/sasatikk)
-**[[DROPS] いつでも探しているよ どこかにBDの姿を Escape From Tarkov](https://twitch.tv/sasatikk)** by **sasatikk**<br>13,104명 시청  - Escape from Tarkov
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_k4sen-320x180.jpg)](https://twitch.tv/k4sen)
+**[腫物トライアスロン](https://twitch.tv/k4sen)** by **k4sen**<br>14,134명 시청  - Overwatch
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_cloakzy-320x180.jpg)](https://twitch.tv/cloakzy)
-**[re learning tarkov this is miserable please make it stop](https://twitch.tv/cloakzy)** by **cloakzy**<br>9,470명 시청  - Escape from Tarkov
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_indegnasen0706-320x180.jpg)](https://twitch.tv/布団ちゃんと申します)
+**[誰か死んだら即オワリ 7 Days to Die 複数のジジイたちと](https://twitch.tv/布団ちゃんと申します)** by **布団ちゃんと申します**<br>12,986명 시청  - 7 Days to Die
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_joblessgarrett-320x180.jpg)](https://twitch.tv/JoblessGarrett)
-**[🔴DROPS ON🔴TEAM ECOLA!🔴PARENTING !book COMING SOON! !discord](https://twitch.tv/JoblessGarrett)** by **JoblessGarrett**<br>7,844명 시청  - Marvel Rivals
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gingy-320x180.jpg)](https://twitch.tv/Gingy)
+**[🌸[DROPS] CARRYING A FURRY🌸 New !Discord](https://twitch.tv/Gingy)** by **Gingy**<br>12,684명 시청  - Escape from Tarkov
 
 
 ---
-: 마지막 업데이트: 2026-08-17 08:33 UTC
+: 마지막 업데이트: 2026-08-17 09:32 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
