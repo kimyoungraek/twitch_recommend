@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_anarabdullaev-320x180.jpg)](https://twitch.tv/anarabdullaev)
-**[Покупаю собаку с Лерой](https://twitch.tv/anarabdullaev)** by **anarabdullaev**<br>36,606명 시청  - IRL
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_nba2k-320x180.jpg)](https://twitch.tv/NBA2K)
+**[NBA 2K27 | Preseason Breakdown: Game Reveal • Learn more about the most anticipated features coming to NBA 2K27. Watch & earn Locker Codes!](https://twitch.tv/NBA2K)** by **NBA2K**<br>60,523명 시청  - NBA 2K27
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ohnepixel-320x180.jpg)](https://twitch.tv/ohnePixel)
-**[🔴FIRST TIME OSU COACHED BY @MREKK 🔴](https://twitch.tv/ohnePixel)** by **ohnePixel**<br>35,146명 시청  - osu!
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_auronplay-320x180.jpg)](https://twitch.tv/auronplay)
+**[!Server || HARDCORE CON JUAN || LOS ABANDONADOS #1](https://twitch.tv/auronplay)** by **auronplay**<br>38,375명 시청  - Minecraft
 
 **3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_nasa-320x180.jpg)](https://twitch.tv/NASA)
-**[U.S. Spacewalk 97](https://twitch.tv/NASA)** by **NASA**<br>35,001명 시청  - Science & Technology
+**[U.S. Spacewalk 97](https://twitch.tv/NASA)** by **NASA**<br>32,118명 시청  - Science & Technology
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_skywhywalker-320x180.jpg)](https://twitch.tv/skywhywalker)
-**[😤 FACEIT КАЛИБРОВКА 5W 1L 😤 w/ @shadowkekw @evelone2004 @des0ut @karavay46](https://twitch.tv/skywhywalker)** by **skywhywalker**<br>23,173명 시청  - Counter-Strike
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_anarabdullaev-320x180.jpg)](https://twitch.tv/anarabdullaev)
+**[Выбираем имя для моей собаки, Лера, Эксити](https://twitch.tv/anarabdullaev)** by **anarabdullaev**<br>28,785명 시청  - IRL
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_buster-320x180.jpg)](https://twitch.tv/buster)
-**[Разоблачение Бустера 😱🔞 ЭТО КОНЕЦ 😭 ДАРИНА ❤️](https://twitch.tv/buster)** by **buster**<br>22,418명 시청  - Just Chatting
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ohnepixel-320x180.jpg)](https://twitch.tv/ohnePixel)
+**[🔴EXPLORING 2B2T WORLD WITH FITMC🔴](https://twitch.tv/ohnePixel)** by **ohnePixel**<br>27,950명 시청  - Minecraft
 
 
 ---
-: 마지막 업데이트: 2026-08-18 16:21 UTC
+: 마지막 업데이트: 2026-08-18 17:19 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
