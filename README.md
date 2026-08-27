@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[ポピープレイタイムなるゲームをやる初見](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>38,200명 시청  - Poppy Playtime
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tumblurr-320x180.jpg)](https://twitch.tv/Tumblurr)
+**[‼️GTA 6 REACTION LIVE NETFLIX ‼️⚠️PREMIERE MONDIALE⚠️](https://twitch.tv/Tumblurr)** by **Tumblurr**<br>44,762명 시청  - Machine Party
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kanae_2434-320x180.jpg)](https://twitch.tv/叶ちゃんねる)
-**[無馬](https://twitch.tv/叶ちゃんねる)** by **叶ちゃんねる**<br>34,131명 시청  - Grand Theft Auto V
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
+**[[DROPS ON] UNBANNED GTA 6 INFO TODAY BIG DAY HUGE DRAMA  TODAY NEW GAMES TODAY BIG NEWS  MULTISTREAMING+REACTS | @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>39,585명 시청  - Resonance: A Plague Tale Legacy
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_blastpremier-320x180.jpg)](https://twitch.tv/BLASTPremier)
-**[LIVE: BLAST Premier Open Porto 2026 - MOUZ vs 9z](https://twitch.tv/BLASTPremier)** by **BLASTPremier**<br>26,804명 시청  - Counter-Strike
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jasontheween-320x180.jpg)](https://twitch.tv/jasontheween)
+**[🔴DAY FULL OF EPICNESS🔴RAGE AND CINNA PULLING UP LATER🔴EARLY🔴](https://twitch.tv/jasontheween)** by **jasontheween**<br>28,860명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_echo_esports-320x180.jpg)](https://twitch.tv/Echo_Esports)
-**[Day 9 - The Race to World First: The Venomous Abyss](https://twitch.tv/Echo_Esports)** by **Echo_Esports**<br>20,532명 시청  - World of Warcraft
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_warframe-320x180.jpg)](https://twitch.tv/Warframe)
+**[Prime Time #495 - Thursday, August 27 @ 6PM ET](https://twitch.tv/Warframe)** by **Warframe**<br>27,856명 시청  - Warframe
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
-**[マイクラハードコアアゲイン](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>18,990명 시청  - Minecraft
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
+**[🤬ROLLING STONE #3 MOST INFLUENTIAL💢LAKE ONTARIO🦎AIPAC BOSSCALL CONT🦎NEPAL FLASH FLOODS🤬IRAN WAR CONT💢MANUFACTURED OUTRAGE💢](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>27,432명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2026-08-27 13:26 UTC
+: 마지막 업데이트: 2026-08-27 23:25 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
