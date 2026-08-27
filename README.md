@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tumblurr-320x180.jpg)](https://twitch.tv/Tumblurr)
-**[❌💀🏆IL TORNEO IMPOSSIBILE 3.0🏆💀❌](https://twitch.tv/Tumblurr)** by **Tumblurr**<br>44,681명 시청  - Fortnite
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
+**[ESCAPE FROM BUNGUS | ZERO TO HERO | GIMMICK X HABIBI | PARTY GAMES LATER | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>48,235명 시청  - Escape from Tarkov
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[600/730] 🔴 DAY 600 IN A ROW 🔴 SOLO TO CHAMPION PC  🔴](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>41,728명 시청  - Rainbow Six Siege
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
+**[🟨LOSING MY MIND🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>42,961명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_papaplatte-320x180.jpg)](https://twitch.tv/Papaplatte)
-**[🪱 2VS2 FREUNDE OLYMPIADE MIT BASTI, ELI & WILLY 🪱](https://twitch.tv/Papaplatte)** by **Papaplatte**<br>38,750명 시청  - GeoBingo.io
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tumblurr-320x180.jpg)](https://twitch.tv/Tumblurr)
+**[❌💀🏆IL TORNEO IMPOSSIBILE 3.0🏆💀❌](https://twitch.tv/Tumblurr)** by **Tumblurr**<br>28,015명 시청  - How to Fish
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
-**[[DROPS ON] UNBANNED BIG DAY HUGE DRAMA MORTAL SHELL 2 TODAY NEW GAMES TODAY BIG NEWS  MULTISTREAMING+REACTS | @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>38,441명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lacy-320x180.jpg)](https://twitch.tv/Lacy)
+**[♿ MARLON X LACY CARETAKER DAY ♿ SURPRISE $50,000 VEGAS TRIP ♿ GAMBLING OUR LIFE AWAY ♿️ OFFICIALLY ON NETFLIX ♿️](https://twitch.tv/Lacy)** by **Lacy**<br>24,929명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eliasn97-320x180.jpg)](https://twitch.tv/eliasn97)
-**[Freunde Olympiade mit Basti, Kevin & Willy 🔥 | !iconleague !doku !eligella !gaming](https://twitch.tv/eliasn97)** by **eliasn97**<br>38,000명 시청  - Just Chatting
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jasontheween-320x180.jpg)](https://twitch.tv/jasontheween)
+**[🔴CAR SHOPPING🔴NON CARHEAD LOOKING FOR A NEW CAR🔴WHAT IS  OUR BUDGET🔴EPICNESS🔴](https://twitch.tv/jasontheween)** by **jasontheween**<br>21,878명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2026-08-26 21:31 UTC
+: 마지막 업데이트: 2026-08-27 02:28 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
