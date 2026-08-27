@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[ESCAPE FROM BUNGUS | ZERO TO HERO | GIMMICK X HABIBI | PARTY GAMES LATER | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>48,235명 시청  - Escape from Tarkov
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[ポピープレイタイムなるゲームをやる初見](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>38,200명 시청  - Poppy Playtime
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
-**[🟨LOSING MY MIND🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>42,961명 시청  - Just Chatting
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kanae_2434-320x180.jpg)](https://twitch.tv/叶ちゃんねる)
+**[無馬](https://twitch.tv/叶ちゃんねる)** by **叶ちゃんねる**<br>34,131명 시청  - Grand Theft Auto V
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tumblurr-320x180.jpg)](https://twitch.tv/Tumblurr)
-**[❌💀🏆IL TORNEO IMPOSSIBILE 3.0🏆💀❌](https://twitch.tv/Tumblurr)** by **Tumblurr**<br>28,015명 시청  - How to Fish
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_blastpremier-320x180.jpg)](https://twitch.tv/BLASTPremier)
+**[LIVE: BLAST Premier Open Porto 2026 - MOUZ vs 9z](https://twitch.tv/BLASTPremier)** by **BLASTPremier**<br>26,804명 시청  - Counter-Strike
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lacy-320x180.jpg)](https://twitch.tv/Lacy)
-**[♿ MARLON X LACY CARETAKER DAY ♿ SURPRISE $50,000 VEGAS TRIP ♿ GAMBLING OUR LIFE AWAY ♿️ OFFICIALLY ON NETFLIX ♿️](https://twitch.tv/Lacy)** by **Lacy**<br>24,929명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_echo_esports-320x180.jpg)](https://twitch.tv/Echo_Esports)
+**[Day 9 - The Race to World First: The Venomous Abyss](https://twitch.tv/Echo_Esports)** by **Echo_Esports**<br>20,532명 시청  - World of Warcraft
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jasontheween-320x180.jpg)](https://twitch.tv/jasontheween)
-**[🔴CAR SHOPPING🔴NON CARHEAD LOOKING FOR A NEW CAR🔴WHAT IS  OUR BUDGET🔴EPICNESS🔴](https://twitch.tv/jasontheween)** by **jasontheween**<br>21,878명 시청  - Just Chatting
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
+**[マイクラハードコアアゲイン](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>18,990명 시청  - Minecraft
 
 
 ---
-: 마지막 업데이트: 2026-08-27 02:28 UTC
+: 마지막 업데이트: 2026-08-27 13:26 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
