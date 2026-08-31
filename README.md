@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
-**[雑→レオラス最終日](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>19,220명 시청  - Rust
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_blastpremier-320x180.jpg)](https://twitch.tv/BLASTPremier)
+**[LIVE: BLAST Premier Open Porto 2026 - G2 vs Aurora](https://twitch.tv/BLASTPremier)** by **BLASTPremier**<br>43,849명 시청  - Counter-Strike
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
-**[✍️LIVE✍️CLICK✍️LOCK IN✍️DRAMA✍️NEWS✍️VIDEOS✍️REACTS✍️THINGS✍️IMPORTANT✍️LOCK IT IN✍️ITS TIME✍️WOW✍️](https://twitch.tv/xQc)** by **xQc**<br>16,123명 시청  - Music
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
+**[雑→レオラス最終日](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>36,503명 시청  - Rust
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_pokemon-320x180.jpg)](https://twitch.tv/Pokemon)
-**[[REBROADCAST] Championship Sunday | 2026 Pokémon World Championships](https://twitch.tv/Pokemon)** by **Pokemon**<br>10,876명 시청  - Pokémon UNITE
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_shadowkekw-320x180.jpg)](https://twitch.tv/shadowkekw)
+**[AURORA [1:1] G2 | BLAST Open Porto 2026 👉 !тг !betboom !розыгрыш !яндекс](https://twitch.tv/shadowkekw)** by **shadowkekw**<br>36,382명 시청  - Counter-Strike
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_teamliquid-320x180.jpg)](https://twitch.tv/TeamLiquid)
-**[[7/8M] Race to World First 12.1 - Day 13](https://twitch.tv/TeamLiquid)** by **TeamLiquid**<br>10,831명 시청  - World of Warcraft
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_chopperinho-320x180.jpg)](https://twitch.tv/chopperinho)
+**[G2 [1:1] Aurora | BO3 | BLAST Open Porto 2026 | !tg !yt !bb](https://twitch.tv/chopperinho)** by **chopperinho**<br>27,407명 시청  - Counter-Strike
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_k3soju-320x180.jpg)](https://twitch.tv/k3soju)
-**[24 hour, rank 1 inbound, --> setsuko's stream w/ cam to reclaim rank 1 (from me) GG !boxboxbootcamp](https://twitch.tv/k3soju)** by **k3soju**<br>10,016명 시청  - Teamfight Tactics
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ohnepixel-320x180.jpg)](https://twitch.tv/ohnePixel)
+**[🔴WINNING ELIMINATOR ON A WHEEL🔴](https://twitch.tv/ohnePixel)** by **ohnePixel**<br>24,617명 시청  - Forza Horizon 6
 
 
 ---
-: 마지막 업데이트: 2026-08-31 06:29 UTC
+: 마지막 업데이트: 2026-08-31 14:41 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
