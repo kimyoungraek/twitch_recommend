@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[604/730] ⛓️ PLAYING CHAINED TOGETHER w LOS & RON ⛓️ IRL SEGMENTS EVERY NIGHT ⛓️](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>70,984명 시청  - Chained Together
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
+**[雑→レオラス最終日](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>19,220명 시청  - Rust
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_pokemon-320x180.jpg)](https://twitch.tv/Pokemon)
-**[Championship Sunday | 2026 Pokémon World Championships](https://twitch.tv/Pokemon)** by **Pokemon**<br>58,397명 시청  - Pokémon Trading Card Game
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
+**[✍️LIVE✍️CLICK✍️LOCK IN✍️DRAMA✍️NEWS✍️VIDEOS✍️REACTS✍️THINGS✍️IMPORTANT✍️LOCK IT IN✍️ITS TIME✍️WOW✍️](https://twitch.tv/xQc)** by **xQc**<br>16,123명 시청  - Music
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stableronaldo-320x180.jpg)](https://twitch.tv/stableronaldo)
-**[⛓️ LOS X JYNXZI X RON ⛓️ "CHAINED TOGETHER MARATHON" ⛓️ DAY 3 ⛓️ EXCLUSIVE BADGE ⛓️ JOIN NOW ⛓️ [twitter/insta stableronaldo] !po !com !sub](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>53,914명 시청  - Chained Together
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_pokemon-320x180.jpg)](https://twitch.tv/Pokemon)
+**[[REBROADCAST] Championship Sunday | 2026 Pokémon World Championships](https://twitch.tv/Pokemon)** by **Pokemon**<br>10,876명 시청  - Pokémon UNITE
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
-**[[DROPS ON] UNBANNED GAMESCOM TODAY BIG DAY HUGE DRAMA  TODAY NEW GAMES TODAY BIG NEWS  #WWMPARTNER MULTISTREAMING+REACTS | @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>32,654명 시청  - How to Fish
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_teamliquid-320x180.jpg)](https://twitch.tv/TeamLiquid)
+**[[7/8M] Race to World First 12.1 - Day 13](https://twitch.tv/TeamLiquid)** by **TeamLiquid**<br>10,831명 시청  - World of Warcraft
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
-**[TOUR OVER!🤬SUNDAY FUNDAY🤬ANNUAL CENSUS 2PM PST!!!!💢COMMUNITY DAY!💢MANUFACTURED OUTRAGE💢](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>25,443명 시청  - Just Chatting
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_k3soju-320x180.jpg)](https://twitch.tv/k3soju)
+**[24 hour, rank 1 inbound, --> setsuko's stream w/ cam to reclaim rank 1 (from me) GG !boxboxbootcamp](https://twitch.tv/k3soju)** by **k3soju**<br>10,016명 시청  - Teamfight Tactics
 
 
 ---
-: 마지막 업데이트: 2026-08-31 00:05 UTC
+: 마지막 업데이트: 2026-08-31 06:29 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
