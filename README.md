@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
-**[🟨LOSING MY MIND🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>56,938명 시청  - How to Fish
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[19時までだらだらする](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>36,752명 시청  - Just Chatting
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[ESCAPE FROM BUNGUS | John X Gimmick | Zero To Hero | LEMONS TARKOV TIER LIST IS A LIE | MANY MEN MONDAY | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>31,641명 시청  - Escape from Tarkov
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
+**[すごいめっちゃカメレオン](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>26,813명 시청  - MECCHA CHAMELEON
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
-**[👓LIVE👓CLICK👓LOCK IN👓DRAMA👓NEWS👓VIDEOS👓REACTS👓GAMES👓NEW PC👓BE NICE👓WOW👓OK👓HELP ME👓](https://twitch.tv/xQc)** by **xQc**<br>16,857명 시청  - Call of Duty: Modern Warfare 4
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_echo_esports-320x180.jpg)](https://twitch.tv/Echo_Esports)
+**[Day 14 - The Race to World First: The Venomous Abyss](https://twitch.tv/Echo_Esports)** by **Echo_Esports**<br>18,598명 시청  - World of Warcraft
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_teamliquid-320x180.jpg)](https://twitch.tv/TeamLiquid)
-**[[7/8M] Race to World First 12.1 - Day 14](https://twitch.tv/TeamLiquid)** by **TeamLiquid**<br>13,703명 시청  - World of Warcraft
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gon_vl-320x180.jpg)](https://twitch.tv/gon_vl)
+**[🦑『オクト・エキスパンション』裏ボス編 あと５ステージぐらいクリアしたら行ける](https://twitch.tv/gon_vl)** by **gon_vl**<br>15,324명 시청  - Splatoon 2
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_indegnasen0706-320x180.jpg)](https://twitch.tv/布団ちゃんと申します)
-**[禁煙マリオメーカー【９日目】←昨日できなかったスト６からのマリメ予定、あくまでも予定](https://twitch.tv/布団ちゃんと申します)** by **布団ちゃんと申します**<br>12,046명 시청  - Super Mario Maker 2
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_topson-320x180.jpg)](https://twitch.tv/Topson)
+**[Dota 2 enjoyer](https://twitch.tv/Topson)** by **Topson**<br>13,382명 시청  - Dota 2
 
 
 ---
-: 마지막 업데이트: 2026-09-01 05:55 UTC
+: 마지막 업데이트: 2026-09-01 10:57 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
