@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[CS2 w/ CASE OPENINGS | CLOAKZY X HUTCHMF | WARDOGS TOMORROW (STREAM STARTS WHEN GAME DROPS SOMWHERE BETWEEN 1-4pm ct) | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>44,565명 시청  - Counter-Strike
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lacy-320x180.jpg)](https://twitch.tv/Lacy)
+**[🥇 LACY x MARLON 🎮 CANT END STREAM UNTIL WE BEAT EVERY GAME 🥇 24/7 MARATHON 🎮 30% OFF SUBSCRIBE = NO ADS/EXCLUSIVE BADGE 🥇 !CLIPPING](https://twitch.tv/Lacy)** by **Lacy**<br>17,181명 시청  - Fortnite
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stableronaldo-320x180.jpg)](https://twitch.tv/stableronaldo)
-**[🟨MAKING THIS DAY ABOUT ME 🟨GOOD VIBES 🟨 JOIN 🟨 CHILL STREAM 🟨 STILL SICK 🟨 [twitter/insta stableronaldo] !po !com !sub](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>35,434명 시청  - Just Chatting
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_echo_esports-320x180.jpg)](https://twitch.tv/Echo_Esports)
+**[Day 16 - The Race to World First: The Venomous Abyss](https://twitch.tv/Echo_Esports)** by **Echo_Esports**<br>13,774명 시청  - World of Warcraft
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
-**[🟨LOSING MY MIND🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>35,335명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_yourragegaming-320x180.jpg)](https://twitch.tv/yourragegaming)
+**[NOT GETTING OFF UNTIL I BEAT RADICAL RED HARDCORE NUZLOCKE!!! !badge !nuzlocke !names](https://twitch.tv/yourragegaming)** by **yourragegaming**<br>12,813명 시청  - Pokémon FireRed/LeafGreen
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_therealskylergamer-320x180.jpg)](https://twitch.tv/therealskylergamer)
-**[Fortnite gameplay](https://twitch.tv/therealskylergamer)** by **therealskylergamer**<br>22,159명 시청  - Fortnite
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ironmouse-320x180.jpg)](https://twitch.tv/ironmouse)
+**[!MOUSEATHON DAY 2 AHHHH 50% TO IMMUNE DEF |  !9th | !apari | !omocat | !fox | !cheeky | !ht | !starforge | !tts | !merch | !razer](https://twitch.tv/ironmouse)** by **ironmouse**<br>12,345명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lacy-320x180.jpg)](https://twitch.tv/Lacy)
-**[🥇 LACY x MARLON 🎮 CANT END STREAM UNTIL WE BEAT EVERY GAME 🥇 MINECRAFT TIME 🎮 30% OFF SUBSCRIBE = NO ADS/EXCLUSIVE BADGE 🥇 !CLIPPING](https://twitch.tv/Lacy)** by **Lacy**<br>21,678명 시청  - Minecraft
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_k3soju-320x180.jpg)](https://twitch.tv/k3soju)
+**[gg. --> 500 lp !boxboxbootcamp](https://twitch.tv/k3soju)** by **k3soju**<br>11,674명 시청  - Teamfight Tactics
 
 
 ---
-: 마지막 업데이트: 2026-09-03 02:23 UTC
+: 마지막 업데이트: 2026-09-03 07:34 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
