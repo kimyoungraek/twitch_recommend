@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_blastpremier-320x180.jpg)](https://twitch.tv/BLASTPremier)
-**[LIVE: BLAST Premier Open Porto 2026 - Falcons vs G2](https://twitch.tv/BLASTPremier)** by **BLASTPremier**<br>46,280명 시청  - Counter-Strike
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_anyme023-320x180.jpg)](https://twitch.tv/Anyme023)
+**[Z EVENT JOUR 1 EN PETARD](https://twitch.tv/Anyme023)** by **Anyme023**<br>97,473명 시청  - ZEVENT
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[加藤純一のポケットモンスター シャイニングパール 実況プレイPart3](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>43,360명 시청  - Pokémon Brilliant Diamond/Shining Pearl
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_domingo-320x180.jpg)](https://twitch.tv/Domingo)
+**[ON VA TOUT PETER C'EST LE DERNIER ZEVENT](https://twitch.tv/Domingo)** by **Domingo**<br>79,868명 시청  - ZEVENT
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_shadowkekw-320x180.jpg)](https://twitch.tv/shadowkekw)
-**[FALCONS [0:0] G2 | BLAST Open Porto 2026 QF @strogo @deko @des0ut 👉 !тг !betboom !розыгрыш](https://twitch.tv/shadowkekw)** by **shadowkekw**<br>42,192명 시청  - Counter-Strike
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_mastu-320x180.jpg)](https://twitch.tv/Mastu)
+**[ZEVENT JOUR 1 C'EST PARTI !don](https://twitch.tv/Mastu)** by **Mastu**<br>62,911명 시청  - ZEVENT
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_chopperinho-320x180.jpg)](https://twitch.tv/chopperinho)
-**[Falcons [0:0] G2 w/ @perfecto_of | BO3 | BLAST Open Porto 2026 | !tg !yt !bb](https://twitch.tv/chopperinho)** by **chopperinho**<br>36,311명 시청  - Counter-Strike
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zerator-320x180.jpg)](https://twitch.tv/ZeratoR)
+**[ZEVENT2026 1er JOUR - C'est que l'début - Faites un don : zevent.fr/don/zerator -](https://twitch.tv/ZeratoR)** by **ZeratoR**<br>48,747명 시청  - ZEVENT
 
 **5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ohnepixel-320x180.jpg)](https://twitch.tv/ohnePixel)
-**[🔴FALCONS vs G2 | BLAST PORTO 2026🔴](https://twitch.tv/ohnePixel)** by **ohnePixel**<br>31,281명 시청  - Counter-Strike
+**[🔴VITALITY vs FURIA | BLAST PORTO 2026🔴](https://twitch.tv/ohnePixel)** by **ohnePixel**<br>46,438명 시청  - Counter-Strike
 
 
 ---
-: 마지막 업데이트: 2026-09-04 14:39 UTC
+: 마지막 업데이트: 2026-09-04 17:56 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
