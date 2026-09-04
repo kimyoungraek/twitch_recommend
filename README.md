@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zevent-320x180.jpg)](https://twitch.tv/ZEVENT)
-**[CONCERT D'OUVERTURE DU ZEVENT 2026 - Partie 4 : Bigflo & Oli](https://twitch.tv/ZEVENT)** by **ZEVENT**<br>86,118명 시청  - ZEVENT
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
+**[WARDOGS BETA | Tim x Hutch X Nickmercs X Landmark X Courage X Drac X Rogue | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>53,842명 시청  - WARDOGS
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
-**[[DROPS ON] UNBANNED BODYCAM TODAY BIG DAY HUGE DRAMA  TODAY NEW GAMES TODAY BIG NEWS  MULTISTREAMING+REACTS | @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>38,623명 시청  - Just Chatting
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stableronaldo-320x180.jpg)](https://twitch.tv/stableronaldo)
+**[🐟 HOW TO FISH 🐟 JASON X LAIYS X RON 🐟 GAMES 🐟 REACTS 🐟 NEW YORK SOON 🐟 JOIN 🐟 [twitter/insta stableronaldo] !po !com !sub](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>30,477명 시청  - How to Fish
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[WARDOGS BETA | Tim x Hutch X Nickmercs X Landmark X Courage X Drac X Rogue | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>36,771명 시청  - WARDOGS
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
+**[🎒LIVE🎒CLICK🎒LOCK IN🎒DRAMA🎒NEWS🎒VIDEOS🎒THINGS🎒REACT🎒GAMES🎒VIDEOS🎒STUFF🎒](https://twitch.tv/xQc)** by **xQc**<br>27,115명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[608/730] 🔴 BEATING HOW TO FISH W/ JASON, LAIYS, & RON 🔴 LEGENDARY VIBES 🔴 LEGENDARY JOY 🔴](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>31,307명 시청  - How to Fish
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lacy-320x180.jpg)](https://twitch.tv/Lacy)
+**[🥇 LACY x MARLON 🎮 FINAL GAME 🥇 24/7 MARATHON 🎮 30% OFF SUBSCRIBE = NO ADS/EXCLUSIVE BADGE 🥇 !CLIPPING](https://twitch.tv/Lacy)** by **Lacy**<br>20,099명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_illojuan-320x180.jpg)](https://twitch.tv/IlloJuan)
-**[CUENTA ATRÁS 🕖 LA VIDA NOCTURNA DE LIBERTY CITY 🎉 DLC HISTÓRICO 💯 - Grand Theft Auto: The Ballad of Gay Tony #1](https://twitch.tv/IlloJuan)** by **IlloJuan**<br>29,269명 시청  - Grand Theft Auto IV
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_bisteconee-320x180.jpg)](https://twitch.tv/Bisteconee)
+**[ANTES TARDE DO QUE NUNCA](https://twitch.tv/Bisteconee)** by **Bisteconee**<br>15,734명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2026-09-03 22:05 UTC
+: 마지막 업데이트: 2026-09-04 00:35 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
