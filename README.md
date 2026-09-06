@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_mastu-320x180.jpg)](https://twitch.tv/Mastu)
-**[ZEVENT JOUR 3, ON CONTINUE LA TOMBOLA ! 💚 (!don)](https://twitch.tv/Mastu)** by **Mastu**<br>193,818명 시청  - ZEVENT
+**[ZEVENT JOUR 3, ON CONTINUE LA TOMBOLA ! 💚 (!don)](https://twitch.tv/Mastu)** by **Mastu**<br>287,931명 시청  - ZEVENT
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
-**[🔴LEC G2 VS KC UPPER BRACKET PLAYOFFS 🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>83,286명 시청  - League of Legends
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_domingo-320x180.jpg)](https://twitch.tv/Domingo)
+**[ZEVENT - THE LAST DANCE (Tombola Combi Charles Leclerc à 20h)](https://twitch.tv/Domingo)** by **Domingo**<br>150,835명 시청  - ZEVENT
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_chopperinho-320x180.jpg)](https://twitch.tv/chopperinho)
-**[Spirit [1:1] MOUZ w/ @perfecto_of | BO5 | BLAST Open Porto 2026 | !tg !yt !bb](https://twitch.tv/chopperinho)** by **chopperinho**<br>82,420명 시청  - Counter-Strike
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_nico_la-320x180.jpg)](https://twitch.tv/Nico_la)
+**[DERNIER ZEVENT EN PETARD JOUR 3 !don !goals](https://twitch.tv/Nico_la)** by **Nico_la**<br>68,959명 시청  - ZEVENT
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_domingo-320x180.jpg)](https://twitch.tv/Domingo)
-**[ZEVENT J3 - THE LAST DANCE (Tombola Casque Tom Brady à 19h)](https://twitch.tv/Domingo)** by **Domingo**<br>77,348명 시청  - ZEVENT
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_anyme023-320x180.jpg)](https://twitch.tv/Anyme023)
+**[JOUR 3 ZEVENT EN PETARD](https://twitch.tv/Anyme023)** by **Anyme023**<br>65,720명 시청  - ZEVENT
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_shadowkekw-320x180.jpg)](https://twitch.tv/shadowkekw)
-**[MOUZ [1:1] SPIRIT | BLAST Open Porto 2026 GF @strogo @deko @des0ut 👉 !тг !betboom !розыгрыш](https://twitch.tv/shadowkekw)** by **shadowkekw**<br>70,690명 시청  - Counter-Strike
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_auronplay-320x180.jpg)](https://twitch.tv/auronplay)
+**[💀NUEVO DIA NUEVO INTENTO PARA PASARNOS HARDCORE CON EL TUCAN Y EL CASTOR 💀 #8](https://twitch.tv/auronplay)** by **auronplay**<br>60,985명 시청  - Minecraft
 
 
 ---
-: 마지막 업데이트: 2026-09-06 16:37 UTC
+: 마지막 업데이트: 2026-09-06 18:46 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
