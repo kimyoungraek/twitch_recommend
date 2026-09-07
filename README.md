@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
-**[yaruSAVOGE RUST Day1](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>39,867명 시청  - Rust
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_auronplay-320x180.jpg)](https://twitch.tv/auronplay)
+**[💀 DÍA FINAL 💀 ÚLTIMA OPORTUNIDAD DE PASARNOS HARDCORE 💀 #9](https://twitch.tv/auronplay)** by **auronplay**<br>58,140명 시청  - Minecraft
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
-**[🔴LPL BLG VS AL UPPER BRACKET PLAYOFFS🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>39,403명 시청  - League of Legends
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_peereira7-320x180.jpg)](https://twitch.tv/Peereira7)
+**[💀EL MEJOR STREAMER💀MINECRAFT HARDCORE💀ÚLTIMO DÍA💀TODO O NADA💀46 INTENTOS💀AURONPLAY NOOB💀TOP 19 SPOTIFY💀 SERIE POKEMON MAÑANA💀CLIP F](https://twitch.tv/Peereira7)** by **Peereira7**<br>35,121명 시청  - Minecraft
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sasatikk-320x180.jpg)](https://twitch.tv/sasatikk)
-**[SAVOGE RUST の神視点をさせていただくぞ！](https://twitch.tv/sasatikk)** by **sasatikk**<br>19,085명 시청  - Rust
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_anarabdullaev-320x180.jpg)](https://twitch.tv/anarabdullaev)
+**[Покупаю Ламбу СТО /w @enzzai @pinqtast @anastaze @warpath93 @thejove, @flamie, Жекич, Эксити, Огр, Козлов](https://twitch.tv/anarabdullaev)** by **anarabdullaev**<br>32,414명 시청  - IRL
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ironmouse-320x180.jpg)](https://twitch.tv/ironmouse)
-**[!MOUSEATHON DAY 6 AHHHH 50% TO IMMUNE DEF |  !9th | !apari | !omocat | !fox | !cheeky | !ht | !starforge | !tts | !merch | !razer](https://twitch.tv/ironmouse)** by **ironmouse**<br>10,925명 시청  - Kingdom Hearts II Final Mix
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_illojuan-320x180.jpg)](https://twitch.tv/IlloJuan)
+**[40 PALOS TYPE STREAM 💯 PESCAREMOS UN CURRILLO DIGNO? 😱 - How to Fish ft. Andrés y Guille](https://twitch.tv/IlloJuan)** by **IlloJuan**<br>28,109명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_yuyuta0702-320x180.jpg)](https://twitch.tv/ゆゆうた押忍)
-**[押忍！！！](https://twitch.tv/ゆゆうた押忍)** by **ゆゆうた押忍**<br>9,439명 시청  - Just Chatting
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_2xrakai-320x180.jpg)](https://twitch.tv/2xRaKai)
+**[🇿🇦 SOUTH AFRICA 🇿🇦 DAY 2 🇿🇦 IN THE CITY 🇿🇦 LABOR DAY 🇿🇦](https://twitch.tv/2xRaKai)** by **2xRaKai**<br>25,065명 시청  - IRL
 
 
 ---
-: 마지막 업데이트: 2026-09-07 11:13 UTC
+: 마지막 업데이트: 2026-09-07 16:58 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
