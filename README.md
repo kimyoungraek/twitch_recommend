@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
-**[🟨CASEOH'S WATERPARK🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>50,021명 시청  - Waterpark Simulator
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[Shadowverse Premier Series 26-27 第7節後半](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>25,226명 시청  - Shadowverse: Worlds Beyond
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[PROJECT ZOMBOID | HABIBI X JOHN | TESTICULAR TORSION TUESDAY | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>31,588명 시청  - Project Zomboid
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
+**[SAVOGE RUST Day3](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>24,567명 시청  - Rust
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jasontheween-320x180.jpg)](https://twitch.tv/jasontheween)
-**[🔴NO PIXEL GTA TIME🔴NIGHT TIME SPARKS🔴EPICNESS🔴NYC SOON🔴](https://twitch.tv/jasontheween)** by **jasontheween**<br>15,883명 시청  - Grand Theft Auto V
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sasatikk-320x180.jpg)](https://twitch.tv/sasatikk)
+**[SAVOGE RUST の神視点をさせていただくぞ！Day3](https://twitch.tv/sasatikk)** by **sasatikk**<br>16,558명 시청  - Rust
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_vanillamace-320x180.jpg)](https://twitch.tv/vanillamace)
-**[GTA RP IS BACK!!! Nopixel V Day 1](https://twitch.tv/vanillamace)** by **vanillamace**<br>14,428명 시청  - Grand Theft Auto V
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_k3soju-320x180.jpg)](https://twitch.tv/k3soju)
+**[oh gg, it's straight to rank 1. hatewatchers look away lmfao. slept 15 hours AND GG.](https://twitch.tv/k3soju)** by **k3soju**<br>10,641명 시청  - Teamfight Tactics
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
-**[ななしいんく麻雀大会顔合わせ](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>14,361명 시청  - Mahjong Soul
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gon_vl-320x180.jpg)](https://twitch.tv/gon_vl)
+**[夏の終わりはポピープレイタイム Chapter3 →3DSに触れよう](https://twitch.tv/gon_vl)** by **gon_vl**<br>10,348명 시청  - Poppy Playtime: Chapter 3 - Deep Sleep
 
 
 ---
-: 마지막 업데이트: 2026-09-09 05:39 UTC
+: 마지막 업데이트: 2026-09-09 10:31 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
