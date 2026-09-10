@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_buddha-320x180.jpg)](https://twitch.tv/buddha)
-**[Lang Buddha | Nopixel V](https://twitch.tv/buddha)** by **buddha**<br>18,024명 시청  - Grand Theft Auto V
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
+**[ロケラン300発作るぞ委員会SAVOGE RUST Day4](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>24,743명 시청  - Rust
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ironmouse-320x180.jpg)](https://twitch.tv/ironmouse)
-**[!MOUSEATHON DAY 9 AHHHH 50% TO IMMUNE DEFICIENCY FOUNDATION |  !9th !apari !omocat !fox !cheeky !ht !starforge !tts !merch !razer](https://twitch.tv/ironmouse)** by **ironmouse**<br>9,708명 시청  - How to Fish
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_indegnasen0706-320x180.jpg)](https://twitch.tv/布団ちゃんと申します)
+**[トルネコの大冒険←この動画で利用している株式会社スクウェア・エニックスを代表とする共同著作者が権利を所有する著作物及びスギヤマ工房有限会社が権利を所有する楽曲の転載・配布は禁止いたします。 © ARMOR PROJECT/BIRD STUDIO/SPIKE CH](https://twitch.tv/布団ちゃんと申します)** by **布団ちゃんと申します**<br>18,105명 시청  - Dragon Quest Heroes: Torneko's Mystery Dungeon Classic HD
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_betboom_cs_ru-320x180.jpg)](https://twitch.tv/betboom_cs_ru)
-**[PARIVISION [0] vs [1] magic | Bo3 | Group Stage Day 3 | FISSURE Playground #3 | cast: @braincc & @gromozekacs !maps](https://twitch.tv/betboom_cs_ru)** by **betboom_cs_ru**<br>9,054명 시청  - Counter-Strike
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sasatikk-320x180.jpg)](https://twitch.tv/sasatikk)
+**[SAVOGE RUST の神視点をさせていただくぞ！最終日](https://twitch.tv/sasatikk)** by **sasatikk**<br>17,019명 시청  - Rust
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut_247-320x180.jpg)](https://twitch.tv/TheBurntPeanut_247)
-**[24/7 @TheBurntPeanut VODS/YT | TARKOV | ARC RAIDERS | SILLY GAMES | BUNGULATORS ONLY CHAT](https://twitch.tv/TheBurntPeanut_247)** by **TheBurntPeanut_247**<br>7,861명 시청  - Always On
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_inkmate0-320x180.jpg)](https://twitch.tv/inkmate0)
+**[ZOTIX1715 - ДЕНЬ 4 - ВАМОС И ГАМОС ТРАТЯТ 100.000 (ВСЯ ИНФА В !tg)](https://twitch.tv/inkmate0)** by **inkmate0**<br>16,337명 시청  - Counter-Strike
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ct0m-320x180.jpg)](https://twitch.tv/ct0m)
-**[[NO DELAY] magic [1:0] PV | bo3 | FISSURE Playground 3](https://twitch.tv/ct0m)** by **ct0m**<br>7,755명 시청  - Counter-Strike
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stylishnoob4-320x180.jpg)](https://twitch.tv/stylishnoob4)
+**[関優太 1日外出録](https://twitch.tv/stylishnoob4)** by **stylishnoob4**<br>15,150명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2026-09-10 07:43 UTC
+: 마지막 업데이트: 2026-09-10 12:33 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
