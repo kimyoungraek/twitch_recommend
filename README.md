@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
-**[ロケラン300発作るぞ委員会SAVOGE RUST Day4](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>24,743명 시청  - Rust
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ohnepixel-320x180.jpg)](https://twitch.tv/ohnePixel)
+**[🔴FIRST TIME OSU WITH A TABLET w/ @MREKK 🔴](https://twitch.tv/ohnePixel)** by **ohnePixel**<br>30,643명 시청  - osu!
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_indegnasen0706-320x180.jpg)](https://twitch.tv/布団ちゃんと申します)
-**[トルネコの大冒険←この動画で利用している株式会社スクウェア・エニックスを代表とする共同著作者が権利を所有する著作物及びスギヤマ工房有限会社が権利を所有する楽曲の転載・配布は禁止いたします。 © ARMOR PROJECT/BIRD STUDIO/SPIKE CH](https://twitch.tv/布団ちゃんと申します)** by **布団ちゃんと申します**<br>18,105명 시청  - Dragon Quest Heroes: Torneko's Mystery Dungeon Classic HD
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_shroud-320x180.jpg)](https://twitch.tv/shroud)
+**[the dog is back to save us all. lock in were flying, shooting, driving and building..](https://twitch.tv/shroud)** by **shroud**<br>27,174명 시청  - WARDOGS
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sasatikk-320x180.jpg)](https://twitch.tv/sasatikk)
-**[SAVOGE RUST の神視点をさせていただくぞ！最終日](https://twitch.tv/sasatikk)** by **sasatikk**<br>17,019명 시청  - Rust
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_papaplatte-320x180.jpg)](https://twitch.tv/Papaplatte)
+**[🗿 ERSTES MAL AUS DER HALLE 🗿  IHR RICHTET MEINE HALLE EIN 🗿  MÄNNERABEND 🗿](https://twitch.tv/Papaplatte)** by **Papaplatte**<br>21,618명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_inkmate0-320x180.jpg)](https://twitch.tv/inkmate0)
-**[ZOTIX1715 - ДЕНЬ 4 - ВАМОС И ГАМОС ТРАТЯТ 100.000 (ВСЯ ИНФА В !tg)](https://twitch.tv/inkmate0)** by **inkmate0**<br>16,337명 시청  - Counter-Strike
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_worldoftanks-320x180.jpg)](https://twitch.tv/WorldofTanks)
+**[*Drops* AMD OLS Season 7 P1D2!](https://twitch.tv/WorldofTanks)** by **WorldofTanks**<br>21,337명 시청  - World of Tanks
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stylishnoob4-320x180.jpg)](https://twitch.tv/stylishnoob4)
-**[関優太 1日外出録](https://twitch.tv/stylishnoob4)** by **stylishnoob4**<br>15,150명 시청  - Just Chatting
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hutchmf-320x180.jpg)](https://twitch.tv/HutchMF)
+**[{DROPS}  | WARDOGS RELEASE DAY! SNIFFING OUT SNIPERS AND CRASHING HELIS LIKE ITS NO ONES BUSINESS](https://twitch.tv/HutchMF)** by **HutchMF**<br>20,451명 시청  - WARDOGS
 
 
 ---
-: 마지막 업데이트: 2026-09-10 12:33 UTC
+: 마지막 업데이트: 2026-09-10 16:48 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
