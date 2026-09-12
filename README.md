@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[マリカワールド本当に前人未踏９０００への道※神回](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>49,940명 시청  - Mario Kart World
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_blizzard-320x180.jpg)](https://twitch.tv/Blizzard)
+**[BlizzCon 2026 | Day 1 Main Stage](https://twitch.tv/Blizzard)** by **Blizzard**<br>148,136명 시청  - World of Warcraft
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
-**[🔴LEC VIT VS KOI ELIMINATION PLAYOFFS🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>40,215명 시청  - League of Legends
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
+**[[DROPS ON] UNBANNED BLIZZCON TODAY BIG DAY HUGE DRAMA  TODAY NEW GAMES BIG NEWS  MULTISTREAMING+REACTS | @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>66,918명 시청  - World of Warcraft
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_blizzard-320x180.jpg)](https://twitch.tv/Blizzard)
-**[BlizzCon 2026 | Day 1 Main Stage](https://twitch.tv/Blizzard)** by **Blizzard**<br>22,393명 시청  - 
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ow_esports-320x180.jpg)](https://twitch.tv/ow_esports)
+**[[DROPS] OWWC 2026 | Finals Day 1](https://twitch.tv/ow_esports)** by **ow_esports**<br>64,650명 시청  - Overwatch
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-320x180.jpg)](https://twitch.tv/StRoGo)
-**[🔴 ВЫИГРАЙ НАШ ТРИО ПОЛУЧИ - НОЖ🔴  /w @m3wsu @skywhywalker](https://twitch.tv/StRoGo)** by **StRoGo**<br>18,690명 시청  - Counter-Strike
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
+**[🔴LEC VIT VS KOI ELIMINATION PLAYOFFS🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>64,344명 시청  - League of Legends
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_inkmate0-320x180.jpg)](https://twitch.tv/inkmate0)
-**[ZOTIX1715 - ДЕНЬ 6 - ЭВЕЛИНЫ ВЫГОНЯЮТ ЗИБЕРТА (ВСЯ ИНФА В !tg)](https://twitch.tv/inkmate0)** by **inkmate0**<br>16,601명 시청  - Counter-Strike
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ibai-320x180.jpg)](https://twitch.tv/ibai)
+**[MKOI vs VIT | TODO O NADA | PLAYOFFS LEC | ROAD TO WORLDS | QUIEN GANE A FRANCIA | EL MILAGRO DE BERLIN | #WatchLEC](https://twitch.tv/ibai)** by **ibai**<br>53,177명 시청  - League of Legends
 
 
 ---
-: 마지막 업데이트: 2026-09-12 14:45 UTC
+: 마지막 업데이트: 2026-09-12 17:35 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
