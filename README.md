@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
-**[🔴LPL IG VS AL - WINNER GOES TO FINALS🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>56,243명 시청  - League of Legends
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[マリカワールド本当に前人未踏９０００への道※神回](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>49,940명 시청  - Mario Kart World
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[最近会ったダイレクトを全部見る加藤純一](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>54,991명 시청  - Just Chatting
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
+**[🔴LEC VIT VS KOI ELIMINATION PLAYOFFS🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>40,215명 시청  - League of Legends
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_betboom_cs_ru-320x180.jpg)](https://twitch.tv/betboom_cs_ru)
-**[BETBOOM Team [0] vs [0] G2 Esports | Bo3 | Semifinals | FISSURE Playground #3 | cast: @officialxoma_ & @gromozekacs !maps](https://twitch.tv/betboom_cs_ru)** by **betboom_cs_ru**<br>23,214명 시청  - Counter-Strike
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_blizzard-320x180.jpg)](https://twitch.tv/Blizzard)
+**[BlizzCon 2026 | Day 1 Main Stage](https://twitch.tv/Blizzard)** by **Blizzard**<br>22,393명 시청  - 
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_aunkere-320x180.jpg)](https://twitch.tv/Aunkere)
-**[[2K БЕЗ ЗАДЕРЖКИ] BETBOOM [0:0] G2 | FISSURE Playground S.3 👉 !bb !карты](https://twitch.tv/Aunkere)** by **Aunkere**<br>18,090명 시청  - Counter-Strike
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-320x180.jpg)](https://twitch.tv/StRoGo)
+**[🔴 ВЫИГРАЙ НАШ ТРИО ПОЛУЧИ - НОЖ🔴  /w @m3wsu @skywhywalker](https://twitch.tv/StRoGo)** by **StRoGo**<br>18,690명 시청  - Counter-Strike
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_paradeev1ch-320x180.jpg)](https://twitch.tv/paradeev1ch)
-**[🟢 СТРИМХАТА | ДЕНЬ 1 |  БАНГКОК 🇹🇭](https://twitch.tv/paradeev1ch)** by **paradeev1ch**<br>15,813명 시청  - IRL
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_inkmate0-320x180.jpg)](https://twitch.tv/inkmate0)
+**[ZOTIX1715 - ДЕНЬ 6 - ЭВЕЛИНЫ ВЫГОНЯЮТ ЗИБЕРТА (ВСЯ ИНФА В !tg)](https://twitch.tv/inkmate0)** by **inkmate0**<br>16,601명 시청  - Counter-Strike
 
 
 ---
-: 마지막 업데이트: 2026-09-12 11:51 UTC
+: 마지막 업데이트: 2026-09-12 14:45 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
