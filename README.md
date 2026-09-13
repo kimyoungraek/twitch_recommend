@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_montanablack88-320x180.jpg)](https://twitch.tv/MontanaBlack88)
-**[IRL STREAM MIT DEN GEISSENS IN ST. TROPEZ !gönrgy !Ltd7 !prepmymeal](https://twitch.tv/MontanaBlack88)** by **MontanaBlack88**<br>79,849명 시청  - Special Events
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ow_esports-320x180.jpg)](https://twitch.tv/ow_esports)
+**[[DROPS] OWWC 2026 | Finals Day 2](https://twitch.tv/ow_esports)** by **ow_esports**<br>90,575명 시청  - Overwatch
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[19時からﾏﾀｷﾞｽﾅｲﾊﾟｰｽﾞ戦](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>62,389명 시청  - VALORANT
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_blizzard-320x180.jpg)](https://twitch.tv/Blizzard)
+**[BlizzCon 2026 | Main Stage | World of Warcraft: Forever - Deep Dive](https://twitch.tv/Blizzard)** by **Blizzard**<br>64,471명 시청  - World of Warcraft
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
-**[ちょっと話してGTAに参加する](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>46,525명 시청  - Grand Theft Auto V
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
+**[[DROPS ON] UNBANNED BLIZZCON TODAY BIG DAY HUGE DRAMA  TODAY NEW GAMES BIG NEWS  MULTISTREAMING+REACTS | @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>42,888명 시청  - World of Warcraft
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_towelliee-320x180.jpg)](https://twitch.tv/Towelliee)
-**[✅!DROPS LIVE NOW + 1 !SUB = BADGE⚔️BLIZZCON 100HR+ DROPATHON! ALL MEDIA COVERAGE/REACTS/CO-STREAMS!⚔️!UI !EN !ADV !CORSAIR !EBAY⚔️](https://twitch.tv/Towelliee)** by **Towelliee**<br>21,906명 시청  - World of Warcraft
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_warcraft-320x180.jpg)](https://twitch.tv/Warcraft)
+**[BlizzCon 2026 | AWC Grand Finals | F Tier vs Guild Bean](https://twitch.tv/Warcraft)** by **Warcraft**<br>39,289명 시청  - World of Warcraft
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_metashi12-320x180.jpg)](https://twitch.tv/metashi12)
-**[[DROPS]⭐BDAY+BLIZZCON 5000€ GIVEAWAY!⭐ | !grover | !rested | !Snocks | !Holy | !hitech | !More | !prepmymeal | !TB | #Werbung](https://twitch.tv/metashi12)** by **metashi12**<br>20,851명 시청  - World of Warcraft
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_worldoftanks-320x180.jpg)](https://twitch.tv/WorldofTanks)
+**[*Drops* AMD OLS Season 7 P1D3!](https://twitch.tv/WorldofTanks)** by **WorldofTanks**<br>28,858명 시청  - World of Tanks
 
 
 ---
-: 마지막 업데이트: 2026-09-13 13:00 UTC
+: 마지막 업데이트: 2026-09-13 17:09 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
