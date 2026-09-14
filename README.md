@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
-**[🟨SPOOKY TIME🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>58,162명 시청  - Animaly Bar: NO HUMANITY!
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ow_esports-320x180.jpg)](https://twitch.tv/ow_esports)
+**[[DROPS][REBROADCAST] OWWC 2026 | Finals Day 2](https://twitch.tv/ow_esports)** by **ow_esports**<br>38,957명 시청  - Overwatch
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
-**[🎒LIVE🎒LOCK IN🎒GTA V🎒NOPIXEL RP🎒DRAMA🎒NEWS🎒STUFF🎒IMPORTANT🎒DAY🎒PULL UP🎒QUICK🎒DONT MISS IT🎒XD🎒](https://twitch.tv/xQc)** by **xQc**<br>36,136명 시청  - Grand Theft Auto V
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[風邪ひきﾛｰｸﾞﾗｲｶｰ純](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>27,444명 시청  - Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ow_esports-320x180.jpg)](https://twitch.tv/ow_esports)
-**[[DROPS][REBROADCAST] OWWC 2026 | Finals Day 2](https://twitch.tv/ow_esports)** by **ow_esports**<br>30,605명 시청  - Overwatch
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_indegnasen0706-320x180.jpg)](https://twitch.tv/布団ちゃんと申します)
+**[マリオカートワールド【３日目】※ＮＩＳＣに興味がでてきた](https://twitch.tv/布団ちゃんと申します)** by **布団ちゃんと申します**<br>14,726명 시청  - Mario Kart World
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[風邪ひきとるねこ男](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>20,247명 시청  - Dragon Quest Heroes: Torneko's Mystery Dungeon Classic HD
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_batora324-320x180.jpg)](https://twitch.tv/バトラ)
+**[雑談→顔出しマリパ対決](https://twitch.tv/バトラ)** by **バトラ**<br>13,390명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ml7support-320x180.jpg)](https://twitch.tv/mL7support)
-**[🔴 !DROPS ON DAY 2 🔴 24/7 WATCHPARTY DAY 2 OWWC & BLIZZCON 🔴 !OWWCBADGE 🔴](https://twitch.tv/mL7support)** by **mL7support**<br>16,614명 시청  - Overwatch
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_topson-320x180.jpg)](https://twitch.tv/Topson)
+**[Dota 2 enjoyer](https://twitch.tv/Topson)** by **Topson**<br>13,176명 시청  - Dota 2
 
 
 ---
-: 마지막 업데이트: 2026-09-14 05:36 UTC
+: 마지막 업데이트: 2026-09-14 11:23 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
