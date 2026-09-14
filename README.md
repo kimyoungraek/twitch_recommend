@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_anarabdullaev-320x180.jpg)](https://twitch.tv/anarabdullaev)
-**[рум тур новой хаты, будем обмывать /w @enzzai @whylollycry @m1xerboy Лера, Саша, Огр, Вловес, Эксити, Вика](https://twitch.tv/anarabdullaev)** by **anarabdullaev**<br>40,174명 시청  - IRL
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tumblurr-320x180.jpg)](https://twitch.tv/Tumblurr)
+**[🔥MEGA REACTIONS🔥🤪GIOCHI STRANI🙊🤬BOMBANANA E..........EEEEEE](https://twitch.tv/Tumblurr)** by **Tumblurr**<br>49,767명 시청  - Just Chatting
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_auronplay-320x180.jpg)](https://twitch.tv/auronplay)
-**[💀 VOLVEMOS A HARDCORE 💀 CON JUAN GRANIZADOS 💀 #2](https://twitch.tv/auronplay)** by **auronplay**<br>38,927명 시청  - Minecraft
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
+**[[DROPS ON] UNBANNED BLIZZCON RECAP+WOLVERINE 2MORROW BIG DAY HUGE DRAMA  TODAY NEW GAMES BIG NEWS  MULTISTREAMING+REACTS | @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>42,071명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-320x180.jpg)](https://twitch.tv/StRoGo)
-**[🔴 WW 0:1 Young27 | bo3 | MPKBK CIS LAN Season 7 | @ct0m @deko @m3wsu @keliencs | Тренер: @shadowkekw](https://twitch.tv/StRoGo)** by **StRoGo**<br>31,565명 시청  - Counter-Strike
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
+**[👔LIVE👔HERE👔GTA V👔NOPIXEL ROLEPLAY👔TUNE IN QUICKLY👔DONT MISS IT👔BIG THINGS👔MEGA THINGS👔HUGE THINGS👔COLOSSAL THINGS👔MASSIVE THING👔](https://twitch.tv/xQc)** by **xQc**<br>33,332명 시청  - Grand Theft Auto V
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
-**[2日目、ニート](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>21,760명 시청  - Street Fighter 6
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
+**[[619/730] 🔴 SOLO TO CHAMPION PC 🔴 TOP 1 GLOBAL ALL GAMES 🔴](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>32,255명 시청  - Rainbow Six Siege
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_peereira7-320x180.jpg)](https://twitch.tv/Peereira7)
-**[🟥EL MEJOR STREAMER🟥LAST STREAM🟥1 SEMANA DE PARON🟥POR CURRO🟥ES LA QUE HAY🟥15K SUBS🟥HOY O NUNCA🟥VOLVIO🟥LOS MONOS🟥ENVINICIAO](https://twitch.tv/Peereira7)** by **Peereira7**<br>21,032명 시청  - BOMBANANA!
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eliasn97-320x180.jpg)](https://twitch.tv/eliasn97)
+**[Olympiade gegen @papaplatte @krokoboss @zarbex  🤯 | !iconleague !doku !eligella !gaming](https://twitch.tv/eliasn97)** by **eliasn97**<br>31,947명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2026-09-14 17:20 UTC
+: 마지막 업데이트: 2026-09-14 21:14 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
