@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ow_esports-320x180.jpg)](https://twitch.tv/ow_esports)
-**[[DROPS][REBROADCAST] OWWC 2026 | Finals Day 2](https://twitch.tv/ow_esports)** by **ow_esports**<br>38,957명 시청  - Overwatch
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_anarabdullaev-320x180.jpg)](https://twitch.tv/anarabdullaev)
+**[рум тур новой хаты, будем обмывать /w @enzzai @whylollycry @m1xerboy Лера, Саша, Огр, Вловес, Эксити, Вика](https://twitch.tv/anarabdullaev)** by **anarabdullaev**<br>40,174명 시청  - IRL
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[風邪ひきﾛｰｸﾞﾗｲｶｰ純](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>27,444명 시청  - Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_auronplay-320x180.jpg)](https://twitch.tv/auronplay)
+**[💀 VOLVEMOS A HARDCORE 💀 CON JUAN GRANIZADOS 💀 #2](https://twitch.tv/auronplay)** by **auronplay**<br>38,927명 시청  - Minecraft
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_indegnasen0706-320x180.jpg)](https://twitch.tv/布団ちゃんと申します)
-**[マリオカートワールド【３日目】※ＮＩＳＣに興味がでてきた](https://twitch.tv/布団ちゃんと申します)** by **布団ちゃんと申します**<br>14,726명 시청  - Mario Kart World
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-320x180.jpg)](https://twitch.tv/StRoGo)
+**[🔴 WW 0:1 Young27 | bo3 | MPKBK CIS LAN Season 7 | @ct0m @deko @m3wsu @keliencs | Тренер: @shadowkekw](https://twitch.tv/StRoGo)** by **StRoGo**<br>31,565명 시청  - Counter-Strike
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_batora324-320x180.jpg)](https://twitch.tv/バトラ)
-**[雑談→顔出しマリパ対決](https://twitch.tv/バトラ)** by **バトラ**<br>13,390명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
+**[2日目、ニート](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>21,760명 시청  - Street Fighter 6
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_topson-320x180.jpg)](https://twitch.tv/Topson)
-**[Dota 2 enjoyer](https://twitch.tv/Topson)** by **Topson**<br>13,176명 시청  - Dota 2
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_peereira7-320x180.jpg)](https://twitch.tv/Peereira7)
+**[🟥EL MEJOR STREAMER🟥LAST STREAM🟥1 SEMANA DE PARON🟥POR CURRO🟥ES LA QUE HAY🟥15K SUBS🟥HOY O NUNCA🟥VOLVIO🟥LOS MONOS🟥ENVINICIAO](https://twitch.tv/Peereira7)** by **Peereira7**<br>21,032명 시청  - BOMBANANA!
 
 
 ---
-: 마지막 업데이트: 2026-09-14 11:23 UTC
+: 마지막 업데이트: 2026-09-14 17:20 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
