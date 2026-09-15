@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
-**[🟨SPOOKY TIME🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>51,489명 시청  - Meat Grinder
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
+**[戦う](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>17,613명 시청  - Street Fighter 6
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[[DROPS] WARDOGS | COMMUNITY SERVER CASH BONUS | STRIKE TEAM NUT | GIMMICK X CLOAKZY | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>34,956명 시청  - WARDOGS
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_indegnasen0706-320x180.jpg)](https://twitch.tv/布団ちゃんと申します)
+**[【ボタンを押してドパるゲーム】プチ単発ゲーフェス←先生、マリオカートしたいけど、マリオからはなれる日も必要じゃないかって思う。放送！](https://twitch.tv/布団ちゃんと申します)** by **布団ちゃんと申します**<br>17,348명 시청  - Click the Button
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
-**[👔LIVE👔HERE👔GTA V👔NOPIXEL ROLEPLAY👔TUNE IN QUICKLY👔DONT MISS IT👔BIG THINGS👔MEGA THINGS👔HUGE THINGS👔COLOSSAL THINGS👔MASSIVE THING👔](https://twitch.tv/xQc)** by **xQc**<br>31,422명 시청  - Grand Theft Auto V
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stylishnoob4-320x180.jpg)](https://twitch.tv/stylishnoob4)
+**[Apex 触ってみるぜ](https://twitch.tv/stylishnoob4)** by **stylishnoob4**<br>14,263명 시청  - Apex Legends
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_buddha-320x180.jpg)](https://twitch.tv/buddha)
-**[Lang Buddha | NoPixel V | Watch NoPixel News Ep. 1 !vid](https://twitch.tv/buddha)** by **buddha**<br>17,031명 시청  - Grand Theft Auto V
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
+**[🔴MAX KARTING PRACTICE🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>12,404명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ddg-320x180.jpg)](https://twitch.tv/DDG)
-**[HITATHON 2: ATL - DAY 1 🍑](https://twitch.tv/DDG)** by **DDG**<br>12,781명 시청  - IRL
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_k3soju-320x180.jpg)](https://twitch.tv/k3soju)
+**[aight, rank 1 before cup on friday im locked G G. B PATCH IN THE MORNING](https://twitch.tv/k3soju)** by **k3soju**<br>9,869명 시청  - Teamfight Tactics
 
 
 ---
-: 마지막 업데이트: 2026-09-15 05:37 UTC
+: 마지막 업데이트: 2026-09-15 10:46 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
