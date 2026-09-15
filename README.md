@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_illojuan-320x180.jpg)](https://twitch.tv/IlloJuan)
-**[UÑAS PARRAS 💅🏻 PELOS EN LA ESPALDA 👌🏻 CARENCIAS EMOCIONALES ✅ SOY ESE 🙏🏻 - Marvel: Lobezno](https://twitch.tv/IlloJuan)** by **IlloJuan**<br>31,043명 시청  - Just Chatting
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eliasn97-320x180.jpg)](https://twitch.tv/eliasn97)
+**[NEUEN MODUS ANTESTEN⚽ 22 Uhr Ultimate Team EA FC 27 🔥 | !Meggle !Grafschafter !Elgato !Logitech !iconleague !doku !eligella !gaming](https://twitch.tv/eliasn97)** by **eliasn97**<br>88,743명 시청  - EA Sports FC 27
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
-**[戦う](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>30,538명 시청  - Grand Theft Auto V
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_rocketleague-320x180.jpg)](https://twitch.tv/RocketLeague)
+**[R8 Esports vs Team Falcons | Upper Semifinals | Play-ins | RLCS 2026 World Championship](https://twitch.tv/RocketLeague)** by **RocketLeague**<br>44,384명 시청  - Rocket League
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[風来のシレン死んだら即睡眠](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>24,058명 시청  - Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
+**[[DROPS ON] UNBANNED WOLVERINE TODAY+FOREVER THURSDAY BIG DAY HUGE DRAMA  TODAY NEW GAMES BIG NEWS  MULTISTREAMING+REACTS | @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>37,204명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_yatoroxx-320x180.jpg)](https://twitch.tv/YatorOxx)
-**[6222](https://twitch.tv/YatorOxx)** by **YatorOxx**<br>21,553명 시청  - Dota 2
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kaicenat-320x180.jpg)](https://twitch.tv/KaiCenat)
+**[🎮WOLVERINE MARATHON🎮CLICK HERE🎮](https://twitch.tv/KaiCenat)** by **KaiCenat**<br>31,558명 시청  - Marvel's Wolverine
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_indegnasen0706-320x180.jpg)](https://twitch.tv/布団ちゃんと申します)
-**[【たろうくんはいってきました】←【動物になり、身も心も癒されるゲーム】←【ボタンを押してドパるゲーム】プチ単発ゲーフェス←先生、マリオカートしたいけど、マリオからはなれる日も必要じゃないかって思う。放送！](https://twitch.tv/布団ちゃんと申します)** by **布団ちゃんと申します**<br>15,040명 시청  - TARO IS BACK
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_illojuan-320x180.jpg)](https://twitch.tv/IlloJuan)
+**[UÑAS PARRAS 💅🏻 PELOS EN LA ESPALDA 👌🏻 CARENCIAS EMOCIONALES ✅ SOY ESE 🙏🏻 - Marvel: Lobezno #WolverinePS5 #AD](https://twitch.tv/IlloJuan)** by **IlloJuan**<br>28,746명 시청  - Marvel's Wolverine
 
 
 ---
-: 마지막 업데이트: 2026-09-15 15:21 UTC
+: 마지막 업데이트: 2026-09-15 19:23 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
