@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[WARDOGS | CLOAKZY X JOHN X DRAC | TESTICULAR TORSION TUESDAY | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>35,161명 시청  - WARDOGS
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stylishnoob4-320x180.jpg)](https://twitch.tv/stylishnoob4)
+**[パッドでランク](https://twitch.tv/stylishnoob4)** by **stylishnoob4**<br>13,239명 시청  - Apex Legends
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
-**[👑LIVE👑HERE👑GTA V👑NOPIXEL RP👑LETS GO👑LOCK IN👑SHORT INTRO👑WICKED👑PULL UP👑BIG ABSOLUTE HUGE THINGS👑YAY👑](https://twitch.tv/xQc)** by **xQc**<br>32,241명 시청  - Grand Theft Auto V
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_indegnasen0706-320x180.jpg)](https://twitch.tv/布団ちゃんと申します)
+**[漏電し、エアコン使えない男 今日は２０時まで](https://twitch.tv/布団ちゃんと申します)** by **布団ちゃんと申します**<br>11,700명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_mellstroy-320x180.jpg)](https://twitch.tv/mellstroy)
-**[Разбан после недели](https://twitch.tv/mellstroy)** by **mellstroy**<br>27,046명 시청  - Dota 2
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_topson-320x180.jpg)](https://twitch.tv/Topson)
+**[Dota 2 enjoyer](https://twitch.tv/Topson)** by **Topson**<br>10,784명 시청  - Dota 2
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kaicenat-320x180.jpg)](https://twitch.tv/KaiCenat)
-**[🎮WOLVERINE MARATHON🎮CLICK HERE🎮](https://twitch.tv/KaiCenat)** by **KaiCenat**<br>25,109명 시청  - Marvel's Wolverine
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
+**[うぃ](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>9,479명 시청  - Grand Theft Auto V
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_brucedropemoff-320x180.jpg)](https://twitch.tv/BruceDropEmOff)
-**[🫵🏾HOLY F******* S****** 🫪 YES YOU SEEN RIGHT 🫪 HAVE NO FEAR DEO IS HERE 🫪 COME TAKE THIS RIDE 🫪 NEWS 🫪 ROBLOX SERVER UPDATES 🫪 #HAPPY 😄🤤](https://twitch.tv/BruceDropEmOff)** by **BruceDropEmOff**<br>15,501명 시청  - NBA 2K27
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ironmouse-320x180.jpg)](https://twitch.tv/ironmouse)
+**[!MOUSEATHON DAY 15! 50% TO IMMUNE DEFICIENCY FOUNDATION | !omocat !fox !cheeky !ht !starforge !tts !merch !razer](https://twitch.tv/ironmouse)** by **ironmouse**<br>8,686명 시청  - ROBLOX
 
 
 ---
-: 마지막 업데이트: 2026-09-16 05:33 UTC
+: 마지막 업데이트: 2026-09-16 10:35 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
