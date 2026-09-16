@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stylishnoob4-320x180.jpg)](https://twitch.tv/stylishnoob4)
-**[パッドでランク](https://twitch.tv/stylishnoob4)** by **stylishnoob4**<br>13,239명 시청  - Apex Legends
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eliasn97-320x180.jpg)](https://twitch.tv/eliasn97)
+**[EA FC 27 STREAMING VILLA TAG 2 🔥🇪🇸 | !Meggle !Grafschafter !Elgato !Logitech !iconleague !doku !eligella !gaming](https://twitch.tv/eliasn97)** by **eliasn97**<br>64,307명 시청  - EA Sports FC 27
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_indegnasen0706-320x180.jpg)](https://twitch.tv/布団ちゃんと申します)
-**[漏電し、エアコン使えない男 今日は２０時まで](https://twitch.tv/布団ちゃんと申します)** by **布団ちゃんと申します**<br>11,700명 시청  - Just Chatting
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
+**[うぃ](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>29,965명 시청  - Grand Theft Auto V
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_topson-320x180.jpg)](https://twitch.tv/Topson)
-**[Dota 2 enjoyer](https://twitch.tv/Topson)** by **Topson**<br>10,784명 시청  - Dota 2
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[話して寝る男](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>29,521명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
-**[うぃ](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>9,479명 시청  - Grand Theft Auto V
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
+**[🔴MAX VERSTAPPEN RACE DAY - RACE STARTS AT 5PM🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>21,394명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ironmouse-320x180.jpg)](https://twitch.tv/ironmouse)
-**[!MOUSEATHON DAY 15! 50% TO IMMUNE DEFICIENCY FOUNDATION | !omocat !fox !cheeky !ht !starforge !tts !merch !razer](https://twitch.tv/ironmouse)** by **ironmouse**<br>8,686명 시청  - ROBLOX
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ohnepixel-320x180.jpg)](https://twitch.tv/ohnePixel)
+**[🔴WHAT ACTUALLY HAPPENED AT F1... (LEAKING ALL PICTURES)🔴](https://twitch.tv/ohnePixel)** by **ohnePixel**<br>21,099명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2026-09-16 10:35 UTC
+: 마지막 업데이트: 2026-09-16 15:14 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
