@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
-**[🔴THESHY WORLDS QUALIFIER - IG VS TES🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>45,570명 시청  - League of Legends
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eliasn97-320x180.jpg)](https://twitch.tv/eliasn97)
+**[EA FC 27 STREAMING VILLA TAG 3 🔥🇪🇸 | !Meggle !Grafschafter !Elgato !Logitech !iconleague !doku !eligella !gaming](https://twitch.tv/eliasn97)** by **eliasn97**<br>42,521명 시청  - EA Sports FC 27
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_inkmate0-320x180.jpg)](https://twitch.tv/inkmate0)
-**[MOUZ vs NRG - StarLadder StarSeries Fall 2026 - bo3 [0:0]](https://twitch.tv/inkmate0)** by **inkmate0**<br>16,953명 시청  - Counter-Strike
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
+**[TGSおつかれおじさん](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>28,032명 시청  - Grand Theft Auto V
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sidneyeweka-320x180.jpg)](https://twitch.tv/SidneyEweka)
-**[EAFC 27 RELEASEEE 🔴 24/7 LIVE 🔴STREAMINGVILLA MIT DEN JUNGS](https://twitch.tv/SidneyEweka)** by **SidneyEweka**<br>16,179명 시청  - EA Sports FC 27
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ohnepixel-320x180.jpg)](https://twitch.tv/ohnePixel)
+**[🔴VOTING ON STREAMER AWARDS🔴](https://twitch.tv/ohnePixel)** by **ohnePixel**<br>23,832명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stylishnoob4-320x180.jpg)](https://twitch.tv/stylishnoob4)
-**[親指3日目👍](https://twitch.tv/stylishnoob4)** by **stylishnoob4**<br>14,563명 시청  - Apex Legends
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_inkmate0-320x180.jpg)](https://twitch.tv/inkmate0)
+**[NAVI vs Aurora - StarLadder StarSeries Fall 2026 - bo3 [0:0]](https://twitch.tv/inkmate0)** by **inkmate0**<br>22,836명 시청  - Counter-Strike
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_yuyuta0702-320x180.jpg)](https://twitch.tv/ゆゆうた押忍)
-**[押忍！！！！](https://twitch.tv/ゆゆうた押忍)** by **ゆゆうた押忍**<br>11,241명 시청  - Just Chatting
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-320x180.jpg)](https://twitch.tv/StRoGo)
+**[🔴 Strogo Тeam 1:0 Shoke Тeam | bo3 | @deko @shadowkekw @QUICKHUNTIK @yuuechka](https://twitch.tv/StRoGo)** by **StRoGo**<br>22,563명 시청  - Counter-Strike
 
 
 ---
-: 마지막 업데이트: 2026-09-17 10:45 UTC
+: 마지막 업데이트: 2026-09-17 15:23 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
