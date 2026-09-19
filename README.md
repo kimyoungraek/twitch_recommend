@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
-**[🟨SPOOKY TIME🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>54,457명 시청  - Games + Demos
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
+**[🔴IG VS JDG FINAL WORLDS SPOT ON THE LINE🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>46,292명 시청  - League of Legends
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[PARTY GAMES | DAWSON OAKS TRAILER PARK | COCONUT X GIMMICK X GINGY X GOOSEY X HABIBI X HUTCH X JOHN X PANDA X WINNIE X ZCHUM | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>40,858명 시청  - Dawson Oaks Trailer Park
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ramzes-320x180.jpg)](https://twitch.tv/ramzes)
+**[1w Team [1:1] Team Nemesis | PGL Wallachia Season 9: Group Stage | BO3 | /w @afoninje  !tg !win !playerok !втб !up](https://twitch.tv/ramzes)** by **ramzes**<br>16,924명 시청  - Dota 2
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
-**[🦸LIVE🦸DRAMA🦸NEWS🦸GTA 5🦸NO PIXEL RP🦸BIG BIG BIGDAY🦸SUPER JP🦸RETURNS🦸CHILLS🦸QUICK INTRO🦸INTO JP POG🦸](https://twitch.tv/xQc)** by **xQc**<br>30,768명 시청  - Grand Theft Auto V
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ironmouse-320x180.jpg)](https://twitch.tv/ironmouse)
+**[🔴DROPS ON🔴!MOUSEATHON DAY 18! ITS THE GIRL FROM FORTNITE | !omocat !fox !cheeky !ht !starforge !tts !merch !razer](https://twitch.tv/ironmouse)** by **ironmouse**<br>16,635명 시청  - Fortnite
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ddg-320x180.jpg)](https://twitch.tv/DDG)
-**[HITATHON 2: ATL - DAY 5 🍑 FT. ZAYTOVEN, BOSTON RICHEY, @BenDaDonnn, AB & MORE! 🎙️🔥](https://twitch.tv/DDG)** by **DDG**<br>24,535명 시청  - Music
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_indegnasen0706-320x180.jpg)](https://twitch.tv/布団ちゃんと申します)
+**[鬼武者 way of the sword  ビッツはいらぬ 初見プレイ←昨日は仙台行けずにすまなかった！！！放送！！！](https://twitch.tv/布団ちゃんと申します)** by **布団ちゃんと申します**<br>16,154명 시청  - Onimusha: Way of the Sword
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ironmouse-320x180.jpg)](https://twitch.tv/ironmouse)
-**[🔴DROPS ON🔴!MOUSEATHON DAY 18! ITS THE GIRL FROM FORTNITE | !omocat !fox !cheeky !ht !starforge !tts !merch !razer](https://twitch.tv/ironmouse)** by **ironmouse**<br>18,988명 시청  - Fortnite
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stylishnoob4-320x180.jpg)](https://twitch.tv/stylishnoob4)
+**[親指5日目👍](https://twitch.tv/stylishnoob4)** by **stylishnoob4**<br>14,697명 시청  - Apex Legends
 
 
 ---
-: 마지막 업데이트: 2026-09-19 05:22 UTC
+: 마지막 업데이트: 2026-09-19 10:03 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
