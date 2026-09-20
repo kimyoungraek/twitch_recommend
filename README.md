@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[WARDOGS | w/ Gingy x Habibi X Gimmick X Hutch | SLUR SATURDAY | Poop In My Mouth | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>41,837명 시청  - WARDOGS
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[おはようございます](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>28,529명 시청  - Just Chatting
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ddg-320x180.jpg)](https://twitch.tv/DDG)
-**[HITATHON 2: ATL - DAY 6 🍑 FT. PLUTO, 42 DUGG + MORE SPECIAL GUESTS 🎙️🔥🎶](https://twitch.tv/DDG)** by **DDG**<br>18,722명 시청  - Music
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ramzes-320x180.jpg)](https://twitch.tv/ramzes)
+**[Conventus Stellarum [1:0] Xtreme Gaming | PGL Wallachia Season 9: Group Stage | BO3 | /w  @afoninje !tg !win !playerok !втб !up](https://twitch.tv/ramzes)** by **ramzes**<br>18,397명 시청  - Dota 2
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_brucedropemoff-320x180.jpg)](https://twitch.tv/BruceDropEmOff)
-**[🍏A STREAM A DAY🍏 MAKES DEO HOORAY 🍏 GAMES 🍏 LAUGHS 🍏 JOY 🍏 GTA6 SUB GIVEAWAY 🍏 CONTENTTTT 🍏 CLICK HERE FOR GOOD LUCK 🍏](https://twitch.tv/BruceDropEmOff)** by **BruceDropEmOff**<br>15,887명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_summit1g-320x180.jpg)](https://twitch.tv/summit1g)
+**[DROPS WoW Forever. 20 rogue dungeons - !starforge @StarforgeSystems](https://twitch.tv/summit1g)** by **summit1g**<br>16,291명 시청  - World of Warcraft
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_yourragegaming-320x180.jpg)](https://twitch.tv/yourragegaming)
-**[MAJOR UPDATES!!!! PULLUP!!! DESKTOP ESKETIITTTT.. LETS TALK!!!](https://twitch.tv/yourragegaming)** by **yourragegaming**<br>14,691명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ironmouse-320x180.jpg)](https://twitch.tv/ironmouse)
+**[!MOUSEATHON DAY 19! 50% TO IMMUNE DEFICIENCY FOUNDATION! | !youtooz !omocat !fox !cheeky !ht !starforge !tts !merch !razer](https://twitch.tv/ironmouse)** by **ironmouse**<br>14,295명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_moonmoon-320x180.jpg)](https://twitch.tv/MOONMOON)
-**[[hardcore] first time | no map | world delete on death | no help](https://twitch.tv/MOONMOON)** by **MOONMOON**<br>14,595명 시청  - Valheim
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stylishnoob4-320x180.jpg)](https://twitch.tv/stylishnoob4)
+**[今日も 親指 なんだ ごめんな。親指6日目👍](https://twitch.tv/stylishnoob4)** by **stylishnoob4**<br>13,073명 시청  - Apex Legends
 
 
 ---
-: 마지막 업데이트: 2026-09-20 03:54 UTC
+: 마지막 업데이트: 2026-09-20 08:57 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
