@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[体調上向き](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>36,143명 시청  - Just Chatting
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_illojuan-320x180.jpg)](https://twitch.tv/IlloJuan)
+**[LA ANTESALA A SAN ANDREAS 🌴 CALVOS 👩‍🦲 RACISTAS 🥀 Y NOSTÁLGICOS 🚫 - Grand Theft Auto IV: The Lost and Damned [Completo]](https://twitch.tv/IlloJuan)** by **IlloJuan**<br>34,770명 시청  - Just Chatting
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ramzes-320x180.jpg)](https://twitch.tv/ramzes)
-**[Conventus Stellarum [0:1] 1w Team | PGL Wallachia Season 9: Group Stage | BO3 | /w @afoninje @icebergdoto !tg !win !playerok !втб !up](https://twitch.tv/ramzes)** by **ramzes**<br>25,551명 시청  - Dota 2
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_anarabdullaev-320x180.jpg)](https://twitch.tv/anarabdullaev)
+**[Мы у деда в деревне /w Лера, Эксити, Огр, Саня поколение](https://twitch.tv/anarabdullaev)** by **anarabdullaev**<br>32,624명 시청  - IRL
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ow_esports_jp-320x180.jpg)](https://twitch.tv/OW_ESPORTS_JP)
-**[REV vs PNHB OWCS ASIA l JAPAN STAGE 3 WEEK 1 DAY 1](https://twitch.tv/OW_ESPORTS_JP)** by **OW_ESPORTS_JP**<br>22,415명 시청  - Overwatch
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_nico_la-320x180.jpg)](https://twitch.tv/Nico_la)
+**[30 JOURS POUR FAIRE DAKAR-PARIS SANS AVION - JOUR 2 (@byilhann et @flamby) !site !prime !revolut !jd !airup !macif Publicité](https://twitch.tv/Nico_la)** by **Nico_la**<br>30,753명 시청  - IRL
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stylishnoob4-320x180.jpg)](https://twitch.tv/stylishnoob4)
-**[なあ、昨日はキレてごめんな。俺、変わるからさ。スロットもやめるよ。親指7日👍 with jasper vodka](https://twitch.tv/stylishnoob4)** by **stylishnoob4**<br>21,923명 시청  - Apex Legends
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_papaplatte-320x180.jpg)](https://twitch.tv/Papaplatte)
+**[⭐ GEILER MANN MACHT GEILE SACHEN ⭐](https://twitch.tv/Papaplatte)** by **Papaplatte**<br>28,533명 시청  - MECCHA CHAMELEON
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_nico_la-320x180.jpg)](https://twitch.tv/Nico_la)
-**[30 JOURS POUR FAIRE DAKAR-PARIS SANS AVION - JOUR 2 (@byilhann et @flamby) !site !prime !revolut !jd !airup](https://twitch.tv/Nico_la)** by **Nico_la**<br>19,969명 시청  - IRL
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-320x180.jpg)](https://twitch.tv/StRoGo)
+**[🔴 WW 0:0 Phantom Academy | bo3 | Exort Fiesta Series 2 | @m3wsu @keliencs @hypetried @ryujincs1 | Комментатор: @shadowkekw @skywhywalker](https://twitch.tv/StRoGo)** by **StRoGo**<br>27,769명 시청  - Counter-Strike
 
 
 ---
-: 마지막 업데이트: 2026-09-21 11:37 UTC
+: 마지막 업데이트: 2026-09-21 17:34 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
