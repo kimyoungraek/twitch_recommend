@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
-**[🟨SPOOKY TIME🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>57,521명 시청  - The Plant Shop
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[体調上向き](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>36,143명 시청  - Just Chatting
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
-**[🐅LIVE🐅DRAMA🐅NEWS🐅STUFF🐅GTA 5🐅SECRET UNVEILED🐅TODAY🐅RIDDLE WILL BE FINISHED🐅FOLLOW THE E🐅 EEEEEE🐅 EEEEEEE🐅EEEE🐅](https://twitch.tv/xQc)** by **xQc**<br>31,753명 시청  - Grand Theft Auto V
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ramzes-320x180.jpg)](https://twitch.tv/ramzes)
+**[Conventus Stellarum [0:1] 1w Team | PGL Wallachia Season 9: Group Stage | BO3 | /w @afoninje @icebergdoto !tg !win !playerok !втб !up](https://twitch.tv/ramzes)** by **ramzes**<br>25,551명 시청  - Dota 2
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ddg-320x180.jpg)](https://twitch.tv/DDG)
-**[HITATHON 2: ATL - DAY 7 🍑 FT. RICH THE KID, BELLY GANG, JACQUEES, K CAMP + MORE SPECIAL GUESTS 🎙️🔥🎶](https://twitch.tv/DDG)** by **DDG**<br>18,074명 시청  - IRL
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ow_esports_jp-320x180.jpg)](https://twitch.tv/OW_ESPORTS_JP)
+**[REV vs PNHB OWCS ASIA l JAPAN STAGE 3 WEEK 1 DAY 1](https://twitch.tv/OW_ESPORTS_JP)** by **OW_ESPORTS_JP**<br>22,415명 시청  - Overwatch
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_washingmachinemmm-320x180.jpg)](https://twitch.tv/WashingMachineMMM)
-**[The Last Ride I 24 Hours in Mordhau I !Discord](https://twitch.tv/WashingMachineMMM)** by **WashingMachineMMM**<br>15,965명 시청  - MORDHAU
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stylishnoob4-320x180.jpg)](https://twitch.tv/stylishnoob4)
+**[なあ、昨日はキレてごめんな。俺、変わるからさ。スロットもやめるよ。親指7日👍 with jasper vodka](https://twitch.tv/stylishnoob4)** by **stylishnoob4**<br>21,923명 시청  - Apex Legends
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_esfandtv-320x180.jpg)](https://twitch.tv/EsfandTV)
-**[💰 BETA KEYS 💰 Level 20 Paladin Things! | @esfandtv all socials !schedule !classicast](https://twitch.tv/EsfandTV)** by **EsfandTV**<br>11,736명 시청  - World of Warcraft
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_nico_la-320x180.jpg)](https://twitch.tv/Nico_la)
+**[30 JOURS POUR FAIRE DAKAR-PARIS SANS AVION - JOUR 2 (@byilhann et @flamby) !site !prime !revolut !jd !airup](https://twitch.tv/Nico_la)** by **Nico_la**<br>19,969명 시청  - IRL
 
 
 ---
-: 마지막 업데이트: 2026-09-21 05:44 UTC
+: 마지막 업데이트: 2026-09-21 11:37 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
