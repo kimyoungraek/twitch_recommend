@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
-**[⚠️LIVE⚠️DRAMA⚠️NEWS⚠️GTA⚠️DANGER⚠️BIG DAY TODAY⚠️IMPORTANT⚠️ALERT⚠️BIG BIG DAY⚠️DONT MISS IT⚠️THINGSHAPPENING TODAY⚠️BROADCAST ANNOUNCEMENT](https://twitch.tv/xQc)** by **xQc**<br>25,745명 시청  - Grand Theft Auto V
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[だいぶ体調良くなりし男](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>32,031명 시청  - Just Chatting
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_buddha-320x180.jpg)](https://twitch.tv/buddha)
-**[Lang Buddha | NoPixel V | Watch NoPixel News Ep. 2 out NOW! !news](https://twitch.tv/buddha)** by **buddha**<br>16,601명 시청  - Grand Theft Auto V
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ramzes-320x180.jpg)](https://twitch.tv/ramzes)
+**[LGD Gaming [0:0] MOUZ | PGL Wallachia Season 9: Group Stage | BO3 | /w @afoninje @vtunedota @icebergdoto !tg !win !playerok !втб !up](https://twitch.tv/ramzes)** by **ramzes**<br>29,295명 시청  - Dota 2
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_batora324-320x180.jpg)](https://twitch.tv/バトラ)
-**[キングダムハーツやる #2 ぷーさんに出会ったところから ネタバレ注意](https://twitch.tv/バトラ)** by **バトラ**<br>11,404명 시청  - Kingdom Hearts HD 1.5 + 2.5 ReMIX
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
+**[でか歩く](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>24,813명 시청  - Big Walk
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_summit1g-320x180.jpg)](https://twitch.tv/summit1g)
-**[DROPS WoW Forever. - !starforge @StarforgeSystems](https://twitch.tv/summit1g)** by **summit1g**<br>9,720명 시청  - World of Warcraft
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stylishnoob4-320x180.jpg)](https://twitch.tv/stylishnoob4)
+**[えぺ!!! プラチナは重い。ゴールドに帰りたい・・・](https://twitch.tv/stylishnoob4)** by **stylishnoob4**<br>19,641명 시청  - Apex Legends
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ironmouse-320x180.jpg)](https://twitch.tv/ironmouse)
-**[!MOUSEATHON DAY 22! 50% TO IMMUNE DEFICIENCY FOUNDATION! | !youtooz !omocat !fox !cheeky !ht !starforge !tts !merch !razer](https://twitch.tv/ironmouse)** by **ironmouse**<br>9,167명 시청  - Just Chatting
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_nico_la-320x180.jpg)](https://twitch.tv/Nico_la)
+**[30 JOURS POUR FAIRE DAKAR-PARIS SANS AVION - JOUR 4 (@byilhann et @flamby) !site !prime !revolut !jd !airup !macif *Publicité*](https://twitch.tv/Nico_la)** by **Nico_la**<br>18,121명 시청  - IRL
 
 
 ---
-: 마지막 업데이트: 2026-09-23 07:05 UTC
+: 마지막 업데이트: 2026-09-23 13:11 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
