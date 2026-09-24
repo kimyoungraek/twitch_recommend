@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
-**[🟨SPOOKY TIME🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>54,426명 시청  - Games + Demos
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gofns-320x180.jpg)](https://twitch.tv/GOFNS)
+**[EG FNS | PRX vs Team Liquid - VCT Champions Group Stage #VCTWatchparty | !vote !inzone](https://twitch.tv/GOFNS)** by **GOFNS**<br>44,040명 시청  - VALORANT
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
-**[☘️LIVE☘️HERE☘️LOCK IN☘️DRAMA☘️NEWS☘️VIDEOS☘️GAMES☘️IMPORTANT☘️MEGA DAY☘️PUZZLE SOLVING☘️AND STUFF☘️ALERT☘️](https://twitch.tv/xQc)** by **xQc**<br>30,218명 시청  - Grand Theft Auto V
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_valorant-320x180.jpg)](https://twitch.tv/VALORANT)
+**[TL vs. PRX — VALORANT Champions Shanghai — Opening Day](https://twitch.tv/VALORANT)** by **VALORANT**<br>35,327명 시청  - VALORANT
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[FIRST TIME PLAYING VALHEIM | HUTCHMF X GIMMICK | PARTY GAMES LATER | WACKADOODLE WEDNESDAY | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>29,579명 시청  - Valheim
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ramzes-320x180.jpg)](https://twitch.tv/ramzes)
+**[Natus Vincere [0:1] LGD Gaming | PGL Wallachia Season 9: Playoffs UB Quarterfinals | BO3 | /w @afoninje  !tg !win !playerok !втб !up](https://twitch.tv/ramzes)** by **ramzes**<br>26,398명 시청  - Dota 2
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_buddha-320x180.jpg)](https://twitch.tv/buddha)
-**[Lang Buddha | NoPixel V | Watch NoPixel News Ep. 2:  https://youtu.be/vvLTkU6opeQ !news](https://twitch.tv/buddha)** by **buddha**<br>11,703명 시청  - Grand Theft Auto V
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stylishnoob4-320x180.jpg)](https://twitch.tv/stylishnoob4)
+**[俺には時間がない、休む暇はないんだ](https://twitch.tv/stylishnoob4)** by **stylishnoob4**<br>16,319명 시청  - Apex Legends
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_summit1g-320x180.jpg)](https://twitch.tv/summit1g)
-**[DROPS WoW Forever. - !starforge @StarforgeSystems](https://twitch.tv/summit1g)** by **summit1g**<br>9,763명 시청  - World of Warcraft
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_dota2_paragon_ru-320x180.jpg)](https://twitch.tv/dota2_paragon_ru)
+**[LGD Gaming [1:0] Natus Vincere | PGL Wallachia S9: Playoffs | BO3 | @Jamclub & @Santadoto](https://twitch.tv/dota2_paragon_ru)** by **dota2_paragon_ru**<br>14,651명 시청  - Dota 2
 
 
 ---
-: 마지막 업데이트: 2026-09-24 05:42 UTC
+: 마지막 업데이트: 2026-09-24 10:52 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
