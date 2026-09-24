@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gofns-320x180.jpg)](https://twitch.tv/GOFNS)
-**[EG FNS | PRX vs Team Liquid - VCT Champions Group Stage #VCTWatchparty | !vote !inzone](https://twitch.tv/GOFNS)** by **GOFNS**<br>44,040명 시청  - VALORANT
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kanae_2434-320x180.jpg)](https://twitch.tv/叶ちゃんねる)
+**[無馬](https://twitch.tv/叶ちゃんねる)** by **叶ちゃんねる**<br>28,256명 시청  - Grand Theft Auto V
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_valorant-320x180.jpg)](https://twitch.tv/VALORANT)
-**[TL vs. PRX — VALORANT Champions Shanghai — Opening Day](https://twitch.tv/VALORANT)** by **VALORANT**<br>35,327명 시청  - VALORANT
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-320x180.jpg)](https://twitch.tv/StRoGo)
+**[🔴 WW 0:1 Leo | bo3 | CCT 2026 Europe Series #9 | @m3wsu @keliencs @hypetried @ryujincs1 | Комментатор: @des0ut @skywhywalker](https://twitch.tv/StRoGo)** by **StRoGo**<br>26,517명 시청  - Counter-Strike
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ramzes-320x180.jpg)](https://twitch.tv/ramzes)
-**[Natus Vincere [0:1] LGD Gaming | PGL Wallachia Season 9: Playoffs UB Quarterfinals | BO3 | /w @afoninje  !tg !win !playerok !втб !up](https://twitch.tv/ramzes)** by **ramzes**<br>26,398명 시청  - Dota 2
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[話してAPEXして寝る](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>25,747명 시청  - Apex Legends
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stylishnoob4-320x180.jpg)](https://twitch.tv/stylishnoob4)
-**[俺には時間がない、休む暇はないんだ](https://twitch.tv/stylishnoob4)** by **stylishnoob4**<br>16,319명 시청  - Apex Legends
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_anarabdullaev-320x180.jpg)](https://twitch.tv/anarabdullaev)
+**[Гуляем по Краснодару, Люда пришла на стрим, Лера Эксити Огр Саня Кореец Дрон Карина](https://twitch.tv/anarabdullaev)** by **anarabdullaev**<br>22,835명 시청  - IRL
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_dota2_paragon_ru-320x180.jpg)](https://twitch.tv/dota2_paragon_ru)
-**[LGD Gaming [1:0] Natus Vincere | PGL Wallachia S9: Playoffs | BO3 | @Jamclub & @Santadoto](https://twitch.tv/dota2_paragon_ru)** by **dota2_paragon_ru**<br>14,651명 시청  - Dota 2
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_nico_la-320x180.jpg)](https://twitch.tv/Nico_la)
+**[30 JOURS POUR FAIRE DAKAR-PARIS SANS AVION - JOUR 5 (@byilhann et @flamby) !site !prime !revolut !jd !airup !macif *Publicité*](https://twitch.tv/Nico_la)** by **Nico_la**<br>21,451명 시청  - IRL
 
 
 ---
-: 마지막 업데이트: 2026-09-24 10:52 UTC
+: 마지막 업데이트: 2026-09-24 15:38 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
