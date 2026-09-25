@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[APEXﾌﾙﾊﾟﾜｰ](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>28,580명 시청  - Apex Legends
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
+**[🔴LCS ELIMINATION FLY VS SR FT @ludwig 🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>57,035명 시청  - League of Legends
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ohnepixel-320x180.jpg)](https://twitch.tv/ohnePixel)
-**[🔴MINECRAFT'S RAREST SEEDS🔴](https://twitch.tv/ohnePixel)** by **ohnePixel**<br>27,988명 시청  - Minecraft
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tumblurr-320x180.jpg)](https://twitch.tv/Tumblurr)
+**[👔ANNUNCIO ZETA MILANO⚫⚪🔴REACTIONS CALDE🔥DONNA SIMULATOR🤢SORPRESE👀](https://twitch.tv/Tumblurr)** by **Tumblurr**<br>45,490명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_anarabdullaev-320x180.jpg)](https://twitch.tv/anarabdullaev)
-**[Квест «Аномалия» от компании Scream Island с друзьями](https://twitch.tv/anarabdullaev)** by **anarabdullaev**<br>23,561명 시청  - IRL
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
+**[[DROPS ON] UNBANNED WOW FOREVER TABARDIZATION DAY BETA CONTROL RESONANT BIG DAY HUGE DRAMA  TODAY NEW GAMES BIG NEWS  REACTS | @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>44,784명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_auronplay-320x180.jpg)](https://twitch.tv/auronplay)
-**[MODO FIFAS - CLUBES PRO con los DEDEADORES](https://twitch.tv/auronplay)** by **auronplay**<br>23,318명 시청  - EA Sports FC 27
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eliasn97-320x180.jpg)](https://twitch.tv/eliasn97)
+**[EAFC 27 GRIND 🔥 | !iconleague !doku !eligella  !gaming](https://twitch.tv/eliasn97)** by **eliasn97**<br>28,014명 시청  - EA Sports FC 27
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
-**[🔴IS THIS MAN HUMAN? HOW IS HE THAT GOOD? - SOLOQ LEARNING NEW PATCHES // VOD REVIEWING // WSCI EU GAMES // LCS LATER TONIGHT WITH LUDWIG🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>22,786명 시청  - League of Legends
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
+**[[630/730] 🔴 REACTS -> NO PIXEL RP DAY 2 🔴](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>25,841명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2026-09-25 17:40 UTC
+: 마지막 업데이트: 2026-09-25 20:56 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
