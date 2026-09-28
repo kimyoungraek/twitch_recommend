@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[妹に運転教えるゲームやって早く寝ろ](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>45,519명 시청  - Teach My Little Sister How to Drive
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eliasn97-320x180.jpg)](https://twitch.tv/eliasn97)
+**[Halbfinale 1. Eligella Cup in EA FC 27🔥 | !ninja !iconleague !doku !eligella  !gaming](https://twitch.tv/eliasn97)** by **eliasn97**<br>64,354명 시청  - EA Sports FC 27
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
-**[あぺっくす おれはよわい](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>24,414명 시청  - Big Walk
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tumblurr-320x180.jpg)](https://twitch.tv/Tumblurr)
+**[⚽️BINGO FIFA 27 CON ZANO E MARZA💰300€ DI PACCHI🤑REACTIONS💥](https://twitch.tv/Tumblurr)** by **Tumblurr**<br>51,581명 시청  - EA Sports FC 27
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_nico_la-320x180.jpg)](https://twitch.tv/Nico_la)
-**[30 JOURS POUR FAIRE DAKAR-PARIS SANS AVION - JOUR 9 (@byilhann et @flamby) !site !prime !revolut !jd !airup !macif *Publicité*](https://twitch.tv/Nico_la)** by **Nico_la**<br>19,775명 시청  - IRL
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
+**[[DROPS ON] UNBANNED WOW FOREVER  BETA ACE COMBAT RELEASE BIG DAY HUGE DRAMA  TODAY NEW GAMES BIG NEWS  REACTS | @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>46,705명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stariy_bog-320x180.jpg)](https://twitch.tv/stariy_bog)
-**[1win Private Club | Ninjas in Pyjamas [0] vs [0] GamerLegion | Grand Final | Bo5 | w/ @zloba113 @baz1221](https://twitch.tv/stariy_bog)** by **stariy_bog**<br>15,729명 시청  - Counter-Strike
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_illojuan-320x180.jpg)](https://twitch.tv/IlloJuan)
+**[LLAMADITA DE ROCKSTAR 📞 EN BUSCA Y CAPTURA 🚨 DÍA 2 EN SAN ANDREAS 🚬 - Grand Theft Auto: San Andreas 2026 #2](https://twitch.tv/IlloJuan)** by **IlloJuan**<br>34,755명 시청  - Grand Theft Auto: San Andreas
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-320x180.jpg)](https://twitch.tv/StRoGo)
-**[🔴 ЛУЧШИЙ СНАЙПЕР 2026 💀](https://twitch.tv/StRoGo)** by **StRoGo**<br>15,529명 시청  - Counter-Strike
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
+**[[633/730] 🔴 SOLO TO CHAMPION PC 🔴](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>34,367명 시청  - Rainbow Six Siege
 
 
 ---
-: 마지막 업데이트: 2026-09-28 14:48 UTC
+: 마지막 업데이트: 2026-09-28 20:58 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
