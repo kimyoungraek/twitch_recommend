@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
-**[[DROPS ON] UNBANNED WOW FOREVER GRIM BATOL TODAY BETA CONTROL RESONANT BIG DAY HUGE DRAMA  TODAY NEW GAMES BIG NEWS  REACTS | @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>51,446명 시청  - World of Warcraft
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
+**[🤖LIVE🤖DRAMA🤖NEWS🤖GTA V🤖NOPIXEL V🤖 5+5 = 10🤖BIG DAY TODAY🤖BIG IMPORTANT🤖HUGE🤖DONT MISS🤖JP RUNNING THE STREETS🤖GRINDFATHER IS BACK](https://twitch.tv/xQc)** by **xQc**<br>24,522명 시청  - Grand Theft Auto V
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
-**[🤖LIVE🤖DRAMA🤖NEWS🤖GTA V🤖NOPIXEL V🤖 5+5 = 10🤖BIG DAY TODAY🤖BIG IMPORTANT🤖HUGE🤖DONT MISS🤖JP RUNNING THE STREETS🤖GRINDFATHER IS BACK](https://twitch.tv/xQc)** by **xQc**<br>42,527명 시청  - Grand Theft Auto V
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_vanillamace-320x180.jpg)](https://twitch.tv/vanillamace)
+**[cozy sunday | vivienne learns to farm? gta rp !vote](https://twitch.tv/vanillamace)** by **vanillamace**<br>14,038명 시청  - Grand Theft Auto V
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tumblurr-320x180.jpg)](https://twitch.tv/Tumblurr)
-**[🏁SDROGO CORSE🔥REACTIONS JOKER⚠️RISATE🥀DOMANI BINGO CON ZANO🤯](https://twitch.tv/Tumblurr)** by **Tumblurr**<br>28,827명 시청  - EA Sports FC 27
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ironmouse-320x180.jpg)](https://twitch.tv/ironmouse)
+**[🔴DROPS🔴!MOUSEATHON DAY 27! 50% TO IMMUNE DEFICIENCY FOUNDATION! | !glamb !youtooz !omocat !fox !cheeky !ht !starforge !tts !merch !razer](https://twitch.tv/ironmouse)** by **ironmouse**<br>13,450명 시청  - Fortnite
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
-**[💢SUNDAYFUNDAY💢LA💢HORMUZ ON FIRE💢TRUMP REJECTS IRANS PROPOSAL💢SNL SUNDAY💢SITUATION MONITOR💢](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>22,180명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_indegnasen0706-320x180.jpg)](https://twitch.tv/布団ちゃんと申します)
+**[深夜のレトロゲー ロマサガ３ レアドロドパ発掘 © SQUARE ENIX Planned & Developed by ArtePiazza ILLUSTRATION: TOMOMI KOBAYASHI 当該作品の転載・配布は禁止いたします。](https://twitch.tv/布団ちゃんと申します)** by **布団ちゃんと申します**<br>11,488명 시청  - Romancing SaGa 3
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jasontheween-320x180.jpg)](https://twitch.tv/jasontheween)
-**[🔴ALDO X HASKELL X JASON🔴IMPRACTICAL JOKERS🔴LAST NIGHT WAS EPIC🔴YAY🔴asjkdhasdjflasdb🔴](https://twitch.tv/jasontheween)** by **jasontheween**<br>19,763명 시청  - Just Chatting
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_silky-320x180.jpg)](https://twitch.tv/Silky)
+**[🪂Another Day Another Drama🪂MCU MONDAYS RETURNS TOMORROW🪂TIER LISTS🪂REACTIONS🪂DESKTOP🪂IRL🪂GAMING🪂 !core !patreon](https://twitch.tv/Silky)** by **Silky**<br>9,839명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2026-09-28 00:11 UTC
+: 마지막 업데이트: 2026-09-28 06:10 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
