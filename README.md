@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
-**[[DROPS ON] UNBANNED WOW FOREVER  BETA ACE COMBAT RELEASE BIG DAY HUGE DRAMA  TODAY NEW GAMES BIG NEWS  REACTS | @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>40,731명 시청  - ACE COMBAT 8: WINGS OF THEVE
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
+**[MONDAY FUNDAY | DAWSON OAKS TRAILER PARK | John X GIMMICK | Fart In A Bowl & Waft It My Way | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>29,756명 시청  - Dawson Oaks Trailer Park
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[MONDAY FUNDAY | CS2 | Cloakzy X John | PARTY GAMES @ 10:30 PM CT | Fart In A Bowl & Waft It My Way | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>34,972명 시청  - Counter-Strike
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[APEXをやる人々](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>20,760명 시청  - Apex Legends
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
-**[🥽LIVE🥽HERE🥽LOCK IN🥽MEGA DAY🥽GTA 5🥽NOPIXEL V🥽BUT ALSO🥽CHILL REACT WITH FOOD BEFORE🥽ULTRA DAY🥽DONT LOSE OUT🥽](https://twitch.tv/xQc)** by **xQc**<br>31,614명 시청  - Grand Theft Auto V
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_buddha-320x180.jpg)](https://twitch.tv/buddha)
+**[Lang Buddha | NoPixel V | Watch NoPixel News Ep. 3 youtu.be/WtYhvrQ02C0 !news](https://twitch.tv/buddha)** by **buddha**<br>11,453명 시청  - Grand Theft Auto V
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
-**[💢UK TERROR PLOT💢CORNELL 7💢HORMUZ CLOSED💢TRUMP REJECTS IRANS PROPOSAL💢AES SURGING💢SITUATION MONITOR💢](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>23,947명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ironmouse-320x180.jpg)](https://twitch.tv/ironmouse)
+**[!MOUSEATHON DAY 28! 50% TO IMMUNE DEFICIENCY FOUNDATION! | !glamb !youtooz !omocat !fox !cheeky !ht !starforge !tts !merch !razer](https://twitch.tv/ironmouse)** by **ironmouse**<br>10,924명 시청  - Core Keeper
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jasontheween-320x180.jpg)](https://twitch.tv/jasontheween)
-**[🔴LEARNING MINECRAFT SPEEDRUNNING WITH @FEINBERG 🔴BECOMING A PRO🔴I AM SHORT🔴](https://twitch.tv/jasontheween)** by **jasontheween**<br>14,697명 시청  - Minecraft
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_pikabooirl-320x180.jpg)](https://twitch.tv/Pikabooirl)
+**[!DROPS WOW FOREVER BETA, HUGE 100k DUEL TOURNY?? YESSSSSSS! MULTISTREAMING! !wallet #ad !youtube](https://twitch.tv/Pikabooirl)** by **Pikabooirl**<br>8,538명 시청  - World of Warcraft
 
 
 ---
-: 마지막 업데이트: 2026-09-29 00:50 UTC
+: 마지막 업데이트: 2026-09-29 06:28 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
