@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_primevideo-320x180.jpg)](https://twitch.tv/PrimeVideo)
-**[Thursday Night Football: Pittsburgh Steelers vs. Cleveland Browns – October 1st, 2026](https://twitch.tv/PrimeVideo)** by **PrimeVideo**<br>67,824명 시청  - Sports
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
+**[☂️LIVE☂️DRAMA☂️NEWS☂️VIDEOS☂️GTA V☂️NOPIXEL V☂️VERY IMPORTANT DAY☂️BIG DAY☂️MEGA DAY☂️LOCK IT IN☂️PULL UP☂️ALERT☂️RED☂️](https://twitch.tv/xQc)** by **xQc**<br>23,454명 시청  - Grand Theft Auto V
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
-**[[DROPS ON] UNBANNED WOW FOREVER  BETA LEVEL 30 BIG DAY HUGE DRAMA  TODAY NEW GAMES BIG NEWS  REACTS #AD | @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>43,010명 시청  - World of Warcraft
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_blv3dino-320x180.jpg)](https://twitch.tv/blv3dino)
+**[VIE vs TPE on Asian Games 2026 Team Vietnam vs Team Chinese Taipei – Bo5 – Asian Games 2026 – LoL 亞運會 亚运会](https://twitch.tv/blv3dino)** by **blv3dino**<br>22,415명 시청  - League of Legends
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[GEARS OF WAR: E-DAY | INSANE DIFFICULTY MARATHON | HUTCH X CLOAKZY X NICKMERCS | WHOLE CAMPAIGN, 1 STREAM | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>37,285명 시청  - Gears of War: E-Day
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[APEX＆APEX](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>20,675명 시청  - Apex Legends
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_clix-320x180.jpg)](https://twitch.tv/Clix)
-**[🏆 TRIO EVAL WITH RAPID & PETERBOT 🏆 BIZ ANNOUNCEMENT & DR3AMIN DROP LIVE 🏆 code clix for a kiss ;)](https://twitch.tv/Clix)** by **Clix**<br>35,408명 시청  - Fortnite
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ironmouse-320x180.jpg)](https://twitch.tv/ironmouse)
+**[🔴DROPS🔴!MOUSEATHON DAY 31! TIMER CAPPED AND BACK TO #4 ALL TIME | !glamb !youtooz !omocat !fox !cheeky !ht !starforge !tts !merch !razer](https://twitch.tv/ironmouse)** by **ironmouse**<br>13,955명 시청  - Rust
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stableronaldo-320x180.jpg)](https://twitch.tv/stableronaldo)
-**[🐈‍⬛LIL GAMES w/ LAIYS🐈‍⬛DECORATED MY ROOM 🐈‍⬛BO2 w/ ADAPT & RUG LATER🐈‍⬛ OCTOBER 🐈‍⬛ [twitter/insta stableronaldo] !po !com !sub](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>29,030명 시청  - Fortnite
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_buddha-320x180.jpg)](https://twitch.tv/buddha)
+**[Lang Buddha | NoPixel V | Watch NoPixel News Ep. 3 youtu.be/WtYhvrQ02C0 !news](https://twitch.tv/buddha)** by **buddha**<br>11,508명 시청  - Grand Theft Auto V
 
 
 ---
-: 마지막 업데이트: 2026-10-02 00:23 UTC
+: 마지막 업데이트: 2026-10-02 06:30 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
