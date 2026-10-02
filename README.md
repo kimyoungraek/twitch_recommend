@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
-**[☂️LIVE☂️DRAMA☂️NEWS☂️VIDEOS☂️GTA V☂️NOPIXEL V☂️VERY IMPORTANT DAY☂️BIG DAY☂️MEGA DAY☂️LOCK IT IN☂️PULL UP☂️ALERT☂️RED☂️](https://twitch.tv/xQc)** by **xQc**<br>23,454명 시청  - Grand Theft Auto V
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gofns-320x180.jpg)](https://twitch.tv/GOFNS)
+**[EG FNS | T1 vs JDG - VCT Champions Group Stage Elimination #VCTWatchparty | !vote !inzone !noYT](https://twitch.tv/GOFNS)** by **GOFNS**<br>41,159명 시청  - VALORANT
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_blv3dino-320x180.jpg)](https://twitch.tv/blv3dino)
-**[VIE vs TPE on Asian Games 2026 Team Vietnam vs Team Chinese Taipei – Bo5 – Asian Games 2026 – LoL 亞運會 亚运会](https://twitch.tv/blv3dino)** by **blv3dino**<br>22,415명 시청  - League of Legends
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[CRカップスクリムDAY２](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>38,612명 시청  - Apex Legends
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[APEX＆APEX](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>20,675명 시청  - Apex Legends
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_valorant-320x180.jpg)](https://twitch.tv/VALORANT)
+**[T1 vs. JDG  — VALORANT Champions Shanghai — Group Stage](https://twitch.tv/VALORANT)** by **VALORANT**<br>26,679명 시청  - VALORANT
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ironmouse-320x180.jpg)](https://twitch.tv/ironmouse)
-**[🔴DROPS🔴!MOUSEATHON DAY 31! TIMER CAPPED AND BACK TO #4 ALL TIME | !glamb !youtooz !omocat !fox !cheeky !ht !starforge !tts !merch !razer](https://twitch.tv/ironmouse)** by **ironmouse**<br>13,955명 시청  - Rust
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
+**[crcupスクリム今日こそは](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>25,271명 시청  - Apex Legends
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_buddha-320x180.jpg)](https://twitch.tv/buddha)
-**[Lang Buddha | NoPixel V | Watch NoPixel News Ep. 3 youtu.be/WtYhvrQ02C0 !news](https://twitch.tv/buddha)** by **buddha**<br>11,508명 시청  - Grand Theft Auto V
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kanae_2434-320x180.jpg)](https://twitch.tv/叶ちゃんねる)
+**[夏苗](https://twitch.tv/叶ちゃんねる)** by **叶ちゃんねる**<br>20,258명 시청  - Grand Theft Auto V
 
 
 ---
-: 마지막 업데이트: 2026-10-02 06:30 UTC
+: 마지막 업데이트: 2026-10-02 13:24 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
