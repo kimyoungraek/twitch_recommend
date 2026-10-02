@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gofns-320x180.jpg)](https://twitch.tv/GOFNS)
-**[EG FNS | T1 vs JDG - VCT Champions Group Stage Elimination #VCTWatchparty | !vote !inzone !noYT](https://twitch.tv/GOFNS)** by **GOFNS**<br>41,159명 시청  - VALORANT
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
+**[[DROPS ON] UNBANNED WOW FOREVER  BETA LEVEL 30 BIG DAY HUGE DRAMA  TODAY NEW GAMES BIG NEWS  REACTS #AD | @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>37,227명 시청  - Just Chatting
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[CRカップスクリムDAY２](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>38,612명 시청  - Apex Legends
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ohnepixel-320x180.jpg)](https://twitch.tv/ohnePixel)
+**[🔴NEW GRAN DLC (CHAT FORCED ME TO PLAY THIS)🔴](https://twitch.tv/ohnePixel)** by **ohnePixel**<br>24,005명 시청  - Five Hearts Under One Roof 2
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_valorant-320x180.jpg)](https://twitch.tv/VALORANT)
-**[T1 vs. JDG  — VALORANT Champions Shanghai — Group Stage](https://twitch.tv/VALORANT)** by **VALORANT**<br>26,679명 시청  - VALORANT
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_solo-320x180.jpg)](https://twitch.tv/Solo)
+**[🔴 BETBOOM Team [1:0] OG | BLAST SLAM VIII: Group Stage /w @alberkaaaa !BETBOOM !tg !розыгрыш](https://twitch.tv/Solo)** by **Solo**<br>23,682명 시청  - Dota 2
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
-**[crcupスクリム今日こそは](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>25,271명 시청  - Apex Legends
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
+**[[637/730] 🔴 OPENING FANMAIL -> HARDCORE MINECRAFT PRACTICE DAY 3 🔴](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>23,059명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kanae_2434-320x180.jpg)](https://twitch.tv/叶ちゃんねる)
-**[夏苗](https://twitch.tv/叶ちゃんねる)** by **叶ちゃんねる**<br>20,258명 시청  - Grand Theft Auto V
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gronkh-320x180.jpg)](https://twitch.tv/GRONKH)
+**[Hurra, der #FREiAB18 Stream ist da! ⭐ !abyss !1004 !spotify !vod !pc !holy !hyperx](https://twitch.tv/GRONKH)** by **GRONKH**<br>21,851명 시청  - End of Abyss
 
 
 ---
-: 마지막 업데이트: 2026-10-02 13:24 UTC
+: 마지막 업데이트: 2026-10-02 18:50 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
