@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
-**[[DROPS ON] UNBANNED WOW FOREVER  BETA LEVEL 30 BIG DAY HUGE DRAMA  TODAY NEW GAMES BIG NEWS  REACTS #AD | @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>32,363명 시청  - World of Warcraft
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
+**[🔴DEMACIA CUP VIT VS GAM🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>32,583명 시청  - League of Legends
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stylishnoob4-320x180.jpg)](https://twitch.tv/stylishnoob4)
-**[この二次会で最初に寝たやつが真の最下位ってまじ？](https://twitch.tv/stylishnoob4)** by **stylishnoob4**<br>24,115명 시청  - Street Fighter 6
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_indegnasen0706-320x180.jpg)](https://twitch.tv/布団ちゃんと申します)
+**[ポイント賭けFPS！←雑談ヒゲクソ爺、放送！](https://twitch.tv/布団ちゃんと申します)** by **布団ちゃんと申します**<br>15,577명 시청  - PUBG: BATTLEGROUNDS
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_vanillamace-320x180.jpg)](https://twitch.tv/vanillamace)
-**[VIVI VEGAS GOES TO JAIL....?](https://twitch.tv/vanillamace)** by **vanillamace**<br>22,061명 시청  - Grand Theft Auto V
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_summit1g-320x180.jpg)](https://twitch.tv/summit1g)
+**[GEARING UP. WOW FOREVER 30 SHAMAN. - !starforge @StarforgeSystems](https://twitch.tv/summit1g)** by **summit1g**<br>10,707명 시청  - World of Warcraft
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
-**[💢SUNDAY FUNDAY💢SNL SUNDAY!!!💢MIDTERM MANIA💢BRAZIL ELECTIONS💢DRAMA💢💢SITUATION MONITOR💢](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>21,847명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ironmouse-320x180.jpg)](https://twitch.tv/ironmouse)
+**[!MOUSEATHON DAY 34! TIMER CAPPED! ALL DONE ON WED | !glamb !youtooz !omocat !fox !cheeky !ht !starforge !tts !merch !razer](https://twitch.tv/ironmouse)** by **ironmouse**<br>9,592명 시청  - Project P.I.T.T.
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
-**[2次会OW](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>18,408명 시청  - Street Fighter 6
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_pikabooirl-320x180.jpg)](https://twitch.tv/Pikabooirl)
+**[WOW FOREVER BETA GAMING???? HUGE 100k DUEL TOURNY?? YESSSSSSS! MULTISTREAMING! !wallet #ad !youtube](https://twitch.tv/Pikabooirl)** by **Pikabooirl**<br>9,267명 시청  - World of Warcraft
 
 
 ---
-: 마지막 업데이트: 2026-10-05 01:26 UTC
+: 마지막 업데이트: 2026-10-05 08:02 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
