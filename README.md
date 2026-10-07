@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-320x180.jpg)](https://twitch.tv/StRoGo)
-**[🔴 NAVI 1:0 PV | ESL Pro League Season 24](https://twitch.tv/StRoGo)** by **StRoGo**<br>42,562명 시청  - Counter-Strike
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
+**[[640/730] 🔴 DROPS ON 🔴 PLAYING HARDCORE MINECRAFT UNTIL WE BEAT IT 🔴 W/ LOS & RON 🔴 DAY 3 🔴](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>52,040명 시청  - Minecraft
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eslcs-320x180.jpg)](https://twitch.tv/ESLCS)
-**[LIVE: Natus Vincere vs. PARIVISION - ESL Pro League Season 24 - Group Stage](https://twitch.tv/ESLCS)** by **ESLCS**<br>34,424명 시청  - Counter-Strike
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
+**[[DROPS ON] UNBANNED WOW FOREVER  BETA BIG DAY HUGE DRAMA  TODAY NEW GAMES BIG NEWS  REACTS #AD | @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>41,648명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stableronaldo-320x180.jpg)](https://twitch.tv/stableronaldo)
-**[💎HARDCORE MINECRAFT MARATHON 💎JYNXZI X LOS 💎DAY 3💎EXCLUSIVE DROPS💎SUB FOR EXCLUSIVE BADGE💎twitter/insta stableronaldo] !com !sub](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>27,915명 시청  - Minecraft
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tumblurr-320x180.jpg)](https://twitch.tv/Tumblurr)
+**[🏆🫪TORNEO POSSIBILISTICO🥱⁉️NUOVO TORNEO⁉️ PERROTTI AGLI STALLIONS👑](https://twitch.tv/Tumblurr)** by **Tumblurr**<br>41,252명 시청  - Rocket League
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[640/730] 🔴 DROPS ON 🔴 PLAYING HARDCORE MINECRAFT UNTIL WE BEAT IT 🔴 W/ LOS & RON 🔴 DAY 3 🔴](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>26,565명 시청  - Minecraft
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stableronaldo-320x180.jpg)](https://twitch.tv/stableronaldo)
+**[💎HARDCORE MINECRAFT MARATHON 💎JYNXZI X LOS 💎DAY 3💎EXCLUSIVE DROPS💎SUB FOR EXCLUSIVE BADGE💎twitter/insta stableronaldo] !com !sub](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>33,589명 시청  - Minecraft
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
-**[ぶいすぽGGにでる /w くらっち じにあす スシガキ](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>21,154명 시청  - PUBG: BATTLEGROUNDS
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eliasn97-320x180.jpg)](https://twitch.tv/eliasn97)
+**[EAFC Grind 🔥 |  !iconleague !doku !eligella !gaming](https://twitch.tv/eliasn97)** by **eliasn97**<br>28,965명 시청  - EA Sports FC 27
 
 
 ---
-: 마지막 업데이트: 2026-10-07 15:56 UTC
+: 마지막 업데이트: 2026-10-07 20:59 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
