@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[[DROPS] ARC RAIDERS | FROZEN TRAIL | CLOAKZY X DRAC | SLUR SATURDAY | SUPER WEAPONS TODAY | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>44,776명 시청  - ARC Raiders
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sondergaardlol-320x180.jpg)](https://twitch.tv/SondergaardLol)
+**[SØNDERTHON 2.0 DAG 1 - !reklame +18](https://twitch.tv/SondergaardLol)** by **SondergaardLol**<br>67,801명 시청  - Just Chatting
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[ARC RAIDERSに帰ってきた男3日目～今日こそちゃんとやります編～](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>28,223명 시청  - ARC Raiders
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_papaplatte-320x180.jpg)](https://twitch.tv/Papaplatte)
+**[⛏️ CRAFTATTACK TAG 2 - Die große Larpung beginnt... ⛏️ ICH HAB SO BOCK ⛏️ GRÖßTES PROJEKT JEMALS ⛏️](https://twitch.tv/Papaplatte)** by **Papaplatte**<br>49,792명 시청  - Minecraft
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
-**[🦈LIVE🦈LOCK IN🦈GTA V🦈NOPIXEL V🦈NO ONE ONLINE🦈SOLO JP IT IS🦈PULL UP🦈MEGA DAY🦈INTRO AND STUFF🦈](https://twitch.tv/xQc)** by **xQc**<br>25,609명 시청  - Grand Theft Auto V
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eliasn97-320x180.jpg)](https://twitch.tv/eliasn97)
+**[CRAFTATTACK VILLA TAG 2 🔥🇪🇸 |  !iconleague !doku !eligella !gaming](https://twitch.tv/eliasn97)** by **eliasn97**<br>41,973명 시청  - IRL
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ow_esports_jp-320x180.jpg)](https://twitch.tv/OW_ESPORTS_JP)
-**[OWCS ASIA l KOREA STAGE 3 WEEK 2 DAY 3](https://twitch.tv/OW_ESPORTS_JP)** by **OW_ESPORTS_JP**<br>15,972명 시청  - Overwatch
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gofns-320x180.jpg)](https://twitch.tv/GOFNS)
+**[EG FNS | G2 vs T1 - VCT Champions Playoffs #VCTWatchparty | !vote !inzone !pickems](https://twitch.tv/GOFNS)** by **GOFNS**<br>38,397명 시청  - VALORANT
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lacy-320x180.jpg)](https://twitch.tv/Lacy)
-**[⭐ HOTBOX W/ SILKY & JAY CINCO ⭐ LATE NIGHT BALESH ⭐ KEKW ⭐ !CLIPPING !COMM](https://twitch.tv/Lacy)** by **Lacy**<br>15,397명 시청  - Just Chatting
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_trymacs-320x180.jpg)](https://twitch.tv/Trymacs)
+**[Craft Attack 14! Die 9 Titanen bauen das Unmögliche! 6 Tage Live aus Marbella!  | !Prepmymeal !ESN](https://twitch.tv/Trymacs)** by **Trymacs**<br>35,973명 시청  - Minecraft
 
 
 ---
-: 마지막 업데이트: 2026-10-11 06:41 UTC
+: 마지막 업데이트: 2026-10-11 13:41 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
