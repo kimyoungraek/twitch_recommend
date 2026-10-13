@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
-**[🔴DEMACIA CUP FLY VS WE BO5 ELIM🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>45,933명 시청  - League of Legends
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_auronplay-320x180.jpg)](https://twitch.tv/auronplay)
+**[!drop !voces 🗣 HOY SE VIENEN SORPRESAS 👀 HARDCORE CON FABIANA SEVILLANO 🗣 2](https://twitch.tv/auronplay)** by **auronplay**<br>88,686명 시청  - Minecraft
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sondergaardlol-320x180.jpg)](https://twitch.tv/SondergaardLol)
-**[SØNDERTHON 2.0 DAG 3 - !reklame !program !stream +18](https://twitch.tv/SondergaardLol)** by **SondergaardLol**<br>23,573명 시청  - Just Chatting
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_trymacs-320x180.jpg)](https://twitch.tv/Trymacs)
+**[Craft Attack 14! Die 9 Titanen bauen das Unmögliche! 6 Tage Live aus Marbella!  | !Nobomi !Prepmymeal !ESN](https://twitch.tv/Trymacs)** by **Trymacs**<br>45,229명 시청  - Minecraft
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
-**[🐌LIVE🐌LOCK IN🐌HERE🐌MEGA DAY🐌SUPER IMPORTANT🐌 QUICK🐌GTA V🐌NOPIXEL V🐌CARGO🐌COURT CASE🐌ROAD TO 10M DOLLARS🐌](https://twitch.tv/xQc)** by **xQc**<br>21,821명 시청  - Grand Theft Auto V
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sondergaardlol-320x180.jpg)](https://twitch.tv/SondergaardLol)
+**[SØNDERTHON 2.0 DAG 3 - !reklame !program !stream !boozt +18](https://twitch.tv/SondergaardLol)** by **SondergaardLol**<br>43,726명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[まずは話そうよ！ねぇ！！](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>20,968명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eliasn97-320x180.jpg)](https://twitch.tv/eliasn97)
+**[CRAFTATTACK VILLA TAG 4 🔥🇪🇸 |  !iconleague !doku !eligella !gaming](https://twitch.tv/eliasn97)** by **eliasn97**<br>40,930명 시청  - Minecraft
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stylishnoob4-320x180.jpg)](https://twitch.tv/stylishnoob4)
-**[おはようからおやすみまで うお](https://twitch.tv/stylishnoob4)** by **stylishnoob4**<br>15,671명 시청  - AION 2
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_papaplatte-320x180.jpg)](https://twitch.tv/Papaplatte)
+**[⛏️ CRAFTATTACK TAG 4 - Die große Larpung beginnt... ⛏️ ICH HAB SO BOCK ⛏️ GRÖßTES PROJEKT JEMALS ⛏️](https://twitch.tv/Papaplatte)** by **Papaplatte**<br>33,941명 시청  - Minecraft
 
 
 ---
-: 마지막 업데이트: 2026-10-13 08:47 UTC
+: 마지막 업데이트: 2026-10-13 16:38 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
