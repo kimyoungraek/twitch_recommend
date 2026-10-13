@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sondergaardlol-320x180.jpg)](https://twitch.tv/SondergaardLol)
-**[SØNDERTHON 2.0 DAG 2 - !reklame !program !stream +18](https://twitch.tv/SondergaardLol)** by **SondergaardLol**<br>58,632명 시청  - Just Chatting
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
+**[[DROPS] ARC RAIDERS DUOS w/ GIMMICK | NEW !MERCH DROP | SUPER WEAPONS TODAY FINALLY | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>42,813명 시청  - ARC Raiders
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_trymacs-320x180.jpg)](https://twitch.tv/Trymacs)
-**[Craft Attack 14! Die 9 Titanen bauen das Unmögliche! 6 Tage Live aus Marbella!  | !Prepmymeal !ESN !Nobomi](https://twitch.tv/Trymacs)** by **Trymacs**<br>54,684명 시청  - Minecraft
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stableronaldo-320x180.jpg)](https://twitch.tv/stableronaldo)
+**[🟨TACO BELL MENU MUKBANG w/ JASON & MARLON🟨WE BACK🟨 ANNOUNCMENTS  🟨 IRL 🟨 JOIN🟨 [twitter/insta stableronaldo] !po !com !sub](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>38,913명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eliasn97-320x180.jpg)](https://twitch.tv/eliasn97)
-**[CRAFTATTACK VILLA TAG 3 🔥🇪🇸 |  !iconleague !doku !eligella !gaming](https://twitch.tv/eliasn97)** by **eliasn97**<br>49,217명 시청  - Minecraft
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
+**[🐌LIVE🐌LOCK IN🐌HERE🐌MEGA DAY🐌SUPER IMPORTANT🐌 QUICK🐌GTA V🐌NOPIXEL V🐌CARGO🐌COURT CASE🐌ROAD TO 10M DOLLARS🐌](https://twitch.tv/xQc)** by **xQc**<br>32,833명 시청  - Grand Theft Auto V
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tumblurr-320x180.jpg)](https://twitch.tv/Tumblurr)
-**[🎉EVENTO ORE⏰20:00 PRESENTAZIONE STALLIONS🐎 GIRONI KINGS CUP⏰21:00🏆TRIANGOLARE TROFEO DELL'AURA⏰21:30🏆 NO RESTREAM🔴](https://twitch.tv/Tumblurr)** by **Tumblurr**<br>48,372명 시청  - Kings League
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
+**[[DROPS ON] UNBANNED WOW FOREVER BETA HOOD WARFARE 2 BIG DAY HUGE DRAMA  TODAY NEW GAMES BIG NEWS  REACTS #AD | @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>30,244명 시청  - Hood Warfare
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_papaplatte-320x180.jpg)](https://twitch.tv/Papaplatte)
-**[⛏️ CRAFTATTACK TAG 3 - Die große Larpung beginnt... ⛏️ ICH HAB SO BOCK ⛏️ GRÖßTES PROJEKT JEMALS ⛏️](https://twitch.tv/Papaplatte)** by **Papaplatte**<br>46,230명 시청  - Minecraft
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kaicenat-320x180.jpg)](https://twitch.tv/KaiCenat)
+**[👻Not Ending Until I Beat OUTLAST 2👻](https://twitch.tv/KaiCenat)** by **KaiCenat**<br>27,171명 시청  - Outlast II
 
 
 ---
-: 마지막 업데이트: 2026-10-12 18:26 UTC
+: 마지막 업데이트: 2026-10-13 01:03 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
