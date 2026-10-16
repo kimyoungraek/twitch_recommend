@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gofns-320x180.jpg)](https://twitch.tv/GOFNS)
-**[EG FNS | 100T vs G2 - VCT Champions Playoffs #VCTWatchparty | !vote !inzone !pickems](https://twitch.tv/GOFNS)** by **GOFNS**<br>36,403명 시청  - VALORANT
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
+**[🔴WORLDS WAITING ROOOOOOM - ELIMINATION DAYYYYYY🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>51,363명 시청  - League of Legends
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ohnepixel-320x180.jpg)](https://twitch.tv/ohnePixel)
-**[🔴G2 vs 100 THIEVES | VALORANT CHAMPIONS SHANGHAI🔴](https://twitch.tv/ohnePixel)** by **ohnePixel**<br>36,244명 시청  - VALORANT
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sondergaardlol-320x180.jpg)](https://twitch.tv/SondergaardLol)
+**[SØNDERTHON 2.0 DAG 6 - !reklame !program !stream +18](https://twitch.tv/SondergaardLol)** by **SondergaardLol**<br>38,852명 시청  - IRL
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sondergaardlol-320x180.jpg)](https://twitch.tv/SondergaardLol)
-**[SØNDERTHON 2.0 DAG 6 - !reklame !program !stream +18](https://twitch.tv/SondergaardLol)** by **SondergaardLol**<br>32,618명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
+**[[648/730] 🔴 PLAYING FORTNITE RANKED UNTIL IM UNREAL 🔴 DAY 2 🔴 DUO W/ VICO @ 6PM EST 🔴](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>28,436명 시청  - Fortnite
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_valorant-320x180.jpg)](https://twitch.tv/VALORANT)
-**[G2 vs. 100T — VALORANT Champions Shanghai — Playoffs Stage — Day 16](https://twitch.tv/VALORANT)** by **VALORANT**<br>29,286명 시청  - VALORANT
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_papaplatte-320x180.jpg)](https://twitch.tv/Papaplatte)
+**[⛏️ CRAFTATTACK TAG 7 - Die große Larpung beginnt... ⛏️ ICH HAB SO BOCK ⛏️ GRÖßTES PROJEKT JEMALS ⛏️](https://twitch.tv/Papaplatte)** by **Papaplatte**<br>24,678명 시청  - Minecraft
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[２１時までプラネットZOO２やって何か単発げーする](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>26,565명 시청  - Planet Zoo 2
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zarbex-320x180.jpg)](https://twitch.tv/zarbex)
+**[💎 MR. GEIL STREAMT 💎 CRAFT ATTACK 14 ZOCK 💎  REICHSTER SPIELER AUF DEM SERVER 💎 DER DIAMANTEN BARON 💎 !socials !merch !esn !pmm](https://twitch.tv/zarbex)** by **zarbex**<br>23,665명 시청  - Minecraft
 
 
 ---
-: 마지막 업데이트: 2026-10-16 12:54 UTC
+: 마지막 업데이트: 2026-10-16 17:07 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
