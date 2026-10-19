@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sodapoppin-320x180.jpg)](https://twitch.tv/sodapoppin)
-**[🔴 100k tournament top 36 here we go | !podcast !merch !gamersupps !starforge !bracket](https://twitch.tv/sodapoppin)** by **sodapoppin**<br>59,805명 시청  - World of Warcraft
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
+**[🟨SPOOKY TIME🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>65,545명 시청  - Minecraft
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
-**[[DROPS ON] UNBANNED WOW FOREVER 100K TOURNAMENT RAID VALOR MORTIS RELEASE BIG DAY HUGE DRAMA NEW GAMES BIG NEWS  REACTS #AD | @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>46,668명 시청  - World of Warcraft
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
+**[🦇LIVE🦇CLICK🦇HERE🦇ALERT🦇LOCK IN🦇BIG DAY🦇GTA V🦇NOPIXEL V🦇MEGA DAY🦇ROAD TO 10M🦇WOAH🦇](https://twitch.tv/xQc)** by **xQc**<br>24,511명 시청  - Grand Theft Auto V
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stableronaldo-320x180.jpg)](https://twitch.tv/stableronaldo)
-**[🎃 STAWEENIE PUMPKIN PATCH 🎃 IRL 🎃 REACTS 🎃 GAMES 🎃 JOIN UP 🎃 LETS GO 🎃 NEW DAY 🎃 [twitter/insta stableronaldo] !po !com !sub](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>36,606명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_supertf-320x180.jpg)](https://twitch.tv/supertf)
+**[WINNING WITH THE MOST DOMINANT POWERHOUSE AND MOST FRIENDLY POSI VIBES SPREADER THERE IS !!! ^_^](https://twitch.tv/supertf)** by **supertf**<br>10,716명 시청  - Deadlock
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xaryu-320x180.jpg)](https://twitch.tv/Xaryu)
-**[$100k Duel Tournament Finals | The Forever Open Day 2 !rules !bracket !merch](https://twitch.tv/Xaryu)** by **Xaryu**<br>34,575명 시청  - World of Warcraft
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sondergaardlol-320x180.jpg)](https://twitch.tv/SondergaardLol)
+**[SØNDERTHON 2.0 DAG 8 - !reklame !gæld !program !stream +18](https://twitch.tv/SondergaardLol)** by **SondergaardLol**<br>10,319명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
-**[🦇LIVE🦇CLICK🦇HERE🦇ALERT🦇LOCK IN🦇BIG DAY🦇GTA V🦇NOPIXEL V🦇MEGA DAY🦇ROAD TO 10M🦇WOAH🦇](https://twitch.tv/xQc)** by **xQc**<br>30,976명 시청  - Grand Theft Auto V
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_emiru-320x180.jpg)](https://twitch.tv/Emiru)
+**[SUB SUNDAY!! 💥 JINX COSPLAY :D 💥 SUB OR GIFT = BADGE 💥 REAL VARIETY GAMING DAY YAY YIPPEE YAHOO 💥 TERRARIA HARDCORE AFTER?? 💥 @EMIRU247](https://twitch.tv/Emiru)** by **Emiru**<br>10,255명 시청  - League of Legends
 
 
 ---
-: 마지막 업데이트: 2026-10-19 00:39 UTC
+: 마지막 업데이트: 2026-10-19 05:33 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
