@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
-**[🚓LIVE🚓CLICK🚓DRAMA🚓GTA V🚓NOPIXEL V🚓MEGA ULTRA SUPER DAY🚓LOCK IT IN🚓TURF DAY🚓CAR DAY🚓END TIMES DAY🚓COOL🚓](https://twitch.tv/xQc)** by **xQc**<br>22,601명 시청  - Grand Theft Auto V
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[お絵描き人狼](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>27,939명 시청  - 
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_lacyoffline_-320x180.jpg)](https://twitch.tv/LacyOffline_)
-**[🔴24/7 @Lacy Content 🔴 Thugs hangout room!](https://twitch.tv/LacyOffline_)** by **LacyOffline_**<br>16,796명 시청  - Always On
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sondergaardlol-320x180.jpg)](https://twitch.tv/SondergaardLol)
+**[SØNDERTHON 2.0 DAG 13 - !reklame !program !stream !auktion !apollo +18](https://twitch.tv/SondergaardLol)** by **SondergaardLol**<br>20,105명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_rayasianboy-320x180.jpg)](https://twitch.tv/rayasianboy)
-**[🗾 REUNITING WITH MASA 🗾 RENTING A GIRLFRIEND ❤️ JAPAN DAY 2 🇯🇵 💴](https://twitch.tv/rayasianboy)** by **rayasianboy**<br>10,496명 시청  - IRL
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
+**[LTK day3](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>17,991명 시청  - League of Legends
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stylishnoob4-320x180.jpg)](https://twitch.tv/stylishnoob4)
-**[朝活である。](https://twitch.tv/stylishnoob4)** by **stylishnoob4**<br>10,000명 시청  - AION 2
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_indegnasen0706-320x180.jpg)](https://twitch.tv/布団ちゃんと申します)
+**[週末が来る...さあ何をやろうか模索するか、放送！](https://twitch.tv/布団ちゃんと申します)** by **布団ちゃんと申します**<br>15,964명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_summit1g-320x180.jpg)](https://twitch.tv/summit1g)
-**[chillin - !starforge @StarforgeSystems](https://twitch.tv/summit1g)** by **summit1g**<br>8,423명 시청  - DayZ
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_afoninje-320x180.jpg)](https://twitch.tv/afoninje)
+**[1w Team [0:1] OG | Bo3 | PARI UNIVERSE by FISSURE: Group Stage | !tg !pari !втб](https://twitch.tv/afoninje)** by **afoninje**<br>14,163명 시청  - Dota 2
 
 
 ---
-: 마지막 업데이트: 2026-10-23 05:37 UTC
+: 마지막 업데이트: 2026-10-23 10:48 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
