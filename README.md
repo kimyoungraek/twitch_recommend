@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
-**[🔴WORLDS 2026 SWISS STAGE GENG VS IG 🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>50,232명 시청  - League of Legends
+**[🔴WORLDS 2026 SWISS STAGE BLG VS KOI🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>277,638명 시청  - League of Legends
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sondergaardlol-320x180.jpg)](https://twitch.tv/SondergaardLol)
-**[SØNDERTHON 2.0 DAG 13 - !reklame !program !stream !auktion !apollo +18](https://twitch.tv/SondergaardLol)** by **SondergaardLol**<br>26,939명 시청  - Just Chatting
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ibai-320x180.jpg)](https://twitch.tv/ibai)
+**[#WORLDS2026 | MKOI vs BLG | LLEGÓ EL DÍA | JUEGAN TODOS | T1, GENG, G2, HLE, TL, LYON... | EMPIEZA LO BUENO | FELICIDAD | HISTORIA](https://twitch.tv/ibai)** by **ibai**<br>94,216명 시청  - League of Legends
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_auronplay-320x180.jpg)](https://twitch.tv/auronplay)
-**[!drop !voces ✨️ ÚLTIMO STREAM 🥀 R.E.P.O. con los compas porque no soy una girl vale?](https://twitch.tv/auronplay)** by **auronplay**<br>23,874명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kamet0-320x180.jpg)](https://twitch.tv/Kamet0)
+**[BILIBILI GAMING vs MOVISTAR KOI | WORLDS 2026 - SWISS STAGE (BO1) #WORLDS2026 🔵 (!match) (!prime)](https://twitch.tv/Kamet0)** by **Kamet0**<br>83,534명 시청  - League of Legends
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[654/730] 🔴 JYNXZI vs PROMISED CONSORT RADAHN 🔴](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>22,464명 시청  - ELDEN RING
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_riotgames-320x180.jpg)](https://twitch.tv/Riot Games)
+**[BLG vs MKOI | WORLDS 2026 | Swiss Stage Day 1](https://twitch.tv/Riot Games)** by **Riot Games**<br>76,090명 시청  - League of Legends
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zarbex-320x180.jpg)](https://twitch.tv/zarbex)
-**[🤏 MR. GEIL STREAMT 🤏 ZARBEX BEI ROSINS RESTAURANTS 🤏 SOULMASK ANZOCKEN 🤏 SPÄTER ENTSPANNT CRAFT ATTACK 🤏  !soulmask !merch !esn !pmm](https://twitch.tv/zarbex)** by **zarbex**<br>21,412명 시청  - Just Chatting
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_otplol_-320x180.jpg)](https://twitch.tv/otplol_)
+**[WORLDS - BLG vs MKOI - SWISS STAGE DAY 1 - BO1](https://twitch.tv/otplol_)** by **otplol_**<br>56,300명 시청  - League of Legends
 
 
 ---
-: 마지막 업데이트: 2026-10-23 15:33 UTC
+: 마지막 업데이트: 2026-10-23 19:40 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
