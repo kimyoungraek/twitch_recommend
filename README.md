@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stableronaldo-320x180.jpg)](https://twitch.tv/stableronaldo)
-**[😎 NMS BOXING 😎 CRAZY IRL JOIN ASAP 😎 WHO WILL WIN 😎 LETS GOO WE HERE 😎  [twitter/insta stableronaldo] !po !com !sub](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>45,968명 시청  - NMS Boxing
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
+**[🟨SPOOKY TIME🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>61,683명 시청  - Minecraft
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jasontheween-320x180.jpg)](https://twitch.tv/jasontheween)
-**[🟡NMS BOXING 5🟡](https://twitch.tv/jasontheween)** by **jasontheween**<br>43,475명 시청  - NMS Boxing
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_yourragegaming-320x180.jpg)](https://twitch.tv/yourragegaming)
+**[NMS BOXING!!! FINISHING SILENT HILL!!!! CHILL STREAM!!!](https://twitch.tv/yourragegaming)** by **yourragegaming**<br>17,602명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tumblurr-320x180.jpg)](https://twitch.tv/Tumblurr)
-**[🥎2V2 SERATA SPORTIVA🥎 REACTIONS❌DRAMA❌HIGHLIGHTS SERIE A⚽ ➡️DOMANI ⚔️STALLIONS - CAESAR⚔️](https://twitch.tv/Tumblurr)** by **Tumblurr**<br>34,166명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_cdawg-320x180.jpg)](https://twitch.tv/CDawg)
+**[HOKKAIDO RV - DAY 1 w/ @Peter @abroadchris @Ludwig I !gamersupps !merch !reviews !submissions](https://twitch.tv/CDawg)** by **CDawg**<br>14,083명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
-**[MN💢SNL SUNDAY💢MIKE ROGERS OWNED💢JESSE VENTURA INTERVIEW💢D+11 MIDTERM MANIA💢](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>27,463명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_summit1g-320x180.jpg)](https://twitch.tv/summit1g)
+**[chillin - !starforge @StarforgeSystems](https://twitch.tv/summit1g)** by **summit1g**<br>12,661명 시청  - DayZ
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel247-320x180.jpg)](https://twitch.tv/Caedrel247)
-**[🔴 [24/7] @Caedrel WORLDS RE-RUN: SWISS STAGE - DAY 3 🔴](https://twitch.tv/Caedrel247)** by **Caedrel247**<br>16,473명 시청  - League of Legends
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_aldo_geo-320x180.jpg)](https://twitch.tv/aldo_geo)
+**[DOMINGO CON D DE DARNOS UN CK EN EL CU ESE EME PE DOS](https://twitch.tv/aldo_geo)** by **aldo_geo**<br>12,013명 시청  - QSMP
 
 
 ---
-: 마지막 업데이트: 2026-10-26 00:58 UTC
+: 마지막 업데이트: 2026-10-26 05:49 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
