@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-320x180.jpg)](https://twitch.tv/StRoGo)
-**[🔴 VITALITY 1:0 FUT | PGL Bucharest 2026 | @m3wsu](https://twitch.tv/StRoGo)** by **StRoGo**<br>39,565명 시청  - Counter-Strike
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
+**[🔴WORLDS 2026 SWISS STAGE TSW VS LOS🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>191,869명 시청  - League of Legends
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_pgl-320x180.jpg)](https://twitch.tv/PGL)
-**[[A] Team Vitality vs. FUT Esports - PGL Masters Bucharest 2026 - Group Stage: Round 3](https://twitch.tv/PGL)** by **PGL**<br>30,397명 시청  - Counter-Strike
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tumblurr-320x180.jpg)](https://twitch.tv/Tumblurr)
+**[🏆⚽KINGS LEAGUE CUP | 🔵 STALLIONS vs CAESAR 🔴 ORE 21🏆⚽ TUTTE LE PARTITE QUI ⬅️👑](https://twitch.tv/Tumblurr)** by **Tumblurr**<br>70,963명 시청  - Kings League
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[雑談をしよう](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>30,227명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kamet0-320x180.jpg)](https://twitch.tv/Kamet0)
+**[SECRET WHALES 0 vs 0 LOS | WORLDS 2026 - SWISS STAGE (0-2) (BO3) #WORLDS2026 🔵 (!match) (!prime)](https://twitch.tv/Kamet0)** by **Kamet0**<br>58,635명 시청  - League of Legends
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gon_vl-320x180.jpg)](https://twitch.tv/gon_vl)
-**[俺が無双するだけ...新エージェント最強決定戦 20:00~](https://twitch.tv/gon_vl)** by **gon_vl**<br>20,119명 시청  - VALORANT
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-320x180.jpg)](https://twitch.tv/StRoGo)
+**[🔴 BB 1:0 NaVi | PGL Bucharest 2026 | !бот](https://twitch.tv/StRoGo)** by **StRoGo**<br>53,906명 시청  - Counter-Strike
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_indegnasen0706-320x180.jpg)](https://twitch.tv/布団ちゃんと申します)
-**[１日４回ぽっきりのpubgポイント賭けの時間です←マックのザクザクをキめがら、コピルアクを飲む](https://twitch.tv/布団ちゃんと申します)** by **布団ちゃんと申します**<br>19,192명 시청  - PUBG: BATTLEGROUNDS
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_riotgames-320x180.jpg)](https://twitch.tv/Riot Games)
+**[LOS vs TSW | WORLDS 2026 | Swiss Stage Day 4](https://twitch.tv/Riot Games)** by **Riot Games**<br>49,218명 시청  - League of Legends
 
 
 ---
-: 마지막 업데이트: 2026-10-26 12:00 UTC
+: 마지막 업데이트: 2026-10-26 18:57 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
