@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
 **1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
-**[🔴WORLDS 2026 SWISS STAGE TSW VS LOS🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>191,869명 시청  - League of Legends
+**[🔴WORLDS 2026 SWISS STAGE TL VS AL🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>242,077명 시청  - League of Legends
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tumblurr-320x180.jpg)](https://twitch.tv/Tumblurr)
-**[🏆⚽KINGS LEAGUE CUP | 🔵 STALLIONS vs CAESAR 🔴 ORE 21🏆⚽ TUTTE LE PARTITE QUI ⬅️👑](https://twitch.tv/Tumblurr)** by **Tumblurr**<br>70,963명 시청  - Kings League
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ibai-320x180.jpg)](https://twitch.tv/ibai)
+**[#WORLDS2026 | HOY CONOCEMOS A NUESTRO RIVAL | JUEGA FAKER | DÍA CLAVE | PRIMEROS ELIMINADOS](https://twitch.tv/ibai)** by **ibai**<br>48,543명 시청  - League of Legends
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kamet0-320x180.jpg)](https://twitch.tv/Kamet0)
-**[SECRET WHALES 0 vs 0 LOS | WORLDS 2026 - SWISS STAGE (0-2) (BO3) #WORLDS2026 🔵 (!match) (!prime)](https://twitch.tv/Kamet0)** by **Kamet0**<br>58,635명 시청  - League of Legends
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_riotgames-320x180.jpg)](https://twitch.tv/Riot Games)
+**[TLAW vs AL | WORLDS 2026 | Swiss Stage Day 4](https://twitch.tv/Riot Games)** by **Riot Games**<br>46,588명 시청  - League of Legends
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-320x180.jpg)](https://twitch.tv/StRoGo)
-**[🔴 BB 1:0 NaVi | PGL Bucharest 2026 | !бот](https://twitch.tv/StRoGo)** by **StRoGo**<br>53,906명 시청  - Counter-Strike
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gotaga-320x180.jpg)](https://twitch.tv/Gotaga)
+**[Soirée Masterkill sur Fortnite ft. Inox, Michou & Doigby !](https://twitch.tv/Gotaga)** by **Gotaga**<br>44,201명 시청  - Fortnite
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_riotgames-320x180.jpg)](https://twitch.tv/Riot Games)
-**[LOS vs TSW | WORLDS 2026 | Swiss Stage Day 4](https://twitch.tv/Riot Games)** by **Riot Games**<br>49,218명 시청  - League of Legends
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kamet0-320x180.jpg)](https://twitch.tv/Kamet0)
+**[TIRAGE POUR SAVOIR QUI NOUS ALLONS AFFRONTER, BRYAN NE NOUS TRAHIS PAS STP... | WORLDS 2026 - SWISS STAGE #WORLDS2026 🔵 (!match) (!prime)](https://twitch.tv/Kamet0)** by **Kamet0**<br>39,227명 시청  - League of Legends
 
 
 ---
-: 마지막 업데이트: 2026-10-26 18:57 UTC
+: 마지막 업데이트: 2026-10-26 23:00 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
