@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[ﾊﾞﾄﾗとツルギとCODをやる。CoD:MW4 #PR](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>18,382명 시청  - Call of Duty: Modern Warfare 4
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-320x180.jpg)](https://twitch.tv/StRoGo)
+**[🔴 Spirit 1:0 MOUZ | PGL Bucharest 2026 | @stanislaw9 @shadowkekw !бот](https://twitch.tv/StRoGo)** by **StRoGo**<br>51,175명 시청  - Counter-Strike
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
-**[🦉LIVE🦉CLICK🦉HERE🦉DRAMA🦉NEWS🦉VIDEOS🦉GTA V🦉NOPIXEL V🦉PROGRESS TODAY🦉MEGA UTRA🦉DAY🦉WOAH🦉](https://twitch.tv/xQc)** by **xQc**<br>17,727명 시청  - Grand Theft Auto V
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_pgl-320x180.jpg)](https://twitch.tv/PGL)
+**[[A] Team Spirit vs. MOUZ - PGL Masters Bucharest 2026 - Group Stage: Round 4](https://twitch.tv/PGL)** by **PGL**<br>35,699명 시청  - Counter-Strike
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_cdawg-320x180.jpg)](https://twitch.tv/CDawg)
-**[HOKKAIDO RV - DAY 2 w/ @Peter @abroadchris @Ludwig I !gamersupps !merch !reviews !submissions](https://twitch.tv/CDawg)** by **CDawg**<br>14,346명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eliasn97-320x180.jpg)](https://twitch.tv/eliasn97)
+**[Reactions & Talks🔥 |  !iconleague !doku !eligella !gaming](https://twitch.tv/eliasn97)** by **eliasn97**<br>24,940명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
-**[LTK da-4](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>12,649명 시청  - League of Legends
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_bysl4m-320x180.jpg)](https://twitch.tv/bySL4M)
+**[[RU] Spirit [1:0] MOUZ | КРИВОЙ ЭФИР | PGL Masters Bucharest 2026 Group Stage | Day 4 | @WorldEdit @bySL4M](https://twitch.tv/bySL4M)** by **bySL4M**<br>21,068명 시청  - Counter-Strike
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_indegnasen0706-320x180.jpg)](https://twitch.tv/布団ちゃんと申します)
-**[モンハンXX 睡眠爆殺 魔聖王 推して参る！←唐突にモンハンダブルクロス睡眠爆殺をしたくなったのでやる](https://twitch.tv/布団ちゃんと申します)** by **布団ちゃんと申します**<br>12,633명 시청  - Monster Hunter Generations Ultimate
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_cohhcarnage-320x180.jpg)](https://twitch.tv/CohhCarnage)
+**[The Enshrouded 1.0 Run! - !Emberville EA Delayed Until January 7th! Sorry guys D:](https://twitch.tv/CohhCarnage)** by **CohhCarnage**<br>17,986명 시청  - Enshrouded
 
 
 ---
-: 마지막 업데이트: 2026-10-27 09:28 UTC
+: 마지막 업데이트: 2026-10-27 15:38 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
