@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
-**[🔴WORLDS 2026 SWISS STAGE TL VS AL🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>242,077명 시청  - League of Legends
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
+**[🟨LOSING MY MIND🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>56,927명 시청  - Just Chatting
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ibai-320x180.jpg)](https://twitch.tv/ibai)
-**[#WORLDS2026 | HOY CONOCEMOS A NUESTRO RIVAL | JUEGA FAKER | DÍA CLAVE | PRIMEROS ELIMINADOS](https://twitch.tv/ibai)** by **ibai**<br>48,543명 시청  - League of Legends
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
+**[PARTY GAMES | CRACK | GIMMICK X HABIBI | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>43,518명 시청  - CRACK
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_riotgames-320x180.jpg)](https://twitch.tv/Riot Games)
-**[TLAW vs AL | WORLDS 2026 | Swiss Stage Day 4](https://twitch.tv/Riot Games)** by **Riot Games**<br>46,588명 시청  - League of Legends
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
+**[🦉LIVE🦉CLICK🦉HERE🦉DRAMA🦉NEWS🦉VIDEOS🦉GTA V🦉NOPIXEL V🦉PROGRESS TODAY🦉MEGA UTRA🦉DAY🦉WOAH🦉](https://twitch.tv/xQc)** by **xQc**<br>24,729명 시청  - Grand Theft Auto V
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_gotaga-320x180.jpg)](https://twitch.tv/Gotaga)
-**[Soirée Masterkill sur Fortnite ft. Inox, Michou & Doigby !](https://twitch.tv/Gotaga)** by **Gotaga**<br>44,201명 시청  - Fortnite
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_cdawg-320x180.jpg)](https://twitch.tv/CDawg)
+**[HOKKAIDO RV - DAY 2 w/ @Peter @abroadchris @Ludwig I !gamersupps !merch !reviews !submissions](https://twitch.tv/CDawg)** by **CDawg**<br>16,180명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kamet0-320x180.jpg)](https://twitch.tv/Kamet0)
-**[TIRAGE POUR SAVOIR QUI NOUS ALLONS AFFRONTER, BRYAN NE NOUS TRAHIS PAS STP... | WORLDS 2026 - SWISS STAGE #WORLDS2026 🔵 (!match) (!prime)](https://twitch.tv/Kamet0)** by **Kamet0**<br>39,227명 시청  - League of Legends
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_plaqueboymax-320x180.jpg)](https://twitch.tv/PlaqueBoyMax)
+**[PLAQUEBOYMAX X SILKY X DESHAE, IN 50 YEARS...](https://twitch.tv/PlaqueBoyMax)** by **PlaqueBoyMax**<br>12,492명 시청  - IRL
 
 
 ---
-: 마지막 업데이트: 2026-10-26 23:00 UTC
+: 마지막 업데이트: 2026-10-27 03:10 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
