@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fumimochi-320x180.jpg)](https://twitch.tv/fumimochi)
-**[стрим правды | ищу парня москва !boosty !tg](https://twitch.tv/fumimochi)** by **fumimochi**<br>51,122명 시청  - Dota 2
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
+**[🔴WORLDS 2026 T1 VS KOI🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>83,198명 시청  - League of Legends
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-320x180.jpg)](https://twitch.tv/StRoGo)
-**[🔴 FURIA 0:0 Liquid | PGL Bucharest 2026 | @stanislaw9 !бот](https://twitch.tv/StRoGo)** by **StRoGo**<br>24,037명 시청  - Counter-Strike
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
+**[[DROPS ON] UNBANNED FOREVER PREP BIG DAY HUGE DRAMA PHANTOM BLADE ZERO 2MORROW NEW GAMES BIG NEWS  REACTS #AD | @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>36,282명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_indegnasen0706-320x180.jpg)](https://twitch.tv/布団ちゃんと申します)
-**[モンハンXX 睡眠爆破師 魔聖王 推して参る！](https://twitch.tv/布団ちゃんと申します)** by **布団ちゃんと申します**<br>20,714명 시청  - Monster Hunter Generations Ultimate
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fissure_dota_ru-320x180.jpg)](https://twitch.tv/fissure_dota_ru)
+**[Team Spirit [1:0] OG | Bo3 | PARI UNIVERSE by FISSURE: Play-off | by @shachlos & @lexggez](https://twitch.tv/fissure_dota_ru)** by **fissure_dota_ru**<br>30,954명 시청  - Dota 2
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_afoninje-320x180.jpg)](https://twitch.tv/afoninje)
-**[Team Yandex [0:0] Astra Invicta | Bo3 | PARI UNIVERSE by FISSURE: Playoffs | /w @ramzes @icebergdoto @vtunedota !tg !pari !втб](https://twitch.tv/afoninje)** by **afoninje**<br>17,074명 시청  - Dota 2
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_trymacs-320x180.jpg)](https://twitch.tv/Trymacs)
+**[Die Titanen Finale! Letzter Tag und einige verlassen das Team... Morgen Nacht 3 Booster für 27.000$ Opening!    | !Nobomi !Prepmymeal !ESN](https://twitch.tv/Trymacs)** by **Trymacs**<br>28,581명 시청  - Minecraft
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_pgl-320x180.jpg)](https://twitch.tv/PGL)
-**[Team Liquid vs. FURIA - PGL Masters Bucharest 2026 - Group Stage: Round 5](https://twitch.tv/PGL)** by **PGL**<br>15,544명 시청  - Counter-Strike
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_domingo-320x180.jpg)](https://twitch.tv/Domingo)
+**[AVEC DENIS BROGNIART - REACT KOH LANTA À 21H](https://twitch.tv/Domingo)** by **Domingo**<br>27,938명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2026-10-28 13:41 UTC
+: 마지막 업데이트: 2026-10-28 19:12 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
