@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
-**[🔴WORLDS 2026 IG VS LYON🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>220,787명 시청  - League of Legends
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
+**[🟨SPOOKY TIME🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>61,051명 시청  - CH13: Rest Stop
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_riotgames-320x180.jpg)](https://twitch.tv/Riot Games)
-**[LYON vs IG | WORLDS 2026 | Swiss Stage Day 5](https://twitch.tv/Riot Games)** by **Riot Games**<br>51,416명 시청  - League of Legends
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
+**[AGE OF EMPIRES 2 | DRAC X KONA X GIMMICK | ALL OUT WARFARE | WACKADOODLE WEDNESDAY | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>40,460명 시청  - Age of Empires II
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
-**[[DROPS ON] UNBANNED FOREVER PREP BIG DAY HUGE DRAMA PHANTOM BLADE ZERO 2MORROW NEW GAMES BIG NEWS  REACTS #AD | @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>39,064명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
+**[☘️LIVE☘️CLICK☘️HERE☘️GTA V☘️NOPIXEL V☘️BIG THINGS☘️HUGE MEGA DAY☘️PALETO SURELY TODAY☘️LOCK IT IN☘️PULL UP☘️ALERT☘️](https://twitch.tv/xQc)** by **xQc**<br>23,114명 시청  - Grand Theft Auto V
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ibai-320x180.jpg)](https://twitch.tv/ibai)
-**[#WORLDS2026 | MKOI vs T1 | EL PARTIDO DE NUESTRA VIDA | EL PARTIDO DE NUESTROS SUEÑOS | QUIEN GANE A CUARTOS DE FINAL | NADA ES IMPOSIBLE](https://twitch.tv/ibai)** by **ibai**<br>34,771명 시청  - League of Legends
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_rdcgaming-320x180.jpg)](https://twitch.tv/RDCgaming)
+**[LATE NIGHT STREAM THIS NOT EVEN THAT SPOOKY](https://twitch.tv/RDCgaming)** by **RDCgaming**<br>15,370명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tumblurr-320x180.jpg)](https://twitch.tv/Tumblurr)
-**[SERATA GIOCHI BRUTTI🤮BACKROOMS⁉️SCOREGGE INSIEME🫪GIOCO MONNEZZA🚮 GRANDI REACTIONS](https://twitch.tv/Tumblurr)** by **Tumblurr**<br>30,511명 시청  - Supraball
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_cdawg-320x180.jpg)](https://twitch.tv/CDawg)
+**[HOKKAIDO RV - DAY 4 w/ @peter @abroadchris @ludwig I !gamersupps !merch !reviews !submissions](https://twitch.tv/CDawg)** by **CDawg**<br>14,310명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2026-10-28 23:45 UTC
+: 마지막 업데이트: 2026-10-29 03:46 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
