@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
-**[🐻LIVE🐻HERE🐻DRAMA🐻NOPIXEL V🐻GTA V🐻IMPORTANT DAY🐻MEGA ULTRA DAY🐻MOST IMPORTANT DAY🐻LOCK IT IN🐻AND TUNE IN🐻BEFORE ITS TOO LATE🐻](https://twitch.tv/xQc)** by **xQc**<br>16,058명 시청  - Grand Theft Auto V
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
+**[🔴WORLDS 2026 TL VS LOS // G2 VS HLE ELIMINATION🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>40,828명 시청  - League of Legends
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_mastu-320x180.jpg)](https://twitch.tv/Mastu)
-**[MARATHON 24/24H - ON MEURT, ON RECOMMENCE AU DÉBUT - MINECRAFT HARDCORE 🚨](https://twitch.tv/Mastu)** by **Mastu**<br>13,920명 시청  - Minecraft
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-320x180.jpg)](https://twitch.tv/StRoGo)
+**[🔴 MOUZ 0:1 FURIA | PGL Bucharest 2026 | @shadowkekw @stanislaw9 !бот](https://twitch.tv/StRoGo)** by **StRoGo**<br>35,866명 시청  - Counter-Strike
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_indegnasen0706-320x180.jpg)](https://twitch.tv/布団ちゃんと申します)
-**[モンハンダブルクロス 睡眠爆殺ブシドー魔聖王 はたしてG級に通用するのか効果検証←ごつ盛りやきそば後 睡眠爆破 片手剣ブシドー エリート](https://twitch.tv/布団ちゃんと申します)** by **布団ちゃんと申します**<br>13,680명 시청  - Monster Hunter Generations Ultimate
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_pgl-320x180.jpg)](https://twitch.tv/PGL)
+**[MOUZ vs. FURIA - PGL Masters Bucharest 2026 - Playoffs: Semi-Final Match](https://twitch.tv/PGL)** by **PGL**<br>34,796명 시청  - Counter-Strike
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_yuyuta0702-320x180.jpg)](https://twitch.tv/ゆゆうた押忍)
-**[ゆゆ散歩スペシャル 琵琶湖一周200キロかます](https://twitch.tv/ゆゆうた押忍)** by **ゆゆうた押忍**<br>12,009명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_mastu-320x180.jpg)](https://twitch.tv/Mastu)
+**[MARATHON 24/24H - ON MEURT, ON RECOMMENCE AU DÉBUT - MINECRAFT HARDCORE 🚨](https://twitch.tv/Mastu)** by **Mastu**<br>28,401명 시청  - Minecraft
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[雑談して１９時からﾅﾙﾄ](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>11,954명 시청  - Just Chatting
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_dangerlyoha-320x180.jpg)](https://twitch.tv/dangerlyoha)
+**[😎🤙🏿 забег день три, какие-то атракциони или шо это @murzofix @morphe_ya @kopsteep](https://twitch.tv/dangerlyoha)** by **dangerlyoha**<br>22,956명 시청  - IRL
 
 
 ---
-: 마지막 업데이트: 2026-10-30 09:21 UTC
+: 마지막 업데이트: 2026-10-30 16:23 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
