@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[SPOOKY STREAM | DEAD BY DAYLIGHT | CLOAKZY X KONA X COCONUT X WINNIE | OOOOooOooOOOooooO | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>43,081명 시청  - Dead by Daylight
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
+**[🎯LIVE🎯HERE🎯DRAMA🎯LOCK IN🎯GTA V🎯NOPIXEL V🎯MEGA ULTRA GIGANTIC DAY🎯HEISTS🎯PALETO MYSTERY SOLVING🎯PULL UP🎯](https://twitch.tv/xQc)** by **xQc**<br>26,814명 시청  - Grand Theft Auto V
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kamet0-320x180.jpg)](https://twitch.tv/Kamet0)
-**[NOUS JOUERONS CONTRE MKOI POUR UNE QUALIFICATIONS EN QUARTS ! | WORLDS 2026 - SWISS STAGE (2-2) (BO3) #WORLDS2026 🔵 (!match) (!prime)](https://twitch.tv/Kamet0)** by **Kamet0**<br>33,478명 시청  - League of Legends
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jasontheween-320x180.jpg)](https://twitch.tv/jasontheween)
+**[🇯🇵HALLOWEEN IN JAPAN🇯🇵HOME🇯🇵LETS GO TO JAPAN AND EAT SUM SUSHI🇯🇵](https://twitch.tv/jasontheween)** by **jasontheween**<br>18,181명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_arrowwoods-320x180.jpg)](https://twitch.tv/Arrowwoods)
-**[Ночью совсем другая атмосфера](https://twitch.tv/Arrowwoods)** by **Arrowwoods**<br>32,854명 시청  - Five Nights at Freddy's
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_indegnasen0706-320x180.jpg)](https://twitch.tv/布団ちゃんと申します)
+**[ごつ盛りやきぞば後、俺は睡眠爆破の研究をしなければならない](https://twitch.tv/布団ちゃんと申します)** by **布団ちゃんと申します**<br>13,956명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
-**[🎯LIVE🎯HERE🎯DRAMA🎯LOCK IN🎯GTA V🎯NOPIXEL V🎯MEGA ULTRA GIGANTIC DAY🎯HEISTS🎯PALETO MYSTERY SOLVING🎯PULL UP🎯](https://twitch.tv/xQc)** by **xQc**<br>31,679명 시청  - Grand Theft Auto V
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_ow_esports_jp-320x180.jpg)](https://twitch.tv/OW_ESPORTS_JP)
+**[【OWCS KOREA Stage 3】SECOND ROUND ROBIN & LCQ Day 2 ライブ｜ASIA](https://twitch.tv/OW_ESPORTS_JP)** by **OW_ESPORTS_JP**<br>13,731명 시청  - Overwatch
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel247-320x180.jpg)](https://twitch.tv/Caedrel247)
-**[🔴 [24/7] @Caedrel WORLDS RE-RUN: SWISS STAGE - DAY 6 🔴](https://twitch.tv/Caedrel247)** by **Caedrel247**<br>30,544명 시청  - League of Legends
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_summit1g-320x180.jpg)](https://twitch.tv/summit1g)
+**[chillin - !starforge @StarforgeSystems](https://twitch.tv/summit1g)** by **summit1g**<br>12,277명 시청  - DayZ
 
 
 ---
-: 마지막 업데이트: 2026-10-31 01:18 UTC
+: 마지막 업데이트: 2026-10-31 07:49 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
