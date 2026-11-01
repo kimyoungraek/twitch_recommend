@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
-**[🔴WORLDS 2026 BLG VS HLE ELIMINATION🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>266,733명 시청  - League of Legends
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
+**[THE PEANUT GAMES | STREAMER MINECRAFT EVENT | KIM JONG POON, SUPREME LEADER OF THAT PUH | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>44,074명 시청  - Minecraft
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_auronplay-320x180.jpg)](https://twitch.tv/auronplay)
-**[CHARLAMOS UN RATITO 🤍](https://twitch.tv/auronplay)** by **auronplay**<br>62,877명 시청  - Just Chatting
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
+**[🐸LIVE🐸CLICK🐸HERE🐸GTA V🐸NOPIXEL V🐸VERY COOL🐸HALLOWEEN SPOOKY DAY🐸VESPOOKY MONKAW🐸ANYWAYS🐸LOCK IN🐸](https://twitch.tv/xQc)** by **xQc**<br>30,340명 시청  - Grand Theft Auto V
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_riotgames-320x180.jpg)](https://twitch.tv/Riot Games)
-**[BLG vs HLE | WORLDS 2026 | Swiss Stage Day 8](https://twitch.tv/Riot Games)** by **Riot Games**<br>59,117명 시청  - League of Legends
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_cellbit-320x180.jpg)](https://twitch.tv/Cellbit)
+**[🕯️ESPECIAL RPG | A VIGÍLIA - EPISÓDIO 1 | ORDEM PARANORMAL🕯️](https://twitch.tv/Cellbit)** by **Cellbit**<br>25,948명 시청  - Tabletop RPGs
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kamet0-320x180.jpg)](https://twitch.tv/Kamet0)
-**[BILIBILI GAMING 0 vs 0 HANWHA LIFE | WORLDS 2026 - SWISS STAGE (2-2) (BO3) #WORLDS2026 🔵 (!match) (!prime)](https://twitch.tv/Kamet0)** by **Kamet0**<br>49,316명 시청  - League of Legends
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_nicewigg-320x180.jpg)](https://twitch.tv/NiceWigg)
+**[(DROPS) ALGS Split 2 Las Vegas | ELIMINATION DAY | Winners FINALS | B Stream from Vegas !youtube !awards](https://twitch.tv/NiceWigg)** by **NiceWigg**<br>17,171명 시청  - Apex Legends
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
-**[[DROPS ON] UNBANNED FOREVER PREP BIG DAY HUGE DRAMA HALLOWEEN STREAM W/KAISE LATER NEW GAMES BIG NEWS  REACTS #AD | @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>41,401명 시청  - Just Chatting
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel247-320x180.jpg)](https://twitch.tv/Caedrel247)
+**[🔴 [24/7] @Caedrel WORLDS RE-RUN: SWISS STAGE 🔴](https://twitch.tv/Caedrel247)** by **Caedrel247**<br>16,748명 시청  - League of Legends
 
 
 ---
-: 마지막 업데이트: 2026-10-31 22:13 UTC
+: 마지막 업데이트: 2026-11-01 01:44 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
