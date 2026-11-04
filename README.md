@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_anarabdullaev-320x180.jpg)](https://twitch.tv/anarabdullaev)
-**[Тюнингуем @misolo3 машину /w @ravshann Огр, Эксити](https://twitch.tv/anarabdullaev)** by **anarabdullaev**<br>35,255명 시청  - IRL
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
+**[🔴WORLDS 2026 LYON VS GENG QUARTERFINAL🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>294,143명 시청  - League of Legends
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
-**[🔴WORLDS 2026 LYON VS GENG QUARTERFINAL WAITING ROOM - GAMES START 23 CET🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>31,397명 시청  - League of Legends
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
+**[[DROPS ON] UNBANNED FOREVER WOW RELEASE BIG DAY HUGE DRAMA PHANDOM BALD ZERO NEW GAMES BIG NEWS  REACTS !restedXP | @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>77,915명 시청  - World of Warcraft
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_landonorris-320x180.jpg)](https://twitch.tv/landonorris)
-**[rippin in brazilll](https://twitch.tv/landonorris)** by **landonorris**<br>28,288명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
+**[🇺🇸BLUENAMI🇺🇸BLUEKAKI!!🇺🇸👺BLUECLEAR APOCALYPSE!👺HOGWATCH 🇺🇸TOTAL CHUD DEATH 🇺🇸 NEW MERCH DROP !merch](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>68,926명 시청  - Just Chatting
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_trymacs-320x180.jpg)](https://twitch.tv/Trymacs)
-**[FitnaCraft Nether ist offen! Den Server in ein Minenfeld verwandeln!  | !Nobomi !Prepmymeal !ESN](https://twitch.tv/Trymacs)** by **Trymacs**<br>21,423명 시청  - Minecraft
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_riotgames-320x180.jpg)](https://twitch.tv/Riot Games)
+**[GEN vs LYON | WORLDS 2026 | Quarters Day 2](https://twitch.tv/Riot Games)** by **Riot Games**<br>51,027명 시청  - League of Legends
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_nooreax-320x180.jpg)](https://twitch.tv/nooreax)
-**[🚨 FITNACRAFT 🚨 NETHER ERÖFFNUNG 🚨 TAG 4 🚨 2 MONATE 24/7 LIVE 🚨 TAG 25 🚨 NOTY GmbH WG mit @DIMEAX & @NORMAN 🚨 !pmm | Werbung](https://twitch.tv/nooreax)** by **nooreax**<br>18,344명 시청  - Minecraft
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kamet0-320x180.jpg)](https://twitch.tv/Kamet0)
+**[GENG 0 vs 0 LYON | WORLDS 2026 - QUART DE FINALE (BO5) #WORLDS2026 🔵 (!match) (!prime)](https://twitch.tv/Kamet0)** by **Kamet0**<br>39,195명 시청  - League of Legends
 
 
 ---
-: 마지막 업데이트: 2026-11-04 16:42 UTC
+: 마지막 업데이트: 2026-11-04 22:17 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
