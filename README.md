@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
-**[🟨SPOOKY TIME🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>55,941명 시청  - Not My Son
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-320x180.jpg)](https://twitch.tv/StRoGo)
+**[🔴 FURIA 0:1 BB | IEM Beijing 2026 | @m3wsu !бот](https://twitch.tv/StRoGo)** by **StRoGo**<br>41,730명 시청  - Counter-Strike
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
-**[[DROPS ON] UNBANNED FOREVER WOW RELEASE BIG DAY HUGE DRAMA PHANDOM BALD ZERO NEW GAMES BIG NEWS  REACTS !restedXP | @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>45,458명 시청  - World of Warcraft
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eslcs-320x180.jpg)](https://twitch.tv/ESLCS)
+**[LIVE: FURIA vs. BB Team - IEM Beijing 2026 - Quarterfinal](https://twitch.tv/ESLCS)** by **ESLCS**<br>32,276명 시청  - Counter-Strike
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[ROB RUN | HABIBI X COCONUT | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>44,998명 시청  - ROB RUN
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[２０時からBLEACH Rebirth of Souls 実況５日目 ※ネタバレあり](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>30,790명 시청  - BLEACH Rebirth of Souls
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stableronaldo-320x180.jpg)](https://twitch.tv/stableronaldo)
-**[☠️ CANT END UNTIL I GET FORTNITE PIRATE TOKEN ☠️ DAY 3 ☠️5000+ CHESTS ☠️ WATCHTIME & SUB BADGE ☠️ [twitter/insta stableronaldo] !po !com](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>35,967명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jokerdtv-320x180.jpg)](https://twitch.tv/JokerdTV)
+**[[DROPS] ♾️ 60 WORLD FIRST ATTEMPTING WF 60 IN FOREVER WOW ♾️ !Guide](https://twitch.tv/JokerdTV)** by **JokerdTV**<br>29,704명 시청  - World of Warcraft
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kaicenat-320x180.jpg)](https://twitch.tv/KaiCenat)
-**[🎮PLAYING EVERY GTA UNTIL I BEAT IT: Grand Theft Auto 3🎮](https://twitch.tv/KaiCenat)** by **KaiCenat**<br>30,118명 시청  - Grand Theft Auto III
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
+**[LTKさいしゅうび](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>18,623명 시청  - League of Legends
 
 
 ---
-: 마지막 업데이트: 2026-11-06 04:32 UTC
+: 마지막 업데이트: 2026-11-06 12:37 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
