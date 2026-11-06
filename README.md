@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-320x180.jpg)](https://twitch.tv/StRoGo)
-**[🔴 FURIA 0:1 BB | IEM Beijing 2026 | @m3wsu !бот](https://twitch.tv/StRoGo)** by **StRoGo**<br>41,730명 시청  - Counter-Strike
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_clemquicourt-320x180.jpg)](https://twitch.tv/ClemQuiCourt)
+**[25h Qui Courent !](https://twitch.tv/ClemQuiCourt)** by **ClemQuiCourt**<br>92,152명 시청  - Special Events
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eslcs-320x180.jpg)](https://twitch.tv/ESLCS)
-**[LIVE: FURIA vs. BB Team - IEM Beijing 2026 - Quarterfinal](https://twitch.tv/ESLCS)** by **ESLCS**<br>32,276명 시청  - Counter-Strike
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_pathofexile-320x180.jpg)](https://twitch.tv/pathofexile)
+**[ExileCon 2026 - Day 1](https://twitch.tv/pathofexile)** by **pathofexile**<br>62,477명 시청  - ExileCon
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[２０時からBLEACH Rebirth of Souls 実況５日目 ※ネタバレあり](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>30,790명 시청  - BLEACH Rebirth of Souls
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
+**[🔴WORLDS 2026 T1 VS KC QUARTERFINALS🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>55,255명 시청  - League of Legends
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jokerdtv-320x180.jpg)](https://twitch.tv/JokerdTV)
-**[[DROPS] ♾️ 60 WORLD FIRST ATTEMPTING WF 60 IN FOREVER WOW ♾️ !Guide](https://twitch.tv/JokerdTV)** by **JokerdTV**<br>29,704명 시청  - World of Warcraft
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
+**[[DROPS ON] UNBANNED EXILECON POE2 NEWS->FOREVER WOW RELEASE BIG DAY HUGE DRAMA  NEW GAMES BIG NEWS  REACTS !restedXP | @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>41,043명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
-**[LTKさいしゅうび](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>18,623명 시청  - League of Legends
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_trymacs-320x180.jpg)](https://twitch.tv/Trymacs)
+**[FitnaCraft Alle gebannt und alles gesprengt. Reset auf vor der Eskalation!    | !Nobomi !Prepmymeal !ESN](https://twitch.tv/Trymacs)** by **Trymacs**<br>36,275명 시청  - Minecraft
 
 
 ---
-: 마지막 업데이트: 2026-11-06 12:37 UTC
+: 마지막 업데이트: 2026-11-06 19:46 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
