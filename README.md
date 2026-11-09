@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kaicenat-320x180.jpg)](https://twitch.tv/KaiCenat)
-**[🎮 PLAYING EVERY GTA UNTIL I BEAT IT: Grand Theft Auto 4🎮](https://twitch.tv/KaiCenat)** by **KaiCenat**<br>44,721명 시청  - Grand Theft Auto IV
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_indegnasen0706-320x180.jpg)](https://twitch.tv/布団ちゃんと申します)
+**[遅くなり申した、放送！](https://twitch.tv/布団ちゃんと申します)** by **布団ちゃんと申します**<br>21,163명 시청  - Just Chatting
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
-**[[DROPS ON] UNBANNED FOREVER WOW RELEASE BIG DAY HUGE DRAMA NEW GAMES BIG NEWS  REACTS !restedXP | @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>35,393명 시청  - World of Warcraft
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sodapoppin-320x180.jpg)](https://twitch.tv/sodapoppin)
+**[Pain train begins today, lvling as feral cause balance feels undercooked | !merch !podcast !gamersupps !starforge !youtube](https://twitch.tv/sodapoppin)** by **sodapoppin**<br>19,534명 시청  - World of Warcraft
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel247-320x180.jpg)](https://twitch.tv/Caedrel247)
-**[🔴 [24/7] @Caedrel WORLDS RE-RUN: PLAYOFFS 🔴](https://twitch.tv/Caedrel247)** by **Caedrel247**<br>30,628명 시청  - League of Legends
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
+**[マスターズ応援太郎](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>17,838명 시청  - League of Legends
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_rainbow6-320x180.jpg)](https://twitch.tv/Rainbow6)
-**[BLAST R6 Osaka Major | G2 ESPORTS vs. DARKZERO | Phase 2 - Day 2 // Stream A](https://twitch.tv/Rainbow6)** by **Rainbow6**<br>21,509명 시청  - Rainbow Six Siege
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_mafanyaking-320x180.jpg)](https://twitch.tv/mafanyaking)
+**[ДУНАТОФОН С ДИОР АРМАНИ 500 руб = 1 мин стрима / !тг !донат !предложка](https://twitch.tv/mafanyaking)** by **mafanyaking**<br>16,633명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_dona-320x180.jpg)](https://twitch.tv/dona)
-**[+18 | 72 HORAS NA CHÁCARA !! 🏠🔥| !GRUPO !CANAL !KICK](https://twitch.tv/dona)** by **dona**<br>21,368명 시청  - Virtual Casino
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kaicenat-320x180.jpg)](https://twitch.tv/KaiCenat)
+**[🎮 PLAYING EVERY GTA UNTIL I BEAT IT: Grand Theft Auto 4🎮](https://twitch.tv/KaiCenat)** by **KaiCenat**<br>15,834명 시청  - Grand Theft Auto IV
 
 
 ---
-: 마지막 업데이트: 2026-11-09 02:15 UTC
+: 마지막 업데이트: 2026-11-09 10:43 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
