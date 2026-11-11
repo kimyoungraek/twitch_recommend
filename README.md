@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
-**[🔴HAHAHAHAHAHAHAHAHAHA HES DOING ITA ND YOURE BMAD🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>25,092명 시청  - League of Legends
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
+**[🎞️📽️LA📽️LEADERSHIP SHAKEUP🚉11 AIPAC DEMS FAIL HEGSETH IMPEACHMENT🇺🇸WH THREATENS CRIMINAL INVESTIGATIONS!!🇺🇸SECRET GUEST?!?!- !merch](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>40,418명 시청  - Just Chatting
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eliasn97-320x180.jpg)](https://twitch.tv/eliasn97)
-**[5k WIN RACE CHALLENGE 🔥 |  !iconleague !doku !eligella !gaming](https://twitch.tv/eliasn97)** by **eliasn97**<br>20,996명 시청  - Special Events
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tumblurr-320x180.jpg)](https://twitch.tv/Tumblurr)
+**[🤪REACTIONS⚽️ZETA MILANO⚖️REBORN👰🏿‍♀️PROGETTO HAPPINESS🦁SAFARI TV📝GIOCO SCUOLA🫪GIOCO HORROR... -7 GTA6](https://twitch.tv/Tumblurr)** by **Tumblurr**<br>37,928명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_indegnasen0706-320x180.jpg)](https://twitch.tv/布団ちゃんと申します)
-**[ポテト プリーズ ← クソ寒いので長風呂をキメてきた後のポカポカな雑談](https://twitch.tv/布団ちゃんと申します)** by **布団ちゃんと申します**<br>19,353명 시청  - Potato Please
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eliasn97-320x180.jpg)](https://twitch.tv/eliasn97)
+**[5k WIN RACE CHALLENGE 🔥 |  !iconleague !doku !eligella !gaming](https://twitch.tv/eliasn97)** by **eliasn97**<br>36,254명 시청  - Special Events
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sasavot-320x180.jpg)](https://twitch.tv/sasavot)
-**[ДВА/ЧАСА](https://twitch.tv/sasavot)** by **sasavot**<br>15,301명 시청  - Games + Demos
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stableronaldo-320x180.jpg)](https://twitch.tv/stableronaldo)
+**[🟥 MY LAST STREAM 🟥 STREAMER AWARDS TOMORROW 🟥 IMPORTANT UPDATES 🟥 NEWS 🟥 DRAMA 🟥 JOIN 🟥  [twitter/insta stableronaldo] !po !com !sub](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>32,270명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-320x180.jpg)](https://twitch.tv/StRoGo)
-**[🔴 ВИДОСЫ + ФЕЙСИТ](https://twitch.tv/StRoGo)** by **StRoGo**<br>15,125명 시청  - Counter-Strike
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_rubius-320x180.jpg)](https://twitch.tv/Rubius)
+**[🌒MINECRAFT MODS🌒FISICAS ULTRA-REALISTAS🌘LIMPIANDO TODA LA LUNA ANTES DEL GTA 6🌒](https://twitch.tv/Rubius)** by **Rubius**<br>31,386명 시청  - Moon Sweepers
 
 
 ---
-: 마지막 업데이트: 2026-11-11 15:44 UTC
+: 마지막 업데이트: 2026-11-11 22:23 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
