@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[ROB RUN | NORTH PEANUTREA | LAMBO TONIGHT | ALL ON BLACK | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>43,290명 시청  - ROB RUN
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg)](https://twitch.tv/Caedrel)
+**[🔴HAHAHAHAHAHAHAHAHAHA HES DOING ITA ND YOURE BMAD🔴](https://twitch.tv/Caedrel)** by **Caedrel**<br>25,092명 시청  - League of Legends
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_shadowkekw-320x180.jpg)](https://twitch.tv/shadowkekw)
-**[[NO DELAY] SPIRIT [0:0] FUT | BLAST Rivals Hong Kong 2026 👉 !тг !betboom !торнадо](https://twitch.tv/shadowkekw)** by **shadowkekw**<br>26,234명 시청  - Counter-Strike
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_eliasn97-320x180.jpg)](https://twitch.tv/eliasn97)
+**[5k WIN RACE CHALLENGE 🔥 |  !iconleague !doku !eligella !gaming](https://twitch.tv/eliasn97)** by **eliasn97**<br>20,996명 시청  - Special Events
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_chopperinho-320x180.jpg)](https://twitch.tv/chopperinho)
-**[Spirit [0:0] FUT | BO3 | BLAST Rivals 2026 S2 | !bb !tg !yt !розыгрыш](https://twitch.tv/chopperinho)** by **chopperinho**<br>22,684명 시청  - Counter-Strike
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_indegnasen0706-320x180.jpg)](https://twitch.tv/布団ちゃんと申します)
+**[ポテト プリーズ ← クソ寒いので長風呂をキメてきた後のポカポカな雑談](https://twitch.tv/布団ちゃんと申します)** by **布団ちゃんと申します**<br>19,353명 시청  - Potato Please
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[17時にﾑﾗｹﾞVALOのメンバー発表して、２０時半からOWnoアジア大会予選を視聴し、終わり次第ブリーチをしようとする男](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>20,565명 시청  - Just Chatting
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_sasavot-320x180.jpg)](https://twitch.tv/sasavot)
+**[ДВА/ЧАСА](https://twitch.tv/sasavot)** by **sasavot**<br>15,301명 시청  - Games + Demos
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_blastpremier-320x180.jpg)](https://twitch.tv/BLASTPremier)
-**[BLAST Rivals Hong Kong 2026 - Day 1 - Spirit vs FUT](https://twitch.tv/BLASTPremier)** by **BLASTPremier**<br>20,528명 시청  - Counter-Strike
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-320x180.jpg)](https://twitch.tv/StRoGo)
+**[🔴 ВИДОСЫ + ФЕЙСИТ](https://twitch.tv/StRoGo)** by **StRoGo**<br>15,125명 시청  - Counter-Strike
 
 
 ---
-: 마지막 업데이트: 2026-11-11 07:24 UTC
+: 마지막 업데이트: 2026-11-11 15:44 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
