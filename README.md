@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_shadowkekw-320x180.jpg)](https://twitch.tv/shadowkekw)
-**[[NO DELAY] SPIRIT [0:1] G2 | BLAST Rivals Hong Kong 2026 👉 !тг !betboom !торнадо !РО](https://twitch.tv/shadowkekw)** by **shadowkekw**<br>33,096명 시청  - Counter-Strike
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stariy_bog-320x180.jpg)](https://twitch.tv/stariy_bog)
+**[1win Essence III | Team Spirit [1] vs [0] 1w Team | Bo3 | delay 300s | Casters: @zxcursed @akumaqqe @Mipooshka](https://twitch.tv/stariy_bog)** by **stariy_bog**<br>84,940명 시청  - Dota 2
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_chopperinho-320x180.jpg)](https://twitch.tv/chopperinho)
-**[Spirit [0:1] G2 | BO3 | BLAST Rivals 2026 S2 | !bb !tg !yt !розыгрыш](https://twitch.tv/chopperinho)** by **chopperinho**<br>28,746명 시청  - Counter-Strike
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stableronaldo-320x180.jpg)](https://twitch.tv/stableronaldo)
+**[🏆 2026 STREAMER AWARDS 🏆 EXCLUSIVE RED CARPET 🏆 REALITY STREAMER 🏆 STREAMER OF YEAR 🏆  [twitter/insta stableronaldo] !po !com !sub](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>58,274명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[BLEACH Rebirth of Souls 実況最終回 ※ネタバレあり](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>28,202명 시청  - BLEACH Rebirth of Souls
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_illojuan-320x180.jpg)](https://twitch.tv/IlloJuan)
+**[6 DÍAS 📅 DÍA 3 EN LOS SANTOS 🎯 FULL HISTORIA 💵 CERO TACÓN ❌ - Grand Theft Auto V #3](https://twitch.tv/IlloJuan)** by **IlloJuan**<br>49,830명 시청  - Grand Theft Auto V
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_blastpremier-320x180.jpg)](https://twitch.tv/BLASTPremier)
-**[BLAST Rivals Hong Kong 2026 - Day 2 - Spirit vs G2](https://twitch.tv/BLASTPremier)** by **BLASTPremier**<br>28,105명 시청  - Counter-Strike
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
+**[[DROPS ON] UNBANNED FOREVER WOW STREAMER AWARDS RELEASE BIG DAY HUGE DRAMA NEW GAMES BIG NEWS  REACTS !restedXP | @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>45,873명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
-**[17時からお片付けゲーする](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>17,054명 시청  - Put Your Toys Away Together!
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_slash_ftv-320x180.jpg)](https://twitch.tv/slash_ftv)
+**[Coupe de France slash x Rocket League - Playoffs](https://twitch.tv/slash_ftv)** by **slash_ftv**<br>45,264명 시청  - Rocket League
 
 
 ---
-: 마지막 업데이트: 2026-11-12 12:01 UTC
+: 마지막 업데이트: 2026-11-12 20:34 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
