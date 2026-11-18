@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stableronaldo-320x180.jpg)](https://twitch.tv/stableronaldo)
-**[🟥GETTING AN OLED MONITOR CUZ CHAT SAID SO🟥UPDATES 🟥 GIVEAWAYS🟥GTA 6 SOON 🟥IRL 🟥JOIN 🟥  [twitter/insta stableronaldo] !po !com !sub](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>47,341명 시청  - Just Chatting
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_montanablack88-320x180.jpg)](https://twitch.tv/MontanaBlack88)
+**[GTA6 AUS NEUSEELAND | GTA6 DROPS AKTIV !drops](https://twitch.tv/MontanaBlack88)** by **MontanaBlack88**<br>30,552명 시청  - Special Events
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tumblurr-320x180.jpg)](https://twitch.tv/Tumblurr)
-**[‼️ANNUNCIO ORE 22🏁⚠️TORNEO GRENBAUDISTICO 3V3🤮---» DOMANI MARATONA GTA 6 DA MEZZOGIORNO🎮🌴](https://twitch.tv/Tumblurr)** by **Tumblurr**<br>38,272명 시청  - REMATCH
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
+**[🌴LIVE🌴GTA 6🌴 AT 6AM EST🌴STUFF BEFORE🌴ALERT🌴NOT A DRILL🌴NZ FLIGHT TAKEN🌴LIVE🌴QUICK🌴DONT MISS IT🌴ONESHOTTING THE GAME?🌴](https://twitch.tv/xQc)** by **xQc**<br>25,543명 시청  - Just Chatting
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
-**[🗽NSA DOWN?!🗽BANKS ARE DOWN🗽FLIGHTS ARE DOWN🎞️CVH vs SCHUMER📽️ISRAEL OPS CLAIMING IRAN DIRTY BOMB📽️GTAVI SOON🚉🗽!](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>36,803명 시청  - Just Chatting
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[ムラゲのシャドバ応援する](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>22,876명 시청  - Shadowverse: Worlds Beyond
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
-**[[DROPS ON] UNBANNED FOREVER WOW GTA 6 TOMORROW EARLY BIG DAY HUGE DRAMA NEW GAMES BIG NEWS  REACTS !restedXP #WWMPartner | @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>34,667명 시청  - World of Warcraft
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_mokrivskyi-320x180.jpg)](https://twitch.tv/mokrivskyi)
+**[КОМНАТА ОЖИДАНИЯ GTA 6 ЗА 100 ТЫСЯЧ ДОЛЛАРОВ w/ @evelone2004 @shadowkekw !tg](https://twitch.tv/mokrivskyi)** by **mokrivskyi**<br>19,246명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jltomy-320x180.jpg)](https://twitch.tv/JLTomy)
-**[[SUBATHON MIAMI] LE DÉBUT DE L'AVENTURE ! 1 SUB  = 1MIN | !subathon !holy !free !submiami](https://twitch.tv/JLTomy)** by **JLTomy**<br>16,730명 시청  - Just Chatting
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-320x180.jpg)](https://twitch.tv/StRoGo)
+**[🔴 ЖДЕМ ВЫХОДА GTA 6](https://twitch.tv/StRoGo)** by **StRoGo**<br>13,851명 시청  - Just Chatting
 
 
 ---
-: 마지막 업데이트: 2026-11-18 01:28 UTC
+: 마지막 업데이트: 2026-11-18 09:33 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
