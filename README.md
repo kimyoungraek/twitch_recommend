@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_illojuan-320x180.jpg)](https://twitch.tv/IlloJuan)
-**[DOMINGOS DOMÍNGUEZ 🔥 DÍA 4/450 DE JUEGO 🚔 RUSHEADÓN 🚨 - Grand Theft Auto VI #4](https://twitch.tv/IlloJuan)** by **IlloJuan**<br>84,183명 시청  - Grand Theft Auto VI
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
+**[🟨LOSING MY MIND🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>60,881명 시청  - Grand Theft Auto VI
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_caseoh_-320x180.jpg)](https://twitch.tv/caseoh_)
-**[🟨LOSING MY MIND🟨](https://twitch.tv/caseoh_)** by **caseoh_**<br>66,844명 시청  - Grand Theft Auto VI
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[ﾊｲｹﾞのパワプロで使う選手を作成する](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>31,855명 시청  - Powerful Pro Yakyuu 2026-2027
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_rubius-320x180.jpg)](https://twitch.tv/Rubius)
-**[🌴CODIGOS CADA 10 MIN🌴60 FPS🌴ROBANDO CARTAS LEGENDARIAS🌴PONIENDO GUAPA A LUCIA🌴MUCHO MUNDO ABIERTO HOY🌴](https://twitch.tv/Rubius)** by **Rubius**<br>44,887명 시청  - Grand Theft Auto VI
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stylishnoob4-320x180.jpg)](https://twitch.tv/stylishnoob4)
+**[今日一旦顔合わせるらしい](https://twitch.tv/stylishnoob4)** by **stylishnoob4**<br>23,681명 시청  - WWE 2K26
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
-**[[DROPS ON] UNBANNED GTA 6 RELEASE STREAM FOREVER WOW STREAM W/KAISE LATER BIG DAY HUGE DRAMA NEW GAMES BIG NEWS !restedXP | @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>43,496명 시청  - Grand Theft Auto VI
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-320x180.jpg)](https://twitch.tv/fps_shaka)
+**[ois](https://twitch.tv/fps_shaka)** by **fps_shaka**<br>19,693명 시청  - Just Chatting
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_tumblurr-320x180.jpg)](https://twitch.tv/Tumblurr)
-**[GTA6 PARTE 4💥🌴⏳ 51% STORIA⏳ DROP CODICI GTA ORE ⏰22/00/1.30⏰](https://twitch.tv/Tumblurr)** by **Tumblurr**<br>36,501명 시청  - Grand Theft Auto VI
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_yaritaiji-320x180.jpg)](https://twitch.tv/たいじ_たいちゃんねる)
+**[まずはみんなでめっちゃカメレオン！](https://twitch.tv/たいじ_たいちゃんねる)** by **たいじ_たいちゃんねる**<br>17,742명 시청  - MECCHA CHAMELEON
 
 
 ---
-: 마지막 업데이트: 2026-11-23 01:17 UTC
+: 마지막 업데이트: 2026-11-23 10:04 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
