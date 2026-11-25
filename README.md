@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[[DROPS] GTA 6 | DAY 6 | GHOSTS & DEMONS & ALIENS | BEST ENDING 100% GARUNTEED | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>52,492명 시청  - Grand Theft Auto VI
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-320x180.jpg)](https://twitch.tv/StRoGo)
+**[🔴 s1mple 1:1 Chinggis Warriors | PGL Major Singapore 2026 Stage 1 | @m3wsu  !бот](https://twitch.tv/StRoGo)** by **StRoGo**<br>71,266명 시청  - Counter-Strike
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stableronaldo-320x180.jpg)](https://twitch.tv/stableronaldo)
-**[💸WE ON GAMES 💸 REACTS 💸 NEWS 💸 DRAMA 💸 ALL SORTS OF STUFF 💸 JOIN ASAP 💸 [twitter/insta stableronaldo] !po !com !sub](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>26,664명 시청  - Just Chatting
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_pgl_cs2-320x180.jpg)](https://twitch.tv/PGL_CS2)
+**[[B] GOSH vs. Chinggis Warriors - PGL Major Singapore 2026 - Stage 1 - Round 3 - Elimination Match](https://twitch.tv/PGL_CS2)** by **PGL_CS2**<br>25,464명 시청  - Counter-Strike
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_xqc-320x180.jpg)](https://twitch.tv/xQc)
-**[🐌LIVE🐌DRAMA🐌NEWS🐌VIDEOS🐌GAMES🐌IMPORTANT🐌BROADCAST🐌THINGS🐌LOCK IN🐌PULL UP🐌QUICK🐌](https://twitch.tv/xQc)** by **xQc**<br>24,927명 시청  - ROB RUN
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_yaritaiji-320x180.jpg)](https://twitch.tv/たいじ_たいちゃんねる)
+**[まずは息抜きスプラ](https://twitch.tv/たいじ_たいちゃんねる)** by **たいじ_たいちゃんねる**<br>24,175명 시청  - Splatoon 3
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_hasanabi-320x180.jpg)](https://twitch.tv/HasanAbi)
-**[🚉TRUMPCARE🚉H3 IS OVER?!🚉 JENSEN HUANG🚉ARMY LEAD BOMB OVER IOWA🗽GTA CH3 CONT🗽 !donate](https://twitch.tv/HasanAbi)** by **HasanAbi**<br>21,539명 시청  - Grand Theft Auto VI
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_montanablack88-320x180.jpg)](https://twitch.tv/MontanaBlack88)
+**[[DROPS] GTA6 NACH 13 JAHREN STORY & EASTER EGGS | GTA6 DROPS AKTIV !drops !abzeichen !flink](https://twitch.tv/MontanaBlack88)** by **MontanaBlack88**<br>23,568명 시청  - Grand Theft Auto VI
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_vanillamace-320x180.jpg)](https://twitch.tv/vanillamace)
-**[HIIIIIII COME HANG MORE GTA 6](https://twitch.tv/vanillamace)** by **vanillamace**<br>17,803명 시청  - Grand Theft Auto VI
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_bysl4m-320x180.jpg)](https://twitch.tv/bySL4M)
+**[GOSH [0:1] Chinggis Warriors | PGL Major Singapore 2026 Stage 1 | КРИВОЙ ЭФИР | Day 2 | @bySL4M @WorldEdit](https://twitch.tv/bySL4M)** by **bySL4M**<br>20,392명 시청  - Counter-Strike
 
 
 ---
-: 마지막 업데이트: 2026-11-25 02:52 UTC
+: 마지막 업데이트: 2026-11-25 11:56 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
