@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
-**[THANKSGIVING SPECIAL | ROBRUN | w/ JOHN | THICC MEN THURSDAY | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>44,600명 시청  - ROB RUN
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_nix-320x180.jpg)](https://twitch.tv/Nix)
+**[GamerLegion vs 1w Team bo3 0:1 BLAST SLAM IX Playoffs w/ Alagon, @gpkdota21, @malr1ne_dota](https://twitch.tv/Nix)** by **Nix**<br>44,087명 시청  - Dota 2
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
-**[ついに明日ﾊｲｹﾞだが意外に普通な男](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>18,764명 시청  - Just Chatting
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_pgl-320x180.jpg)](https://twitch.tv/PGL)
+**[[A] M80 vs. 100 Thieves - PGL Major Singapore 2026 - Stage 1 - Round 5 - Elimination Match](https://twitch.tv/PGL)** by **PGL**<br>32,332명 시청  - Counter-Strike
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_moonmoon-320x180.jpg)](https://twitch.tv/MOONMOON)
-**[HAPPY VARIETYSGIVING (peepin da new update)](https://twitch.tv/MOONMOON)** by **MOONMOON**<br>12,444명 시청  - Half Sword
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_montanablack88-320x180.jpg)](https://twitch.tv/MontanaBlack88)
+**[[DROPS] GTA6 NACH 13 JAHREN STORY & EASTER EGGS | GTA6 DROPS AKTIV !drops !abzeichen !flink](https://twitch.tv/MontanaBlack88)** by **MontanaBlack88**<br>20,985명 시청  - Grand Theft Auto VI
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_pikabooirl-320x180.jpg)](https://twitch.tv/Pikabooirl)
-**[WOW FOREVER HAPPY THANKSGIVING!! MULTISTREAMING! !rxp !vetra !youtube #ad](https://twitch.tv/Pikabooirl)** by **Pikabooirl**<br>12,070명 시청  - World of Warcraft
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-320x180.jpg)](https://twitch.tv/StRoGo)
+**[🔴 M80 1:1 100 Thieves | PGL Major Singapore 2026 Stage 1 | @m3wsu !бот](https://twitch.tv/StRoGo)** by **StRoGo**<br>20,726명 시청  - Counter-Strike
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_cellbit-320x180.jpg)](https://twitch.tv/Cellbit)
-**[GTA 666](https://twitch.tv/Cellbit)** by **Cellbit**<br>11,274명 시청  - Grand Theft Auto VI
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_anarabdullaev-320x180.jpg)](https://twitch.tv/anarabdullaev)
+**[Международный фестиваль фейерверков в Паттайе /w Огр Эксити Жека Лера Вика Бабулики](https://twitch.tv/anarabdullaev)** by **anarabdullaev**<br>17,082명 시청  - IRL
 
 
 ---
-: 마지막 업데이트: 2026-11-27 04:40 UTC
+: 마지막 업데이트: 2026-11-27 14:32 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
