@@ -1,22 +1,22 @@
 # : 실시간 트위치 시청자수 Top 5
 
-**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_zackrawrr-320x180.jpg)](https://twitch.tv/zackrawrr)
-**[[DROPS ON] UNBANNED GTA 6 RELEASE STREAM FOREVER WOW BIG DAY HUGE DRAMA NEW GAMES BIG NEWS !restedXP | @asmongold247](https://twitch.tv/zackrawrr)** by **zackrawrr**<br>39,456명 시청  - Grand Theft Auto VI
+**1.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-320x180.jpg)](https://twitch.tv/加藤純一うん〇ちゃん)
+**[【DAY1】配信者ハイパーゲーム大会FINAL](https://twitch.tv/加藤純一うん〇ちゃん)** by **加藤純一うん〇ちゃん**<br>115,389명 시청  - Special Events
 
-**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_stableronaldo-320x180.jpg)](https://twitch.tv/stableronaldo)
-**[🟩 BLACK FRIDAY SHOPPING 🟩 IRL 🟩 MAYBE GAMES 🟩 MAYBE REACTS 🟩 HELP 🟩 NEED YOUR HELP 🟩 [twitter/insta stableronaldo] !po !com !sub](https://twitch.tv/stableronaldo)** by **stableronaldo**<br>34,208명 시청  - Just Chatting
+**2.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_theburntpeanut-320x180.jpg)](https://twitch.tv/TheBurntPeanut)
+**[THE RISE OF THE BUNGULATOR DYNASTY | THE RACE TO TIER 3 SETTLEMENT | FREAK A FAN FRIDAY | #BUNGULATE](https://twitch.tv/TheBurntPeanut)** by **TheBurntPeanut**<br>43,604명 시청  - ROB RUN
 
-**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_primevideo-320x180.jpg)](https://twitch.tv/PrimeVideo)
-**[Black Friday Football: Denver Broncos vs. Pittsburgh Steelers – November 27th, 2026](https://twitch.tv/PrimeVideo)** by **PrimeVideo**<br>28,726명 시청  - Sports
+**3.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-320x180.jpg)](https://twitch.tv/StRoGo)
+**[🔴 Nemiga vs NIP | PGL Major Singapore 2026 Stage 2 | @m3wsu  !бот](https://twitch.tv/StRoGo)** by **StRoGo**<br>19,759명 시청  - Counter-Strike
 
-**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_alanzoka-320x180.jpg)](https://twitch.tv/alanzoka)
-**[gta 6 vivendo a vida curtindo adoidado é - !progresso](https://twitch.tv/alanzoka)** by **alanzoka**<br>25,997명 시청  - Grand Theft Auto VI
+**4.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_pgl-320x180.jpg)](https://twitch.tv/PGL)
+**[[A] Astralis vs. Imperial Esports - PGL Major Singapore 2026 - Stage 2 - Opening Round](https://twitch.tv/PGL)** by **PGL**<br>16,564명 시청  - Counter-Strike
 
-**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_jynxzi-320x180.jpg)](https://twitch.tv/Jynxzi)
-**[[688/730] 🔴 REACTING TO EAGLES GAME 🔴](https://twitch.tv/Jynxzi)** by **Jynxzi**<br>23,856명 시청  - Just Chatting
+**5.** [![thumb](https://static-cdn.jtvnw.net/previews-ttv/live_user_moonmoon-320x180.jpg)](https://twitch.tv/MOONMOON)
+**[some HIGH QUALITY variety today](https://twitch.tv/MOONMOON)** by **MOONMOON**<br>12,469명 시청  - Half Sword
 
 
 ---
-: 마지막 업데이트: 2026-11-27 23:06 UTC
+: 마지막 업데이트: 2026-11-28 05:45 UTC
 
 Powered by [Twitch API](https://dev.twitch.tv/docs/api/reference) · 자동화 봇
